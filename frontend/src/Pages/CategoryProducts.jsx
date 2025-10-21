@@ -1,15 +1,21 @@
 import React from "react";
-import { useParams, Link } from "react-router-dom";
+import { useParams, useNavigate, Link } from "react-router-dom";
 import products from "../config/Product.json";
 import ProductCard from "../components/ProductCard";
 
 const CategoryProducts = () => {
-  const { category } = useParams(); // get category name from URL
+  const { category } = useParams();
+  const navigate = useNavigate();
 
   // Filter products by category
   const filteredProducts = products.filter(
     (item) => item.category.toLowerCase() === category.toLowerCase()
   );
+
+  // Navigate to product details page
+  const handleProductClick = (id) => {
+    navigate(`/products/${id}`); // ✅ route to product details
+  };
 
   return (
     <section className="py-16 bg-gray-50 min-h-screen">
@@ -28,12 +34,17 @@ const CategoryProducts = () => {
         {filteredProducts.length > 0 ? (
           <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-8">
             {filteredProducts.map((product) => (
-              <ProductCard
+              <div
                 key={product.id}
-                product={product}
-                favorites={new Set()}
-                toggleFavorite={() => {}}
-              />
+                onClick={() => handleProductClick(product.id)}
+                className="cursor-pointer transition-transform hover:scale-105"
+              >
+                <ProductCard
+                  product={product}
+                  favorites={new Set()}
+                  toggleFavorite={() => {}}
+                />
+              </div>
             ))}
           </div>
         ) : (

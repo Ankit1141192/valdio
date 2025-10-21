@@ -3,38 +3,32 @@ import { useNavigate } from "react-router-dom";
 import ProductCard from "../components/ProductCard";
 import products from "../config/Product.json";
 import { Heart, Grid, List } from "lucide-react";
+import useLocalFavorites from "../hooks/useLocalFavorites"; // ✅ import custom hook
 
 const Products = () => {
   const navigate = useNavigate();
+
+  // ✅ Use custom hook for persistent favorites
+  const { favorites, toggleFavorite } = useLocalFavorites("favorites");
+
   const [search, setSearch] = useState("");
   const [debouncedSearch, setDebouncedSearch] = useState("");
   const [sort, setSort] = useState("name");
   const [priceRange, setPriceRange] = useState([0, 100000]);
   const [categoryFilter, setCategoryFilter] = useState("");
-  const [favorites, setFavorites] = useState(new Set());
   const [view, setView] = useState("grid");
   const [showFavoritesOnly, setShowFavoritesOnly] = useState(false);
 
-  // 💡 Debounce search to avoid lag
+  // Debounce search
   useEffect(() => {
     const timeout = setTimeout(() => setDebouncedSearch(search), 400);
     return () => clearTimeout(timeout);
   }, [search]);
 
-  // Toggle favorite product
-  const toggleFavorite = (id) => {
-    setFavorites((prev) => {
-      const next = new Set(prev);
-      if (next.has(id)) next.delete(id);
-      else next.add(id);
-      return next;
-    });
-  };
-
-  // Get all categories
+  // Get unique categories
   const categories = [...new Set(products.map((p) => p.category))];
 
-  // Filter & sort products
+  // Filter + Sort logic
   const filteredProducts = products
     .filter((p) => {
       const inName = p.name.toLowerCase().includes(debouncedSearch.toLowerCase());
@@ -156,9 +150,8 @@ const Products = () => {
           </div>
         </div>
 
-        {/* Products Grid */}
+        {/* Products Section */}
         <div className="w-full lg:w-3/4">
-          {/* Top Controls */}
           <div className="flex justify-between items-center mb-6">
             <p className="text-gray-600 text-sm md:text-base">
               Showing <b>{filteredProducts.length}</b> products
@@ -187,7 +180,7 @@ const Products = () => {
             </div>
           </div>
 
-          {/* Product Items */}
+          {/* Product Grid/List */}
           {filteredProducts.length ? (
             <div
               className={
@@ -212,9 +205,7 @@ const Products = () => {
               ))}
             </div>
           ) : (
-            <p className="text-gray-500 col-span-full text-center mt-10">
-              No products found.
-            </p>
+            <p className="text-gray-500 text-center mt-10">No products found.</p>
           )}
         </div>
       </div>

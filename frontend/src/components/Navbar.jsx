@@ -1,6 +1,17 @@
 import React, { useState, useEffect } from "react";
-import { Link } from "react-router-dom";
+import { Link, useLocation } from "react-router-dom";
 import styled from "styled-components";
+
+/* 🔹 ScrollToTop Component */
+const ScrollToTop = () => {
+  const { pathname } = useLocation();
+
+  useEffect(() => {
+    window.scrollTo({ top: 0, behavior: "smooth" }); // Scroll to top on route change
+  }, [pathname]);
+
+  return null;
+};
 
 const Navbar = () => {
   const [menuOpen, setMenuOpen] = useState(false);
@@ -16,85 +27,84 @@ const Navbar = () => {
   const getLink = (item) => (item === "Home" ? "/" : `/${item.toLowerCase()}`);
 
   return (
-    <Nav className={`${scrolled ? "scrolled" : ""}`}>
-      <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-16 flex justify-between items-center h-20 font-[Poppins]">
-        {/* Logo */}
-        <Link
-          to="/"
-          className={`text-2xl font-extrabold transition bg-clip-text text-transparent bg-gradient-to-r from-green-500 via-blue-500 to-purple-500`}
-        >
-         RJN_SHOPS
-        </Link>
+    <>
+      {/* ScrollToTop makes every new route start at top */}
+      <ScrollToTop />
 
-        {/* Desktop Links */}
-        <div className="hidden md:flex items-center gap-8 font-medium text-lg">
-          {navItems.map((item) => (
-            <Link
-              key={item}
-              to={getLink(item)}
-              className="relative group transition hover:text-gray-700"
-            >
-              {item}
-              <span className="absolute left-0 -bottom-1 w-0 h-0.5 bg-gradient-to-r from-green-500 via-blue-500 to-purple-500 transition-all group-hover:w-full"></span>
-            </Link>
-          ))}
-          {/* <Link
-            to="/contact"
-            className="bg-gradient-to-r from-green-500 to-blue-500 text-white px-6 py-2 rounded-full font-semibold shadow-lg hover:scale-105 transition transform"
-          >
-            Contact Us
-          </Link> */}
-        </div>
-
-        {/* Mobile Hamburger Toggle */}
-        <div className="md:hidden flex items-center">
-          <StyledSwitch>
-            <input
-              type="checkbox"
-              id="checkbox"
-              checked={menuOpen}
-              onChange={() => setMenuOpen(!menuOpen)}
-            />
-            <label className="toggle" htmlFor="checkbox">
-              <div className="bar bar--top"></div>
-              <div className="bar bar--middle"></div>
-              <div className="bar bar--bottom"></div>
-            </label>
-          </StyledSwitch>
-        </div>
-      </div>
-
-      {/* Mobile Menu */}
-      {menuOpen && (
-        <div
-          className={`md:hidden w-full py-4 flex flex-col items-center gap-4 shadow-lg transition backdrop-blur-md bg-white/90`}
-        >
-          {navItems.map((item) => (
-            <Link
-              key={item}
-              to={getLink(item)}
-              onClick={() => setMenuOpen(false)}
-              className="text-lg font-medium text-gray-900 hover:text-gray-700 transition"
-            >
-              {item}
-            </Link>
-          ))}
+      <Nav className={`${scrolled ? "scrolled" : ""}`}>
+        <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-16 flex justify-between items-center h-20 font-[Poppins]">
+          {/* Logo */}
           <Link
-            to="/contact"
+            to="/"
             onClick={() => setMenuOpen(false)}
-            className="bg-gradient-to-r from-green-500 to-blue-500 text-white px-6 py-2 rounded-full font-semibold shadow-lg hover:scale-105 transition transform"
+            className="text-2xl font-extrabold transition bg-clip-text text-transparent bg-gradient-to-r from-green-500 via-blue-500 to-purple-500"
           >
-            Contact Us
+            RJN_SHOPS
           </Link>
+
+          {/* Desktop Links */}
+          <div className="hidden md:flex items-center gap-8 font-medium text-lg">
+            {navItems.map((item) => (
+              <Link
+                key={item}
+                to={getLink(item)}
+                onClick={() => setMenuOpen(false)}
+                className="relative group transition hover:text-gray-700"
+              >
+                {item}
+                <span className="absolute left-0 -bottom-1 w-0 h-0.5 bg-gradient-to-r from-green-500 via-blue-500 to-purple-500 transition-all group-hover:w-full"></span>
+              </Link>
+            ))}
+          </div>
+
+          {/* Mobile Hamburger Toggle */}
+          <div className="md:hidden flex items-center">
+            <StyledSwitch>
+              <input
+                type="checkbox"
+                id="checkbox"
+                checked={menuOpen}
+                onChange={() => setMenuOpen(!menuOpen)}
+              />
+              <label className="toggle" htmlFor="checkbox">
+                <div className="bar bar--top"></div>
+                <div className="bar bar--middle"></div>
+                <div className="bar bar--bottom"></div>
+              </label>
+            </StyledSwitch>
+          </div>
         </div>
-      )}
-    </Nav>
+
+        {/* Mobile Menu */}
+        {menuOpen && (
+          <div className="md:hidden w-full py-4 flex flex-col items-center gap-4 shadow-lg transition backdrop-blur-md bg-white/90">
+            {navItems.map((item) => (
+              <Link
+                key={item}
+                to={getLink(item)}
+                onClick={() => setMenuOpen(false)}
+                className="text-lg font-medium text-gray-900 hover:text-gray-700 transition"
+              >
+                {item}
+              </Link>
+            ))}
+            <Link
+              to="/contact"
+              onClick={() => setMenuOpen(false)}
+              className="bg-gradient-to-r from-green-500 to-blue-500 text-white px-6 py-2 rounded-full font-semibold shadow-lg hover:scale-105 transition transform"
+            >
+              Contact Us
+            </Link>
+          </div>
+        )}
+      </Nav>
+    </>
   );
 };
 
 export default Navbar;
 
-/* Styled Components for Hamburger Toggle */
+/* ✅ Styled Components */
 const StyledSwitch = styled.div`
   #checkbox {
     display: none;

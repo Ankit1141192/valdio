@@ -28,28 +28,20 @@ const ProductDetails = () => {
   }
 
   const discountedPrice = product.discountPrice || product.price;
-
   const similarProducts = products.filter(
     (p) => p.category === product.category && p.id !== product.id
   );
 
-  const handleBuyNow = () => {
-    window.open(product.fullLink, "_blank");
-  };
-
+  const handleBuyNow = () => window.open(product.fullLink, "_blank");
   const toggleFavorite = (e) => {
     e.stopPropagation();
     setFavorited((prev) => !prev);
   };
-
-  // ✅ Back button: if no history, go to /products
-  const handleBack = () => {
-    if (window.history.length > 2) navigate(-1);
-    else navigate("/products");
-  };
+  const handleBack = () =>
+    window.history.length > 2 ? navigate(-1) : navigate("/products");
 
   return (
-    <div className="bg-gradient-to-b from-gray-50 to-white mt-4 min-h-screen">
+    <div className="bg-gradient-to-b from-gray-50 via-white to-gray-100 mt-4 min-h-screen">
       <div className="max-w-6xl mx-auto px-4 sm:px-6 py-12">
         {/* Back Button */}
         <button
@@ -60,29 +52,30 @@ const ProductDetails = () => {
         </button>
 
         {/* Product Section */}
-        <div className="flex flex-col md:flex-row gap-10 bg-white rounded-2xl shadow-xl p-6 md:p-10 transition hover:shadow-2xl duration-300">
-          {/* Left: Image */}
-          <div className="md:w-1/2 relative">
-            <img
-              src={selectedColor?.image || product.image}
-              alt={product.name}
-              className="w-full h-full object-cover rounded-xl shadow-lg hover:scale-[1.02] transition duration-300"
-            />
+        <div className="flex flex-col md:flex-row gap-10 bg-white rounded-2xl shadow-xl p-6 md:p-10 transition-all hover:shadow-2xl duration-300">
+          {/* Left: Product Image */}
+          <div className="md:w-1/2 flex justify-center items-center relative">
+            <div className="w-full h-full flex justify-center items-center overflow-hidden rounded-xl">
+              <img
+                src={selectedColor?.image || product.image}
+                alt={product.name}
+                className="max-h-[500px] w-auto object-contain rounded-xl shadow-lg hover:scale-105 transition-transform duration-300"
+              />
+            </div>
 
             {/* Wishlist Heart */}
             <button
               onClick={toggleFavorite}
-              className={`absolute top-4 right-4 w-10 h-10 flex items-center justify-center rounded-full transition-all duration-300 ${
-                favorited
+              className={`absolute top-4 right-4 w-10 h-10 flex items-center justify-center rounded-full transition-all duration-300 ${favorited
                   ? "text-red-500 animate-pulse"
                   : "text-gray-300 hover:text-red-500"
-              }`}
+                }`}
             >
-              <Heart size={24} />
+              <Heart size={26} />
             </button>
           </div>
 
-          {/* Right: Details */}
+          {/* Right: Product Info */}
           <div className="md:w-1/2 flex flex-col justify-between">
             <div>
               <p className="text-sm text-purple-600 font-semibold uppercase tracking-wide mb-2">
@@ -97,15 +90,14 @@ const ProductDetails = () => {
                 {[...Array(5)].map((_, i) => (
                   <Star
                     key={i}
-                    className={`w-5 h-5 ${
-                      i < Math.floor(product.rating)
+                    className={`w-5 h-5 ${i < Math.floor(product.rating)
                         ? "text-yellow-400"
                         : "text-gray-300"
-                    }`}
+                      }`}
                   />
                 ))}
                 <span className="ml-2 text-gray-600 text-sm">
-                  {product.rating} ({product.reviews.toLocaleString()} reviews)
+                  {product.rating} ★ ({product.reviews.toLocaleString()} reviews)
                 </span>
               </div>
 
@@ -119,6 +111,11 @@ const ProductDetails = () => {
                 <span className="text-3xl font-bold text-gray-900">
                   ₹{product.price.toLocaleString()}
                 </span>
+                {product.discount && (
+                  <span className="text-green-600 font-semibold text-sm">
+                    {product.discount}% OFF
+                  </span>
+                )}
               </div>
 
               {/* Color Selection */}
@@ -130,17 +127,17 @@ const ProductDetails = () => {
                       <button
                         key={color.name}
                         onClick={() => setSelectedColor(color)}
-                        className={`border-2 rounded-full w-10 h-10 transition-transform duration-300 ${
-                          selectedColor?.name === color.name
+                        className={`border-2 rounded-full w-12 h-12 transition-transform duration-300 overflow-hidden ${selectedColor?.name === color.name
                             ? "border-blue-500 scale-110"
-                            : "border-gray-300"
-                        }`}
-                        style={{
-                          backgroundImage: `url(${color.image})`,
-                          backgroundSize: "cover",
-                          backgroundPosition: "center",
-                        }}
-                      />
+                            : "border-gray-300 hover:border-blue-400"
+                          }`}
+                      >
+                        <img
+                          src={color.image}
+                          alt={color.name}
+                          className="w-full h-full object-cover"
+                        />
+                      </button>
                     ))}
                   </div>
                   <p className="mt-2 text-sm text-gray-600">
@@ -162,7 +159,7 @@ const ProductDetails = () => {
             <button
               onClick={handleBuyNow}
               className="relative flex items-center justify-center gap-2 bg-gradient-to-r from-orange-500 via-red-500 to-pink-500 
-             text-white px-7 py-3 rounded-xl font-semibold shadow-lg transition-all duration-300 
+             text-white px-8 py-3 rounded-xl font-semibold shadow-lg transition-all duration-300 
              hover:from-pink-500 hover:to-orange-500 hover:scale-105 hover:shadow-[0_0_25px_rgba(255,107,53,0.5)]
              active:scale-95 overflow-hidden group"
             >
@@ -192,12 +189,20 @@ const ProductDetails = () => {
                   <img
                     src={item.image}
                     alt={item.name}
-                    className="h-56 w-full object-cover group-hover:scale-105 transition duration-300"
+                    className="h-64 w-full object-contain bg-gray-50 group-hover:scale-105 transition duration-300"
                   />
                   <div className="p-5">
-                    <h3 className="text-lg font-semibold text-gray-800 mb-1 group-hover:text-purple-600 transition">
+                    <h3
+                      className="text-lg font-semibold text-gray-800 mb-1 group-hover:text-purple-600 transition line-clamp-2 overflow-hidden text-ellipsis"
+                      style={{
+                        display: "-webkit-box",
+                        WebkitLineClamp: 2,
+                        WebkitBoxOrient: "vertical",
+                      }}
+                    >
                       {item.name}
                     </h3>
+
                     <p className="text-gray-500 text-sm mb-2">
                       ₹{item.price.toLocaleString()}
                     </p>
@@ -205,11 +210,10 @@ const ProductDetails = () => {
                       {[...Array(5)].map((_, i) => (
                         <Star
                           key={i}
-                          className={`w-4 h-4 ${
-                            i < Math.floor(item.rating)
+                          className={`w-4 h-4 ${i < Math.floor(item.rating)
                               ? "text-yellow-400"
                               : "text-gray-300"
-                          }`}
+                            }`}
                         />
                       ))}
                     </div>
