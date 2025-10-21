@@ -38,12 +38,12 @@ const Navbar = () => {
               <span className="absolute left-0 -bottom-1 w-0 h-0.5 bg-gradient-to-r from-green-500 via-blue-500 to-purple-500 transition-all group-hover:w-full"></span>
             </Link>
           ))}
-          <Link
+          {/* <Link
             to="/contact"
             className="bg-gradient-to-r from-green-500 to-blue-500 text-white px-6 py-2 rounded-full font-semibold shadow-lg hover:scale-105 transition transform"
           >
             Contact Us
-          </Link>
+          </Link> */}
         </div>
 
         {/* Mobile Hamburger Toggle */}

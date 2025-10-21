@@ -1,12 +1,13 @@
 import React from "react";
 import { Sparkles } from "lucide-react";
+import IconCard from "./IconCard";
 
 const Footer = () => {
   return (
     <footer className="bg-gray-900 text-gray-300 py-12">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         {/* Top Grid Section */}
-        <div className="grid md:grid-cols-4 gap-8 mb-8">
+        <div className="grid md:grid-cols-5 gap-8 mb-8">
           {/* Brand Section */}
           <div>
             <div className="flex items-center space-x-2 mb-4">
@@ -91,15 +92,27 @@ const Footer = () => {
               </button>
             </div>
           </div>
+
+          {/* Social Icons */}
+          <div className="ml-20">
+            <h5 className="font-semibold text-white mb-4">Join Our Community</h5>
+            {/* <p className="text-sm text-gray-400 mb-4">
+    Connect with us on social platforms and never miss the latest updates!
+  </p> */}
+            <IconCard />
+          </div>
+
+
         </div>
 
         {/* Bottom Section */}
-        <div className="border-t border-gray-800 pt-8 text-center text-sm text-gray-400">
-          <p>
+        <div className="border-t border-gray-800 pt-8 text-center text-sm text-gray-400 flex justify-center">
+          <p className="text-center">
             © 2025 Premium Picks. All rights reserved. <br />
             As an Amazon Associate, I earn from qualifying purchases.
           </p>
         </div>
+
       </div>
     </footer>
   );

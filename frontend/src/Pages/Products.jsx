@@ -1,7 +1,7 @@
 import React, { useState } from "react";
 import { useNavigate } from "react-router-dom";
 import ProductCard from "../components/ProductCard";
-import products from "../config/Product.json"; // Import the products JSON
+import products from "../config/Product.json";
 
 const Products = () => {
   const navigate = useNavigate();
