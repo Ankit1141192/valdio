@@ -2,7 +2,7 @@
   {
     "id": 1,
     "name": "Apple iPhone 15 (128 GB)",
-    "category": "Electronics",
+    "category": "mobiles",
     "discountPrice": 59999.0,
     "price": 52499.0,
     "DiscountRate": 12,
@@ -36,7 +36,7 @@
   {
     "id":2,
     "name":"Samsung Galaxy S23 Ultra 5G AI Smartphone",
-    "category":"Electronics",
+    "category":"mobiles",
     "discountPrice":149999.0,
     "price":79749.0,
     "DiscountRate":47,
@@ -60,5 +60,33 @@
       }
 
     ]
+  },
+  {
+    "id":3,
+    "name":"Orient Electric 1200 mm Zeno BLDC | BLDC energy saving ceiling fan with Remote",
+    "category":"electronics",
+    "discountPrice":4600.0,
+    "price":2699.0,
+    "DiscountRate":41,
+    "rating":4.4,
+    "reviews":7000,
+    "discount":41,
+    "shortLink":"https://amzn.to/3WgRhMt",
+    "image":"https://m.media-amazon.com/images/I/41FuGxFRcXL._SL1500_.jpg",
+    "badge":"Best Seller",
+    "fullLink":"https://www.amazon.in/Orient-Electric-Zeno-BLDC-warranty/dp/B0CHRKX49F?crid=4BG7S2LXAFT2&dib=eyJ2IjoiMSJ9.aI2jByGkV5XYfpFfIpEKHfnkvZSkMazSZd1OX63oqv5roZ8IQTd5XOXEeMgY6WVew9mHEY9fLk7XyhP3oDfMw1HV8-V2aGhhLZ7hJFYxNEiQNO-ilgZQz-oMYvMXHVpR1xIEPC0FfxY3g1pcTEviOGL2y7b4C4IIqPNTcygE1Yd0x-vnDqm3pXqN0ZezW3VOFf_gT0rxueDLdkOof95Xe00I8U8cU6zAS1KRRqEGiEM.wqP05hJwBXeUek0z0axe3cipKLnpac8HUV-tkgnyZjc&dib_tag=se&keywords=fans%2Bceiling%2Bfans%2B5%2Bstar&qid=1761035945&sprefix=Fan%2Caps%2C513&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1&linkCode=ll1&tag=rjnshops-21&linkId=66073756427ab9cd49d6ef2411a5b3f9&language=en_IN&ref_=as_li_ss_tl",
+    "description":"The Orient Electric 1200 mm Zeno BLDC ceiling fan is an energy-efficient fan equipped with a BLDC motor and remote control. It offers superior airflow, quiet operation, and modern design, making it an excellent choice for cooling your living spaces while saving on electricity bills.",
+    "colors":[
+      {
+        "name":"White",
+        "image":"https://m.media-amazon.com/images/I/41FuGxFRcXL._SL1500_.jpg"
+
+      },
+      {
+        "name":"Brown",
+        "image":"https://m.media-amazon.com/images/I/51XBWGMm2XL._SX679_.jpg"
+      }
+    ]
+
   }
 ]
