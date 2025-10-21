@@ -8,86 +8,83 @@ const ProductCard = ({ product, favorites, toggleFavorite }) => {
     : product.price;
 
   return (
-    <div className="group bg-white dark:bg-gray-900 rounded-3xl shadow-lg hover:shadow-2xl transition-transform transform hover:-translate-y-2 cursor-pointer overflow-hidden font-[Poppins]">
-      {/* Image */}
-      <div className="relative overflow-hidden">
+    <div className="group bg-white dark:bg-gray-900 rounded-3xl shadow-md hover:shadow-2xl transition-all transform hover:-translate-y-2 cursor-pointer overflow-hidden font-[Poppins] relative">
+      {/* Product Image */}
+      <div className="relative">
         <img
           src={product.image}
           alt={product.name}
-          className="w-full h-64 object-cover group-hover:scale-110 transition-transform duration-500"
+          className="w-full h-64 object-cover transition-transform duration-500 group-hover:scale-110"
         />
 
-        {/* Badge */}
-        {product.badge && (
-          <span className="absolute top-4 left-4 bg-gradient-to-r from-orange-500 to-red-500 text-white px-4 py-1 rounded-full text-xs font-semibold shadow-lg">
-            {product.badge}
-          </span>
-        )}
+        {/* Overlay gradient on hover */}
+        <div className="absolute inset-0 bg-gradient-to-t from-black/50 to-transparent opacity-0 group-hover:opacity-100 transition-opacity"></div>
 
-        {/* Discount */}
-        {product.discount && (
-          <span className="absolute top-4 right-4 bg-red-500 text-white w-14 h-14 rounded-full flex items-center justify-center font-bold shadow-lg text-sm animate-pulse">
-            -{product.discount}%
-          </span>
-        )}
-
-        {/* Favorite Heart */}
+        {/* Favorite Button */}
         <button
           onClick={(e) => {
             e.stopPropagation();
             toggleFavorite(product.id);
           }}
-          className={`absolute bottom-4 right-4 w-12 h-12 rounded-full flex items-center justify-center shadow-lg transition-transform duration-300 ${
-            isFavorited ? "animate-ping" : ""
-          }`}
+          aria-label="Add to favorites"
+          className="absolute top-4 right-4 bg-white dark:bg-gray-800 p-2 rounded-full shadow-md hover:scale-110 transition-transform"
         >
           <Heart
-            className={`w-6 h-6 transition-transform duration-300 ${
-              isFavorited
-                ? "fill-red-500 text-red-500 scale-125"
-                : "text-gray-400"
+            className={`w-6 h-6 transition-colors duration-300 ${
+              isFavorited ? "fill-red-500 text-red-500" : "text-gray-400"
             }`}
           />
         </button>
+
+        {/* Discount Badge */}
+        {product.discount && (
+          <span className="absolute top-4 left-4 bg-gradient-to-r from-red-500 to-pink-600 text-white px-3 py-1 rounded-full text-xs font-semibold shadow-md">
+            -{product.discount}%
+          </span>
+        )}
       </div>
 
-      {/* Details */}
-      <div className="p-6">
-        <div className="text-sm text-purple-600 font-medium mb-2">{product.category}</div>
-        <h4 className="text-lg font-bold mb-3 line-clamp-2 group-hover:text-purple-600 transition-colors text-gray-900">
+      {/* Product Details */}
+      <div className="p-5">
+        <p className="text-sm text-purple-600 font-medium mb-1">{product.category}</p>
+        <h4 className="text-lg font-semibold text-gray-900 dark:text-gray-100 mb-2 line-clamp-2 group-hover:text-purple-600 transition-colors">
           {product.name}
         </h4>
 
         {/* Rating */}
-        <div className="flex items-center space-x-2 mb-4">
-          <div className="flex">
-            {[...Array(5)].map((_, i) => (
-              <Star
-                key={i}
-                className={`w-4 h-4 ${
-                  i < Math.floor(product.rating)
-                    ? "fill-yellow-400 text-yellow-400"
-                    : "text-gray-300"
-                }`}
-              />
-            ))}
-          </div>
-          <span className="text-sm text-gray-600">{product.rating} ({product.reviews})</span>
+        <div className="flex items-center space-x-1 mb-3">
+          {[...Array(5)].map((_, i) => (
+            <Star
+              key={i}
+              className={`w-4 h-4 ${
+                i < Math.floor(product.rating)
+                  ? "fill-yellow-400 text-yellow-400"
+                  : "text-gray-300"
+              }`}
+            />
+          ))}
+          <span className="text-xs text-gray-500 ml-1">
+            ({product.reviews})
+          </span>
         </div>
 
-        {/* Price & Action */}
-        <div className="flex items-center justify-between mt-2">
-          <div className="flex flex-col">
+        {/* Price + Add to Cart */}
+        <div className="flex items-center justify-between mt-3">
+          <div>
             {product.discount && (
-              <span className="text-gray-400 line-through text-sm">
-                &#8377; {product.price.toFixed(2)}
+              <span className="text-gray-400 line-through text-sm mr-1">
+                ₹{product.price.toFixed(2)}
               </span>
             )}
             <span className="text-2xl font-bold bg-gradient-to-r from-blue-600 to-purple-600 bg-clip-text text-transparent">
-              &#8377; {discountedPrice.toFixed(2)}
+              ₹{discountedPrice.toFixed(2)}
             </span>
           </div>
-          <button className="bg-gradient-to-r from-blue-600 to-purple-600 text-white p-3 rounded-full hover:shadow-xl transition-transform transform hover:scale-110">
+
+          <button
+            onClick={(e) => e.stopPropagation()}
+            className="bg-gradient-to-r from-blue-600 to-purple-600 text-white p-3 rounded-full hover:shadow-lg hover:scale-110 transition-all"
+          >
             <ShoppingCart className="w-5 h-5" />
           </button>
         </div>
