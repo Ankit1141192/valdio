@@ -3,12 +3,10 @@ import { useNavigate } from "react-router-dom";
 import ProductCard from "../components/ProductCard";
 import products from "../config/Product.json";
 import { Heart, Grid, List } from "lucide-react";
-import useLocalFavorites from "../hooks/useLocalFavorites"; // ✅ import custom hook
+import useLocalFavorites from "../hooks/useLocalFavorites";
 
 const Products = () => {
   const navigate = useNavigate();
-
-  // ✅ Use custom hook for persistent favorites
   const { favorites, toggleFavorite } = useLocalFavorites("favorites");
 
   const [search, setSearch] = useState("");
@@ -18,6 +16,11 @@ const Products = () => {
   const [categoryFilter, setCategoryFilter] = useState("");
   const [view, setView] = useState("grid");
   const [showFavoritesOnly, setShowFavoritesOnly] = useState(false);
+
+  // Pagination
+  const [currentPage, setCurrentPage] = useState(1);
+  const itemsPerPage = 6;
+  const maxPageNumbers = 10; // max page numbers to show at once
 
   // Debounce search
   useEffect(() => {
@@ -43,6 +46,22 @@ const Products = () => {
       if (sort === "popularity") return b.reviews - a.reviews;
       return a.name.localeCompare(b.name);
     });
+
+  const totalPages = Math.ceil(filteredProducts.length / itemsPerPage);
+  const paginatedProducts = filteredProducts.slice(
+    (currentPage - 1) * itemsPerPage,
+    currentPage * itemsPerPage
+  );
+
+  // Calculate visible page numbers
+  const startPage = Math.floor((currentPage - 1) / maxPageNumbers) * maxPageNumbers + 1;
+  const endPage = Math.min(startPage + maxPageNumbers - 1, totalPages);
+  const pageNumbers = [];
+  for (let i = startPage; i <= endPage; i++) pageNumbers.push(i);
+
+  const handlePageChange = (page) => setCurrentPage(page);
+  const handlePrev = () => setCurrentPage((prev) => Math.max(prev - 1, 1));
+  const handleNext = () => setCurrentPage((prev) => Math.min(prev + 1, totalPages));
 
   return (
     <div className="max-w-7xl mx-auto px-4 mt-8 sm:px-6 lg:px-8 py-12">
@@ -181,7 +200,7 @@ const Products = () => {
           </div>
 
           {/* Product Grid/List */}
-          {filteredProducts.length ? (
+          {paginatedProducts.length ? (
             <div
               className={
                 view === "grid"
@@ -189,7 +208,7 @@ const Products = () => {
                   : "flex flex-col gap-4"
               }
             >
-              {filteredProducts.map((product) => (
+              {paginatedProducts.map((product) => (
                 <div
                   key={product.id}
                   onClick={() => navigate(`/products/${product.id}`)}
@@ -206,6 +225,41 @@ const Products = () => {
             </div>
           ) : (
             <p className="text-gray-500 text-center mt-10">No products found.</p>
+          )}
+
+          {/* Pagination Buttons */}
+          {totalPages > 1 && (
+            <div className="flex justify-center gap-2 mt-8 flex-wrap items-center">
+              <button
+                onClick={handlePrev}
+                disabled={currentPage === 1}
+                className="px-4 py-2 rounded-md border bg-gray-200 text-gray-700 hover:bg-gray-300 disabled:opacity-50 disabled:cursor-not-allowed"
+              >
+                Prev
+              </button>
+
+              {pageNumbers.map((page) => (
+                <button
+                  key={page}
+                  onClick={() => handlePageChange(page)}
+                  className={`px-4 py-2 rounded-md border ${
+                    currentPage === page
+                      ? "bg-blue-600 text-white border-blue-600"
+                      : "border-gray-300 text-gray-600 hover:bg-gray-100"
+                  }`}
+                >
+                  {page}
+                </button>
+              ))}
+
+              <button
+                onClick={handleNext}
+                disabled={currentPage === totalPages}
+                className="px-4 py-2 rounded-md border bg-gray-200 text-gray-700 hover:bg-gray-300 disabled:opacity-50 disabled:cursor-not-allowed"
+              >
+                Next
+              </button>
+            </div>
           )}
         </div>
       </div>

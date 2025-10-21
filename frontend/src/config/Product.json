@@ -144,5 +144,48 @@
         "image": "https://m.media-amazon.com/images/I/61g1pqSjAhL._SL1500_.jpg"
       }
     ]
-  }
+  },
+  {
+  "id": "dronekit12345",
+  "name": "DIY Quadcopter Drone Kit with Remote Controller, Motors, Flight Controller, Battery and Propellers",
+  "category": "Tech Gadgets",
+
+  "discountPrice": 19999.0,
+  "price": 13499.0,
+  "DiscountRate": 34,
+  "discount": 34,
+  "rating": 4.4,
+  "reviews": 15000,
+  "ratingText": "4.4 out of 5 stars",
+  "reviewText": "Based on 15,000+ customer ratings on Amazon",
+  "shortLink": "https://amzn.to/3L8Kty5",
+  "fullLink": "https://www.amazon.in/Quadcopter-Remote-Controller-Battery-Propellers/dp/B0FP2J5LMN?dib=eyJ2IjoiMSJ9.b6bwMMliUOvJW_YDRnFmmooft8qKikoNCWzPKKls9i0S4z9e5pSPbYR3hO4REdxRVERuD7pFvB7hhy93MjcXpDAweXgms19PYbIED9RRtsjhOhkAvSZaygHMYsHiAb3xzWIAcNpjxmcuK7v_VKGc_PKP3LqRYbbAFrL4uRsc27h_2XbMNQ3-EINaJGpHrV7aB0FN2H4FgzScnTWFDwJPNImAj-KUI9blXxZK35UjFHSKYLL-9pCdjeZUoW7Qx1A13FNNBMaLimJAcTyHBoQhxngWYgNLUwbYfwAhcpQByqE.vzL8CIcjhgrpRnKcMF0l2thf1eYIhqrQle6ClaaaWiw&dib_tag=se&keywords=drone+kit&qid=1761061798&sr=8-6&linkCode=ll1&tag=rjnshops-21&linkId=2de48ffb70750b41f83e709288c285a2&language=en_IN&ref_=as_li_ss_tl",
+  "image": "https://m.media-amazon.com/images/I/512q-n6lQuL.jpg",
+  "description": "Build and fly your own DIY Quadcopter Drone with this complete kit. Includes remote controller, motors, flight controller, battery, and propellers. Ideal for indoor and outdoor use, perfect for hobbyists and drone enthusiasts to learn and enjoy flying."
+  },{
+  "id": "smarttv12345",
+  "name":"Samsung 138 cm (55 inches) Vision AI 4K Ultra HD Smart QLED TV QA55QEF1AULXL",
+  "category":"electronics",
+  "discountPrice": 81900.0,
+  "price": 44490.0,
+  "DiscountRate": 46,
+  "discount": 46,
+  "rating":4.5,
+  "reviews":12000,
+  "ratingText":"4.5 out of 5 stars",
+  "reviewText":"Based on 12,000+ customer ratings on Amazon",
+  "shortLink":"https://amzn.to/4qn6E3L",
+  "fullLink":"https://www.amazon.in/Samsung-inches-Vision-Ultra-QA55QEF1AULXL/dp/B0F43CHDSN?crid=1OYL6MOX72I34&dib=eyJ2IjoiMSJ9.1w4MGD7r7KcVWS73EdXQsBOWRosePxSVIKC1xvwFI8oYaStYpnE4KtgsG0DLsTDvwCoaVW21FRDJ7jv0sn4eb7tgCLq97XxcUdFGHfpCiekOn78cNoKEGRU2ByKAsWHP_j6W6J-i3i2fDZdbB-_745V-vga1QaoHS4s85INTdBM4gLsOIFNBdK23giWYER4ajTjCU9FSy6CiLuLHZjFC0DCsgYgcx1dcW8K2gGMvl74.EAlgcBhpP2V_d240DtekqM5kWmEsExwkofdIWekrcMk&dib_tag=se&keywords=android%2Btv%2B55%2B%2Binch&qid=1761062435&sprefix=Android%2Btv%2Caps%2C2980&sr=8-7&th=1&linkCode=ll1&tag=rjnshops-21&linkId=dae76531605665f8a3dd06f1c2ca011f&language=en_IN&ref_=as_li_ss_tl",
+  "image":"https://m.media-amazon.com/images/I/81HR558JzLL._SL1500_.jpg",
+  "description":"Experience stunning visuals with the Samsung 138 cm (55 inches) Vision AI 4K Ultra HD Smart QLED TV. Featuring Quantum Dot technology for vibrant colors, AI-powered upscaling, and a sleek design, this TV offers an immersive viewing experience. Enjoy smart features, voice control, and access to popular streaming apps for endless entertainment.",
+  "colors": [
+      {
+        "name": "Black",
+        "image": "https://m.media-amazon.com/images/I/81HR558JzLL._SL1500_.jpg"
+      }
+    ]
+  
+  
+}
+
 ]
