@@ -3,13 +3,15 @@
     "id": 1,
     "name": "Apple iPhone 15 (128 GB)",
     "category": "Electronics",
+    "discountPrice": 59999.0,
     "price": 52499.0,
-    "rating": 4.7,
-    "reviews": 1500,
+    "DiscountRate": 12,
+    "rating": 4.5,
+    "reviews": 6966,
     "image": "https://m.media-amazon.com/images/I/71657TiFeHL._SL1500_.jpg",
     "badge": "New Arrival",
     "discount": 8,
-    "description": "iPhone 15 introduces a new era of innovation with its advanced features, powerful performance, and sleek design.",
+    "description": "The Apple iPhone 15 (128 GB) features a sleek design, powerful A17 Bionic chip, advanced camera system, and vibrant display. It delivers smooth performance, excellent photography, and a premium user experience, making it one of the most desirable smartphones of the year.",
     "shortLink": "https://amzn.to/3KYqQZD",
     "fullLink": "https://www.amazon.in/Apple-iPhone-15-128-GB/dp/B0CHX1W1XY",
     "colors": [
@@ -29,6 +31,34 @@
         "name": "Green",
         "image": "https://m.media-amazon.com/images/I/71v2jVh6nIL._SX679_.jpg"
       }
+    ]
+  },
+  {
+    "id":2,
+    "name":"Samsung Galaxy S23 Ultra 5G AI Smartphone",
+    "category":"Electronics",
+    "discountPrice":149999.0,
+    "price":79749.0,
+    "DiscountRate":47,
+    "rating":4.6,
+    "reviews":8567,
+    "discount":10,
+    "shortLink":"https://amzn.to/47vNBwJ",
+    "image":"https://m.media-amazon.com/images/I/71goZuIha-L._SL1500_.jpg",
+    "badge":"Best Seller",
+    "fullLink":"https://www.amazon.in/Samsung-Galaxy-Ultra-Phantom-Storage/dp/B0BT9FDZ8N?crid=3O59EYPLB9AAK&dib=eyJ2IjoiMSJ9.-mbc3nWjGVm8ZopAj2FxgaLJ1Tn7rQozVkEozfpXh-1XLgIwDd9Fd6LIzyUWbjPsq8jzN8VuWk-Cmr-zVuNIz1sXT-lL3sktRvUvrRKAAcEmDzMOu4OPFINHHeIKmdh_FFJx3f-v9Chr-MnmxwEDJBJkSRnY3DUW_2b8NX4rIIhM2Oh71SuUcAe6o0B6VU0pM9ZJYn1PJ5P-VIrcgeFM-nUt2E-4DVrvI4j5G3Wl44ba7O-2ds6qvqFSFbZG4wb4GSN8ru9UBk5DyrSzK68DfWttx_Bz23-kXUXVNfAvV24.gQg20ExaEkwgNVOfuyEb35pnRL62OZ8aF4H9GLz-yKU&dib_tag=se&keywords=Samsung%2BGalaxy%2BS23%2BUltra%2B%28256%2BGB%29&qid=1761033590&s=electronics&sprefix=samsung%2Bgalaxy%2Bs23%2Bultra%2B256%2Bgb%2B%2Celectronics%2C587&sr=1-1&th=1&linkCode=ll1&tag=rjnshops-21&linkId=d2fe856127948b148398fcf789d9ecf0&language=en_IN&ref_=as_li_ss_tl",
+    "description":"The Apple iPhone 15 (128 GB) features a sleek design, powerful A17 Bionic chip, advanced camera system, and vibrant display. It delivers smooth performance, excellent photography, and a premium user experience, making it one of the most desirable smartphones of the year.",
+    "colors":[
+      {
+        "name":"Black",
+        "image":"https://m.media-amazon.com/images/I/71goZuIha-L._SL1500_.jpg"
+
+      },
+      {
+        "name":"Green",
+        "image":"https://m.media-amazon.com/images/I/71lD7eGdW-L._SX679_.jpg"
+      }
+
     ]
   }
 ]

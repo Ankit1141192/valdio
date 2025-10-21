@@ -3,9 +3,9 @@ import { Heart, Star, ShoppingCart } from "lucide-react";
 
 const ProductCard = ({ product, favorites, toggleFavorite }) => {
   const isFavorited = favorites.has(product.id);
-  const discountedPrice = product.discount
-    ? (product.price * (100 - product.discount)) / 100
-    : product.price;
+
+  // Use the discountPrice from product JSON or fallback to product.price
+  const discountedPrice = product.discountPrice || product.price;
 
   return (
     <div className="group bg-white dark:bg-gray-900 rounded-3xl shadow-md hover:shadow-2xl transition-all transform hover:-translate-y-2 cursor-pointer overflow-hidden font-[Poppins] relative">
@@ -73,11 +73,12 @@ const ProductCard = ({ product, favorites, toggleFavorite }) => {
           <div>
             {product.discount && (
               <span className="text-gray-400 line-through text-sm mr-1">
-                ₹{product.price.toFixed(2)}
+                ₹{discountedPrice.toFixed(2)}
               </span>
             )}
             <span className="text-2xl font-bold bg-gradient-to-r from-blue-600 to-purple-600 bg-clip-text text-transparent">
-              ₹{discountedPrice.toFixed(2)}
+               ₹{product.price.toFixed(2)}
+             
             </span>
           </div>
 

@@ -1,4 +1,4 @@
-import React, { useState } from "react";
+import React, { useState, useEffect } from "react";
 import { useParams, useNavigate, Link } from "react-router-dom";
 import products from "../config/Product.json";
 import { ShoppingCart, Heart, Star, ArrowLeft } from "lucide-react";
@@ -6,12 +6,18 @@ import { ShoppingCart, Heart, Star, ArrowLeft } from "lucide-react";
 const ProductDetails = () => {
   const { id } = useParams();
   const navigate = useNavigate();
-  const [favorited, setFavorited] = useState(false);
 
-  const product = products.find((p) => p.id === parseInt(id));
-  const [selectedColor, setSelectedColor] = useState(
-    product?.colors ? product.colors[0] : null
-  );
+  const [product, setProduct] = useState(null);
+  const [favorited, setFavorited] = useState(false);
+  const [selectedColor, setSelectedColor] = useState(null);
+
+  // Load product whenever ID changes
+  useEffect(() => {
+    const foundProduct = products.find((p) => p.id === parseInt(id));
+    setProduct(foundProduct || null);
+    if (foundProduct?.colors) setSelectedColor(foundProduct.colors[0]);
+    window.scrollTo({ top: 0, behavior: "smooth" });
+  }, [id]);
 
   if (!product) {
     return (
@@ -21,9 +27,7 @@ const ProductDetails = () => {
     );
   }
 
-  const discountedPrice = product.discount
-    ? (product.price * (100 - product.discount)) / 100
-    : product.price;
+  const discountedPrice = product.discountPrice || product.price;
 
   const similarProducts = products.filter(
     (p) => p.category === product.category && p.id !== product.id
@@ -38,13 +42,19 @@ const ProductDetails = () => {
     setFavorited((prev) => !prev);
   };
 
+  // ✅ Back button: if no history, go to /products
+  const handleBack = () => {
+    if (window.history.length > 2) navigate(-1);
+    else navigate("/products");
+  };
+
   return (
     <div className="bg-gradient-to-b from-gray-50 to-white mt-4 min-h-screen">
       <div className="max-w-6xl mx-auto px-4 sm:px-6 py-12">
         {/* Back Button */}
         <button
-          onClick={() => navigate(-1)}
-          className="flex items-center gap-2 text-blue-600 hover:underline mb-8"
+          onClick={handleBack}
+          className="flex items-center gap-2 text-blue-600 hover:text-blue-800 font-medium hover:underline mb-8 transition-colors"
         >
           <ArrowLeft className="w-4 h-4" /> Back to Products
         </button>
@@ -56,7 +66,7 @@ const ProductDetails = () => {
             <img
               src={selectedColor?.image || product.image}
               alt={product.name}
-              className="w-full h-[400px] object-cover rounded-xl shadow-lg hover:scale-[1.02] transition duration-300"
+              className="w-full h-full object-cover rounded-xl shadow-lg hover:scale-[1.02] transition duration-300"
             />
 
             {/* Wishlist Heart */}
@@ -64,7 +74,7 @@ const ProductDetails = () => {
               onClick={toggleFavorite}
               className={`absolute top-4 right-4 w-10 h-10 flex items-center justify-center rounded-full transition-all duration-300 ${
                 favorited
-                  ? "text-red-500 animate-pulse-heart"
+                  ? "text-red-500 animate-pulse"
                   : "text-gray-300 hover:text-red-500"
               }`}
             >
@@ -89,7 +99,7 @@ const ProductDetails = () => {
                     key={i}
                     className={`w-5 h-5 ${
                       i < Math.floor(product.rating)
-                        ? "fill-yellow-400 text-yellow-400"
+                        ? "text-yellow-400"
                         : "text-gray-300"
                     }`}
                   />
@@ -103,20 +113,18 @@ const ProductDetails = () => {
               <div className="flex items-end gap-3 mb-6">
                 {product.discount && (
                   <span className="text-gray-400 line-through text-lg">
-                    ₹{product.price.toFixed(2)}
+                    ₹{discountedPrice.toLocaleString()}
                   </span>
                 )}
                 <span className="text-3xl font-bold text-gray-900">
-                  ₹{discountedPrice.toFixed(2)}
+                  ₹{product.price.toLocaleString()}
                 </span>
               </div>
 
               {/* Color Selection */}
               {product.colors && (
                 <div className="mb-6">
-                  <p className="text-gray-700 font-medium mb-2">
-                    Select Color:
-                  </p>
+                  <p className="text-gray-700 font-medium mb-2">Select Color:</p>
                   <div className="flex gap-3">
                     {product.colors.map((color) => (
                       <button
@@ -153,9 +161,16 @@ const ProductDetails = () => {
             {/* Buy Now */}
             <button
               onClick={handleBuyNow}
-              className="flex items-center gap-2 bg-orange-500 hover:bg-orange-600 text-white px-6 py-3 rounded-xl font-semibold hover:shadow-xl transform hover:scale-105 transition"
+              className="relative flex items-center justify-center gap-2 bg-gradient-to-r from-orange-500 via-red-500 to-pink-500 
+             text-white px-7 py-3 rounded-xl font-semibold shadow-lg transition-all duration-300 
+             hover:from-pink-500 hover:to-orange-500 hover:scale-105 hover:shadow-[0_0_25px_rgba(255,107,53,0.5)]
+             active:scale-95 overflow-hidden group"
             >
-              <ShoppingCart className="w-5 h-5" /> Buy Now
+              <span className="absolute inset-0 bg-gradient-to-r from-transparent via-white/20 to-transparent 
+                   translate-x-[-200%] group-hover:translate-x-[200%] transition-transform duration-700 ease-in-out"></span>
+
+              <ShoppingCart className="w-5 h-5 transition-transform duration-300 group-hover:translate-x-1" />
+              <span className="relative z-10 tracking-wide">Buy Now</span>
             </button>
           </div>
         </div>
@@ -184,7 +199,7 @@ const ProductDetails = () => {
                       {item.name}
                     </h3>
                     <p className="text-gray-500 text-sm mb-2">
-                      ₹{item.price.toFixed(2)}
+                      ₹{item.price.toLocaleString()}
                     </p>
                     <div className="flex items-center text-yellow-400">
                       {[...Array(5)].map((_, i) => (
@@ -192,7 +207,7 @@ const ProductDetails = () => {
                           key={i}
                           className={`w-4 h-4 ${
                             i < Math.floor(item.rating)
-                              ? "fill-yellow-400"
+                              ? "text-yellow-400"
                               : "text-gray-300"
                           }`}
                         />
