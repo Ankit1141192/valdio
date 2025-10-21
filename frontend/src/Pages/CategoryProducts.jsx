@@ -3,6 +3,7 @@ import { useParams, useNavigate, Link } from "react-router-dom";
 import products from "../config/Product.json";
 import ProductCard from "../components/ProductCard";
 
+// https://rjnshops-a9bf3-default-rtdb.firebaseio.com/
 const CategoryProducts = () => {
   const { category } = useParams();
   const navigate = useNavigate();
