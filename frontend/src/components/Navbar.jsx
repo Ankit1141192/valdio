@@ -61,12 +61,12 @@ const Navbar = () => {
                     </Link>
 
                     {/* ❤️ Favorites */}
-                    <Link
+                    {/* <Link
                       to="/favorites"
                       className="relative flex items-center justify-center text-gray-700 hover:text-red-500 transition"
                     >
                       <Heart size={24} strokeWidth={2} />
-                    </Link>
+                    </Link> */}
                   </React.Fragment>
                 );
               }
@@ -134,13 +134,13 @@ const Navbar = () => {
             </Link>
 
             {/* ❤️ Favorites */}
-            <Link
+            {/* <Link
               to="/favorites"
               onClick={() => setMenuOpen(false)}
               className="flex items-center gap-2 text-lg font-medium text-gray-900 hover:text-red-500 transition"
             >
               <Heart size={20} strokeWidth={2} /> Favorites
-            </Link>
+            </Link> */}
 
             {/* Stories */}
             <Link
@@ -152,13 +152,13 @@ const Navbar = () => {
             </Link>
 
             {/* Contact Button */}
-            <Link
+            {/* <Link
               to="/contact"
               onClick={() => setMenuOpen(false)}
               className="bg-gradient-to-r from-green-500 to-blue-500 text-white px-6 py-2 rounded-full font-semibold shadow-lg hover:scale-105 transition transform"
             >
               Contact Us
-            </Link>
+            </Link> */}
           </div>
         )}
       </Nav>
