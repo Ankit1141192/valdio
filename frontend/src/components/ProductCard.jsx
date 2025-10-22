@@ -1,14 +1,17 @@
 import React from "react";
 import { Heart, Star, ShoppingCart } from "lucide-react";
 
-const ProductCard = ({ product, favorites, toggleFavorite }) => {
+const ProductCard = ({ product, favorites, toggleFavorite, onClick }) => {
   const isFavorited = favorites.has(product.id);
 
-  // Use the discountPrice from product JSON or fallback to product.price
+  const originalPrice = product.price;
   const discountedPrice = product.discountPrice || product.price;
 
   return (
-    <div className="group bg-white dark:bg-gray-900 rounded-3xl shadow-md hover:shadow-2xl transition-all transform hover:-translate-y-2 cursor-pointer overflow-hidden font-[Poppins] relative">
+    <div
+      onClick={onClick} // navigate to product details
+      className="group bg-white dark:bg-gray-900 rounded-3xl shadow-md hover:shadow-2xl transition-all transform hover:-translate-y-2 cursor-pointer overflow-hidden font-[Poppins] relative"
+    >
       {/* Product Image */}
       <div className="relative">
         <img
@@ -18,12 +21,12 @@ const ProductCard = ({ product, favorites, toggleFavorite }) => {
         />
 
         {/* Overlay gradient on hover */}
-        <div className="absolute inset-0 bg-gradient-to-t from-black/50 to-transparent opacity-0 group-hover:opacity-100 transition-opacity"></div>
+        <div className="absolute inset-0 bg-gradient-to-t from-black/20 to-transparent opacity-0 group-hover:opacity-100 transition-opacity"></div>
 
         {/* Favorite Button */}
         <button
           onClick={(e) => {
-            e.stopPropagation();
+            e.stopPropagation(); // prevent navigation
             toggleFavorite(product.id);
           }}
           aria-label="Add to favorites"
@@ -47,6 +50,8 @@ const ProductCard = ({ product, favorites, toggleFavorite }) => {
       {/* Product Details */}
       <div className="p-5">
         <p className="text-sm text-purple-600 font-medium mb-1">{product.category}</p>
+
+        {/* Title */}
         <h4 className="text-lg font-semibold text-gray-900 dark:text-gray-100 mb-2 line-clamp-2 group-hover:text-purple-600 transition-colors">
           {product.name}
         </h4>
@@ -63,9 +68,7 @@ const ProductCard = ({ product, favorites, toggleFavorite }) => {
               }`}
             />
           ))}
-          <span className="text-xs text-gray-500 ml-1">
-            ({product.reviews})
-          </span>
+          <span className="text-xs text-gray-500 ml-1">({product.reviews})</span>
         </div>
 
         {/* Price + Add to Cart */}
@@ -73,17 +76,17 @@ const ProductCard = ({ product, favorites, toggleFavorite }) => {
           <div>
             {product.discount && (
               <span className="text-gray-400 line-through text-sm mr-1">
-                ₹{discountedPrice.toFixed(2)}
+               ₹{discountedPrice.toLocaleString()}
               </span>
             )}
             <span className="text-2xl font-bold bg-gradient-to-r from-blue-600 to-purple-600 bg-clip-text text-transparent">
-               ₹{product.price.toFixed(2)}
-             
+              
+               ₹{originalPrice.toLocaleString()}
             </span>
           </div>
 
           <button
-            onClick={(e) => e.stopPropagation()}
+            onClick={(e) => e.stopPropagation()} // prevent navigation
             className="bg-gradient-to-r from-blue-600 to-purple-600 text-white p-3 rounded-full hover:shadow-lg hover:scale-110 transition-all"
           >
             <ShoppingCart className="w-5 h-5" />

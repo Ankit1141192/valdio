@@ -1,87 +1,89 @@
 import React from "react";
-import { Sparkles } from "lucide-react";
-import IconCard from "./IconCard";
 import { Link } from "react-router-dom";
+import IconCard from "./IconCard";
 
 const Footer = () => {
   return (
     <footer className="bg-gray-900 text-gray-300 py-12">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-        {/* Top Grid Section */}
+        {/* 🔹 Top Grid Section */}
         <div className="grid md:grid-cols-5 gap-8 mb-8">
-          {/* Brand Section */}
+          {/* 🔸 Brand Section */}
           <div>
             <div className="flex items-center space-x-2 mb-4">
-              <div >
-              
-              </div>
-               <Link
-          to="/"
-          className={`text-2xl font-extrabold transition bg-clip-text text-transparent bg-gradient-to-r from-green-500 via-blue-500 to-purple-500`}
-        >
-         RJN_SHOPS
-        </Link>
+              <Link
+                to="/"
+                className="text-2xl font-extrabold transition bg-clip-text text-transparent bg-gradient-to-r from-green-500 via-blue-500 to-purple-500"
+              >
+                RJN_SHOPS
+              </Link>
             </div>
             <p className="text-sm text-gray-400">
               Curated product recommendations you can trust.
             </p>
           </div>
 
-          {/* Quick Links */}
+          {/* 🔸 Quick Links */}
           <div>
             <h5 className="font-semibold text-white mb-4">Quick Links</h5>
             <ul className="space-y-2 text-sm">
               <li>
-                <a href="#about" className="hover:text-white transition">
-                  About Me
-                </a>
+                <Link to="/" className="hover:text-white transition">
+                  Home
+                </Link>
               </li>
               <li>
-                <a href="#products" className="hover:text-white transition">
+                <Link to="/products" className="hover:text-white transition">
                   All Products
-                </a>
+                </Link>
               </li>
               <li>
-                <a href="#categories" className="hover:text-white transition">
-                  Categories
-                </a>
+                <Link to="/pricing" className="hover:text-white transition">
+                  Pricing
+                </Link>
               </li>
               <li>
-                <a href="#contact" className="hover:text-white transition">
-                  Contact
-                </a>
+                <Link to="/stories" className="hover:text-white transition">
+                  Stories
+                </Link>
               </li>
             </ul>
           </div>
 
-          {/* Support Section */}
+          {/* 🔸 Support Section */}
           <div>
             <h5 className="font-semibold text-white mb-4">Support</h5>
             <ul className="space-y-2 text-sm">
               <li>
-                <a href="#" className="hover:text-white transition">
+                <Link to="/faq" className="hover:text-white transition">
                   FAQ
-                </a>
+                </Link>
               </li>
               <li>
-                <a href="#" className="hover:text-white transition">
+                <Link to="/contact" className="hover:text-white transition">
+                  Contact
+                </Link>
+              </li>
+              <li>
+                <Link to="/privacy-policy" className="hover:text-white transition">
                   Privacy Policy
-                </a>
+                </Link>
               </li>
               <li>
-                <a href="#" className="hover:text-white transition">
+                <Link to="/terms-of-service" className="hover:text-white transition">
                   Terms of Service
-                </a>
+                </Link>
               </li>
               <li>
-                <a href="#" className="hover:text-white transition">
+                <Link to="/disclosure" className="hover:text-white transition">
                   Disclosure
-                </a>
+                </Link>
               </li>
+
             </ul>
           </div>
 
-          {/* Newsletter Section */}
+          {/* 🔸 Newsletter Section */}
           <div>
             <h5 className="font-semibold text-white mb-4">Stay Updated</h5>
             <p className="text-sm text-gray-400 mb-4">
@@ -99,26 +101,20 @@ const Footer = () => {
             </div>
           </div>
 
-          {/* Social Icons */}
+          {/* 🔸 Social Icons */}
           <div className="ml-20">
             <h5 className="font-semibold text-white mb-4">Join Our Community</h5>
-            {/* <p className="text-sm text-gray-400 mb-4">
-    Connect with us on social platforms and never miss the latest updates!
-  </p> */}
             <IconCard />
           </div>
-
-
         </div>
 
-        {/* Bottom Section */}
+        {/* 🔹 Bottom Section */}
         <div className="border-t border-gray-800 pt-8 text-center text-sm text-gray-400 flex justify-center">
           <p className="text-center">
-            © 2025 Premium Picks. All rights reserved. <br />
+            © 2025 RJN_SHOPS. All rights reserved. <br />
             As an Amazon Associate, I earn from qualifying purchases.
           </p>
         </div>
-
       </div>
     </footer>
   );

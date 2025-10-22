@@ -2,18 +2,18 @@ import React, { useState, useEffect } from "react";
 import { useParams, useNavigate, Link } from "react-router-dom";
 import products from "../config/Product.json";
 import { ShoppingCart, Heart, Star, ArrowLeft } from "lucide-react";
+import useLocalFavorites from "../hooks/useLocalFavorites";
 
 const ProductDetails = () => {
   const { id } = useParams();
   const navigate = useNavigate();
+  const { favorites, toggleFavorite } = useLocalFavorites("favorites");
 
   const [product, setProduct] = useState(null);
-  const [favorited, setFavorited] = useState(false);
   const [selectedColor, setSelectedColor] = useState(null);
 
-  // ✅ Load product whenever ID changes
   useEffect(() => {
-    const foundProduct = products.find((p) => p.id === id); // ✅ FIXED: removed parseInt
+    const foundProduct = products.find((p) => p.id === id);
     setProduct(foundProduct || null);
     if (foundProduct?.colors) setSelectedColor(foundProduct.colors[0]);
     window.scrollTo({ top: 0, behavior: "smooth" });
@@ -27,24 +27,24 @@ const ProductDetails = () => {
     );
   }
 
+  const isFavorited = favorites.has(product.id);
   const discountedPrice = product.discountPrice || product.price;
   const similarProducts = products.filter(
     (p) => p.category === product.category && p.id !== product.id
   );
 
   const handleBuyNow = () => window.open(product.fullLink, "_blank");
-  const toggleFavorite = (e) => {
+  const handleToggleFavorite = (e) => {
     e.stopPropagation();
-    setFavorited((prev) => !prev);
+    toggleFavorite(product.id);
   };
-
   const handleBack = () =>
     window.history.length > 2 ? navigate(-1) : navigate("/products");
 
   return (
     <div className="bg-gradient-to-b from-gray-50 via-white to-gray-100 mt-4 min-h-screen">
       <div className="max-w-6xl mx-auto px-4 sm:px-6 py-12">
-        {/* 🔙 Back Button */}
+        {/* Back Button */}
         <button
           onClick={handleBack}
           className="flex items-center gap-2 text-blue-600 hover:text-blue-800 font-medium hover:underline mb-8 transition-colors"
@@ -52,9 +52,8 @@ const ProductDetails = () => {
           <ArrowLeft className="w-4 h-4" /> Back to Products
         </button>
 
-        {/* 🧾 Product Section */}
         <div className="flex flex-col md:flex-row gap-10 bg-white rounded-2xl shadow-xl p-6 md:p-10 transition-all hover:shadow-2xl duration-300">
-          {/* Left: Product Image */}
+          {/* Left: Image */}
           <div className="md:w-1/2 flex justify-center items-center relative">
             <div className="w-full h-full flex justify-center items-center overflow-hidden rounded-xl">
               <img
@@ -64,20 +63,18 @@ const ProductDetails = () => {
               />
             </div>
 
-            {/* ❤️ Wishlist Heart */}
+            {/* Heart */}
             <button
-              onClick={toggleFavorite}
+              onClick={handleToggleFavorite}
               className={`absolute top-4 right-4 w-10 h-10 flex items-center justify-center rounded-full transition-all duration-300 ${
-                favorited
-                  ? "text-red-500 animate-pulse"
-                  : "text-gray-300 hover:text-red-500"
+                isFavorited ? "text-red-500 animate-pulse" : "text-gray-300 hover:text-red-500"
               }`}
             >
               <Heart size={26} />
             </button>
           </div>
 
-          {/* Right: Product Info */}
+          {/* Right: Info */}
           <div className="md:w-1/2 flex flex-col justify-between">
             <div>
               <p className="text-sm text-purple-600 font-semibold uppercase tracking-wide mb-2">
@@ -87,15 +84,13 @@ const ProductDetails = () => {
                 {product.name}
               </h1>
 
-              {/* ⭐ Rating */}
+              {/* Rating */}
               <div className="flex items-center mb-5">
                 {[...Array(5)].map((_, i) => (
                   <Star
                     key={i}
                     className={`w-5 h-5 ${
-                      i < Math.floor(product.rating)
-                        ? "text-yellow-400"
-                        : "text-gray-300"
+                      i < Math.floor(product.rating) ? "text-yellow-400" : "text-gray-300"
                     }`}
                   />
                 ))}
@@ -104,7 +99,7 @@ const ProductDetails = () => {
                 </span>
               </div>
 
-              {/* 💰 Price */}
+              {/* Price */}
               <div className="flex items-end gap-3 mb-6">
                 {product.discount && (
                   <span className="text-gray-400 line-through text-lg">
@@ -121,12 +116,10 @@ const ProductDetails = () => {
                 )}
               </div>
 
-              {/* 🎨 Color Selection */}
+              {/* Colors */}
               {product.colors && (
                 <div className="mb-6">
-                  <p className="text-gray-700 font-medium mb-2">
-                    Select Color:
-                  </p>
+                  <p className="text-gray-700 font-medium mb-2">Select Color:</p>
                   <div className="flex gap-3">
                     {product.colors.map((color) => (
                       <button
@@ -147,21 +140,15 @@ const ProductDetails = () => {
                     ))}
                   </div>
                   <p className="mt-2 text-sm text-gray-600">
-                    Selected:{" "}
-                    <span className="font-medium text-gray-900">
-                      {selectedColor?.name}
-                    </span>
+                    Selected: <span className="font-medium text-gray-900">{selectedColor?.name}</span>
                   </p>
                 </div>
               )}
 
-              {/* 📄 Description */}
-              <p className="text-gray-700 text-base leading-relaxed mb-8">
-                {product.description}
-              </p>
+              <p className="text-gray-700 text-base leading-relaxed mb-8">{product.description}</p>
             </div>
 
-            {/* 🛒 Buy Now */}
+            {/* Buy Now */}
             <button
               onClick={handleBuyNow}
               className="relative flex items-center justify-center gap-2 bg-gradient-to-r from-orange-500 via-red-500 to-pink-500 
@@ -171,19 +158,17 @@ const ProductDetails = () => {
             >
               <span className="absolute inset-0 bg-gradient-to-r from-transparent via-white/20 to-transparent 
                    translate-x-[-200%] group-hover:translate-x-[200%] transition-transform duration-700 ease-in-out"></span>
-
               <ShoppingCart className="w-5 h-5 transition-transform duration-300 group-hover:translate-x-1" />
               <span className="relative z-10 tracking-wide">Buy Now</span>
             </button>
           </div>
         </div>
 
-        {/* 🧩 Similar Products */}
+        {/* Similar Products */}
         {similarProducts.length > 0 && (
           <div className="mt-16">
             <h2 className="text-2xl font-bold mb-6 text-gray-900">
-              Similar Products in{" "}
-              <span className="text-purple-600">{product.category}</span>
+              Similar Products in <span className="text-purple-600">{product.category}</span>
             </h2>
 
             <div className="grid sm:grid-cols-2 lg:grid-cols-3 gap-8">
@@ -203,24 +188,19 @@ const ProductDetails = () => {
                       className="text-lg font-semibold text-gray-800 mb-1 group-hover:text-purple-600 transition overflow-hidden text-ellipsis"
                       style={{
                         display: "-webkit-box",
-                        WebkitLineClamp: 2, // ✅ only 2 lines
+                        WebkitLineClamp: 2,
                         WebkitBoxOrient: "vertical",
                       }}
                     >
                       {item.name}
                     </h3>
-
-                    <p className="text-gray-500 text-sm mb-2">
-                      ₹{item.price.toLocaleString()}
-                    </p>
+                    <p className="text-gray-500 text-sm mb-2">₹{item.price.toLocaleString()}</p>
                     <div className="flex items-center text-yellow-400">
                       {[...Array(5)].map((_, i) => (
                         <Star
                           key={i}
                           className={`w-4 h-4 ${
-                            i < Math.floor(item.rating)
-                              ? "text-yellow-400"
-                              : "text-gray-300"
+                            i < Math.floor(item.rating) ? "text-yellow-400" : "text-gray-300"
                           }`}
                         />
                       ))}

@@ -1,6 +1,7 @@
 import React, { useState, useEffect } from "react";
 import { Link, useLocation } from "react-router-dom";
 import styled from "styled-components";
+import { Heart } from "lucide-react";
 
 /* 🔹 ScrollToTop Component */
 const ScrollToTop = () => {
@@ -23,12 +24,13 @@ const Navbar = () => {
     return () => window.removeEventListener("scroll", handleScroll);
   }, []);
 
-  const navItems = ["Home", "Products", "Stories", "Pricing"];
-  const getLink = (item) => (item === "Home" ? "/" : `/${item.toLowerCase()}`);
+  // ✅ Correct Order: Home → Products → Pricing → Favorites → Stories
+  const navItems = ["Home", "Products", "Pricing", "Stories"];
+  const getLink = (item) =>
+    item === "Home" ? "/" : `/${item.toLowerCase()}`;
 
   return (
     <>
-      {/* ScrollToTop makes every new route start at top */}
       <ScrollToTop />
 
       <Nav className={`${scrolled ? "scrolled" : ""}`}>
@@ -44,17 +46,43 @@ const Navbar = () => {
 
           {/* Desktop Links */}
           <div className="hidden md:flex items-center gap-8 font-medium text-lg">
-            {navItems.map((item) => (
-              <Link
-                key={item}
-                to={getLink(item)}
-                onClick={() => setMenuOpen(false)}
-                className="relative group transition hover:text-gray-700"
-              >
-                {item}
-                <span className="absolute left-0 -bottom-1 w-0 h-0.5 bg-gradient-to-r from-green-500 via-blue-500 to-purple-500 transition-all group-hover:w-full"></span>
-              </Link>
-            ))}
+            {navItems.map((item) => {
+              if (item === "Pricing") {
+                // ✅ After Pricing, insert Heart Icon
+                return (
+                  <React.Fragment key={item}>
+                    <Link
+                      to={getLink(item)}
+                      onClick={() => setMenuOpen(false)}
+                      className="relative group transition hover:text-gray-700"
+                    >
+                      {item}
+                      <span className="absolute left-0 -bottom-1 w-0 h-0.5 bg-gradient-to-r from-green-500 via-blue-500 to-purple-500 transition-all group-hover:w-full"></span>
+                    </Link>
+
+                    {/* ❤️ Favorites */}
+                    <Link
+                      to="/favorites"
+                      className="relative flex items-center justify-center text-gray-700 hover:text-red-500 transition"
+                    >
+                      <Heart size={24} strokeWidth={2} />
+                    </Link>
+                  </React.Fragment>
+                );
+              }
+
+              return (
+                <Link
+                  key={item}
+                  to={getLink(item)}
+                  onClick={() => setMenuOpen(false)}
+                  className="relative group transition hover:text-gray-700"
+                >
+                  {item}
+                  <span className="absolute left-0 -bottom-1 w-0 h-0.5 bg-gradient-to-r from-green-500 via-blue-500 to-purple-500 transition-all group-hover:w-full"></span>
+                </Link>
+              );
+            })}
           </div>
 
           {/* Mobile Hamburger Toggle */}
@@ -78,16 +106,52 @@ const Navbar = () => {
         {/* Mobile Menu */}
         {menuOpen && (
           <div className="md:hidden w-full py-4 flex flex-col items-center gap-4 shadow-lg transition backdrop-blur-md bg-white/90">
-            {navItems.map((item) => (
-              <Link
-                key={item}
-                to={getLink(item)}
-                onClick={() => setMenuOpen(false)}
-                className="text-lg font-medium text-gray-900 hover:text-gray-700 transition"
-              >
-                {item}
-              </Link>
-            ))}
+            {/* Home */}
+            <Link
+              to="/"
+              onClick={() => setMenuOpen(false)}
+              className="text-lg font-medium text-gray-900 hover:text-gray-700 transition"
+            >
+              Home
+            </Link>
+
+            {/* Products */}
+            <Link
+              to="/products"
+              onClick={() => setMenuOpen(false)}
+              className="text-lg font-medium text-gray-900 hover:text-gray-700 transition"
+            >
+              Products
+            </Link>
+
+            {/* Pricing */}
+            <Link
+              to="/pricing"
+              onClick={() => setMenuOpen(false)}
+              className="text-lg font-medium text-gray-900 hover:text-gray-700 transition"
+            >
+              Pricing
+            </Link>
+
+            {/* ❤️ Favorites */}
+            <Link
+              to="/favorites"
+              onClick={() => setMenuOpen(false)}
+              className="flex items-center gap-2 text-lg font-medium text-gray-900 hover:text-red-500 transition"
+            >
+              <Heart size={20} strokeWidth={2} /> Favorites
+            </Link>
+
+            {/* Stories */}
+            <Link
+              to="/stories"
+              onClick={() => setMenuOpen(false)}
+              className="text-lg font-medium text-gray-900 hover:text-gray-700 transition"
+            >
+              Stories
+            </Link>
+
+            {/* Contact Button */}
             <Link
               to="/contact"
               onClick={() => setMenuOpen(false)}
@@ -169,3 +233,4 @@ const Nav = styled.nav`
     box-shadow: 0 2px 12px rgba(0, 0, 0, 0.1);
   }
 `;
+

@@ -2,7 +2,7 @@ import React, { useState, useEffect } from "react";
 import { useNavigate } from "react-router-dom";
 import ProductCard from "../components/ProductCard";
 import products from "../config/Product.json";
-import { Heart, Grid, List } from "lucide-react";
+import { Grid, List } from "lucide-react";
 import useLocalFavorites from "../hooks/useLocalFavorites";
 
 const Products = () => {
@@ -17,10 +17,9 @@ const Products = () => {
   const [view, setView] = useState("grid");
   const [showFavoritesOnly, setShowFavoritesOnly] = useState(false);
 
-  // Pagination
   const [currentPage, setCurrentPage] = useState(1);
   const itemsPerPage = 6;
-  const maxPageNumbers = 10; // max page numbers to show at once
+  const maxPageNumbers = 10;
 
   // Debounce search
   useEffect(() => {
@@ -28,10 +27,14 @@ const Products = () => {
     return () => clearTimeout(timeout);
   }, [search]);
 
-  // Get unique categories
+  // Scroll to top on page change
+  useEffect(() => {
+    window.scrollTo({ top: 0, behavior: "smooth" });
+  }, [currentPage]);
+
   const categories = [...new Set(products.map((p) => p.category))];
 
-  // Filter + Sort logic
+  // Filter + Sort products
   const filteredProducts = products
     .filter((p) => {
       const inName = p.name.toLowerCase().includes(debouncedSearch.toLowerCase());
@@ -53,7 +56,6 @@ const Products = () => {
     currentPage * itemsPerPage
   );
 
-  // Calculate visible page numbers
   const startPage = Math.floor((currentPage - 1) / maxPageNumbers) * maxPageNumbers + 1;
   const endPage = Math.min(startPage + maxPageNumbers - 1, totalPages);
   const pageNumbers = [];
@@ -66,7 +68,7 @@ const Products = () => {
   return (
     <div className="max-w-7xl mx-auto px-4 mt-8 sm:px-6 lg:px-8 py-12">
       <div className="flex flex-col lg:flex-row gap-8">
-        {/* Sidebar Filters */}
+        {/* Sidebar */}
         <div className="w-full lg:w-1/4 bg-white rounded-2xl shadow-md p-6 space-y-6 border border-gray-100">
           {/* Search */}
           <div>
@@ -109,7 +111,7 @@ const Products = () => {
             />
           </div>
 
-          {/* Category Filter */}
+          {/* Category */}
           <div>
             <label className="block text-sm font-semibold mb-2">Category</label>
             <div className="flex flex-wrap gap-2">
@@ -209,25 +211,21 @@ const Products = () => {
               }
             >
               {paginatedProducts.map((product) => (
-                <div
+                <ProductCard
                   key={product.id}
+                  product={product}
+                  favorites={favorites}
+                  toggleFavorite={toggleFavorite}
+                  view={view}
                   onClick={() => navigate(`/products/${product.id}`)}
-                  className="cursor-pointer"
-                >
-                  <ProductCard
-                    product={product}
-                    favorites={favorites}
-                    toggleFavorite={toggleFavorite}
-                    view={view}
-                  />
-                </div>
+                />
               ))}
             </div>
           ) : (
             <p className="text-gray-500 text-center mt-10">No products found.</p>
           )}
 
-          {/* Pagination Buttons */}
+          {/* Pagination */}
           {totalPages > 1 && (
             <div className="flex justify-center gap-2 mt-8 flex-wrap items-center">
               <button
@@ -237,7 +235,6 @@ const Products = () => {
               >
                 Prev
               </button>
-
               {pageNumbers.map((page) => (
                 <button
                   key={page}
@@ -251,7 +248,6 @@ const Products = () => {
                   {page}
                 </button>
               ))}
-
               <button
                 onClick={handleNext}
                 disabled={currentPage === totalPages}
