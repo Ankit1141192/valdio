@@ -215,5 +215,58 @@
       
     ]
 
-  }
+  },
+  {
+  "id": "iqoo12345",
+  "name": "iQOO Neo 10R 5G (Moonknight Titanium, 8GB RAM, 256GB Storage)",
+  "category": "mobiles",
+  "price": 33999,
+  "discountPrice": 28998,
+  "discountRate": 15,
+  "rating": 4.4,
+  "reviews": "100K+",
+  "ratingText": "4.4 out of 5 stars",
+  "reviewText": "Based on 100K+ customer ratings on Amazon",
+  "shortLink": "https://amzn.to/432s4Jx",
+  "fullLink": "https://www.amazon.in/iQOO-Moonknight-Snapdragon-Processor-Smartphone/dp/B0DW48MM7C?pd_rd_w=DQMaZ&content-id=amzn1.sym.bf23bdc7-6f20-4210-b1c5-da3acd88edba&pf_rd_p=bf23bdc7-6f20-4210-b1c5-da3acd88edba&pf_rd_r=JYCDV86Y253XQ2JMV7MF&pd_rd_wg=lxEF1&pd_rd_r=dba2b9aa-2b0f-47c2-ae32-56624211b5e1&pd_rd_i=B0DW47JCHW&th=1&linkCode=ll1&tag=rjnshops-21&linkId=11426fb72bac8cea8d3dca06f29c7d0e&language=en_IN&ref_=as_li_ss_tl",
+  "image": "https://m.media-amazon.com/images/I/610NUM9jlxL._SL1200_.jpg",
+  "description": "Experience next-level performance with the iQOO Neo 10R 5G powered by the Snapdragon 8s Gen 3 processor. It delivers segment’s most stable 90FPS gaming for up to 5 hours and features India’s slimmest 6400mAh battery. The 120Hz AMOLED display ensures ultra-smooth visuals, while the 8GB RAM and 256GB storage allow effortless multitasking. With a premium Moonknight Titanium design, this device offers a perfect blend of power, style, and durability.",
+  "features": [
+    "Snapdragon 8s Gen 3 flagship processor",
+    "India’s slimmest 6400mAh battery",
+    "Most stable 90FPS gaming for up to 5 hours",
+    "120Hz AMOLED display with vibrant colors",
+    "8GB RAM and 256GB storage",
+    "120W FlashCharge fast charging",
+    "Premium Moonknight Titanium and Raging Blue finishes"
+  ],
+  "colors": [
+    {
+      "name": "Moonknight Titanium",
+      "image": "https://m.media-amazon.com/images/I/610NUM9jlxL._SL1200_.jpg"
+    },
+    {
+      "name": "Raging Blue",
+      "image": "https://m.media-amazon.com/images/I/61wL8Qbo0HL._SX679_.jpg"
+    }
+  ],
+  "customerReviews": [
+    {
+      "username": "Amit Sharma",
+      "rating": 5,
+      "comment": "An absolute powerhouse! The gaming performance is super smooth, and battery life is excellent. Definitely one of the best phones under ₹35,000."
+    },
+    {
+      "username": "Neha Patel",
+      "rating": 4,
+      "comment": "Sleek design with flagship-level performance. The display quality and charging speed are impressive!"
+    },
+    {
+      "username": "Rohit Verma",
+      "rating": 4,
+      "comment": "Camera performance could be slightly better, but overall, the performance and battery are top-notch."
+    }
+  ]
+}
+
 ]
