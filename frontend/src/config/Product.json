@@ -4,9 +4,9 @@
     "name": "Apple iPhone 15 (128 GB)",
     "category": "mobiles",
     "discountPrice": 59999.0,
-    "price": 52499.0,
+    "price": 51990.0,
     "DiscountRate": 12,
-    "discount": 8,
+    "discount": 13,
     "rating": 4.5,
     "reviews": 6966,
     "ratingText": "4.5 out of 5 stars",
@@ -216,6 +216,41 @@
     ]
 
   },
+  {
+  "id": "smartWatchNoise1",
+  "name": "Noise Advanced Bluetooth Smartwatch",
+  "category": "watch",
+  "price": 999,
+  "discountPrice": 5999,
+  "discountRate": 40,
+  "rating": 4.0,
+  "reviews": "50K+",
+  "ratingText": "4.0 out of 5 stars",
+  "reviewText": "Based on 50K+ customer ratings on Amazon",
+  "shortLink": "https://amzn.to/4s7AJFd",
+  "fullLink": "https://www.amazon.in/Noise-Advanced-Bluetooth-Brightness-Smartwatch/dp/B0B6BPTFT5",
+  "image": "https://m.media-amazon.com/images/I/610BF3kqBZL._SL1500_.jpg",
+  "description": "The Noise Advanced Bluetooth Smartwatch comes with a sleek design and powerful features to keep you connected and healthy. It supports Bluetooth calling, offers a bright display for clear visibility, and includes multiple health tracking modes. Designed for daily use, fitness, and style.",
+  "features": [
+    "Bluetooth calling with built-in speaker and mic",
+    "Large and bright touchscreen display",
+    "Multiple sports and fitness modes",
+    "Heart rate and SpO2 monitoring",
+    "Smart notifications for calls and apps",
+    "Long-lasting battery life",
+    "Water-resistant design"
+  ],
+  "colors": [
+    {
+      "name": "Black",
+      "image": "https://m.media-amazon.com/images/I/610BF3kqBZL._SL1500_.jpg"
+    },
+    {
+      "name": "Blue",
+      "image": "https://m.media-amazon.com/images/I/61nYw8L9HcL._SL1500_.jpg"
+    }
+  ]
+},
   {
   "id": "iqoo12345",
   "name": "iQOO Neo 10R 5G (Moonknight Titanium, 8GB RAM, 256GB Storage)",
