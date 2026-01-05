@@ -186,120 +186,177 @@
     ]
   },
   {
-    "id":"Tshirt001",
-    "name":"Sleepynuts Men's Regular Fit Round Neck Half Sleeves Solid Casual Wear T-Shirt",
-    "category":"fashion",
-    "discountPrice":2999.0,
-    "price":1250.0,
-    "DiscountRate":58,
-    "discount":58,
-    "rating":4.4,
+    "id": "Tshirt001",
+    "name": "Sleepynuts Men's Regular Fit Round Neck Half Sleeves Solid Casual Wear T-Shirt",
+    "category": "fashion",
+    "discountPrice": 2999.0,
+    "price": 1250.0,
+    "DiscountRate": 58,
+    "discount": 58,
+    "rating": 4.4,
     "reviews": "1K+",
-    "ratingText":"4.4 out of 5 stars",
-    "reviewText":"Based on 1,000+ customer ratings on Amazon",
-    "shortLink":"https://amzn.to/4quGbl1",
-    "fullLink":"https://www.amazon.in/Sleepynuts-T-Shirt-Pack-Periwinkle-Winslow/dp/B0C4PT4SDD?crid=2HGB3XLZSAIPB&dib=eyJ2IjoiMSJ9.bfZUX8xfTseD2ZPw-MZViJ4C6BotRF_-sjmRi8mgYrw2QEIECLJudG68zoL5i2Tr7L0QMysd_rWbKJ2SkVmGP0gTFttOwJGfwKSaJIVE_vtF5L-53BrNt3vDHQ5UEE6E4nUJPV1VRCEXfv68iPn6beDN0kbIJX7RtppRNI6LwuT0GWYuycfkZM71jOv0jrM3IWOFBcH2kizuA0caRah_OQkgAteb-jZZzM4FhHZsZKkT_0xQYi_3jaHy_UwR-baEVEelKVu-krj-CeIsP2cJUF8vhh1bwK10dPsJwZ1ATrs._JSCA0HJlWc_F8U6h5V4Ku3d0bvxoPVq91IYX8_ikmI&dib_tag=se&keywords=tshirt%2Bfor%2Bman&qid=1761140426&sprefix=T%2Caps%2C355&sr=8-4-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1&psc=1&linkCode=ll1&tag=rjnshops-21&linkId=b7511ce4d12d6ade4d1bfeb74a742240&language=en_IN&ref_=as_li_ss_tl",
-    "image":"https://m.media-amazon.com/images/I/41R6KZtgmaL.jpg",
-    "description":"Sleepynuts Men's Regular Fit Round Neck Half Sleeves Solid Casual Wear T-Shirt is made from high-quality fabric, offering comfort and style for everyday wear. Perfect for casual outings, this t-shirt combines durability with a trendy look.",
-    "colors":[
+    "ratingText": "4.4 out of 5 stars",
+    "reviewText": "Based on 1,000+ customer ratings on Amazon",
+    "shortLink": "https://amzn.to/4quGbl1",
+    "fullLink": "https://www.amazon.in/Sleepynuts-T-Shirt-Pack-Periwinkle-Winslow/dp/B0C4PT4SDD?crid=2HGB3XLZSAIPB&dib=eyJ2IjoiMSJ9.bfZUX8xfTseD2ZPw-MZViJ4C6BotRF_-sjmRi8mgYrw2QEIECLJudG68zoL5i2Tr7L0QMysd_rWbKJ2SkVmGP0gTFttOwJGfwKSaJIVE_vtF5L-53BrNt3vDHQ5UEE6E4nUJPV1VRCEXfv68iPn6beDN0kbIJX7RtppRNI6LwuT0GWYuycfkZM71jOv0jrM3IWOFBcH2kizuA0caRah_OQkgAteb-jZZzM4FhHZsZKkT_0xQYi_3jaHy_UwR-baEVEelKVu-krj-CeIsP2cJUF8vhh1bwK10dPsJwZ1ATrs._JSCA0HJlWc_F8U6h5V4Ku3d0bvxoPVq91IYX8_ikmI&dib_tag=se&keywords=tshirt%2Bfor%2Bman&qid=1761140426&sprefix=T%2Caps%2C355&sr=8-4-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1&psc=1&linkCode=ll1&tag=rjnshops-21&linkId=b7511ce4d12d6ade4d1bfeb74a742240&language=en_IN&ref_=as_li_ss_tl",
+    "image": "https://m.media-amazon.com/images/I/41R6KZtgmaL.jpg",
+    "description": "Sleepynuts Men's Regular Fit Round Neck Half Sleeves Solid Casual Wear T-Shirt is made from high-quality fabric, offering comfort and style for everyday wear. Perfect for casual outings, this t-shirt combines durability with a trendy look.",
+    "colors": [
       {
-        "name":"Periwinkle, Light Pink, Winslow, Sky Blue",
-        "image":"https://m.media-amazon.com/images/I/41R6KZtgmaL.jpg",
-        "size":["M","L","XL","XXL"]
+        "name": "Periwinkle, Light Pink, Winslow, Sky Blue",
+        "image": "https://m.media-amazon.com/images/I/41R6KZtgmaL.jpg",
+        "size": [
+          "M",
+          "L",
+          "XL",
+          "XXL"
+        ]
       },
       {
-        "name":"Army, Mint Green, Sky Blue, Navy Milli",
-        "image":"https://m.media-amazon.com/images/I/41IVsmqNoFL.jpg",
-        "size":["M","L","XL","XXL"]
+        "name": "Army, Mint Green, Sky Blue, Navy Milli",
+        "image": "https://m.media-amazon.com/images/I/41IVsmqNoFL.jpg",
+        "size": [
+          "M",
+          "L",
+          "XL",
+          "XXL"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "smartWatchNoise1",
+    "name": "Noise Advanced Bluetooth Smartwatch",
+    "category": "watch",
+    "price": 999,
+    "discountPrice": 5999,
+    "discountRate": 40,
+    "rating": 4.0,
+    "reviews": "50K+",
+    "ratingText": "4.0 out of 5 stars",
+    "reviewText": "Based on 50K+ customer ratings on Amazon",
+    "shortLink": "https://amzn.to/4s7AJFd",
+    "fullLink": "https://www.amazon.in/Noise-Advanced-Bluetooth-Brightness-Smartwatch/dp/B0B6BPTFT5",
+    "image": "https://m.media-amazon.com/images/I/610BF3kqBZL._SL1500_.jpg",
+    "description": "The Noise Advanced Bluetooth Smartwatch comes with a sleek design and powerful features to keep you connected and healthy. It supports Bluetooth calling, offers a bright display for clear visibility, and includes multiple health tracking modes. Designed for daily use, fitness, and style.",
+    "features": [
+      "Bluetooth calling with built-in speaker and mic",
+      "Large and bright touchscreen display",
+      "Multiple sports and fitness modes",
+      "Heart rate and SpO2 monitoring",
+      "Smart notifications for calls and apps",
+      "Long-lasting battery life",
+      "Water-resistant design"
+    ],
+    "colors": [
+      {
+        "name": "Black",
+        "image": "https://m.media-amazon.com/images/I/610BF3kqBZL._SL1500_.jpg"
+      },
+      {
+        "name": "Blue",
+        "image": "https://m.media-amazon.com/images/I/61xSTnSOkuL._SL1500_.jpg"
+      }
+    ]
+  },
+  {
+    "id": "iqoo12345",
+    "name": "iQOO Neo 10R 5G (Moonknight Titanium, 8GB RAM, 256GB Storage)",
+    "category": "mobiles",
+    "price": 33999,
+    "discountPrice": 28998,
+    "discountRate": 15,
+    "rating": 4.4,
+    "reviews": "100K+",
+    "ratingText": "4.4 out of 5 stars",
+    "reviewText": "Based on 100K+ customer ratings on Amazon",
+    "shortLink": "https://amzn.to/432s4Jx",
+    "fullLink": "https://www.amazon.in/iQOO-Moonknight-Snapdragon-Processor-Smartphone/dp/B0DW48MM7C?pd_rd_w=DQMaZ&content-id=amzn1.sym.bf23bdc7-6f20-4210-b1c5-da3acd88edba&pf_rd_p=bf23bdc7-6f20-4210-b1c5-da3acd88edba&pf_rd_r=JYCDV86Y253XQ2JMV7MF&pd_rd_wg=lxEF1&pd_rd_r=dba2b9aa-2b0f-47c2-ae32-56624211b5e1&pd_rd_i=B0DW47JCHW&th=1&linkCode=ll1&tag=rjnshops-21&linkId=11426fb72bac8cea8d3dca06f29c7d0e&language=en_IN&ref_=as_li_ss_tl",
+    "image": "https://m.media-amazon.com/images/I/610NUM9jlxL._SL1200_.jpg",
+    "description": "Experience next-level performance with the iQOO Neo 10R 5G powered by the Snapdragon 8s Gen 3 processor. It delivers segment’s most stable 90FPS gaming for up to 5 hours and features India’s slimmest 6400mAh battery. The 120Hz AMOLED display ensures ultra-smooth visuals, while the 8GB RAM and 256GB storage allow effortless multitasking. With a premium Moonknight Titanium design, this device offers a perfect blend of power, style, and durability.",
+    "features": [
+      "Snapdragon 8s Gen 3 flagship processor",
+      "India’s slimmest 6400mAh battery",
+      "Most stable 90FPS gaming for up to 5 hours",
+      "120Hz AMOLED display with vibrant colors",
+      "8GB RAM and 256GB storage",
+      "120W FlashCharge fast charging",
+      "Premium Moonknight Titanium and Raging Blue finishes"
+    ],
+    "colors": [
+      {
+        "name": "Moonknight Titanium",
+        "image": "https://m.media-amazon.com/images/I/610NUM9jlxL._SL1200_.jpg"
+      },
+      {
+        "name": "Raging Blue",
+        "image": "https://m.media-amazon.com/images/I/61wL8Qbo0HL._SX679_.jpg"
+      }
+    ],
+    "customerReviews": [
+      {
+        "username": "Amit Sharma",
+        "rating": 5,
+        "comment": "An absolute powerhouse! The gaming performance is super smooth, and battery life is excellent. Definitely one of the best phones under ₹35,000."
+      },
+      {
+        "username": "Neha Patel",
+        "rating": 4,
+        "comment": "Sleek design with flagship-level performance. The display quality and charging speed are impressive!"
+      },
+      {
+        "username": "Rohit Verma",
+        "rating": 4,
+        "comment": "Camera performance could be slightly better, but overall, the performance and battery are top-notch."
       }
       
     ]
-
   },
   {
-  "id": "smartWatchNoise1",
-  "name": "Noise Advanced Bluetooth Smartwatch",
-  "category": "watch",
-  "price": 999,
-  "discountPrice": 5999,
-  "discountRate": 40,
-  "rating": 4.0,
-  "reviews": "50K+",
-  "ratingText": "4.0 out of 5 stars",
-  "reviewText": "Based on 50K+ customer ratings on Amazon",
-  "shortLink": "https://amzn.to/4s7AJFd",
-  "fullLink": "https://www.amazon.in/Noise-Advanced-Bluetooth-Brightness-Smartwatch/dp/B0B6BPTFT5",
-  "image": "https://m.media-amazon.com/images/I/610BF3kqBZL._SL1500_.jpg",
-  "description": "The Noise Advanced Bluetooth Smartwatch comes with a sleek design and powerful features to keep you connected and healthy. It supports Bluetooth calling, offers a bright display for clear visibility, and includes multiple health tracking modes. Designed for daily use, fitness, and style.",
+  "id": "mici9utrirfjrt",
+  "name": "pTron KWM-1 Omnidirectional Type C Wireless Microphone (Black)",
+  "category": "audio-accessories",
+  "price": 2999,
+  "discountPrice": 1499,
+  "discountRate": 50,
+  "rating": 4.1,
+  "reviews": "15K+",
+  "ratingText": "4.1 out of 5 stars",
+  "reviewText": "Based on 15K+ customer ratings on Amazon",
+  "shortLink": "https://amzn.to/4soaM4w",
+  "fullLink": "https://www.amazon.in/pTron-Omnidirectional-Microphone-Cancellation-Recording/dp/B0FCYMP4D2?adgrpid=57666398623&dib=eyJ2IjoiMSJ9.WR_UyAFznv-MH1SdopEP2dnc3uCWmPR7NDlKcUHzjBCMcVTTWQNCJnnxcaMV6PHFXqrGHHzF5DybajJpjfS78vDOfRXhmWKu7gD7ub1XXClqnnmHAXrmSnc3R-BznakYIRDyAJ2_wUIt1mUbci1K58EYAVTzGUxyWFcyIMBdJnbi9T2m9D8FiaK9nk06SIhhuzo7D4EWE3OlFkcbW7Fo5qPuSuHLtsEaWM1baXT0KCOr1eQIPwmsYYXEXQpA760H-Fz32I0r9JNAXmjj2ZdPT4Eoqo61wzVdvlVm0qIgJuU.kaz4O7rOFED4-B48bc7ZpV29hk8b6V4UHo5wki_i9xA&dib_tag=se&ext_vrnc=hi&hvadid=590593902702&hvdev=c&hvlocphy=9299984&hvnetw=g&hvqmt=e&hvrand=13530169894889798927&hvtargid=kwd-324657025360&hydadcr=24564_2265423&keywords=bluetooth%2Bmic%2Bprice&mcid=3f0101ef718d31f59459988eec82d99d&qid=1767629906&sr=8-21-spons&aref=s3so5J7LpW&sp_csd=d2lkZ2V0TmFtZT1zcF9tdGY&th=1&linkCode=ll1&tag=rjnshops-21&linkId=8ccd3693f1263aaf027ad9de79b98363&language=en_IN&ref_=as_li_ss_tl",
+  "image": "https://m.media-amazon.com/images/I/61qPfqflVWL._SL1200_.jpg",
+  "description": "The pTron KWM-1 is a compact omnidirectional wireless microphone designed for content creators, vloggers, and online educators. Featuring DSP noise cancellation and a 25m wireless range, it ensures clear and stable audio recording. With plug-and-play functionality and Type-C support, it works seamlessly with Android smartphones and compatible iPhones, making it ideal for video recording, interviews, and live streaming.",
   "features": [
-    "Bluetooth calling with built-in speaker and mic",
-    "Large and bright touchscreen display",
-    "Multiple sports and fitness modes",
-    "Heart rate and SpO2 monitoring",
-    "Smart notifications for calls and apps",
-    "Long-lasting battery life",
-    "Water-resistant design"
+    "Omnidirectional wireless microphone",
+    "DSP intelligent noise cancellation",
+    "Plug & play – no app required",
+    "Up to 25m wireless transmission range",
+    "Type-C connector support",
+    "Compatible with Android and iPhone (Type-C)",
+    "Lightweight lapel / collar clip design"
   ],
   "colors": [
     {
       "name": "Black",
-      "image": "https://m.media-amazon.com/images/I/610BF3kqBZL._SL1500_.jpg"
-    },
-    {
-      "name": "Blue",
-      "image": "https://m.media-amazon.com/images/I/61xSTnSOkuL._SL1500_.jpg"
-    }
-  ]
-},
-  {
-  "id": "iqoo12345",
-  "name": "iQOO Neo 10R 5G (Moonknight Titanium, 8GB RAM, 256GB Storage)",
-  "category": "mobiles",
-  "price": 33999,
-  "discountPrice": 28998,
-  "discountRate": 15,
-  "rating": 4.4,
-  "reviews": "100K+",
-  "ratingText": "4.4 out of 5 stars",
-  "reviewText": "Based on 100K+ customer ratings on Amazon",
-  "shortLink": "https://amzn.to/432s4Jx",
-  "fullLink": "https://www.amazon.in/iQOO-Moonknight-Snapdragon-Processor-Smartphone/dp/B0DW48MM7C?pd_rd_w=DQMaZ&content-id=amzn1.sym.bf23bdc7-6f20-4210-b1c5-da3acd88edba&pf_rd_p=bf23bdc7-6f20-4210-b1c5-da3acd88edba&pf_rd_r=JYCDV86Y253XQ2JMV7MF&pd_rd_wg=lxEF1&pd_rd_r=dba2b9aa-2b0f-47c2-ae32-56624211b5e1&pd_rd_i=B0DW47JCHW&th=1&linkCode=ll1&tag=rjnshops-21&linkId=11426fb72bac8cea8d3dca06f29c7d0e&language=en_IN&ref_=as_li_ss_tl",
-  "image": "https://m.media-amazon.com/images/I/610NUM9jlxL._SL1200_.jpg",
-  "description": "Experience next-level performance with the iQOO Neo 10R 5G powered by the Snapdragon 8s Gen 3 processor. It delivers segment’s most stable 90FPS gaming for up to 5 hours and features India’s slimmest 6400mAh battery. The 120Hz AMOLED display ensures ultra-smooth visuals, while the 8GB RAM and 256GB storage allow effortless multitasking. With a premium Moonknight Titanium design, this device offers a perfect blend of power, style, and durability.",
-  "features": [
-    "Snapdragon 8s Gen 3 flagship processor",
-    "India’s slimmest 6400mAh battery",
-    "Most stable 90FPS gaming for up to 5 hours",
-    "120Hz AMOLED display with vibrant colors",
-    "8GB RAM and 256GB storage",
-    "120W FlashCharge fast charging",
-    "Premium Moonknight Titanium and Raging Blue finishes"
-  ],
-  "colors": [
-    {
-      "name": "Moonknight Titanium",
-      "image": "https://m.media-amazon.com/images/I/610NUM9jlxL._SL1200_.jpg"
-    },
-    {
-      "name": "Raging Blue",
-      "image": "https://m.media-amazon.com/images/I/61wL8Qbo0HL._SX679_.jpg"
+      "image": "https://m.media-amazon.com/images/I/61qPfqflVWL._SL1200_.jpg"
     }
   ],
   "customerReviews": [
     {
-      "username": "Amit Sharma",
+      "username": "Rahul Mehta",
       "rating": 5,
-      "comment": "An absolute powerhouse! The gaming performance is super smooth, and battery life is excellent. Definitely one of the best phones under ₹35,000."
+      "comment": "Great microphone for the price. Audio quality is clear and works perfectly for Instagram reels and YouTube shorts."
     },
     {
-      "username": "Neha Patel",
+      "username": "Pooja Singh",
       "rating": 4,
-      "comment": "Sleek design with flagship-level performance. The display quality and charging speed are impressive!"
+      "comment": "Easy to use and lightweight. Noise cancellation works well indoors."
     },
     {
-      "username": "Rohit Verma",
+      "username": "Aakash Verma",
       "rating": 4,
-      "comment": "Camera performance could be slightly better, but overall, the performance and battery are top-notch."
+      "comment": "Good battery and stable connection. Range is decent for outdoor shoots."
     }
   ]
 }
