@@ -86,7 +86,7 @@ const ProductCard = ({ product, favorites, toggleFavorite, onClick }) => {
           </div>
 
           <button
-            onClick={(e) => e.stopPropagation()} // prevent navigation
+            onClick={(e) => e.stopPropagation()}
             className="bg-gradient-to-r from-blue-600 to-purple-600 text-white p-3 rounded-full hover:shadow-lg hover:scale-110 transition-all"
           >
             <ShoppingCart className="w-5 h-5" />
