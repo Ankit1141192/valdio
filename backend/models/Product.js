@@ -1,115 +1,42 @@
-const mongodb = require("mongodb");
+const mongoose = require("mongoose");
 
-const productSchema = {
-  bsonType: "object",
-  required: [
-    "id",
-    "name",
-    "category",
-    "price",
-    "mrp",
-    "discountRate",
-    "rating",
-    "image",
-    "description"
-  ],
-  properties: {
-    id: {
-      bsonType: "string",
-      description: "Unique product id"
-    },
+const reviewSchema = new mongoose.Schema({
+  username: { type: String, required: true },
+  rating: { type: Number, required: true },
+  comment: { type: String, required: true }
+});
 
-    name: {
-      bsonType: "string",
-      description: "Product name"
-    },
+const colorSchema = new mongoose.Schema({
+  name: { type: String, required: true },
+  image: { type: String, required: true }
+});
 
-    category: {
-      bsonType: "string",
-      description: "Product category"
-    },
+const productSchema = new mongoose.Schema(
+  {
+    name: { type: String, required: true },
+    category: { type: String, required: true },
 
-    price: {
-      bsonType: "number",
-      minimum: 0,
-      description: "Selling price"
-    },
+    price: { type: Number, required: true },
+    discountPrice: { type: Number, required: true },
+    discountRate: { type: Number },
 
-    mrp: {
-      bsonType: "number",
-      minimum: 0,
-      description: "Original price"
-    },
+    rating: { type: Number, default: 0 },
+    totalReviews: { type: Number, default: 0 },
 
-    discountRate: {
-      bsonType: "number",
-      minimum: 0,
-      maximum: 100,
-      description: "Discount percentage"
-    },
+    ratingText: String,
+    reviewText: String,
 
-    rating: {
-      bsonType: "number",
-      minimum: 0,
-      maximum: 5
-    },
+    shortLink: String,
+    fullLink: String,
 
-    reviews: {
-      bsonType: ["int", "string"],
-      description: "Number of reviews"
-    },
+    image: { type: String, required: true },
+    description: String,
 
-    badge: {
-      bsonType: "string"
-    },
+    features: { type: [String], default: [] },
+    colors: { type: [colorSchema], default: [] },
+    customerReviews: { type: [reviewSchema], default: [] }
+  },
+  { timestamps: true }
+);
 
-    image: {
-      bsonType: "string",
-      description: "Main product image"
-    },
-
-    description: {
-      bsonType: "string"
-    },
-
-    links: {
-      bsonType: "object",
-      properties: {
-        short: { bsonType: "string" },
-        full: { bsonType: "string" }
-      }
-    },
-
-    variants: {
-      bsonType: "object",
-      properties: {
-        colors: {
-          bsonType: "array",
-          items: {
-            bsonType: "object",
-            required: ["name", "image"],
-            properties: {
-              name: { bsonType: "string" },
-              image: { bsonType: "string" },
-              size: {
-                bsonType: "array",
-                items: { bsonType: "string" }
-              }
-            }
-          }
-        }
-      }
-    },
-
-    features: {
-      bsonType: "array",
-      items: { bsonType: "string" }
-    },
-
-    createdAt: {
-      bsonType: "date"
-    }
-  }
-};
-
-module.exports = productSchema;
+module.exports = mongoose.model("Product", productSchema);

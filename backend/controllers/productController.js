@@ -1,20 +1,46 @@
-const { MongoClient } = require("mongodb");
-const productSchema = require("./product.schema");
+const Product =  require("../models/Product.js");
 
-async function createProductsCollection() {
-  const client = new MongoClient("mongodb://localhost:27017");
-  await client.connect();
+// CREATE (Admin)
+const createProduct = async (req, res) => {
+  try {
+    const product = await Product.create(req.body);
+    res.status(201).json(product);
+  } catch (error) {
+    res.status(400).json({ message: error.message });
+  }
+};
 
-  const db = client.db("ecommerce");
+// READ ALL (User)
+const getProducts = async (req, res) => {
+  const products = await Product.find();
+  res.json(products);
+};
 
-  await db.createCollection("products", {
-    validator: {
-      $jsonSchema: productSchema
-    }
-  });
+// READ ONE (User)
+const getProductById = async (req, res) => {
+  const product = await Product.findById(req.params.id);
+  product
+    ? res.json(product)
+    : res.status(404).json({ message: "Product not found" });
+};
 
-  console.log("Products collection created with schema validation");
-  await client.close();
+// UPDATE (Admin)
+const updateProduct = async (req, res) => {
+  const product = await Product.findByIdAndUpdate(
+    req.params.id,
+    req.body,
+    { new: true }
+  );
+  res.json(product);
+};
+
+// DELETE (Admin)
+const deleteProduct = async (req, res) => {
+  await Product.findByIdAndDelete(req.params.id);
+  res.json({ message: "Product deleted" });
+};
+
+module.exports = {
+  createProduct, getProducts, getProductById,
+  updateProduct, deleteProduct
 }
-
-createProductsCollection();
