@@ -309,104 +309,149 @@
         "rating": 4,
         "comment": "Camera performance could be slightly better, but overall, the performance and battery are top-notch."
       }
-      
     ]
   },
   {
-  "id": "mici9utrirfjrt",
-  "name": "pTron KWM-1 Omnidirectional Type C Wireless Microphone (Black)",
-  "category": "audio-accessories",
-  "price": 999,
-  "discountPrice": 3199,
-  "discountRate": 50,
-  "rating": 4.1,
-  "reviews": "15K+",
-  "ratingText": "4.1 out of 5 stars",
-  "reviewText": "Based on 15K+ customer ratings on Amazon",
-  "shortLink": "https://amzn.to/4soaM4w",
-  "fullLink": "https://www.amazon.in/pTron-Omnidirectional-Microphone-Cancellation-Recording/dp/B0FCYMP4D2?adgrpid=57666398623&dib=eyJ2IjoiMSJ9.WR_UyAFznv-MH1SdopEP2dnc3uCWmPR7NDlKcUHzjBCMcVTTWQNCJnnxcaMV6PHFXqrGHHzF5DybajJpjfS78vDOfRXhmWKu7gD7ub1XXClqnnmHAXrmSnc3R-BznakYIRDyAJ2_wUIt1mUbci1K58EYAVTzGUxyWFcyIMBdJnbi9T2m9D8FiaK9nk06SIhhuzo7D4EWE3OlFkcbW7Fo5qPuSuHLtsEaWM1baXT0KCOr1eQIPwmsYYXEXQpA760H-Fz32I0r9JNAXmjj2ZdPT4Eoqo61wzVdvlVm0qIgJuU.kaz4O7rOFED4-B48bc7ZpV29hk8b6V4UHo5wki_i9xA&dib_tag=se&ext_vrnc=hi&hvadid=590593902702&hvdev=c&hvlocphy=9299984&hvnetw=g&hvqmt=e&hvrand=13530169894889798927&hvtargid=kwd-324657025360&hydadcr=24564_2265423&keywords=bluetooth%2Bmic%2Bprice&mcid=3f0101ef718d31f59459988eec82d99d&qid=1767629906&sr=8-21-spons&aref=s3so5J7LpW&sp_csd=d2lkZ2V0TmFtZT1zcF9tdGY&th=1&linkCode=ll1&tag=rjnshops-21&linkId=8ccd3693f1263aaf027ad9de79b98363&language=en_IN&ref_=as_li_ss_tl",
-  "image": "https://m.media-amazon.com/images/I/61qPfqflVWL._SL1200_.jpg",
-  "description": "The pTron KWM-1 is a compact omnidirectional wireless microphone designed for content creators, vloggers, and online educators. Featuring DSP noise cancellation and a 25m wireless range, it ensures clear and stable audio recording. With plug-and-play functionality and Type-C support, it works seamlessly with Android smartphones and compatible iPhones, making it ideal for video recording, interviews, and live streaming.",
-  "features": [
-    "Omnidirectional wireless microphone",
-    "DSP intelligent noise cancellation",
-    "Plug & play – no app required",
-    "Up to 25m wireless transmission range",
-    "Type-C connector support",
-    "Compatible with Android and iPhone (Type-C)",
-    "Lightweight lapel / collar clip design"
-  ],
-  "colors": [
-    {
-      "name": "Black",
-      "image": "https://m.media-amazon.com/images/I/61qPfqflVWL._SL1200_.jpg"
-    }
-  ],
-  "customerReviews": [
-    {
-      "username": "Rahul Mehta",
-      "rating": 5,
-      "comment": "Great microphone for the price. Audio quality is clear and works perfectly for Instagram reels and YouTube shorts."
-    },
-    {
-      "username": "Pooja Singh",
-      "rating": 4,
-      "comment": "Easy to use and lightweight. Noise cancellation works well indoors."
-    },
-    {
-      "username": "Aakash Verma",
-      "rating": 4,
-      "comment": "Good battery and stable connection. Range is decent for outdoor shoots."
-    }
-  ]
-},
-{
-  "id": "sdjewelchoker01",
-  "name": "Shining Diva Fashion Latest Stylish Choker Traditional Pearl Kundan Necklace Jewellery Set for Women",
-  "category": "jewellery",
-  "price": 748,
-  "discountPrice": 748,
-  "discountRate": 85,
-  "rating": 4.3,
-  "reviews": "25K+",
-  "ratingText": "4.3 out of 5 stars",
-  "reviewText": "Based on 25K+ customer ratings on Amazon",
-  "shortLink": "https://amzn.to/4qHe4Ou",
-  "fullLink": "https://www.amazon.in/dp/B09HNVYVQW?social_share=cm_sw_r_cp_ud_dp_6Q0AXHH0W03RA0TC2EJA&th=1&linkCode=ll1&tag=rjnshops-21&linkId=2c37b05cd23889a5e87f53402149c7d5&language=en_IN&ref_=as_li_ss_tl",
-  "image": "https://m.media-amazon.com/images/I/91lbWjMqULL._SY625_.jpg",
-  "description": "The Shining Diva Fashion Traditional Pearl Kundan Choker Necklace Set is a perfect blend of elegance and ethnic charm. Designed with premium-quality pearls and kundan stones, this jewellery set enhances your traditional outfits and is ideal for weddings, festivals, and special occasions.",
-  "features": [
-    "Traditional pearl & kundan choker necklace",
-    "Premium quality alloy with gold polish",
-    "Lightweight and comfortable to wear",
-    "Perfect for weddings, festivals & parties",
-    "Skin-friendly and durable material",
-    "Elegant traditional Indian design"
-  ],
-  "colors": [
-    {
-      "name": "Pearl Gold",
-      "image": "https://m.media-amazon.com/images/I/91lbWjMqULL._SY625_.jpg"
-    }
-  ],
-  "customerReviews": [
-    {
-      "username": "Neha Sharma",
-      "rating": 5,
-      "comment": "Beautiful necklace set! Looks exactly like the pictures and goes perfectly with my saree."
-    },
-    {
-      "username": "Anjali Verma",
-      "rating": 4,
-      "comment": "Very elegant and lightweight. Great quality for the price."
-    },
-    {
-      "username": "Ritika Jain",
-      "rating": 4,
-      "comment": "Perfect for weddings and festive wear. Pearls look premium."
-    }
-  ]
-}
-
-
+    "id": "mici9utrirfjrt",
+    "name": "pTron KWM-1 Omnidirectional Type C Wireless Microphone (Black)",
+    "category": "audio-accessories",
+    "price": 999,
+    "discountPrice": 3199,
+    "discountRate": 50,
+    "rating": 4.1,
+    "reviews": "15K+",
+    "ratingText": "4.1 out of 5 stars",
+    "reviewText": "Based on 15K+ customer ratings on Amazon",
+    "shortLink": "https://amzn.to/4soaM4w",
+    "fullLink": "https://www.amazon.in/pTron-Omnidirectional-Microphone-Cancellation-Recording/dp/B0FCYMP4D2?adgrpid=57666398623&dib=eyJ2IjoiMSJ9.WR_UyAFznv-MH1SdopEP2dnc3uCWmPR7NDlKcUHzjBCMcVTTWQNCJnnxcaMV6PHFXqrGHHzF5DybajJpjfS78vDOfRXhmWKu7gD7ub1XXClqnnmHAXrmSnc3R-BznakYIRDyAJ2_wUIt1mUbci1K58EYAVTzGUxyWFcyIMBdJnbi9T2m9D8FiaK9nk06SIhhuzo7D4EWE3OlFkcbW7Fo5qPuSuHLtsEaWM1baXT0KCOr1eQIPwmsYYXEXQpA760H-Fz32I0r9JNAXmjj2ZdPT4Eoqo61wzVdvlVm0qIgJuU.kaz4O7rOFED4-B48bc7ZpV29hk8b6V4UHo5wki_i9xA&dib_tag=se&ext_vrnc=hi&hvadid=590593902702&hvdev=c&hvlocphy=9299984&hvnetw=g&hvqmt=e&hvrand=13530169894889798927&hvtargid=kwd-324657025360&hydadcr=24564_2265423&keywords=bluetooth%2Bmic%2Bprice&mcid=3f0101ef718d31f59459988eec82d99d&qid=1767629906&sr=8-21-spons&aref=s3so5J7LpW&sp_csd=d2lkZ2V0TmFtZT1zcF9tdGY&th=1&linkCode=ll1&tag=rjnshops-21&linkId=8ccd3693f1263aaf027ad9de79b98363&language=en_IN&ref_=as_li_ss_tl",
+    "image": "https://m.media-amazon.com/images/I/61qPfqflVWL._SL1200_.jpg",
+    "description": "The pTron KWM-1 is a compact omnidirectional wireless microphone designed for content creators, vloggers, and online educators. Featuring DSP noise cancellation and a 25m wireless range, it ensures clear and stable audio recording. With plug-and-play functionality and Type-C support, it works seamlessly with Android smartphones and compatible iPhones, making it ideal for video recording, interviews, and live streaming.",
+    "features": [
+      "Omnidirectional wireless microphone",
+      "DSP intelligent noise cancellation",
+      "Plug & play – no app required",
+      "Up to 25m wireless transmission range",
+      "Type-C connector support",
+      "Compatible with Android and iPhone (Type-C)",
+      "Lightweight lapel / collar clip design"
+    ],
+    "colors": [
+      {
+        "name": "Black",
+        "image": "https://m.media-amazon.com/images/I/61qPfqflVWL._SL1200_.jpg"
+      }
+    ],
+    "customerReviews": [
+      {
+        "username": "Rahul Mehta",
+        "rating": 5,
+        "comment": "Great microphone for the price. Audio quality is clear and works perfectly for Instagram reels and YouTube shorts."
+      },
+      {
+        "username": "Pooja Singh",
+        "rating": 4,
+        "comment": "Easy to use and lightweight. Noise cancellation works well indoors."
+      },
+      {
+        "username": "Aakash Verma",
+        "rating": 4,
+        "comment": "Good battery and stable connection. Range is decent for outdoor shoots."
+      }
+    ]
+  },
+  {
+    "id": "sdjewelchoker01",
+    "name": "Shining Diva Fashion Latest Stylish Choker Traditional Pearl Kundan Necklace Jewellery Set for Women",
+    "category": "jewellery",
+    "price": 748,
+    "discountPrice": 748,
+    "discountRate": 85,
+    "rating": 4.3,
+    "reviews": "25K+",
+    "ratingText": "4.3 out of 5 stars",
+    "reviewText": "Based on 25K+ customer ratings on Amazon",
+    "shortLink": "https://amzn.to/4qHe4Ou",
+    "fullLink": "https://www.amazon.in/dp/B09HNVYVQW?social_share=cm_sw_r_cp_ud_dp_6Q0AXHH0W03RA0TC2EJA&th=1&linkCode=ll1&tag=rjnshops-21&linkId=2c37b05cd23889a5e87f53402149c7d5&language=en_IN&ref_=as_li_ss_tl",
+    "image": "https://m.media-amazon.com/images/I/91lbWjMqULL._SY625_.jpg",
+    "description": "The Shining Diva Fashion Traditional Pearl Kundan Choker Necklace Set is a perfect blend of elegance and ethnic charm. Designed with premium-quality pearls and kundan stones, this jewellery set enhances your traditional outfits and is ideal for weddings, festivals, and special occasions.",
+    "features": [
+      "Traditional pearl & kundan choker necklace",
+      "Premium quality alloy with gold polish",
+      "Lightweight and comfortable to wear",
+      "Perfect for weddings, festivals & parties",
+      "Skin-friendly and durable material",
+      "Elegant traditional Indian design"
+    ],
+    "colors": [
+      {
+        "name": "Pearl Gold",
+        "image": "https://m.media-amazon.com/images/I/91lbWjMqULL._SY625_.jpg"
+      }
+    ],
+    "customerReviews": [
+      {
+        "username": "Neha Sharma",
+        "rating": 5,
+        "comment": "Beautiful necklace set! Looks exactly like the pictures and goes perfectly with my saree."
+      },
+      {
+        "username": "Anjali Verma",
+        "rating": 4,
+        "comment": "Very elegant and lightweight. Great quality for the price."
+      },
+      {
+        "username": "Ritika Jain",
+        "rating": 4,
+        "comment": "Perfect for weddings and festive wear. Pearls look premium."
+      }
+    ]
+  },
+  {
+    "id": "micvelomax001",
+    "name": "VELOMAX YouTube Wireless Noise Reduction Magnetic Clip Microphone (Dual Channel Type-C)",
+    "category": "audio-accessories",
+    "price": 1999,
+    "discountPrice": 999,
+    "discountRate": 50,
+    "rating": 4.1,
+    "reviews": "8K+",
+    "ratingText": "4.1 out of 5 stars",
+    "reviewText": "Based on 8K+ customer ratings on Amazon",
+    "shortLink": "https://amzn.to/4jD8J8M",
+    "fullLink": "https://www.amazon.in/VELOMAX-Channel-Type-C-Port-Version/dp/B0F7RS66CW?content-id=amzn1.sym.0629fcb0-94ed-4eba-9abe-6c93c227c465%3Aamzn1.sym.0629fcb0-94ed-4eba-9abe-6c93c227c465&cv_ct_cx=bluetooth+mic&keywords=bluetooth+mic&pd_rd_i=B0F7RS66CW&pd_rd_r=682fabb0-8e15-4a51-a72b-e8777b731289&pd_rd_w=DjfBY&pd_rd_wg=qlVKu&pf_rd_p=0629fcb0-94ed-4eba-9abe-6c93c227c465&pf_rd_r=KCEY48HY558SGXB65AHA&qid=1768138423&sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&sr=1-3-66673dcf-083f-43ba-b782-d4a436cc5cfb-spons&aref=QT0ILUJZGS&sp_csd=d2lkZ2V0TmFtZT1zcF9zZWFyY2hfdGhlbWF0aWM&psc=1&linkCode=ll1&tag=rjnshops-21&linkId=60c3cee2ce3d2d4950e4bb20b049429d&language=en_IN&ref_=as_li_ss_tl",
+    "image": "https://m.media-amazon.com/images/I/71nQ-sz+ldL._SL1500_.jpg",
+    "description": "The VELOMAX Wireless Microphone is designed for YouTubers, vloggers, and content creators who need crystal-clear audio. It features advanced noise reduction, a magnetic clip for easy attachment, LED indicators, and a battery display. The dual-channel Type-C receiver allows seamless recording for interviews, podcasts, and video creation.",
+    "features": [
+      "Dual channel wireless microphone system",
+      "Advanced noise reduction technology",
+      "Magnetic clip for easy attachment",
+      "LED indicator with battery display",
+      "Plug & play – no app required",
+      "Type-C port receiver",
+      "Ideal for YouTube, vlogging, interviews & reels"
+    ],
+    "colors": [
+      {
+        "name": "Black",
+        "image": "https://m.media-amazon.com/images/I/71nQ-sz+ldL._SL1500_.jpg"
+      }
+    ],
+    "customerReviews": [
+      {
+        "username": "Amit Sharma",
+        "rating": 5,
+        "comment": "Perfect mic for YouTube videos. Noise reduction works really well and setup is super easy."
+      },
+      {
+        "username": "Neha Gupta",
+        "rating": 4,
+        "comment": "Magnetic clip is very useful and audio quality is clear for indoor recordings."
+      },
+      {
+        "username": "Rohit Kumar",
+        "rating": 4,
+        "comment": "Good battery backup and dual mic support makes interviews very smooth."
+      }
+    ]
+  }
 ]
