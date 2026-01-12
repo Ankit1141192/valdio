@@ -1,101 +1,160 @@
-import React from "react";
-import { useNavigate } from "react-router-dom";
-import products from "../config/Product.json";
-import { Star } from "lucide-react";
+import { motion } from "framer-motion";
+import { Link } from "react-router-dom";
+import {
+  Smartphone,
+  Laptop,
+  Headphones,
+  Watch,
+  Shirt,
+  Gem,
+  Home,
+  ArrowRight,
+  Sparkles,
+} from "lucide-react";
+
+const categories = [
+  {
+    name: "Mobiles",
+    icon: Smartphone,
+    color: "from-orange-500 to-amber-500",
+    count: "120+ Products",
+  },
+  {
+    name: "Electronics",
+    icon: Laptop,
+    color: "from-blue-500 to-cyan-500",
+    count: "85+ Products",
+  },
+  {
+    name: "Tech Gadgets",
+    icon: Headphones,
+    color: "from-purple-500 to-pink-500",
+    count: "65+ Products",
+  },
+  {
+    name: "Fashion",
+    icon: Shirt,
+    color: "from-green-500 to-emerald-500",
+    count: "200+ Products",
+  },
+  {
+    name: "Watches",
+    icon: Watch,
+    color: "from-slate-600 to-slate-800",
+    count: "45+ Products",
+  },
+  {
+    name: "Home Essentials",
+    icon: Home,
+    color: "from-rose-500 to-red-500",
+    count: "90+ Products",
+  },
+  {
+    name: "Jewelry",
+    icon: Gem,
+    color: "from-amber-500 to-yellow-500",
+    count: "35+ Products",
+  },
+];
 
 const CategoriesSection = () => {
-  const isDark = false;
-  const navigate = useNavigate();
-
-  // ✅ Dynamically extract unique categories
-  const uniqueCategories = Array.from(new Set(products.map((p) => p.category)));
-
-  // ✅ Define category-specific icons and colors
-  const categoryConfig = {
-    Mobile: { icon: "📱", color: "from-blue-500 to-indigo-500" },
-    Electronics: { icon: "⚡", color: "from-yellow-500 to-orange-500" },
-    Fashion: { icon: "👔", color: "from-pink-500 to-red-500" },
-    Home: { icon: "🏠", color: "from-green-500 to-emerald-500" },
-    Beauty: { icon: "💄", color: "from-rose-500 to-pink-500" },
-    Fitness: { icon: "💪", color: "from-purple-500 to-violet-500" },
-    Gaming: { icon: "🎮", color: "from-indigo-500 to-cyan-500" },
-    Camera: { icon: "📷", color: "from-sky-500 to-blue-500" },
-    Furniture: { icon: "🛋️", color: "from-teal-500 to-emerald-500" },
-    Accessories: { icon: "🎒", color: "from-amber-500 to-orange-600" },
-  };
-
-  // ✅ Create categories dynamically (default to random color/icon if not defined)
-  const colorPalette = [
-    "from-blue-500 to-cyan-500",
-    "from-purple-500 to-pink-500",
-    "from-orange-500 to-red-500",
-    "from-green-500 to-emerald-500",
-    "from-yellow-500 to-orange-500",
-    "from-pink-500 to-rose-500",
-  ];
-
-  const categories = uniqueCategories.map((cat, index) => {
-    const config = categoryConfig[cat] || {};
-    return {
-      name: cat,
-      icon: config.icon || "🛒",
-      color: config.color || colorPalette[index % colorPalette.length],
-      link: `/products/category/${encodeURIComponent(cat)}`,
-      count: products.filter((p) => p.category === cat).length,
-    };
-  });
-
-  // ✅ Handle category click → navigate + scroll to top
-  const handleCategoryClick = (link) => {
-    navigate(link);
-    window.scrollTo({ top: 0, behavior: "smooth" });
-  };
-
   return (
-    <section
-      className={`py-16 ${
-        isDark ? "bg-gray-900/50" : "bg-white/50"
-      } backdrop-blur`}
-    >
-      <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-        {/* Section Header */}
-        <div className="text-center mb-12">
-          <h3
-            className={`text-3xl font-bold mb-4 ${
-              isDark ? "text-white" : "text-gray-900"
-            }`}
-          >
-            Browse by Category
-          </h3>
-          <p className={`${isDark ? "text-gray-400" : "text-gray-600"}`}>
-            Explore curated collections of your favorite products
-          </p>
-        </div>
+    <section className="py-16 md:py-24 bg-gray-50 relative overflow-hidden">
+      {/* Decorative background blur */}
+      <div className="absolute top-0 right-0 w-72 h-72 bg-orange-100 rounded-full blur-3xl" />
+      <div className="absolute bottom-0 left-0 w-80 h-80 bg-blue-100 rounded-full blur-3xl" />
+
+      <div className="container mx-auto px-4 relative z-10">
+        {/* Header */}
+        <motion.div
+          initial={{ opacity: 0, y: 20 }}
+          whileInView={{ opacity: 1, y: 0 }}
+          viewport={{ once: true }}
+          className="flex flex-col sm:flex-row justify-between gap-4 mb-14"
+        >
+          <div>
+            <span className="inline-flex items-center gap-1 border border-orange-400 text-orange-500 px-3 py-1 rounded-full text-sm mb-4">
+              <Sparkles className="w-3 h-3" />
+              Categories
+            </span>
+
+            <h2 className="text-3xl md:text-4xl font-bold mb-3">
+              Browse by <span className="text-orange-500">Category</span>
+            </h2>
+
+            <p className="text-gray-500 max-w-xl">
+              Explore curated collections of your favorite products across
+              categories
+            </p>
+          </div>
+
+          <Link to="/categories">
+            <button className="mt-4 sm:mt-0 flex items-center gap-2 border bg-white px-5 py-2 rounded-xl shadow-sm hover:shadow-md hover:-translate-y-1 transition">
+              View All Categories
+              <ArrowRight className="w-4 h-4" />
+            </button>
+          </Link>
+        </motion.div>
 
         {/* Categories Grid */}
-        <div className="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-6 gap-6">
-          {categories.map((cat, idx) => (
-            <div
-              key={idx}
-              onClick={() => handleCategoryClick(cat.link)}
-              className="group cursor-pointer transition-transform transform hover:scale-105"
-            >
-              <div
-                className={`bg-gradient-to-br ${cat.color} p-6 rounded-2xl shadow-lg hover:shadow-2xl flex flex-col items-center justify-center relative overflow-hidden`}
-              >
-                {/* Glow animation on hover */}
-                <div className="absolute inset-0 bg-white/10 opacity-0 group-hover:opacity-100 transition duration-300"></div>
+        <div className="grid grid-cols-2 sm:grid-cols-3 lg:grid-cols-4 xl:grid-cols-7 gap-6">
+          {categories.map((category, index) => {
+            const Icon = category.icon;
 
-                <div className="text-4xl mb-3 animate-bounce">{cat.icon}</div>
-                <h4 className="text-white font-semibold mb-1">{cat.name}</h4>
-                <p className="text-white/80 text-sm flex items-center gap-1">
-                  {cat.count} items{" "}
-                  <Star className="w-4 h-4 fill-yellow-400 text-yellow-400" />
-                </p>
-              </div>
-            </div>
-          ))}
+            return (
+              <motion.div
+                key={category.name}
+                initial={{ opacity: 0, y: 20 }}
+                whileInView={{ opacity: 1, y: 0 }}
+                viewport={{ once: true }}
+                transition={{ delay: index * 0.08 }}
+                whileHover={{ y: -10 }}
+              >
+                <Link
+                  to={`/products?category=${encodeURIComponent(
+                    category.name
+                  )}`}
+                  className="group block bg-white p-6 rounded-2xl border border-gray-200 shadow-sm hover:shadow-xl transition-all duration-300 h-full"
+                >
+                  {/* Icon */}
+                  <div
+                    className={`w-14 h-14 rounded-xl bg-gradient-to-br ${category.color} 
+                    flex items-center justify-center mb-4 
+                    group-hover:scale-110 transition-transform duration-300`}
+                  >
+                    <Icon className="w-7 h-7 text-white" />
+                  </div>
+
+                  {/* Title */}
+                  <h3 className="font-semibold text-lg mb-1 group-hover:text-orange-500 transition-colors">
+                    {category.name}
+                  </h3>
+
+                  {/* Count */}
+                  <div className="flex items-center gap-1 text-sm text-gray-500">
+                    {category.count}
+                    <ArrowRight className="w-3 h-3 opacity-0 group-hover:opacity-100 group-hover:translate-x-1 transition-all" />
+                  </div>
+                </Link>
+              </motion.div>
+            );
+          })}
         </div>
+
+        {/* Bottom CTA */}
+        <motion.div
+          initial={{ opacity: 0, y: 20 }}
+          whileInView={{ opacity: 1, y: 0 }}
+          viewport={{ once: true }}
+          className="text-center mt-14"
+        >
+          <Link to="/categories">
+            <button className="inline-flex items-center gap-2 bg-white border px-8 py-3 rounded-xl font-semibold shadow-sm hover:shadow-md hover:-translate-y-1 transition">
+              Explore All Categories
+              <ArrowRight className="w-5 h-5" />
+            </button>
+          </Link>
+        </motion.div>
       </div>
     </section>
   );
