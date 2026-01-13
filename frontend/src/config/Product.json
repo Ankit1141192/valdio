@@ -419,7 +419,7 @@
     "reviewText": "Based on 8K+ customer ratings on Amazon",
     "shortLink": "https://amzn.to/4jD8J8M",
     "fullLink": "https://www.amazon.in/VELOMAX-Channel-Type-C-Port-Version/dp/B0F7RS66CW?content-id=amzn1.sym.0629fcb0-94ed-4eba-9abe-6c93c227c465%3Aamzn1.sym.0629fcb0-94ed-4eba-9abe-6c93c227c465&cv_ct_cx=bluetooth+mic&keywords=bluetooth+mic&pd_rd_i=B0F7RS66CW&pd_rd_r=682fabb0-8e15-4a51-a72b-e8777b731289&pd_rd_w=DjfBY&pd_rd_wg=qlVKu&pf_rd_p=0629fcb0-94ed-4eba-9abe-6c93c227c465&pf_rd_r=KCEY48HY558SGXB65AHA&qid=1768138423&sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&sr=1-3-66673dcf-083f-43ba-b782-d4a436cc5cfb-spons&aref=QT0ILUJZGS&sp_csd=d2lkZ2V0TmFtZT1zcF9zZWFyY2hfdGhlbWF0aWM&psc=1&linkCode=ll1&tag=rjnshops-21&linkId=60c3cee2ce3d2d4950e4bb20b049429d&language=en_IN&ref_=as_li_ss_tl",
-    "image": "https://m.media-amazon.com/images/I/71nQ-sz+ldL._SL1500_.jpg",
+    "image": "https://m.media-amazon.com/images/I/613bD60hxUL._SL1500_.jpg",
     "description": "The VELOMAX Wireless Microphone is designed for YouTubers, vloggers, and content creators who need crystal-clear audio. It features advanced noise reduction, a magnetic clip for easy attachment, LED indicators, and a battery display. The dual-channel Type-C receiver allows seamless recording for interviews, podcasts, and video creation.",
     "features": [
       "Dual channel wireless microphone system",
@@ -433,7 +433,7 @@
     "colors": [
       {
         "name": "Black",
-        "image": "https://m.media-amazon.com/images/I/71nQ-sz+ldL._SL1500_.jpg"
+        "image": "https://m.media-amazon.com/images/I/613bD60hxUL._SL1500_.jpg"
       }
     ],
     "customerReviews": [
@@ -462,13 +462,13 @@
   "discountPrice": 870,
   "discountRate": 19,
   "rating": 4.3,
-  "totalReviews": 5132,
+  "reviews": "5K+",
   "ratingText": "4.3 out of 5 stars",
   "reviewText": "Based on 5,132 customer ratings on Amazon",
-  "shortLink": "https://amzn.to/49xaoIm",
-  "fullLink": "https://www.amazon.in/dp/B076KMS58J?social_share=cm_sw_r_ud_dp_6ARVR7TXDGNCG1SW4BCG&th=1&linkCode=ll1&tag=rjnshops-21&linkId=2e37f27c0f1cc8c31b301c4a3350adc9&language=en_IN&ref_=as_li_ss_tl",
+  "shortLink": "https://amzn.to/3NnOHD5",
+  "fullLink": "https://www.amazon.in/dp/B076KMS58J?social_share=cm_sw_r_ud_dp_6ARVR7TXDGNCG1SW4BCG&th=1&linkCode=ll1&tag=rjnshops-21&linkId=4154017f5d55f96f11ddf63a16eb3881&language=en_IN&ref_=as_li_ss_tl",
   "image": "https://m.media-amazon.com/images/I/613bD60hxUL._SL1500_.jpg",
-  "description": "Zandu Kesari Jivan Fit for Diabetic is a sugar-free Ayurvedic immunity booster enriched with Amla, Giloy, Gokshura and other powerful herbs. Specially formulated for adults and elders, it helps boost immunity without increasing sugar levels, builds strength, stamina, and supports overall health.",
+  "description": "Zandu Kesari Jivan Fit for Diabetic is a sugar-free Ayurvedic immunity booster enriched with Amla, Giloy, Gokshura.",
   "features": [
     "Sugar-free chyawanprash suitable for diabetics",
     "Boosts immunity with Amla, Giloy & Gokshura",
@@ -477,38 +477,22 @@
     "Helps fight seasonal infections & allergies",
     "Low-calorie formulation for daily use"
   ],
-  "sizes": [
+  "colors": [
     {
-      "name": "450 g",
-      "price": 459,
-      "discountPrice": 413,
-      "_id": "69614c8a9fb548d58677412b"
-    },
-    {
-      "name": "900 g",
-      "price": 870,
-      "discountPrice": 709,
-      "_id": "69614c8a9fb548d58677412c"
+      "name": "Default",
+      "image": "https://m.media-amazon.com/images/I/613bD60hxUL._SL1500_.jpg"
     }
   ],
   "customerReviews": [
     {
       "username": "Ramesh Gupta",
       "rating": 5,
-      "comment": "Very good immunity booster. My parents use it daily and feel more energetic.",
-      "_id": "69614c8a9fb548d58677412d"
+      "comment": "Very good immunity booster. My parents use it daily and feel more energetic."
     },
     {
       "username": "Sunita Patel",
       "rating": 4,
-      "comment": "Good for diabetics and tastes fine. Worth the price.",
-      "_id": "69614c8a9fb548d58677412e"
-    },
-    {
-      "username": "Amit Verma",
-      "rating": 4,
-      "comment": "Effective product, especially during seasonal changes.",
-      "_id": "69614c8a9fb548d58677412f"
+      "comment": "Good for diabetics and tastes fine. Worth the price."
     }
   ]
 }
