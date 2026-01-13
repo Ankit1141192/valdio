@@ -453,5 +453,64 @@
         "comment": "Good battery backup and dual mic support makes interviews very smooth."
       }
     ]
-  }
+  },
+  {
+  "id": "energyhelth124",
+  "name": "ZANDU KESARI JIVAN Fit for Diabetic, Ayurvedic Immunity Booster for Adults and Elders, Sugarfree, 900 g",
+  "category": "health-supplements",
+  "price": 709,
+  "discountPrice": 870,
+  "discountRate": 19,
+  "rating": 4.3,
+  "totalReviews": 5132,
+  "ratingText": "4.3 out of 5 stars",
+  "reviewText": "Based on 5,132 customer ratings on Amazon",
+  "shortLink": "https://amzn.to/49xaoIm",
+  "fullLink": "https://www.amazon.in/dp/B076KMS58J?social_share=cm_sw_r_ud_dp_6ARVR7TXDGNCG1SW4BCG&th=1&linkCode=ll1&tag=rjnshops-21&linkId=2e37f27c0f1cc8c31b301c4a3350adc9&language=en_IN&ref_=as_li_ss_tl",
+  "image": "https://m.media-amazon.com/images/I/613bD60hxUL._SL1500_.jpg",
+  "description": "Zandu Kesari Jivan Fit for Diabetic is a sugar-free Ayurvedic immunity booster enriched with Amla, Giloy, Gokshura and other powerful herbs. Specially formulated for adults and elders, it helps boost immunity without increasing sugar levels, builds strength, stamina, and supports overall health.",
+  "features": [
+    "Sugar-free chyawanprash suitable for diabetics",
+    "Boosts immunity with Amla, Giloy & Gokshura",
+    "Helps build energy, strength & stamina",
+    "Supports bone strength and overall vitality",
+    "Helps fight seasonal infections & allergies",
+    "Low-calorie formulation for daily use"
+  ],
+  "sizes": [
+    {
+      "name": "450 g",
+      "price": 459,
+      "discountPrice": 413,
+      "_id": "69614c8a9fb548d58677412b"
+    },
+    {
+      "name": "900 g",
+      "price": 870,
+      "discountPrice": 709,
+      "_id": "69614c8a9fb548d58677412c"
+    }
+  ],
+  "customerReviews": [
+    {
+      "username": "Ramesh Gupta",
+      "rating": 5,
+      "comment": "Very good immunity booster. My parents use it daily and feel more energetic.",
+      "_id": "69614c8a9fb548d58677412d"
+    },
+    {
+      "username": "Sunita Patel",
+      "rating": 4,
+      "comment": "Good for diabetics and tastes fine. Worth the price.",
+      "_id": "69614c8a9fb548d58677412e"
+    },
+    {
+      "username": "Amit Verma",
+      "rating": 4,
+      "comment": "Effective product, especially during seasonal changes.",
+      "_id": "69614c8a9fb548d58677412f"
+    }
+  ]
+}
+
 ]
