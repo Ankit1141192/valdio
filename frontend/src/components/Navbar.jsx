@@ -2,6 +2,7 @@ import React, { useState, useEffect } from "react";
 import { Link, useLocation } from "react-router-dom";
 import styled from "styled-components";
 import { Heart } from "lucide-react";
+import logo from "../assets/logo1.png"
 
 /* 🔹 ScrollToTop Component */
 const ScrollToTop = () => {
@@ -36,13 +37,19 @@ const Navbar = () => {
       <Nav className={`${scrolled ? "scrolled" : ""}`}>
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-16 flex justify-between items-center h-20 font-[Poppins]">
           {/* Logo */}
+
           <Link
             to="/"
             onClick={() => setMenuOpen(false)}
-            className="text-2xl font-extrabold transition bg-clip-text text-transparent bg-gradient-to-r from-green-500 via-blue-500 to-purple-500"
+            className="flex items-center gap-2"
           >
-            RJN_SHOPS
+            <img
+              src={logo}
+              alt="Valdio Logo"
+              className="h-40 w-auto object-contain"
+            />
           </Link>
+
 
           {/* Desktop Links */}
           <div className="hidden md:flex items-center gap-8 font-medium text-lg">

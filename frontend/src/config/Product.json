@@ -1,317 +1,5 @@
 [
   {
-    "id": "appleiphone15123",
-    "name": "Apple iPhone 15 (128 GB)",
-    "category": "mobiles",
-    "discountPrice": 59999.0,
-    "price": 51990.0,
-    "DiscountRate": 12,
-    "discount": 13,
-    "rating": 4.5,
-    "reviews": 6966,
-    "ratingText": "4.5 out of 5 stars",
-    "reviewText": "Based on 6,966 customer ratings on Amazon",
-    "badge": "New Arrival",
-    "shortLink": "https://amzn.to/3KYqQZD",
-    "fullLink": "https://www.amazon.in/Apple-iPhone-15-128-GB/dp/B0CHX1W1XY",
-    "image": "https://m.media-amazon.com/images/I/71657TiFeHL._SL1500_.jpg",
-    "description": "The Apple iPhone 15 (128 GB) features a sleek design, powerful A17 Bionic chip, advanced camera system, and vibrant display. It delivers smooth performance, excellent photography, and a premium user experience, making it one of the most desirable smartphones of the year.",
-    "colors": [
-      {
-        "name": "Black",
-        "image": "https://m.media-amazon.com/images/I/71657TiFeHL._SL1500_.jpg"
-      },
-      {
-        "name": "Blue",
-        "image": "https://m.media-amazon.com/images/I/71d7rfSl0wL._SL1500_.jpg"
-      },
-      {
-        "name": "Pink",
-        "image": "https://m.media-amazon.com/images/I/71nvkHnPpZL._SX679_.jpg"
-      },
-      {
-        "name": "Green",
-        "image": "https://m.media-amazon.com/images/I/71v2jVh6nIL._SX679_.jpg"
-      }
-    ]
-  },
-  {
-    "id": "samsungs23ultra123",
-    "name": "Samsung Galaxy S23 Ultra 5G AI Smartphone",
-    "category": "mobiles",
-    "discountPrice": 149999.0,
-    "price": 79749.0,
-    "DiscountRate": 47,
-    "discount": 10,
-    "rating": 4.6,
-    "reviews": 8567,
-    "ratingText": "4.6 out of 5 stars",
-    "reviewText": "Based on 8,567 customer ratings on Amazon",
-    "badge": "Best Seller",
-    "shortLink": "https://amzn.to/47vNBwJ",
-    "fullLink": "https://www.amazon.in/Samsung-Galaxy-Ultra-Phantom-Storage/dp/B0BT9FDZ8N",
-    "image": "https://m.media-amazon.com/images/I/71goZuIha-L._SL1500_.jpg",
-    "description": "The Samsung Galaxy S23 Ultra 5G offers a powerful Snapdragon 8 Gen 2 chip, dynamic AMOLED 2X display, and a professional-grade 200MP camera system. Designed for photography enthusiasts and multitaskers, it combines elegant design, advanced AI features, and ultra-fast 5G performance.",
-    "colors": [
-      {
-        "name": "Black",
-        "image": "https://m.media-amazon.com/images/I/71goZuIha-L._SL1500_.jpg"
-      },
-      {
-        "name": "Green",
-        "image": "https://m.media-amazon.com/images/I/71lD7eGdW-L._SX679_.jpg"
-      }
-    ]
-  },
-  {
-    "id": "orientfan12345",
-    "name": "Orient Electric 1200 mm Zeno BLDC | BLDC Energy Saving Ceiling Fan with Remote",
-    "category": "electronics",
-    "discountPrice": 4600.0,
-    "price": 2699.0,
-    "DiscountRate": 41,
-    "discount": 41,
-    "rating": 4.4,
-    "reviews": 7000,
-    "ratingText": "4.4 out of 5 stars",
-    "reviewText": "Based on 7,000 customer ratings on Amazon",
-    "badge": "Best Seller",
-    "shortLink": "https://amzn.to/3WgRhMt",
-    "fullLink": "https://www.amazon.in/Orient-Electric-Zeno-BLDC-warranty/dp/B0CHRKX49F",
-    "image": "https://m.media-amazon.com/images/I/41FuGxFRcXL._SL1500_.jpg",
-    "description": "The Orient Electric 1200 mm Zeno BLDC ceiling fan is an energy-efficient fan equipped with a BLDC motor and remote control. It offers superior airflow, quiet operation, and modern design, making it an excellent choice for cooling your living spaces while saving on electricity bills.",
-    "colors": [
-      {
-        "name": "White",
-        "image": "https://m.media-amazon.com/images/I/41FuGxFRcXL._SL1500_.jpg"
-      },
-      {
-        "name": "Brown",
-        "image": "https://m.media-amazon.com/images/I/51XBWGMm2XL._SX679_.jpg"
-      }
-    ]
-  },
-  {
-    "id": "redmia45g12345",
-    "name": "Redmi A4 5G (Starry Black, 4GB RAM, 64GB Storage) | 6.88in 120Hz | 50MP Dual Camera | 18W Fast Charging | Charger in Box",
-    "category": "mobiles",
-    "discountPrice": 10999.0,
-    "price": 7499.0,
-    "DiscountRate": 32,
-    "discount": 32,
-    "rating": 4.3,
-    "reviews": "100K+",
-    "ratingText": "4.3 out of 5 stars",
-    "reviewText": "Based on 100,000+ customer ratings on Amazon",
-    "shortLink": "https://amzn.to/4ngFzg0",
-    "fullLink": "https://www.amazon.in/Redmi-Storage-Segment-Largest-Charging/dp/B0DLW1L5PR",
-    "image": "https://m.media-amazon.com/images/I/718HzJbvY1L._SL1500_.jpg",
-    "description": "Redmi A4 5G is a budget-friendly smartphone featuring a large 6.88-inch 120Hz display, 4GB RAM, and 64GB storage. It boasts a 50MP dual camera setup, 18W fast charging, and comes with a charger in the box, making it an excellent choice for everyday use.",
-    "colors": [
-      {
-        "name": "Starry Black",
-        "image": "https://m.media-amazon.com/images/I/718HzJbvY1L._SL1500_.jpg"
-      },
-      {
-        "name": "Sparkle Purple",
-        "image": "https://m.media-amazon.com/images/I/81BGKLI+cWL._SX679_.jpg"
-      }
-    ]
-  },
-  {
-    "id": "oneplusnordce123",
-    "name": "OnePlus Nord CE4 (Celadon Marble, 8GB RAM, 128GB Storage) | Lifetime Display Warranty",
-    "category": "mobiles",
-    "discountPrice": 24999.0,
-    "price": 18999.0,
-    "DiscountRate": 24,
-    "discount": 24,
-    "rating": 4.4,
-    "reviews": 15000,
-    "ratingText": "4.4 out of 5 stars",
-    "reviewText": "Based on 15,000+ customer ratings on Amazon",
-    "shortLink": "https://amzn.to/3ITDGry",
-    "fullLink": "https://www.amazon.in/OnePlus-Nord-CE4-Lifetime-Warranty/dp/B0CX58MTNN",
-    "image": "https://m.media-amazon.com/images/I/61nxQ62qglL._SL1500_.jpg",
-    "description": "The OnePlus Nord CE4 combines flagship-level performance with sleek design and practical features. Powered by the Qualcomm Snapdragon 7 Gen 3 processor, it offers smooth multitasking and gaming. The 6.7-inch AMOLED display with 120Hz refresh rate delivers vibrant visuals, while the 5500mAh battery ensures all-day power with 100W SUPERVOOC fast charging. Its dual rear cameras (50MP Sony IMX882 sensor + 8MP ultra-wide) capture stunning shots, and OxygenOS provides a clean, fast Android experience. The Nord CE4 also comes with a lifetime display warranty, making it one of the best value-for-money smartphones in its segment.",
-    "colors": [
-      {
-        "name": "Celadon Marble",
-        "image": "https://m.media-amazon.com/images/I/61nxQ62qglL._SL1500_.jpg"
-      },
-      {
-        "name": "Dark Chrome",
-        "image": "https://m.media-amazon.com/images/I/61g1pqSjAhL._SL1500_.jpg"
-      }
-    ]
-  },
-  {
-    "id": "dronekit12345",
-    "name": "DIY Quadcopter Drone Kit with Remote Controller, Motors, Flight Controller, Battery and Propellers",
-    "category": "Tech Gadgets",
-    "discountPrice": 19999.0,
-    "price": 13499.0,
-    "DiscountRate": 34,
-    "discount": 34,
-    "rating": 4.4,
-    "reviews": 15000,
-    "ratingText": "4.4 out of 5 stars",
-    "reviewText": "Based on 15,000+ customer ratings on Amazon",
-    "shortLink": "https://amzn.to/3L8Kty5",
-    "fullLink": "https://www.amazon.in/Quadcopter-Remote-Controller-Battery-Propellers/dp/B0FP2J5LMN?dib=eyJ2IjoiMSJ9.b6bwMMliUOvJW_YDRnFmmooft8qKikoNCWzPKKls9i0S4z9e5pSPbYR3hO4REdxRVERuD7pFvB7hhy93MjcXpDAweXgms19PYbIED9RRtsjhOhkAvSZaygHMYsHiAb3xzWIAcNpjxmcuK7v_VKGc_PKP3LqRYbbAFrL4uRsc27h_2XbMNQ3-EINaJGpHrV7aB0FN2H4FgzScnTWFDwJPNImAj-KUI9blXxZK35UjFHSKYLL-9pCdjeZUoW7Qx1A13FNNBMaLimJAcTyHBoQhxngWYgNLUwbYfwAhcpQByqE.vzL8CIcjhgrpRnKcMF0l2thf1eYIhqrQle6ClaaaWiw&dib_tag=se&keywords=drone+kit&qid=1761061798&sr=8-6&linkCode=ll1&tag=rjnshops-21&linkId=2de48ffb70750b41f83e709288c285a2&language=en_IN&ref_=as_li_ss_tl",
-    "image": "https://m.media-amazon.com/images/I/512q-n6lQuL.jpg",
-    "description": "Build and fly your own DIY Quadcopter Drone with this complete kit. Includes remote controller, motors, flight controller, battery, and propellers. Ideal for indoor and outdoor use, perfect for hobbyists and drone enthusiasts to learn and enjoy flying."
-  },
-  {
-    "id": "smarttv12345",
-    "name": "Samsung 138 cm (55 inches) Vision AI 4K Ultra HD Smart QLED TV QA55QEF1AULXL",
-    "category": "electronics",
-    "discountPrice": 81900.0,
-    "price": 44490.0,
-    "DiscountRate": 46,
-    "discount": 46,
-    "rating": 4.5,
-    "reviews": 12000,
-    "ratingText": "4.5 out of 5 stars",
-    "reviewText": "Based on 12,000+ customer ratings on Amazon",
-    "shortLink": "https://amzn.to/4qn6E3L",
-    "fullLink": "https://www.amazon.in/Samsung-inches-Vision-Ultra-QA55QEF1AULXL/dp/B0F43CHDSN?crid=1OYL6MOX72I34&dib=eyJ2IjoiMSJ9.1w4MGD7r7KcVWS73EdXQsBOWRosePxSVIKC1xvwFI8oYaStYpnE4KtgsG0DLsTDvwCoaVW21FRDJ7jv0sn4eb7tgCLq97XxcUdFGHfpCiekOn78cNoKEGRU2ByKAsWHP_j6W6J-i3i2fDZdbB-_745V-vga1QaoHS4s85INTdBM4gLsOIFNBdK23giWYER4ajTjCU9FSy6CiLuLHZjFC0DCsgYgcx1dcW8K2gGMvl74.EAlgcBhpP2V_d240DtekqM5kWmEsExwkofdIWekrcMk&dib_tag=se&keywords=android%2Btv%2B55%2B%2Binch&qid=1761062435&sprefix=Android%2Btv%2Caps%2C2980&sr=8-7&th=1&linkCode=ll1&tag=rjnshops-21&linkId=dae76531605665f8a3dd06f1c2ca011f&language=en_IN&ref_=as_li_ss_tl",
-    "image": "https://m.media-amazon.com/images/I/81HR558JzLL._SL1500_.jpg",
-    "description": "Experience stunning visuals with the Samsung 138 cm (55 inches) Vision AI 4K Ultra HD Smart QLED TV. Featuring Quantum Dot technology for vibrant colors, AI-powered upscaling, and a sleek design, this TV offers an immersive viewing experience. Enjoy smart features, voice control, and access to popular streaming apps for endless entertainment.",
-    "colors": [
-      {
-        "name": "Black",
-        "image": "https://m.media-amazon.com/images/I/81HR558JzLL._SL1500_.jpg"
-      }
-    ]
-  },
-  {
-    "id": "Tshirt001",
-    "name": "Sleepynuts Men's Regular Fit Round Neck Half Sleeves Solid Casual Wear T-Shirt",
-    "category": "fashion",
-    "discountPrice": 2999.0,
-    "price": 1250.0,
-    "DiscountRate": 58,
-    "discount": 58,
-    "rating": 4.4,
-    "reviews": "1K+",
-    "ratingText": "4.4 out of 5 stars",
-    "reviewText": "Based on 1,000+ customer ratings on Amazon",
-    "shortLink": "https://amzn.to/4quGbl1",
-    "fullLink": "https://www.amazon.in/Sleepynuts-T-Shirt-Pack-Periwinkle-Winslow/dp/B0C4PT4SDD?crid=2HGB3XLZSAIPB&dib=eyJ2IjoiMSJ9.bfZUX8xfTseD2ZPw-MZViJ4C6BotRF_-sjmRi8mgYrw2QEIECLJudG68zoL5i2Tr7L0QMysd_rWbKJ2SkVmGP0gTFttOwJGfwKSaJIVE_vtF5L-53BrNt3vDHQ5UEE6E4nUJPV1VRCEXfv68iPn6beDN0kbIJX7RtppRNI6LwuT0GWYuycfkZM71jOv0jrM3IWOFBcH2kizuA0caRah_OQkgAteb-jZZzM4FhHZsZKkT_0xQYi_3jaHy_UwR-baEVEelKVu-krj-CeIsP2cJUF8vhh1bwK10dPsJwZ1ATrs._JSCA0HJlWc_F8U6h5V4Ku3d0bvxoPVq91IYX8_ikmI&dib_tag=se&keywords=tshirt%2Bfor%2Bman&qid=1761140426&sprefix=T%2Caps%2C355&sr=8-4-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1&psc=1&linkCode=ll1&tag=rjnshops-21&linkId=b7511ce4d12d6ade4d1bfeb74a742240&language=en_IN&ref_=as_li_ss_tl",
-    "image": "https://m.media-amazon.com/images/I/41R6KZtgmaL.jpg",
-    "description": "Sleepynuts Men's Regular Fit Round Neck Half Sleeves Solid Casual Wear T-Shirt is made from high-quality fabric, offering comfort and style for everyday wear. Perfect for casual outings, this t-shirt combines durability with a trendy look.",
-    "colors": [
-      {
-        "name": "Periwinkle, Light Pink, Winslow, Sky Blue",
-        "image": "https://m.media-amazon.com/images/I/41R6KZtgmaL.jpg",
-        "size": [
-          "M",
-          "L",
-          "XL",
-          "XXL"
-        ]
-      },
-      {
-        "name": "Army, Mint Green, Sky Blue, Navy Milli",
-        "image": "https://m.media-amazon.com/images/I/41IVsmqNoFL.jpg",
-        "size": [
-          "M",
-          "L",
-          "XL",
-          "XXL"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "smartWatchNoise1",
-    "name": "Noise Advanced Bluetooth Smartwatch",
-    "category": "watch",
-    "price": 999,
-    "discountPrice": 5999,
-    "discountRate": 40,
-    "rating": 4.0,
-    "reviews": "50K+",
-    "ratingText": "4.0 out of 5 stars",
-    "reviewText": "Based on 50K+ customer ratings on Amazon",
-    "shortLink": "https://amzn.to/4s7AJFd",
-    "fullLink": "https://www.amazon.in/Noise-Advanced-Bluetooth-Brightness-Smartwatch/dp/B0B6BPTFT5",
-    "image": "https://m.media-amazon.com/images/I/610BF3kqBZL._SL1500_.jpg",
-    "description": "The Noise Advanced Bluetooth Smartwatch comes with a sleek design and powerful features to keep you connected and healthy. It supports Bluetooth calling, offers a bright display for clear visibility, and includes multiple health tracking modes. Designed for daily use, fitness, and style.",
-    "features": [
-      "Bluetooth calling with built-in speaker and mic",
-      "Large and bright touchscreen display",
-      "Multiple sports and fitness modes",
-      "Heart rate and SpO2 monitoring",
-      "Smart notifications for calls and apps",
-      "Long-lasting battery life",
-      "Water-resistant design"
-    ],
-    "colors": [
-      {
-        "name": "Black",
-        "image": "https://m.media-amazon.com/images/I/610BF3kqBZL._SL1500_.jpg"
-      },
-      {
-        "name": "Blue",
-        "image": "https://m.media-amazon.com/images/I/61xSTnSOkuL._SL1500_.jpg"
-      }
-    ]
-  },
-  {
-    "id": "iqoo12345",
-    "name": "iQOO Neo 10R 5G (Moonknight Titanium, 8GB RAM, 256GB Storage)",
-    "category": "mobiles",
-    "price": 33999,
-    "discountPrice": 28998,
-    "discountRate": 15,
-    "rating": 4.4,
-    "reviews": "100K+",
-    "ratingText": "4.4 out of 5 stars",
-    "reviewText": "Based on 100K+ customer ratings on Amazon",
-    "shortLink": "https://amzn.to/432s4Jx",
-    "fullLink": "https://www.amazon.in/iQOO-Moonknight-Snapdragon-Processor-Smartphone/dp/B0DW48MM7C?pd_rd_w=DQMaZ&content-id=amzn1.sym.bf23bdc7-6f20-4210-b1c5-da3acd88edba&pf_rd_p=bf23bdc7-6f20-4210-b1c5-da3acd88edba&pf_rd_r=JYCDV86Y253XQ2JMV7MF&pd_rd_wg=lxEF1&pd_rd_r=dba2b9aa-2b0f-47c2-ae32-56624211b5e1&pd_rd_i=B0DW47JCHW&th=1&linkCode=ll1&tag=rjnshops-21&linkId=11426fb72bac8cea8d3dca06f29c7d0e&language=en_IN&ref_=as_li_ss_tl",
-    "image": "https://m.media-amazon.com/images/I/610NUM9jlxL._SL1200_.jpg",
-    "description": "Experience next-level performance with the iQOO Neo 10R 5G powered by the Snapdragon 8s Gen 3 processor. It delivers segment’s most stable 90FPS gaming for up to 5 hours and features India’s slimmest 6400mAh battery. The 120Hz AMOLED display ensures ultra-smooth visuals, while the 8GB RAM and 256GB storage allow effortless multitasking. With a premium Moonknight Titanium design, this device offers a perfect blend of power, style, and durability.",
-    "features": [
-      "Snapdragon 8s Gen 3 flagship processor",
-      "India’s slimmest 6400mAh battery",
-      "Most stable 90FPS gaming for up to 5 hours",
-      "120Hz AMOLED display with vibrant colors",
-      "8GB RAM and 256GB storage",
-      "120W FlashCharge fast charging",
-      "Premium Moonknight Titanium and Raging Blue finishes"
-    ],
-    "colors": [
-      {
-        "name": "Moonknight Titanium",
-        "image": "https://m.media-amazon.com/images/I/610NUM9jlxL._SL1200_.jpg"
-      },
-      {
-        "name": "Raging Blue",
-        "image": "https://m.media-amazon.com/images/I/61wL8Qbo0HL._SX679_.jpg"
-      }
-    ],
-    "customerReviews": [
-      {
-        "username": "Amit Sharma",
-        "rating": 5,
-        "comment": "An absolute powerhouse! The gaming performance is super smooth, and battery life is excellent. Definitely one of the best phones under ₹35,000."
-      },
-      {
-        "username": "Neha Patel",
-        "rating": 4,
-        "comment": "Sleek design with flagship-level performance. The display quality and charging speed are impressive!"
-      },
-      {
-        "username": "Rohit Verma",
-        "rating": 4,
-        "comment": "Camera performance could be slightly better, but overall, the performance and battery are top-notch."
-      }
-    ]
-  },
-  {
     "id": "mici9utrirfjrt",
     "name": "pTron KWM-1 Omnidirectional Type C Wireless Microphone (Black)",
     "category": "audio-accessories",
@@ -322,8 +10,8 @@
     "reviews": "15K+",
     "ratingText": "4.1 out of 5 stars",
     "reviewText": "Based on 15K+ customer ratings on Amazon",
-    "shortLink": "https://amzn.to/4soaM4w",
-    "fullLink": "https://www.amazon.in/pTron-Omnidirectional-Microphone-Cancellation-Recording/dp/B0FCYMP4D2?adgrpid=57666398623&dib=eyJ2IjoiMSJ9.WR_UyAFznv-MH1SdopEP2dnc3uCWmPR7NDlKcUHzjBCMcVTTWQNCJnnxcaMV6PHFXqrGHHzF5DybajJpjfS78vDOfRXhmWKu7gD7ub1XXClqnnmHAXrmSnc3R-BznakYIRDyAJ2_wUIt1mUbci1K58EYAVTzGUxyWFcyIMBdJnbi9T2m9D8FiaK9nk06SIhhuzo7D4EWE3OlFkcbW7Fo5qPuSuHLtsEaWM1baXT0KCOr1eQIPwmsYYXEXQpA760H-Fz32I0r9JNAXmjj2ZdPT4Eoqo61wzVdvlVm0qIgJuU.kaz4O7rOFED4-B48bc7ZpV29hk8b6V4UHo5wki_i9xA&dib_tag=se&ext_vrnc=hi&hvadid=590593902702&hvdev=c&hvlocphy=9299984&hvnetw=g&hvqmt=e&hvrand=13530169894889798927&hvtargid=kwd-324657025360&hydadcr=24564_2265423&keywords=bluetooth%2Bmic%2Bprice&mcid=3f0101ef718d31f59459988eec82d99d&qid=1767629906&sr=8-21-spons&aref=s3so5J7LpW&sp_csd=d2lkZ2V0TmFtZT1zcF9tdGY&th=1&linkCode=ll1&tag=rjnshops-21&linkId=8ccd3693f1263aaf027ad9de79b98363&language=en_IN&ref_=as_li_ss_tl",
+    "shortLink": "https://amzn.to/4aXcqE3",
+    "fullLink": "https://www.amazon.in/pTron-Omnidirectional-Microphone-Cancellation-Recording/dp/B0FCYMP4D2?crid=2B5PG69QJX8P8&dib=eyJ2IjoiMSJ9.vJ_Fcq6JWYGSUh62ztGKHlpyiw0wQJmrILO3wC2O9E-2-t0XMO33vbRnu005V_4Iq1O5c9vvwltalM16BEO09tWqxRYY5Lqq1odgrvranpw7pIxJRO7IaA1AGkIA1z40WUC5eGxXdKY2De0vcYOBUjLfV1ybOhpvHYZnn9hfUqHQ_1GVh5NRjDyiXn6bq3yv_Z2dXjNE6VMvCICtQpGKY0GITr1B4EwqbvnHxHKygg8joiwipT_8H4aQVRl-hMaYGSHUkHg75C3sEZ3rHvpgSie5SeMLvrfDHLE5ClcV5mw.KKf4cv8hwP54BRpLOvwu2AaG7ZLuzpYvLbI8jiMa-tw&dib_tag=se&keywords=ptron+mic&nsdOptOutParam=true&qid=1768499026&s=computers&sprefix=ptron+mi%2Ccomputers%2C561&sr=1-1-spons&aref=038592cYsk&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1&linkCode=ll1&tag=valdio-21&linkId=793f4b327ed84726f8ea9fa95b6992f8&language=en_IN&ref_=as_li_ss_tl",
     "image": "https://m.media-amazon.com/images/I/61qPfqflVWL._SL1200_.jpg",
     "description": "The pTron KWM-1 is a compact omnidirectional wireless microphone designed for content creators, vloggers, and online educators. Featuring DSP noise cancellation and a 25m wireless range, it ensures clear and stable audio recording. With plug-and-play functionality and Type-C support, it works seamlessly with Android smartphones and compatible iPhones, making it ideal for video recording, interviews, and live streaming.",
     "features": [
@@ -370,8 +58,8 @@
     "reviews": "25K+",
     "ratingText": "4.3 out of 5 stars",
     "reviewText": "Based on 25K+ customer ratings on Amazon",
-    "shortLink": "https://amzn.to/4qHe4Ou",
-    "fullLink": "https://www.amazon.in/dp/B09HNVYVQW?social_share=cm_sw_r_cp_ud_dp_6Q0AXHH0W03RA0TC2EJA&th=1&linkCode=ll1&tag=rjnshops-21&linkId=2c37b05cd23889a5e87f53402149c7d5&language=en_IN&ref_=as_li_ss_tl",
+    "shortLink": "https://amzn.to/4rg1zKr",
+    "fullLink": "https://www.amazon.in/dp/B09HNVYVQW?_encoding=UTF8&th=1&linkCode=ll1&tag=valdio-21&linkId=77bec4edb5dba24911375004f5103cff&language=en_IN&ref_=as_li_ss_tl",
     "image": "https://m.media-amazon.com/images/I/91lbWjMqULL._SY625_.jpg",
     "description": "The Shining Diva Fashion Traditional Pearl Kundan Choker Necklace Set is a perfect blend of elegance and ethnic charm. Designed with premium-quality pearls and kundan stones, this jewellery set enhances your traditional outfits and is ideal for weddings, festivals, and special occasions.",
     "features": [
@@ -407,94 +95,98 @@
     ]
   },
   {
-    "id": "micvelomax001",
-    "name": "VELOMAX YouTube Wireless Noise Reduction Magnetic Clip Microphone (Dual Channel Type-C)",
-    "category": "audio-accessories",
-    "price": 999,
-    "discountPrice": 1999,
-    "discountRate": 50,
-    "rating": 4.1,
-    "reviews": "8K+",
-    "ratingText": "4.1 out of 5 stars",
-    "reviewText": "Based on 8K+ customer ratings on Amazon",
-    "shortLink": "https://amzn.to/4jD8J8M",
-    "fullLink": "https://www.amazon.in/VELOMAX-Channel-Type-C-Port-Version/dp/B0F7RS66CW?content-id=amzn1.sym.0629fcb0-94ed-4eba-9abe-6c93c227c465%3Aamzn1.sym.0629fcb0-94ed-4eba-9abe-6c93c227c465&cv_ct_cx=bluetooth+mic&keywords=bluetooth+mic&pd_rd_i=B0F7RS66CW&pd_rd_r=682fabb0-8e15-4a51-a72b-e8777b731289&pd_rd_w=DjfBY&pd_rd_wg=qlVKu&pf_rd_p=0629fcb0-94ed-4eba-9abe-6c93c227c465&pf_rd_r=KCEY48HY558SGXB65AHA&qid=1768138423&sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&sr=1-3-66673dcf-083f-43ba-b782-d4a436cc5cfb-spons&aref=QT0ILUJZGS&sp_csd=d2lkZ2V0TmFtZT1zcF9zZWFyY2hfdGhlbWF0aWM&psc=1&linkCode=ll1&tag=rjnshops-21&linkId=60c3cee2ce3d2d4950e4bb20b049429d&language=en_IN&ref_=as_li_ss_tl",
+    "id": "energyhelth124",
+    "name": "ZANDU KESARI JIVAN Fit for Diabetic, Ayurvedic Immunity Booster for Adults and Elders, Sugarfree, 900 g",
+    "category": "health-supplements",
+    "price": 709,
+    "discountPrice": 870,
+    "discountRate": 19,
+    "rating": 4.3,
+    "reviews": "5K+",
+    "ratingText": "4.3 out of 5 stars",
+    "reviewText": "Based on 5,132 customer ratings on Amazon",
+    "shortLink": "https://amzn.to/4sFeTJw",
+    "fullLink": "https://www.amazon.in/Diabetic-Ayurvedic-Strengthens-Revitalizer-Sugarfree/dp/B076KMS58J?pd_rd_w=QEvhc&content-id=amzn1.sym.04d3fdac-1b15-414f-91d2-0c9aaaf137d6%3Aamzn1.symc.30e3dbb4-8dd8-4bad-b7a1-a45bcdbc49b8&pf_rd_p=04d3fdac-1b15-414f-91d2-0c9aaaf137d6&pf_rd_r=J147VDCMTFGGVCBTFVSF&pd_rd_wg=0T4bG&pd_rd_r=fd926fc8-1b91-4a00-b0ef-b0f0990359ab&pd_rd_i=B076KMS58J&th=1&linkCode=ll1&tag=valdio-21&linkId=4ff3c8e9fc6e214c41839361366ed791&language=en_IN&ref_=as_li_ss_tl",
     "image": "https://m.media-amazon.com/images/I/613bD60hxUL._SL1500_.jpg",
-    "description": "The VELOMAX Wireless Microphone is designed for YouTubers, vloggers, and content creators who need crystal-clear audio. It features advanced noise reduction, a magnetic clip for easy attachment, LED indicators, and a battery display. The dual-channel Type-C receiver allows seamless recording for interviews, podcasts, and video creation.",
+    "description": "Zandu Kesari Jivan Fit for Diabetic is a sugar-free Ayurvedic immunity booster enriched with Amla, Giloy, Gokshura.",
     "features": [
-      "Dual channel wireless microphone system",
-      "Advanced noise reduction technology",
-      "Magnetic clip for easy attachment",
-      "LED indicator with battery display",
-      "Plug & play – no app required",
-      "Type-C port receiver",
-      "Ideal for YouTube, vlogging, interviews & reels"
+      "Sugar-free chyawanprash suitable for diabetics",
+      "Boosts immunity with Amla, Giloy & Gokshura",
+      "Helps build energy, strength & stamina",
+      "Supports bone strength and overall vitality",
+      "Helps fight seasonal infections & allergies",
+      "Low-calorie formulation for daily use"
     ],
     "colors": [
       {
-        "name": "Black",
+        "name": "Default",
         "image": "https://m.media-amazon.com/images/I/613bD60hxUL._SL1500_.jpg"
       }
     ],
     "customerReviews": [
       {
-        "username": "Amit Sharma",
+        "username": "Ramesh Gupta",
         "rating": 5,
-        "comment": "Perfect mic for YouTube videos. Noise reduction works really well and setup is super easy."
+        "comment": "Very good immunity booster. My parents use it daily and feel more energetic."
       },
       {
-        "username": "Neha Gupta",
+        "username": "Sunita Patel",
         "rating": 4,
-        "comment": "Magnetic clip is very useful and audio quality is clear for indoor recordings."
-      },
-      {
-        "username": "Rohit Kumar",
-        "rating": 4,
-        "comment": "Good battery backup and dual mic support makes interviews very smooth."
+        "comment": "Good for diabetics and tastes fine. Worth the price."
       }
     ]
   },
   {
-  "id": "energyhelth124",
-  "name": "ZANDU KESARI JIVAN Fit for Diabetic, Ayurvedic Immunity Booster for Adults and Elders, Sugarfree, 900 g",
-  "category": "health-supplements",
-  "price": 709,
-  "discountPrice": 870,
-  "discountRate": 19,
-  "rating": 4.3,
-  "reviews": "5K+",
-  "ratingText": "4.3 out of 5 stars",
-  "reviewText": "Based on 5,132 customer ratings on Amazon",
-  "shortLink": "https://amzn.to/3NnOHD5",
-  "fullLink": "https://www.amazon.in/dp/B076KMS58J?social_share=cm_sw_r_ud_dp_6ARVR7TXDGNCG1SW4BCG&th=1&linkCode=ll1&tag=rjnshops-21&linkId=4154017f5d55f96f11ddf63a16eb3881&language=en_IN&ref_=as_li_ss_tl",
-  "image": "https://m.media-amazon.com/images/I/613bD60hxUL._SL1500_.jpg",
-  "description": "Zandu Kesari Jivan Fit for Diabetic is a sugar-free Ayurvedic immunity booster enriched with Amla, Giloy, Gokshura.",
-  "features": [
-    "Sugar-free chyawanprash suitable for diabetics",
-    "Boosts immunity with Amla, Giloy & Gokshura",
-    "Helps build energy, strength & stamina",
-    "Supports bone strength and overall vitality",
-    "Helps fight seasonal infections & allergies",
-    "Low-calorie formulation for daily use"
-  ],
-  "colors": [
-    {
-      "name": "Default",
-      "image": "https://m.media-amazon.com/images/I/613bD60hxUL._SL1500_.jpg"
-    }
-  ],
-  "customerReviews": [
-    {
-      "username": "Ramesh Gupta",
-      "rating": 5,
-      "comment": "Very good immunity booster. My parents use it daily and feel more energetic."
-    },
-    {
-      "username": "Sunita Patel",
-      "rating": 4,
-      "comment": "Good for diabetics and tastes fine. Worth the price."
-    }
-  ]
-}
-
+    "id": "noisepulse2max01",
+    "name": "Noise Pulse 2 Max 1.85\" Display Bluetooth Calling Smart Watch (Deep Wine)",
+    "category": "smart-watches",
+    "price": 1377,
+    "discountPrice": 5999,
+    "discountRate": 77,
+    "rating": 4.2,
+    "reviews": "1L+",
+    "ratingText": "4.2 out of 5 stars",
+    "reviewText": "Based on 1L+ customer ratings on Amazon",
+    "shortLink": "https://amzn.to/4sGLJdb",
+    "fullLink": "https://www.amazon.in/Noise-Advanced-Bluetooth-Brightness-Smartwatch/dp/B0B6BPTFT5?pd_rd_w=Vj1VD&content-id=amzn1.sym.04d3fdac-1b15-414f-91d2-0c9aaaf137d6%3Aamzn1.symc.30e3dbb4-8dd8-4bad-b7a1-a45bcdbc49b8&pf_rd_p=04d3fdac-1b15-414f-91d2-0c9aaaf137d6&pf_rd_r=WHDGTQEMK8W2MC6V6648&pd_rd_wg=jDfMY&pd_rd_r=b2f9963c-c370-436e-9991-7406cfcbba7f&pd_rd_i=B0B6BPTFT5&th=1&linkCode=ll1&tag=valdio-21&linkId=a8da855aa2557369921a325674c723de&language=en_IN&ref_=as_li_ss_tl",
+    "image": "https://m.media-amazon.com/images/I/610BF3kqBZL._SL1500_.jpg",
+    "description": "The Noise Pulse 2 Max Smartwatch features a large 1.85-inch display with 550 nits brightness for excellent outdoor visibility. Equipped with Bluetooth calling, Smart DND, and up to 10 days of battery life, it is designed for everyday fitness and productivity. With support for 100+ sports modes and health tracking features, this smartwatch is ideal for both men and women.",
+    "features": [
+      "1.85-inch large display with 550 nits brightness",
+      "Bluetooth calling with built-in microphone & speaker",
+      "Up to 10 days battery life",
+      "Smart DND & notification management",
+      "100+ sports modes",
+      "Heart rate, SpO2 & sleep tracking",
+      "IP68 water resistance",
+      "Compatible with Android & iOS devices"
+    ],
+    "colors": [
+      {
+        "name": "Deep Wine",
+        "image": "https://m.media-amazon.com/images/I/610BF3kqBZL._SL1500_.jpg"
+      },
+      {
+        "name": "Jet Black",
+        "image": "https://m.media-amazon.com/images/I/61bm7UEdGAL._SX679_.jpg"
+      }
+    ],
+    "customerReviews": [
+      {
+        "username": "Amit Verma",
+        "rating": 5,
+        "comment": "Amazing display quality and Bluetooth calling works smoothly. Battery easily lasts a week."
+      },
+      {
+        "username": "Sneha Kapoor",
+        "rating": 4,
+        "comment": "Very stylish and comfortable to wear. Fitness tracking is accurate for daily use."
+      },
+      {
+        "username": "Rahul Singh",
+        "rating": 4,
+        "comment": "Good smartwatch at this price. Bright screen and lots of sports modes."
+      }
+    ]
+  }
 ]
