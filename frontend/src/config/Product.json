@@ -188,5 +188,508 @@
         "comment": "Good smartwatch at this price. Bright screen and lots of sports modes."
       }
     ]
-  }
+  },
+  {
+    "id": "aurvytrackpant01",
+    "name": "AURVY Men’s Regular Fit Track Pants | Lightweight Stretchable Joggers with Side Pockets",
+    "category": "men-clothing",
+    "price": 379,
+    "discountPrice": 999,
+    "discountRate": 62,
+    "rating": 3.8,
+    "reviews": 34,
+    "ratingText": "3.8 out of 5 stars",
+    "reviewText": "Based on 34 customer ratings on Amazon",
+    "shortLink": "https://amzn.to/4sYqgg2",
+    "fullLink": "https://www.amazon.in/dp/B0FW53XWRN?social_share=cm_sw_r_cso_wa_apan_dp_N9MTY5D46GNNWXDR41WK&th=1&psc=1&linkCode=ll1&tag=valdio-21&linkId=6c0088355b13b127a985bba21e3f73fd&language=en_IN&ref_=as_li_ss_tl",
+    "image": "https://m.media-amazon.com/images/I/51t6+BJgaaL._SY741_.jpg",
+    "description": "AURVY men’s regular fit track pants are designed for comfort and versatility. Made from a breathable cotton blend fabric, these lightweight and stretchable joggers are ideal for gym workouts, running, and casual daily wear. Featuring side pockets and an adjustable drawstring waist, they provide both style and practicality.",
+    "features": [
+      "Lightweight & breathable cotton blend fabric",
+      "Regular fit with modern tapered design",
+      "Elastic cuffs for a secure ankle fit",
+      "Adjustable drawstring waist",
+      "Convenient side pockets",
+      "Suitable for gym, running & casual wear",
+      "Machine wash cold with like colors"
+    ],
+    "colors": [
+      {
+        "name": "Grey",
+        "image": "https://m.media-amazon.com/images/I/51t6+BJgaaL._SY741_.jpg"
+      },
+      {
+        "name": "Black",
+        "image": "https://m.media-amazon.com/images/I/41kJH+3gTcL.jpg"
+      }
+    ],
+    "sizes": [
+      "M",
+      "L",
+      "XL",
+      "2XL",
+      "3XL"
+    ],
+    "productDetails": {
+      "material": "Cotton Blend",
+      "length": "Full-length",
+      "style": "Sweatpants / Joggers",
+      "closureType": "Drawstring",
+      "fitType": "Regular",
+      "careInstructions": "Machine wash cold",
+      "countryOfOrigin": "India"
+    },
+    "deliveryInfo": {
+      "delivery": "Free Delivery",
+      "returnPolicy": "10 days Return & Exchange",
+      "fulfilledBy": "Amazon Delivered",
+      "secureTransaction": true
+    },
+    "customerReviews": [
+      {
+        "username": "Rohit Kumar",
+        "rating": 4,
+        "comment": "Comfortable and lightweight track pants. Good for daily gym sessions."
+      },
+      {
+        "username": "Anuj Sharma",
+        "rating": 3,
+        "comment": "Decent quality for the price. Fit is good but fabric is slightly thin."
+      },
+      {
+        "username": "Vikas Singh",
+        "rating": 4,
+        "comment": "Nice stretch and comfortable pockets. Worth buying on discount."
+      }
+    ]
+  },
+  {
+    "id": "moonkeylabsbaggypant01",
+    "name": "Moonkey Labs Men's Baggy Track Pants | Baggy Streetwear Cotton Track Pants with Elastic Waist",
+    "category": "men-clothing",
+    "price": 399,
+    "discountPrice": 1999,
+    "discountRate": 80,
+    "rating": 4.6,
+    "reviews": 6,
+    "ratingText": "4.6 out of 5 stars",
+    "reviewText": "Based on 6 customer ratings on Amazon",
+    "shortLink": "https://amzn.to/3YIsLFe",
+    "fullLink": "https://www.amazon.in/dp/B0FKZ7S4JP?social_share=cm_sw_r_cso_wa_apan_dp_S2H5X7W3J8A3YXGPP8ZQ&th=1&psc=1&linkCode=ll1&tag=valdio-21&linkId=99a44c286afe8edeee3e8ee8f41907ae&language=en_IN&ref_=as_li_ss_tl",
+    "image": "https://m.media-amazon.com/images/I/513e0dplz3L._SY741_.jpg",
+    "description": "Moonkey Labs men's baggy track pants are designed for modern streetwear lovers who value comfort and style. Made from 100% cotton, these relaxed-fit track pants feature an elastic drawstring waist and a bold white graphic print on both legs. Ideal for casual outings, gym wear, and everyday street styling.",
+    "features": [
+      "Baggy streetwear-inspired design",
+      "100% cotton soft & breathable fabric",
+      "Oversized relaxed fit for all-day comfort",
+      "Elastic waistband with adjustable drawstring",
+      "Bold white graphic print on both legs",
+      "Suitable for casual wear, streetwear & gym",
+      "Pairs well with athletic and casual footwear"
+    ],
+    "colors": [
+      {
+        "name": "Black",
+        "image": "https://m.media-amazon.com/images/I/513e0dplz3L._SY741_.jpg"
+      }
+    ],
+    "sizes": [
+      "S",
+      "M"
+    ],
+    "productDetails": {
+      "material": "Cotton",
+      "length": "Full Length",
+      "style": "Casual / Streetwear",
+      "closureType": "Drawstring",
+      "occasion": "Casual",
+      "careInstructions": "Machine wash cold, tumble dry low, do not bleach, iron on low if needed",
+      "fitType": "Baggy / Relaxed Fit",
+      "countryOfOrigin": "India"
+    },
+    "deliveryInfo": {
+      "delivery": "Free Delivery",
+      "returnPolicy": "10 days Return & Exchange",
+      "fulfilledBy": "Amazon Delivered",
+      "secureTransaction": true
+    },
+    "additionalInfo": {
+      "manufacturer": "Moonkey Labs",
+      "packer": "Moonkey Labs",
+      "contact": "+91 8072078467",
+      "itemWeight": "300 g",
+      "dimensions": "100 x 30 x 3 cm",
+      "netQuantity": "20 Count",
+      "genericName": "Baggy Pants"
+    },
+    "customerReviews": [
+      {
+        "username": "Karan Mehta",
+        "rating": 5,
+        "comment": "Amazing streetwear look. Fabric is soft and very comfortable."
+      },
+      {
+        "username": "Rishabh Jain",
+        "rating": 4,
+        "comment": "Baggy fit is perfect. Looks great with sneakers and hoodies."
+      },
+      {
+        "username": "Aakash Verma",
+        "rating": 5,
+        "comment": "Loved the graphic print. Worth the price on discount."
+      }
+    ]
+  },
+  {
+    "id": "kottyjeans01",
+    "name": "KOTTY Men’s Regular Fit Jeans | Classic Design with Stylish Look | Mid Rise Stretchable Jeans",
+    "category": "men-clothing",
+    "price": 420,
+    "discountPrice": 1999,
+    "discountRate": 79,
+    "rating": 3.6,
+    "reviews": 997,
+    "ratingText": "3.6 out of 5 stars",
+    "reviewText": "Based on 997 customer ratings on Amazon",
+    "shortLink": "https://amzn.to/45Y6qaD",
+    "fullLink": "https://www.amazon.in/dp/B0DWK2B887?social_share=cm_sw_r_cso_wa_apan_dp_CYW58607WE7CDNM86ZN1&th=1&psc=1&linkCode=ll1&tag=valdio-21&linkId=d7ac20281d3892b833ef9a9f73162102&language=en_IN&ref_=as_li_ss_tl",
+    "image": "https://m.media-amazon.com/images/I/61dFcpPdJkL._SY741_.jpg",
+    "description": "KOTTY men's regular fit jeans are designed with a classic yet modern look for everyday comfort. Made from a durable cotton blend fabric, these mid-rise stretchable jeans provide ease of movement and long-lasting comfort. Perfect for daily wear as well as special occasions, they combine style, comfort, and versatility.",
+    "features": [
+      "Regular fit with classic modern design",
+      "Mid-rise waist for all-day comfort",
+      "Stretchable cotton blend fabric",
+      "Button closure with secure fit",
+      "Suitable for casual and special occasions",
+      "Durable and breathable material",
+      "Easy to maintain with machine wash care"
+    ],
+    "colors": [
+      {
+        "name": "Light Blue",
+        "image": "https://m.media-amazon.com/images/I/61dFcpPdJkL._SY741_.jpg"
+      },
+      {
+        "name": "Dark Blue",
+        "image": "https://m.media-amazon.com/images/I/61Lj1VceDvL._SY741_.jpg"
+      },
+      {
+        "name": "Carbon Black",
+        "image": "https://m.media-amazon.com/images/I/51t76ewGTaL._SY741_.jpg"
+      }
+    ],
+    "sizes": [
+      "28",
+      "30",
+      "32",
+      "34"
+    ],
+    "productDetails": {
+      "material": "Cotton Blend",
+      "length": "Standard Length",
+      "style": "Modern",
+      "closureType": "Button",
+      "fitType": "Regular Fit",
+      "rise": "Mid Rise",
+      "occasion": "Wedding, Christmas, Anniversary, Birthday, Valentine's Day",
+      "careInstructions": "Machine Wash",
+      "countryOfOrigin": "India"
+    },
+    "deliveryInfo": {
+      "delivery": "Free Delivery",
+      "returnPolicy": "10 days Return & Exchange",
+      "fulfilledBy": "Amazon Delivered",
+      "cashOnDelivery": true,
+      "secureTransaction": true,
+      "badge": "Top Brand"
+    },
+    "customerReviews": [
+      {
+        "username": "Rahul Sharma",
+        "rating": 4,
+        "comment": "Good quality jeans for the price. Fit is comfortable and fabric feels decent."
+      },
+      {
+        "username": "Aman Verma",
+        "rating": 3,
+        "comment": "Looks stylish but fabric is slightly thin. Okay for regular use."
+      },
+      {
+        "username": "Suresh Kumar",
+        "rating": 4,
+        "comment": "Nice fitting jeans. Color is same as shown in the images."
+      }
+    ]
+  },
+  {
+    "id": "colorchakra-sweater01",
+    "name": "ColorChakra Waffle Knit Men’s Sweater | Woolen Round Neck Pullover",
+    "category": "men-clothing",
+    "price": 499,
+    "discountPrice": 1899,
+    "discountRate": 74,
+    "rating": 3.5,
+    "reviews": 124,
+    "ratingText": "3.5 out of 5 stars",
+    "reviewText": "Based on 124 customer ratings on Amazon",
+    "shortLink": "https://amzn.to/49E5tW9",
+    "fullLink": "https://www.amazon.in/dp/B0DRS8HV4C?social_share=cm_sw_r_cso_wa_apan_dp_WCWZKMDV3VYGW5XCZPHZ&th=1&psc=1&linkCode=ll1&tag=valdio-21&linkId=548d26b6d9c3eb6b1e5454bb89c034ad&language=en_IN&ref_=as_li_ss_tl",
+    "image": "https://m.media-amazon.com/images/I/51OtG0Rir1L.jpg",
+    "description": "ColorChakra waffle knit men’s sweater is crafted from pure wool to provide warmth and comfort during winter. Designed with a classic round neck and regular fit, this woolen pullover is suitable for casual outings, office wear, college, and parties. Easy to style with jeans, trousers, or formal pants for a versatile winter look.",
+    "features": [
+      "Pure wool fabric for warmth and comfort",
+      "Waffle knit design with stylish texture",
+      "Regular fit with round (crew) neck",
+      "Full sleeves for winter wear",
+      "Suitable for daily wear, office, college & parties",
+      "Comfortable and breathable winter sweater",
+      "Machine washable for easy care"
+    ],
+    "colors": [
+      {
+        "name": "Wine",
+        "image": "https://m.media-amazon.com/images/I/51OtG0Rir1L.jpg"
+      },
+      {
+        "name": "Anthra",
+        "image": "https://m.media-amazon.com/images/I/51Ez6hsoE5L.jpg"
+      },
+      {
+        "name": "Off White",
+        "image": "https://m.media-amazon.com/images/I/61IdMcI6mEL.jpg"
+      }
+    ],
+    "sizes": [
+      "M",
+      "L",
+      "XL",
+      "2XL",
+      "3XL",
+      "4XL",
+      "5XL"
+    ],
+    "productDetails": {
+      "material": "Pure Wool",
+      "neckStyle": "Crew Neck / Round Neck",
+      "fitType": "Regular Fit",
+      "sleeves": "Full Sleeves",
+      "length": "Standard Length",
+      "season": "Winter",
+      "occasion": "Daily Wear, Office Wear, College, Parties",
+      "careInstructions": "Machine Wash",
+      "ageRange": "Adult",
+      "countryOfOrigin": "India"
+    },
+    "deliveryInfo": {
+      "delivery": "Free Delivery",
+      "returnPolicy": "10 days Return & Exchange",
+      "fulfilledBy": "Amazon Delivered",
+      "cashOnDelivery": true,
+      "secureTransaction": true,
+      "badge": "Top Brand"
+    },
+    "additionalInfo": {
+      "manufacturer": "K FIALOK TRENDZ, Village Bhattian, Ludhiana",
+      "packer": "K FIALOK TRENDZ, Village Bhattian, Ludhiana",
+      "itemWeight": "400 g",
+      "dimensions": "26 x 2 x 28 cm",
+      "netQuantity": "1 Count",
+      "genericName": "Sweater"
+    },
+    "customerReviews": [
+      {
+        "username": "Deepak Singh",
+        "rating": 4,
+        "comment": "Good wool quality and warm enough for winters. Fit is comfortable."
+      },
+      {
+        "username": "Nitin Verma",
+        "rating": 3,
+        "comment": "Decent sweater for the price. Looks good with jeans."
+      },
+      {
+        "username": "Amit Kumar",
+        "rating": 4,
+        "comment": "Nice color and soft fabric. Suitable for office and casual wear."
+      }
+    ]
+  },
+  {
+    "id": "jumpcuts-trackpant01",
+    "name": "Jump Cuts Men’s Printed Side Tape Track Pants | Polyester Joggers",
+    "category": "men-clothing",
+    "price": 459,
+    "discountPrice": 1999,
+    "discountRate": 77,
+    "rating": 5.0,
+    "reviews": 3,
+    "ratingText": "5.0 out of 5 stars",
+    "reviewText": "Based on 3 customer ratings on Amazon",
+    "shortLink": "https://amzn.to/4qqWzCA",
+    "fullLink": "https://www.amazon.in/dp/B0FSSS14DS?social_share=cm_sw_r_cso_wa_apan_dp_DXXF4CJHRQ6SVWMZ4R0Z&th=1&psc=1&linkCode=ll1&tag=valdio-21&linkId=e110fb49855baaba08d47398549d16f5&language=en_IN&ref_=as_li_ss_tl",
+    "image": "https://m.media-amazon.com/images/I/71OOBIaCgzL._SY741_.jpg",
+    "description": "Jump Cuts men’s printed side tape track pants are designed for comfort and style. Made from lightweight polyester fabric, these loose-fit joggers feature a modern side tape design and an adjustable drawstring waist. Ideal for casual wear, workouts, and everyday use, they offer durability and ease of movement.",
+    "features": [
+      "Lightweight polyester fabric",
+      "Printed side tape for a stylish look",
+      "Loose fit jogger-style track pants",
+      "Elastic waistband with drawstring closure",
+      "Long length for full coverage",
+      "Comfortable for casual wear and workouts",
+      "Easy care with machine wash"
+    ],
+    "colors": [
+      {
+        "name": "Beige",
+        "image": "https://m.media-amazon.com/images/I/71OOBIaCgzL._SY741_.jpg"
+      }
+    ],
+    "sizes": [
+      "S",
+      "M"
+    ],
+    "sizeGuide": {
+      "S": "28-30",
+      "M": "30-32",
+      "L": "32-34",
+      "XL": "34-36"
+    },
+    "productDetails": {
+      "material": "Polyester",
+      "length": "Long Length",
+      "style": "Jogger",
+      "closureType": "Drawstring",
+      "fitType": "Loose Fit",
+      "careInstructions": "Machine Wash",
+      "countryOfOrigin": "India"
+    },
+    "deliveryInfo": {
+      "delivery": "Free Delivery",
+      "returnPolicy": "10 days Return & Exchange",
+      "fulfilledBy": "Amazon Delivered",
+      "cashOnDelivery": true,
+      "secureTransaction": true
+    },
+    "additionalInfo": {
+      "manufacturer": "Friske Knits Private Limited, Tiruppur, Tamil Nadu",
+      "packer": "Friske Knits Private Limited, Tiruppur, Tamil Nadu",
+      "importer": "Friske Knits Private Limited, Tiruppur, Tamil Nadu",
+      "itemWeight": "400 g",
+      "dimensions": "25 x 20 x 4 cm",
+      "netQuantity": "1 Count",
+      "genericName": "Pants",
+      "washCare": "Wash separately with mild detergent and dry inside out. Actual color may slightly vary due to lighting and display."
+    },
+    "customerReviews": [
+      {
+        "username": "Rakesh Kumar",
+        "rating": 5,
+        "comment": "Excellent quality and very comfortable. Side tape design looks great."
+      },
+      {
+        "username": "Mohit Sharma",
+        "rating": 5,
+        "comment": "Perfect fit and lightweight fabric. Worth the price."
+      },
+      {
+        "username": "Ankit Verma",
+        "rating": 5,
+        "comment": "Stylish joggers for daily wear. Good quality material."
+      }
+    ]
+  },
+  {
+  "id": "ugaoo-luckybamboo-3layer01",
+  "name": "Ugaoo Lucky Bamboo 3 Layer Feng Shui Plant (Green Color)",
+  "category": "home-garden",
+  "price": 199,
+  "discountPrice": 499,
+  "discountRate": 60,
+  "rating": 4.3,
+  "reviews": 9464,
+  "ratingText": "4.3 out of 5 stars",
+  "reviewText": "Based on 9,464 customer ratings on Amazon",
+  "shortLink": "https://amzn.to/3LgbaBC",
+  "fullLink": "https://www.amazon.in/dp/B071943N6X?social_share=cm_sw_r_ud_dp_108K6ZFXZT7KAMZHKMPD&th=1&linkCode=ll1&tag=valdio-21&linkId=31538c0e9dc872d86f592e3f88dbc2d9&language=en_IN&ref_=as_li_ss_tl",
+  "image": "https://m.media-amazon.com/images/I/518eaTa9hmL._SX679_.jpg",
+  "description": "Ugaoo Lucky Bamboo 3 Layer plant is a popular indoor Feng Shui plant believed to bring good luck, prosperity, and positive energy. Easy to care for, this live bamboo plant comes in an elegant glass bowl, making it perfect for home decor, office desks, living rooms, and bedrooms.",
+  "features": [
+    "Popular indoor Feng Shui plant for luck and prosperity",
+    "Easy to maintain and ideal for beginners",
+    "Air-purifying natural indoor plant",
+    "Live bamboo plant with decorative glass bowl",
+    "Perfect for home, office desk, and bedroom decor",
+    "Requires minimal sunlight (partial shade)",
+    "Low maintenance watering routine"
+  ],
+  "sizes": [
+    {
+      "name": "2 Layer",
+      "price": 199,
+      "mrp": 395,
+      "discountRate": 50
+    },
+    {
+      "name": "3 Layer",
+      "price": 199,
+      "mrp": 499,
+      "discountRate": 60
+    }
+  ],
+  "styles": [
+    "Glass Bowl",
+    "Ceramic Planter",
+    "Lotus Bowl",
+    "Potters Wheel"
+  ],
+  "productDetails": {
+    "brand": "UGAOO",
+    "plantType": "Lucky Bamboo",
+    "usage": "Indoor",
+    "materialFeature": "Organic",
+    "color": "Green",
+    "specialFeature": "Air Purification",
+    "expectedBloomingPeriod": "Summer",
+    "expectedPlantingPeriod": "Summer",
+    "sunlightExposure": "Partial Shade",
+    "itemWeight": "400 g",
+    "netQuantity": "1 Count"
+  },
+  "careInstructions": [
+    "Change water every 3–4 days for better growth",
+    "Keep in partial shade, avoid direct sunlight",
+    "Can be placed in bathrooms, living rooms, and offices",
+    "Use clean, chlorine-free water if possible"
+  ],
+  "plantDimensions": {
+    "heightWithoutPot": "8–10 inches",
+    "spread": "6–8 inches"
+  },
+  "deliveryInfo": {
+    "delivery": "Free Delivery",
+    "fulfilledBy": "Amazon Delivered",
+    "cashOnDelivery": true,
+    "returnPolicy": "Non-Returnable",
+    "secureTransaction": true,
+    "badge": "Top Brand"
+  },
+  "customerReviews": [
+    {
+      "username": "Priya Sharma",
+      "rating": 5,
+      "comment": "Healthy plant and very well packed. Looks beautiful on my office desk."
+    },
+    {
+      "username": "Amit Verma",
+      "rating": 4,
+      "comment": "Easy to maintain and brings a nice vibe to the room."
+    },
+    {
+      "username": "Neha Jain",
+      "rating": 4,
+      "comment": "Good quality bamboo. Water change instructions were helpful."
+    }
+  ]
+}
+
 ]
