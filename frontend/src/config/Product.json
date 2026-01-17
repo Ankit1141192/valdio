@@ -2,7 +2,7 @@
   {
     "id": "mici9utrirfjrt",
     "name": "pTron KWM-1 Omnidirectional Type C Wireless Microphone (Black)",
-    "category": "audio-accessories",
+    "category": "Electronics",
     "price": 999,
     "discountPrice": 3199,
     "discountRate": 50,
@@ -192,7 +192,7 @@
   {
     "id": "aurvytrackpant01",
     "name": "AURVY Men’s Regular Fit Track Pants | Lightweight Stretchable Joggers with Side Pockets",
-    "category": "men-clothing",
+    "category": "Apparel & Accessories",
     "price": 379,
     "discountPrice": 999,
     "discountRate": 62,
@@ -266,7 +266,7 @@
   {
     "id": "moonkeylabsbaggypant01",
     "name": "Moonkey Labs Men's Baggy Track Pants | Baggy Streetwear Cotton Track Pants with Elastic Waist",
-    "category": "men-clothing",
+    "category": "Apparel & Accessories",
     "price": 399,
     "discountPrice": 1999,
     "discountRate": 80,
@@ -343,7 +343,7 @@
   {
     "id": "kottyjeans01",
     "name": "KOTTY Men’s Regular Fit Jeans | Classic Design with Stylish Look | Mid Rise Stretchable Jeans",
-    "category": "men-clothing",
+    "category": "Apparel & Accessories",
     "price": 420,
     "discountPrice": 1999,
     "discountRate": 79,
@@ -424,7 +424,7 @@
   {
     "id": "colorchakra-sweater01",
     "name": "ColorChakra Waffle Knit Men’s Sweater | Woolen Round Neck Pullover",
-    "category": "men-clothing",
+    "category": "Apparel & Accessories",
     "price": 499,
     "discountPrice": 1899,
     "discountRate": 74,
@@ -517,7 +517,7 @@
   {
     "id": "jumpcuts-trackpant01",
     "name": "Jump Cuts Men’s Printed Side Tape Track Pants | Polyester Joggers",
-    "category": "men-clothing",
+    "category": "Apparel & Accessories",
     "price": 459,
     "discountPrice": 1999,
     "discountRate": 77,
@@ -1306,7 +1306,7 @@
   {
     "id": "milton-kool-trendy-kids-bottle-370ml-cherry-pink",
     "name": "Milton Kool Trendy 400 Kids Plastic Insulated Water Bottle with Straw (370 ml)",
-    "category": "kids-water-bottles",
+    "category": "Kitchen & Dining",
     "price": 143,
     "discountPrice": 150,
     "discountRate": 5,
@@ -1393,7 +1393,7 @@
   {
     "id": "eumqestoer-2l-motivational-water-bottle-blue",
     "name": "eumqestoer 2 L Capacity Motivational Water Bottle with Straw (Blue)",
-    "category": "fitness-water-bottles",
+    "category": "Kitchen & Dining",
     "price": 94,
     "discountPrice": 399,
     "discountRate": 76,
@@ -1573,7 +1573,7 @@
   {
     "id": "milton-smilo-450-sipper-438ml-grey",
     "name": "MILTON Smilo 450 Sipper PET Water Bottle for School Kids (438 ml, Grey)",
-    "category": "kids-water-bottles",
+    "category": "Kitchen & Dining",
     "price": 110,
     "discountPrice": 115,
     "discountRate": 4,
@@ -1672,367 +1672,367 @@
     ]
   },
   {
-  "id": "dollar-cotton-handkerchiefs-men-multi-pack",
-  "name": "Dollar Cotton Handkerchiefs Hanky for Men",
-  "category": "Apparel & Accessories",
-  "price": 189,
-  "discountPrice": 228,
-  "discountRate": 17,
-  "rating": 4.1,
-  "reviews": 223,
-  "ratingText": "4.1 out of 5 stars",
-  "reviewText": "Based on 223 customer ratings on Amazon",
-  "shortLink": "https://amzn.to/4bJWhSy",
-  "fullLink": "https://www.amazon.in/dp/B0C5XCCTL2?th=1&linkCode=ll1&tag=valdio-21&linkId=b00dcc563155054d90dce41e5e9df9e7&language=en_IN&ref_=as_li_ss_tl",
-  "image": "https://m.media-amazon.com/images/I/51+Qc67TqDL._SX679_.jpg",
-  "description": "Dollar Cotton Handkerchiefs for men are made from high-quality cotton material, offering softness, durability, and everyday comfort. These classic hankies are ideal for daily use, special occasions, or as a practical gift option.",
-  "features": [
-    "Made from high-quality cotton material",
-    "Soft, durable, and skin-friendly fabric",
-    "Classic design with neutral colors",
-    "Ideal for everyday use and special occasions",
-    "Machine washable and easy to maintain",
-    "Trusted Dollar brand quality"
-  ],
-  "variants": [
-    {
+    "id": "dollar-cotton-handkerchiefs-men-multi-pack",
+    "name": "Dollar Cotton Handkerchiefs Hanky for Men",
+    "category": "Apparel & Accessories",
+    "price": 189,
+    "discountPrice": 228,
+    "discountRate": 17,
+    "rating": 4.1,
+    "reviews": 223,
+    "ratingText": "4.1 out of 5 stars",
+    "reviewText": "Based on 223 customer ratings on Amazon",
+    "shortLink": "https://amzn.to/4bJWhSy",
+    "fullLink": "https://www.amazon.in/dp/B0C5XCCTL2?th=1&linkCode=ll1&tag=valdio-21&linkId=b00dcc563155054d90dce41e5e9df9e7&language=en_IN&ref_=as_li_ss_tl",
+    "image": "https://m.media-amazon.com/images/I/51+Qc67TqDL._SX679_.jpg",
+    "description": "Dollar Cotton Handkerchiefs for men are made from high-quality cotton material, offering softness, durability, and everyday comfort. These classic hankies are ideal for daily use, special occasions, or as a practical gift option.",
+    "features": [
+      "Made from high-quality cotton material",
+      "Soft, durable, and skin-friendly fabric",
+      "Classic design with neutral colors",
+      "Ideal for everyday use and special occasions",
+      "Machine washable and easy to maintain",
+      "Trusted Dollar brand quality"
+    ],
+    "variants": [
+      {
+        "numberOfItems": 3,
+        "price": 189,
+        "mrp": 228,
+        "pricePerCount": 37.8,
+        "discountRate": 17
+      },
+      {
+        "numberOfItems": 5,
+        "price": 286,
+        "mrp": 369,
+        "pricePerCount": 95.33,
+        "discountRate": 22
+      },
+      {
+        "numberOfItems": 6,
+        "price": 321,
+        "mrp": 412,
+        "pricePerCount": 32.1,
+        "discountRate": 22
+      },
+      {
+        "numberOfItems": 10,
+        "price": 473,
+        "mrp": 999,
+        "pricePerCount": 78.83,
+        "discountRate": 53
+      }
+    ],
+    "sizeOptions": [
+      "3 Pack",
+      "5 Pack",
+      "6 Pack",
+      "10 Pack"
+    ],
+    "productDetails": {
+      "brand": "Dollar",
+      "material": "Cotton",
+      "productType": "Handkerchief",
+      "careInstructions": "Hand Wash Only",
       "numberOfItems": 3,
-      "price": 189,
-      "mrp": 228,
-      "pricePerCount": 37.8,
-      "discountRate": 17
+      "countryOfOrigin": "India"
     },
-    {
-      "numberOfItems": 5,
-      "price": 286,
-      "mrp": 369,
-      "pricePerCount": 95.33,
-      "discountRate": 22
+    "usageGuidelines": [
+      "Wash before first use",
+      "Hand wash recommended for long-lasting fabric",
+      "Dry in shade for better durability",
+      "Do not bleach"
+    ],
+    "deliveryInfo": {
+      "delivery": "Free Delivery",
+      "fulfilledBy": "Amazon Delivered",
+      "cashOnDelivery": true,
+      "returnPolicy": "10 Days Return & Exchange",
+      "secureTransaction": true,
+      "badge": "Top Brand"
     },
-    {
-      "numberOfItems": 6,
-      "price": 321,
-      "mrp": 412,
-      "pricePerCount": 32.1,
-      "discountRate": 22
-    },
-    {
-      "numberOfItems": 10,
-      "price": 473,
-      "mrp": 999,
-      "pricePerCount": 78.83,
-      "discountRate": 53
-    }
-  ],
-  "sizeOptions": [
-    "3 Pack",
-    "5 Pack",
-    "6 Pack",
-    "10 Pack"
-  ],
-  "productDetails": {
-    "brand": "Dollar",
-    "material": "Cotton",
-    "productType": "Handkerchief",
-    "careInstructions": "Hand Wash Only",
-    "numberOfItems": 3,
-    "countryOfOrigin": "India"
+    "customerReviews": [
+      {
+        "username": "Amit Verma",
+        "rating": 4,
+        "comment": "Good quality cotton hankies, soft and durable."
+      },
+      {
+        "username": "Rahul Mehta",
+        "rating": 5,
+        "comment": "Value for money. Perfect for daily use."
+      },
+      {
+        "username": "Sandeep Singh",
+        "rating": 4,
+        "comment": "Nice fabric and classic design."
+      }
+    ]
   },
-  "usageGuidelines": [
-    "Wash before first use",
-    "Hand wash recommended for long-lasting fabric",
-    "Dry in shade for better durability",
-    "Do not bleach"
-  ],
-  "deliveryInfo": {
-    "delivery": "Free Delivery",
-    "fulfilledBy": "Amazon Delivered",
-    "cashOnDelivery": true,
-    "returnPolicy": "10 Days Return & Exchange",
-    "secureTransaction": true,
-    "badge": "Top Brand"
+  {
+    "id": "peter-england-mens-cotton-slim-fit-casual-shirt",
+    "name": "Peter England Men's Cotton Slim Fit Solid Full Sleeve Casual Shirt",
+    "category": "Apparel & Accessories",
+    "price": 757,
+    "discountPrice": 1599,
+    "discountRate": 53,
+    "rating": 3.6,
+    "reviews": 1003,
+    "ratingText": "3.6 out of 5 stars",
+    "reviewText": "Based on 1,003 customer ratings on Amazon",
+    "shortLink": "https://amzn.to/3YJVTvS",
+    "fullLink": "https://www.amazon.in/dp/B0BKQ7RXZT?th=1&psc=1&linkCode=ll1&tag=valdio-21&linkId=09ee1b38d4e3183e84d75c7e42661489&language=en_IN&ref_=as_li_ss_tl",
+    "image": "https://m.media-amazon.com/images/I/61lcmsHh9AL._SX679_.jpg",
+    "description": "Peter England Men's Slim Fit Casual Shirt is crafted from 100% cotton for all-day comfort and breathability. Designed with a classic twill fabric, solid pattern, and full sleeves, this shirt delivers a timeless and versatile look suitable for casual and semi-formal occasions.",
+    "features": [
+      "Made from 100% pure cotton fabric",
+      "Slim fit design for a modern silhouette",
+      "Classic twill weave for timeless elegance",
+      "Solid pattern suitable for casual wear",
+      "Full sleeve with spread collar",
+      "Trusted Peter England brand quality"
+    ],
+    "variants": [
+      {
+        "color": "Aqua",
+        "price": 752,
+        "mrp": 1599,
+        "discountRate": 53
+      },
+      {
+        "color": "Dark Maroon",
+        "price": 757,
+        "mrp": 1599,
+        "discountRate": 53
+      },
+      {
+        "color": "Dark Navy",
+        "price": 828,
+        "mrp": 1599,
+        "discountRate": 48
+      },
+      {
+        "color": "Dark Olive",
+        "price": 821,
+        "mrp": 1599,
+        "discountRate": 49
+      },
+      {
+        "color": "Light Blue",
+        "price": 783,
+        "mrp": 1599,
+        "discountRate": 51
+      },
+      {
+        "color": "Light Green",
+        "price": 814,
+        "mrp": 1599,
+        "discountRate": 49
+      },
+      {
+        "color": "Light Grey",
+        "price": 943.41,
+        "mrp": 1599,
+        "discountRate": 41
+      },
+      {
+        "color": "Light Olive",
+        "price": 830,
+        "mrp": 1599,
+        "discountRate": 48
+      },
+      {
+        "color": "Medium Blue",
+        "price": 779,
+        "mrp": 1599,
+        "discountRate": 51
+      },
+      {
+        "color": "Navy",
+        "price": 789,
+        "mrp": 1599,
+        "discountRate": 51
+      },
+      {
+        "color": "Olive",
+        "price": 783,
+        "mrp": 1599,
+        "discountRate": 51
+      },
+      {
+        "color": "Pink",
+        "price": 794,
+        "mrp": 1599,
+        "discountRate": 50
+      },
+      {
+        "color": "Red",
+        "price": 846,
+        "mrp": 1599,
+        "discountRate": 47
+      },
+      {
+        "color": "Sky Blue",
+        "price": 752,
+        "mrp": 1599,
+        "discountRate": 53
+      },
+      {
+        "color": "Teal",
+        "price": 859,
+        "mrp": 1599,
+        "discountRate": 46
+      },
+      {
+        "color": "White",
+        "price": 835,
+        "mrp": 1599,
+        "discountRate": 48
+      },
+      {
+        "color": "Yellow",
+        "price": 1423,
+        "mrp": 1599,
+        "discountRate": 11
+      },
+      {
+        "color": "Light Yellow",
+        "price": 1231,
+        "mrp": 1599,
+        "discountRate": 23
+      }
+    ],
+    "sizeOptions": [
+      "38",
+      "39",
+      "40",
+      "42",
+      "44",
+      "46"
+    ],
+    "productDetails": {
+      "brand": "Peter England",
+      "material": "100% Cotton",
+      "pattern": "Solid",
+      "fitType": "Slim Fit",
+      "sleeveType": "Full Sleeve",
+      "collarStyle": "Spread Collar",
+      "length": "Standard Length",
+      "countryOfOrigin": "India"
+    },
+    "usageGuidelines": [
+      "Machine wash with similar colors",
+      "Do not bleach",
+      "Iron on medium heat",
+      "Wash inside out for better color retention"
+    ],
+    "deliveryInfo": {
+      "delivery": "Free Delivery",
+      "fulfilledBy": "Amazon Delivered",
+      "cashOnDelivery": true,
+      "returnPolicy": "10 Days Return & Exchange",
+      "secureTransaction": true,
+      "badge": "Top Brand"
+    },
+    "customerReviews": [
+      {
+        "username": "Rakesh Sharma",
+        "rating": 4,
+        "comment": "Good fabric quality and comfortable fit."
+      },
+      {
+        "username": "Aman Gupta",
+        "rating": 3,
+        "comment": "Decent shirt but fitting runs slightly tight."
+      },
+      {
+        "username": "Nikhil Verma",
+        "rating": 4,
+        "comment": "Nice casual shirt for office and outings."
+      }
+    ]
   },
-  "customerReviews": [
-    {
-      "username": "Amit Verma",
-      "rating": 4,
-      "comment": "Good quality cotton hankies, soft and durable."
+  {
+    "id": "peter-england-mens-cotton-full-length-socks-pack-of-3",
+    "name": "Peter England Men's Cotton Full Length Socks (Pack of 3)",
+    "category": "Apparel & Accessories",
+    "price": 349,
+    "discountPrice": 399,
+    "discountRate": 13,
+    "rating": 4.2,
+    "reviews": 476,
+    "ratingText": "4.2 out of 5 stars",
+    "reviewText": "Based on 476 customer ratings on Amazon",
+    "shortLink": "https://amzn.to/4jLbRPP",
+    "fullLink": "https://www.amazon.in/Peter-England-Mens-Socks-Pack/dp/B01N9Q9VG3?dib=eyJ2IjoiMSJ9.jo_EOxv3GQe6mTDIdB9duIQsLYWh-feKdnZljjyUuaXMAjTEhWDpPLR2gHu9c_LKl7JLd46zrM6kexOnd_7WxctBe1efZHLBmU0rDjAMiHcbrj-EPMbcXt-jrk4G1We9uL8k4ZBiJEp6qY60Aglqk3okQXsXqRoALeHb_CGj0Zn3a4wxMQx_KRbHKz1BPSCWPVrJveLW8S_GCX0tbTNtsyLg4ZL_QGR0u6RG1sQHouEasohyB8iscSbgKO_oizBAi2Kr-WcRvUdmnQgqTwUMMScqvfDUay9IY5OALDt6NIw.T1a52pG1Xw1TQAxmyLdymvoIbXCM3Usn5OsncLofADQ&dib_tag=se&keywords=Peter%2BEngland%2BMen%27s%2BCotton%2BFull%2BLength%2BSocks%2B%28Pack%2Bof%2B3%29%2BBrown%2C%2BNavy%2C%2BBlack&nsdOptOutParam=true&qid=1768663114&s=apparel&sr=1-1-spons&aref=D3UKjoQiYp&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1&psc=1&linkCode=ll1&tag=valdio-21&linkId=7e136a7edd1840936057af08d7af9bed&language=en_IN&ref_=as_li_ss_tl",
+    "image": "https://m.media-amazon.com/images/I/51Vzd-1VxyL._SX679_.jpg",
+    "description": "Peter England Men's Cotton Full Length Socks are designed for everyday comfort and durability. Made from soft cotton fabric, these full-length socks provide breathability and a snug fit, making them ideal for casual and daily wear.",
+    "features": [
+      "Made from high-quality cotton material",
+      "Full-length socks for all-day comfort",
+      "Soft, breathable, and durable fabric",
+      "Flat toe style for reduced irritation",
+      "Free size suitable for most men",
+      "Trusted Peter England brand quality"
+    ],
+    "variants": [
+      {
+        "colors": [
+          "Brown",
+          "Navy",
+          "Black"
+        ],
+        "packSize": 3,
+        "price": 349,
+        "mrp": 399,
+        "pricePerCount": 116.33,
+        "discountRate": 13
+      }
+    ],
+    "sizeOptions": [
+      "Free Size"
+    ],
+    "productDetails": {
+      "brand": "Peter England",
+      "material": "Cotton",
+      "outerMaterial": "Cotton",
+      "length": "Full Length",
+      "toeStyle": "Flat",
+      "occasionType": "Casual",
+      "careInstructions": "Machine Wash",
+      "countryOfOrigin": "India"
     },
-    {
-      "username": "Rahul Mehta",
-      "rating": 5,
-      "comment": "Value for money. Perfect for daily use."
+    "usageGuidelines": [
+      "Machine wash with similar colors",
+      "Do not bleach",
+      "Do not tumble dry on high heat",
+      "Dry in shade for better fabric life"
+    ],
+    "deliveryInfo": {
+      "delivery": "Free Delivery",
+      "fulfilledBy": "Amazon Delivered",
+      "cashOnDelivery": true,
+      "returnPolicy": "Non-Returnable",
+      "secureTransaction": true,
+      "badge": "Top Brand"
     },
-    {
-      "username": "Sandeep Singh",
-      "rating": 4,
-      "comment": "Nice fabric and classic design."
-    }
-  ]
-},
-{
-  "id": "peter-england-mens-cotton-slim-fit-casual-shirt",
-  "name": "Peter England Men's Cotton Slim Fit Solid Full Sleeve Casual Shirt",
-  "category": "Apparel & Accessories",
-  "price": 757,
-  "discountPrice": 1599,
-  "discountRate": 53,
-  "rating": 3.6,
-  "reviews": 1003,
-  "ratingText": "3.6 out of 5 stars",
-  "reviewText": "Based on 1,003 customer ratings on Amazon",
-  "shortLink": "https://amzn.to/3YJVTvS",
-  "fullLink": "https://www.amazon.in/dp/B0BKQ7RXZT?th=1&psc=1&linkCode=ll1&tag=valdio-21&linkId=09ee1b38d4e3183e84d75c7e42661489&language=en_IN&ref_=as_li_ss_tl",
-  "image": "https://m.media-amazon.com/images/I/61lcmsHh9AL._SX679_.jpg",
-  "description": "Peter England Men's Slim Fit Casual Shirt is crafted from 100% cotton for all-day comfort and breathability. Designed with a classic twill fabric, solid pattern, and full sleeves, this shirt delivers a timeless and versatile look suitable for casual and semi-formal occasions.",
-  "features": [
-    "Made from 100% pure cotton fabric",
-    "Slim fit design for a modern silhouette",
-    "Classic twill weave for timeless elegance",
-    "Solid pattern suitable for casual wear",
-    "Full sleeve with spread collar",
-    "Trusted Peter England brand quality"
-  ],
-  "variants": [
-    {
-      "color": "Aqua",
-      "price": 752,
-      "mrp": 1599,
-      "discountRate": 53
-    },
-    {
-      "color": "Dark Maroon",
-      "price": 757,
-      "mrp": 1599,
-      "discountRate": 53
-    },
-    {
-      "color": "Dark Navy",
-      "price": 828,
-      "mrp": 1599,
-      "discountRate": 48
-    },
-    {
-      "color": "Dark Olive",
-      "price": 821,
-      "mrp": 1599,
-      "discountRate": 49
-    },
-    {
-      "color": "Light Blue",
-      "price": 783,
-      "mrp": 1599,
-      "discountRate": 51
-    },
-    {
-      "color": "Light Green",
-      "price": 814,
-      "mrp": 1599,
-      "discountRate": 49
-    },
-    {
-      "color": "Light Grey",
-      "price": 943.41,
-      "mrp": 1599,
-      "discountRate": 41
-    },
-    {
-      "color": "Light Olive",
-      "price": 830,
-      "mrp": 1599,
-      "discountRate": 48
-    },
-    {
-      "color": "Medium Blue",
-      "price": 779,
-      "mrp": 1599,
-      "discountRate": 51
-    },
-    {
-      "color": "Navy",
-      "price": 789,
-      "mrp": 1599,
-      "discountRate": 51
-    },
-    {
-      "color": "Olive",
-      "price": 783,
-      "mrp": 1599,
-      "discountRate": 51
-    },
-    {
-      "color": "Pink",
-      "price": 794,
-      "mrp": 1599,
-      "discountRate": 50
-    },
-    {
-      "color": "Red",
-      "price": 846,
-      "mrp": 1599,
-      "discountRate": 47
-    },
-    {
-      "color": "Sky Blue",
-      "price": 752,
-      "mrp": 1599,
-      "discountRate": 53
-    },
-    {
-      "color": "Teal",
-      "price": 859,
-      "mrp": 1599,
-      "discountRate": 46
-    },
-    {
-      "color": "White",
-      "price": 835,
-      "mrp": 1599,
-      "discountRate": 48
-    },
-    {
-      "color": "Yellow",
-      "price": 1423,
-      "mrp": 1599,
-      "discountRate": 11
-    },
-    {
-      "color": "Light Yellow",
-      "price": 1231,
-      "mrp": 1599,
-      "discountRate": 23
-    }
-  ],
-  "sizeOptions": [
-    "38",
-    "39",
-    "40",
-    "42",
-    "44",
-    "46"
-  ],
-  "productDetails": {
-    "brand": "Peter England",
-    "material": "100% Cotton",
-    "pattern": "Solid",
-    "fitType": "Slim Fit",
-    "sleeveType": "Full Sleeve",
-    "collarStyle": "Spread Collar",
-    "length": "Standard Length",
-    "countryOfOrigin": "India"
-  },
-  "usageGuidelines": [
-    "Machine wash with similar colors",
-    "Do not bleach",
-    "Iron on medium heat",
-    "Wash inside out for better color retention"
-  ],
-  "deliveryInfo": {
-    "delivery": "Free Delivery",
-    "fulfilledBy": "Amazon Delivered",
-    "cashOnDelivery": true,
-    "returnPolicy": "10 Days Return & Exchange",
-    "secureTransaction": true,
-    "badge": "Top Brand"
-  },
-  "customerReviews": [
-    {
-      "username": "Rakesh Sharma",
-      "rating": 4,
-      "comment": "Good fabric quality and comfortable fit."
-    },
-    {
-      "username": "Aman Gupta",
-      "rating": 3,
-      "comment": "Decent shirt but fitting runs slightly tight."
-    },
-    {
-      "username": "Nikhil Verma",
-      "rating": 4,
-      "comment": "Nice casual shirt for office and outings."
-    }
-  ]
-},
-{
-  "id": "peter-england-mens-cotton-full-length-socks-pack-of-3",
-  "name": "Peter England Men's Cotton Full Length Socks (Pack of 3)",
-  "category": "Apparel & Accessories",
-  "price": 349,
-  "discountPrice": 399,
-  "discountRate": 13,
-  "rating": 4.2,
-  "reviews": 476,
-  "ratingText": "4.2 out of 5 stars",
-  "reviewText": "Based on 476 customer ratings on Amazon",
-  "shortLink": "https://amzn.to/4jLbRPP",
-  "fullLink": "https://www.amazon.in/Peter-England-Mens-Socks-Pack/dp/B01N9Q9VG3?dib=eyJ2IjoiMSJ9.jo_EOxv3GQe6mTDIdB9duIQsLYWh-feKdnZljjyUuaXMAjTEhWDpPLR2gHu9c_LKl7JLd46zrM6kexOnd_7WxctBe1efZHLBmU0rDjAMiHcbrj-EPMbcXt-jrk4G1We9uL8k4ZBiJEp6qY60Aglqk3okQXsXqRoALeHb_CGj0Zn3a4wxMQx_KRbHKz1BPSCWPVrJveLW8S_GCX0tbTNtsyLg4ZL_QGR0u6RG1sQHouEasohyB8iscSbgKO_oizBAi2Kr-WcRvUdmnQgqTwUMMScqvfDUay9IY5OALDt6NIw.T1a52pG1Xw1TQAxmyLdymvoIbXCM3Usn5OsncLofADQ&dib_tag=se&keywords=Peter%2BEngland%2BMen%27s%2BCotton%2BFull%2BLength%2BSocks%2B%28Pack%2Bof%2B3%29%2BBrown%2C%2BNavy%2C%2BBlack&nsdOptOutParam=true&qid=1768663114&s=apparel&sr=1-1-spons&aref=D3UKjoQiYp&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1&psc=1&linkCode=ll1&tag=valdio-21&linkId=7e136a7edd1840936057af08d7af9bed&language=en_IN&ref_=as_li_ss_tl",
-  "image": "https://m.media-amazon.com/images/I/51Vzd-1VxyL._SX679_.jpg",
-  "description": "Peter England Men's Cotton Full Length Socks are designed for everyday comfort and durability. Made from soft cotton fabric, these full-length socks provide breathability and a snug fit, making them ideal for casual and daily wear.",
-  "features": [
-    "Made from high-quality cotton material",
-    "Full-length socks for all-day comfort",
-    "Soft, breathable, and durable fabric",
-    "Flat toe style for reduced irritation",
-    "Free size suitable for most men",
-    "Trusted Peter England brand quality"
-  ],
-  "variants": [
-    {
-      "colors": ["Brown", "Navy", "Black"],
-      "packSize": 3,
-      "price": 349,
-      "mrp": 399,
-      "pricePerCount": 116.33,
-      "discountRate": 13
-    }
-  ],
-  "sizeOptions": [
-    "Free Size"
-  ],
-  "productDetails": {
-    "brand": "Peter England",
-    "material": "Cotton",
-    "outerMaterial": "Cotton",
-    "length": "Full Length",
-    "toeStyle": "Flat",
-    "occasionType": "Casual",
-    "careInstructions": "Machine Wash",
-    "countryOfOrigin": "India"
-  },
-  "usageGuidelines": [
-    "Machine wash with similar colors",
-    "Do not bleach",
-    "Do not tumble dry on high heat",
-    "Dry in shade for better fabric life"
-  ],
-  "deliveryInfo": {
-    "delivery": "Free Delivery",
-    "fulfilledBy": "Amazon Delivered",
-    "cashOnDelivery": true,
-    "returnPolicy": "Non-Returnable",
-    "secureTransaction": true,
-    "badge": "Top Brand"
-  },
-  "customerReviews": [
-    {
-      "username": "Kunal Mehta",
-      "rating": 5,
-      "comment": "Very comfortable socks, good quality cotton."
-    },
-    {
-      "username": "Rahul Singh",
-      "rating": 4,
-      "comment": "Nice fit and breathable, worth the price."
-    },
-    {
-      "username": "Aakash Verma",
-      "rating": 4,
-      "comment": "Durable socks for daily office use."
-    }
-  ]
-}
-
-
-
-  
+    "customerReviews": [
+      {
+        "username": "Kunal Mehta",
+        "rating": 5,
+        "comment": "Very comfortable socks, good quality cotton."
+      },
+      {
+        "username": "Rahul Singh",
+        "rating": 4,
+        "comment": "Nice fit and breathable, worth the price."
+      },
+      {
+        "username": "Aakash Verma",
+        "rating": 4,
+        "comment": "Durable socks for daily office use."
+      }
+    ]
+  }
 ]
