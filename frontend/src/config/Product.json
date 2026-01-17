@@ -1129,180 +1129,546 @@
     ]
   },
   {
-  "id": "corporate-porium-personalized-steel-bottle-h231",
-  "name": "CORPORATE PORIUM Your Name Printed Curvy Stainless Steel Bottle (1L, Black)",
-  "category": "home-kitchen-water-bottles",
-  "price": 236,
-  "discountPrice": 999,
-  "discountRate": 76,
-  "rating": 3.5,
-  "reviews": 1552,
-  "ratingText": "3.5 out of 5 stars",
-  "reviewText": "Based on 1,552 customer ratings on Amazon",
-  "shortLink": "https://amzn.to/49IFPQb",
-  "fullLink": "https://www.amazon.in/dp/B0CZF53PNY?social_share=cm_sw_r_apin_dp_YQ1BVD4H9NS87D7EEXVD_1&badgeInsights=insights&th=1&linkCode=ll1&tag=valdio-21&linkId=57e64e1bf40de1605ad84ca61991540f&language=en_IN&ref_=as_li_ss_tl",
-  "image": "https://m.media-amazon.com/images/I/61yK3mfgUTL._SL1500_.jpg",
-  "description": "The CORPORATE PORIUM personalized stainless steel bottle is a stylish and durable daily-use bottle featuring permanent laser engraving for customization. With a 1-liter capacity, leak-proof cap, and premium stainless steel construction, it makes an ideal corporate gift, festive present, or personal hydration companion.",
-  "features": [
-    "Premium single-wall stainless steel construction",
-    "Permanent laser-engraved name personalization",
-    "Leak-proof cap for spill-free use",
-    "Wide mouth design for easy ice insertion",
-    "Food-safe and BPA-free materials",
-    "Durable, rust-resistant, and corrosion-resistant",
-    "Ideal for daily use, gifting, and travel"
-  ],
-  "variants": [
-    {
-      "model": "H231-Bl-New",
-      "style": "Curvy Bottle",
+    "id": "corporate-porium-personalized-steel-bottle-h231",
+    "name": "CORPORATE PORIUM Your Name Printed Curvy Stainless Steel Bottle (1L, Black)",
+    "category": "home-kitchen-water-bottles",
+    "price": 236,
+    "discountPrice": 999,
+    "discountRate": 76,
+    "rating": 3.5,
+    "reviews": 1552,
+    "ratingText": "3.5 out of 5 stars",
+    "reviewText": "Based on 1,552 customer ratings on Amazon",
+    "shortLink": "https://amzn.to/49IFPQb",
+    "fullLink": "https://www.amazon.in/dp/B0CZF53PNY?social_share=cm_sw_r_apin_dp_YQ1BVD4H9NS87D7EEXVD_1&badgeInsights=insights&th=1&linkCode=ll1&tag=valdio-21&linkId=57e64e1bf40de1605ad84ca61991540f&language=en_IN&ref_=as_li_ss_tl",
+    "image": "https://m.media-amazon.com/images/I/61yK3mfgUTL._SL1500_.jpg",
+    "description": "The CORPORATE PORIUM personalized stainless steel bottle is a stylish and durable daily-use bottle featuring permanent laser engraving for customization. With a 1-liter capacity, leak-proof cap, and premium stainless steel construction, it makes an ideal corporate gift, festive present, or personal hydration companion.",
+    "features": [
+      "Premium single-wall stainless steel construction",
+      "Permanent laser-engraved name personalization",
+      "Leak-proof cap for spill-free use",
+      "Wide mouth design for easy ice insertion",
+      "Food-safe and BPA-free materials",
+      "Durable, rust-resistant, and corrosion-resistant",
+      "Ideal for daily use, gifting, and travel"
+    ],
+    "variants": [
+      {
+        "model": "H231-Bl-New",
+        "style": "Curvy Bottle",
+        "color": "Black",
+        "price": 236,
+        "mrp": 999
+      },
+      {
+        "model": "H241-A",
+        "style": "Straight Bottle",
+        "price": 236,
+        "mrp": 999
+      },
+      {
+        "model": "Rubber Coated Bottle",
+        "price": 527,
+        "mrp": 999
+      },
+      {
+        "model": "Wood Cap Bottle",
+        "price": 474,
+        "mrp": 999
+      }
+    ],
+    "packDetails": {
+      "capacity": "1 Litre",
+      "quantity": 1,
+      "customisation": "1 text input (Name engraving)"
+    },
+    "productDetails": {
+      "brand": "CORPORATE PORIUM",
+      "material": "Stainless Steel",
+      "bottleType": "Daily Use",
       "color": "Black",
-      "price": 236,
-      "mrp": 999
+      "capacity": "1 Litre",
+      "engravingType": "Laser Engraved",
+      "bpaFree": true,
+      "leakProof": true,
+      "countryOfOrigin": "India"
     },
-    {
-      "model": "H241-A",
-      "style": "Straight Bottle",
-      "price": 236,
-      "mrp": 999
+    "usageGuidelines": [
+      "Hand wash recommended to preserve engraving",
+      "Avoid hot liquids (single-wall bottle)",
+      "Do not use in microwave or dishwasher",
+      "Store with cap open after washing"
+    ],
+    "deliveryInfo": {
+      "delivery": "Free Delivery",
+      "fulfilledBy": "Amazon Delivered",
+      "cashOnDelivery": true,
+      "returnPolicy": "Non-Returnable (Customized Product)",
+      "secureTransaction": true,
+      "badge": "Republic Day Deal"
     },
-    {
-      "model": "Rubber Coated Bottle",
-      "price": 527,
-      "mrp": 999
-    },
-    {
-      "model": "Wood Cap Bottle",
-      "price": 474,
-      "mrp": 999
-    }
-  ],
-  "packDetails": {
-    "capacity": "1 Litre",
-    "quantity": 1,
-    "customisation": "1 text input (Name engraving)"
+    "customerReviews": [
+      {
+        "username": "Amit Kumar",
+        "rating": 5,
+        "comment": "Nice engraving quality and solid build. Worth the price for gifting."
+      },
+      {
+        "username": "Neha Sharma",
+        "rating": 4,
+        "comment": "Looks premium and leak-proof. Custom name came out clean."
+      },
+      {
+        "username": "Rohit Verma",
+        "rating": 3,
+        "comment": "Good bottle but single-wall, so not for hot drinks."
+      }
+    ]
   },
-  "productDetails": {
-    "brand": "CORPORATE PORIUM",
-    "material": "Stainless Steel",
-    "bottleType": "Daily Use",
-    "color": "Black",
-    "capacity": "1 Litre",
-    "engravingType": "Laser Engraved",
-    "bpaFree": true,
-    "leakProof": true,
-    "countryOfOrigin": "India"
-  },
-  "usageGuidelines": [
-    "Hand wash recommended to preserve engraving",
-    "Avoid hot liquids (single-wall bottle)",
-    "Do not use in microwave or dishwasher",
-    "Store with cap open after washing"
-  ],
-  "deliveryInfo": {
-    "delivery": "Free Delivery",
-    "fulfilledBy": "Amazon Delivered",
-    "cashOnDelivery": true,
-    "returnPolicy": "Non-Returnable (Customized Product)",
-    "secureTransaction": true,
-    "badge": "Republic Day Deal"
-  },
-  "customerReviews": [
-    {
-      "username": "Amit Kumar",
-      "rating": 5,
-      "comment": "Nice engraving quality and solid build. Worth the price for gifting."
+  {
+    "id": "toblerone-milk-honey-almond-nougat-2pack",
+    "name": "Toblerone Of Switzerland Milk Chocolate With Honey And Almond Nougat (Pack of 2 x 100g)",
+    "category": "grocery-chocolates",
+    "price": 385,
+    "discountPrice": 699,
+    "discountRate": 45,
+    "rating": 4.2,
+    "reviews": 8572,
+    "ratingText": "4.2 out of 5 stars",
+    "reviewText": "Based on 8,572 customer ratings on Amazon",
+    "shortLink": "https://amzn.to/3ZiznKI",
+    "fullLink": "https://www.amazon.in/dp/B07JVLS17V?social_share=cm_sw_r_ud_dp_TTPNTD3DKKR800KD2Q7W&th=1&linkCode=ll1&tag=valdio-21&linkId=d05357e040b1c25c2da3230f0314a756&language=en_IN&ref_=as_li_ss_tl",
+    "image": "https://m.media-amazon.com/images/I/41z+jBhbVVS.jpg",
+    "description": "Toblerone Milk Chocolate with Honey and Almond Nougat is a premium Swiss chocolate known for its iconic triangular shape and rich taste. Made with smooth milk chocolate blended with crunchy almond nougat and honey, this 2-pack is perfect for gifting, sharing, or personal indulgence.",
+    "features": [
+      "Authentic Swiss milk chocolate",
+      "Infused with honey and crunchy almond nougat",
+      "Iconic triangular Toblerone shape",
+      "Smooth texture with rich flavor",
+      "Perfect for gifting and celebrations",
+      "Pack of 2 snack-size bars"
+    ],
+    "variants": [
+      {
+        "flavour": "Milk, Honey and Almond Nougat",
+        "packSize": "100 g x 2",
+        "price": 385,
+        "mrp": 699
+      }
+    ],
+    "packDetails": {
+      "netQuantity": "200 g",
+      "numberOfPieces": 2,
+      "pricePerUnit": 192.5
     },
-    {
-      "username": "Neha Sharma",
-      "rating": 4,
-      "comment": "Looks premium and leak-proof. Custom name came out clean."
-    },
-    {
-      "username": "Rohit Verma",
-      "rating": 3,
-      "comment": "Good bottle but single-wall, so not for hot drinks."
-    }
-  ]
-},
-{
-  "id": "toblerone-milk-honey-almond-nougat-2pack",
-  "name": "Toblerone Of Switzerland Milk Chocolate With Honey And Almond Nougat (Pack of 2 x 100g)",
-  "category": "grocery-chocolates",
-  "price": 385,
-  "discountPrice": 699,
-  "discountRate": 45,
-  "rating": 4.2,
-  "reviews": 8572,
-  "ratingText": "4.2 out of 5 stars",
-  "reviewText": "Based on 8,572 customer ratings on Amazon",
-  "shortLink": "https://amzn.to/3ZiznKI",
-  "fullLink": "https://www.amazon.in/dp/B07JVLS17V?social_share=cm_sw_r_ud_dp_TTPNTD3DKKR800KD2Q7W&th=1&linkCode=ll1&tag=valdio-21&linkId=d05357e040b1c25c2da3230f0314a756&language=en_IN&ref_=as_li_ss_tl",
-  "image": "https://m.media-amazon.com/images/I/41z+jBhbVVS.jpg",
-  "description": "Toblerone Milk Chocolate with Honey and Almond Nougat is a premium Swiss chocolate known for its iconic triangular shape and rich taste. Made with smooth milk chocolate blended with crunchy almond nougat and honey, this 2-pack is perfect for gifting, sharing, or personal indulgence.",
-  "features": [
-    "Authentic Swiss milk chocolate",
-    "Infused with honey and crunchy almond nougat",
-    "Iconic triangular Toblerone shape",
-    "Smooth texture with rich flavor",
-    "Perfect for gifting and celebrations",
-    "Pack of 2 snack-size bars"
-  ],
-  "variants": [
-    {
+    "productDetails": {
+      "brand": "Toblerone",
+      "itemForm": "Bar",
+      "chocolateType": "Milk Chocolate",
       "flavour": "Milk, Honey and Almond Nougat",
-      "packSize": "100 g x 2",
-      "price": 385,
-      "mrp": 699
-    }
-  ],
-  "packDetails": {
-    "netQuantity": "200 g",
-    "numberOfPieces": 2,
-    "pricePerUnit": 192.5
-  },
-  "productDetails": {
-    "brand": "Toblerone",
-    "itemForm": "Bar",
-    "chocolateType": "Milk Chocolate",
-    "flavour": "Milk, Honey and Almond Nougat",
-    "dietType": "Non-Vegetarian",
-    "speciality": "Almond Nougat",
-    "occasion": "Birthday, Gifting",
-    "allergenInformation": "Eggs",
-    "countryOfOrigin": "Switzerland"
-  },
-  "usageGuidelines": [
-    "Store in a cool, dry place",
-    "Keep away from direct sunlight",
-    "Consume before expiry date mentioned on pack"
-  ],
-  "deliveryInfo": {
-    "delivery": "Free Delivery",
-    "fulfilledBy": "Amazon Delivered",
-    "cashOnDelivery": true,
-    "returnPolicy": "Non-Returnable",
-    "secureTransaction": true,
-    "badge": "Top Brand"
-  },
-  "customerReviews": [
-    {
-      "username": "Rahul Mehta",
-      "rating": 5,
-      "comment": "Classic Toblerone taste. Fresh and perfect for gifting."
+      "dietType": "Non-Vegetarian",
+      "speciality": "Almond Nougat",
+      "occasion": "Birthday, Gifting",
+      "allergenInformation": "Eggs",
+      "countryOfOrigin": "Switzerland"
     },
-    {
-      "username": "Pooja Singh",
-      "rating": 4,
-      "comment": "Rich chocolate with crunchy nougat. A bit pricey but worth it."
+    "usageGuidelines": [
+      "Store in a cool, dry place",
+      "Keep away from direct sunlight",
+      "Consume before expiry date mentioned on pack"
+    ],
+    "deliveryInfo": {
+      "delivery": "Free Delivery",
+      "fulfilledBy": "Amazon Delivered",
+      "cashOnDelivery": true,
+      "returnPolicy": "Non-Returnable",
+      "secureTransaction": true,
+      "badge": "Top Brand"
     },
-    {
-      "username": "Ankit Verma",
-      "rating": 4,
-      "comment": "Original Swiss chocolate. Loved the triangular design."
-    }
-  ]
-}
-
-
+    "customerReviews": [
+      {
+        "username": "Rahul Mehta",
+        "rating": 5,
+        "comment": "Classic Toblerone taste. Fresh and perfect for gifting."
+      },
+      {
+        "username": "Pooja Singh",
+        "rating": 4,
+        "comment": "Rich chocolate with crunchy nougat. A bit pricey but worth it."
+      },
+      {
+        "username": "Ankit Verma",
+        "rating": 4,
+        "comment": "Original Swiss chocolate. Loved the triangular design."
+      }
+    ]
+  },
+  {
+    "id": "milton-kool-trendy-kids-bottle-370ml-cherry-pink",
+    "name": "Milton Kool Trendy 400 Kids Plastic Insulated Water Bottle with Straw (370 ml)",
+    "category": "kids-water-bottles",
+    "price": 143,
+    "discountPrice": 150,
+    "discountRate": 5,
+    "rating": 4.2,
+    "reviews": 8346,
+    "ratingText": "4.2 out of 5 stars",
+    "reviewText": "Based on 8,346 customer ratings on Amazon",
+    "shortLink": "https://amzn.to/45eSZTv",
+    "fullLink": "https://www.amazon.in/dp/B09Y5LD9G2?social_share=cm_sw_r_apin_dp_KZGD6MAVHWRG557QCGHZ&badgeInsights=insights&th=1&linkCode=ll1&tag=valdio-21&linkId=cd2bc1e4156de68ed2befcf80ec36b03&language=en_IN&ref_=as_li_ss_tl",
+    "image": "https://m.media-amazon.com/images/I/61q8CuKeHWL._SL1500_.jpg",
+    "description": "The Milton Kool Trendy 400 Kids Water Bottle is a leak-proof, insulated sipper bottle designed especially for children. Made from BPA-free, food-grade plastic, it keeps drinks cool for hours and features a straw with flip lid for mess-free sipping. Ideal for school, picnics, and travel.",
+    "features": [
+      "PU insulated bottle keeps drinks cold for hours",
+      "Made from BPA-free, food-grade plastic",
+      "Leak-proof flip lid with straw for easy sipping",
+      "Convenient neck strap for easy carrying",
+      "Lightweight and child-friendly design",
+      "Ideal for school, travel, and outdoor activities"
+    ],
+    "variants": [
+      {
+        "color": "Cherry Pink",
+        "capacity": "370 ml",
+        "price": 143,
+        "mrp": 150
+      },
+      {
+        "color": "Purple",
+        "capacity": "370 ml",
+        "price": 143,
+        "mrp": 150
+      },
+      {
+        "color": "Orange",
+        "capacity": "370 ml",
+        "price": 225,
+        "mrp": 289
+      }
+    ],
+    "productDetails": {
+      "brand": "MILTON",
+      "material": "Plastic",
+      "capacity": "370 Milliliters",
+      "color": "Cherry Pink",
+      "specialFeature": "Leakproof, Insulated",
+      "recommendedUses": "School, Travel, Picnic",
+      "bpaFree": true,
+      "warranty": "1 Year",
+      "itemDimensions": "9.5 x 9.5 x 20.3 cm",
+      "countryOfOrigin": "India"
+    },
+    "usageGuidelines": [
+      "Wash before first use",
+      "Not suitable for hot liquids",
+      "Hand wash recommended for longer life",
+      "Do not microwave"
+    ],
+    "deliveryInfo": {
+      "delivery": "Free Delivery",
+      "fulfilledBy": "Amazon Delivered",
+      "cashOnDelivery": true,
+      "returnPolicy": "10 Days Returnable",
+      "secureTransaction": true,
+      "badge": "Amazon's Choice"
+    },
+    "customerReviews": [
+      {
+        "username": "Neha Kapoor",
+        "rating": 5,
+        "comment": "Perfect bottle for my kid’s school. No leakage and very cute color."
+      },
+      {
+        "username": "Rohit Jain",
+        "rating": 4,
+        "comment": "Good insulation and easy to carry. Value for money."
+      },
+      {
+        "username": "Anjali Verma",
+        "rating": 4,
+        "comment": "Straw is very convenient for kids. Quality is good."
+      }
+    ]
+  },
+  {
+    "id": "eumqestoer-2l-motivational-water-bottle-blue",
+    "name": "eumqestoer 2 L Capacity Motivational Water Bottle with Straw (Blue)",
+    "category": "fitness-water-bottles",
+    "price": 94,
+    "discountPrice": 399,
+    "discountRate": 76,
+    "rating": 4.1,
+    "reviews": 822,
+    "ratingText": "4.1 out of 5 stars",
+    "reviewText": "Based on 822 customer ratings on Amazon",
+    "shortLink": "https://amzn.to/4qCvP1O",
+    "fullLink": "https://www.amazon.in/dp/B0DJ2JJMQW?social_share=cm_sw_r_apin_dp_XZ4NV6KGEE2JGMDSNC44&badgeInsights=insights&th=1&linkCode=ll1&tag=valdio-21&linkId=14bb1fa28a6085d94459f3e967fa9675&language=en_IN&ref_=as_li_ss_tl",
+    "image": "https://m.media-amazon.com/images/I/71l1JTaHwrL._SL1500_.jpg",
+    "description": "The eumqestoer 2L Motivational Water Bottle is a BPA-free, leak-proof fitness bottle designed to help track daily water intake. Featuring time markers, inspirational quotes, and a built-in straw, it is ideal for gym, office, school, and travel use.",
+    "features": [
+      "Large 2 litre capacity reduces frequent refills",
+      "Motivational quotes with time markers for hydration tracking",
+      "Leak-proof locking lid with built-in straw",
+      "Wide mouth allows ice cubes and fruits",
+      "Lightweight, compact, and easy to carry",
+      "BPA-free and food-grade material"
+    ],
+    "variants": [
+      {
+        "color": "Blue",
+        "capacity": "2 Litres",
+        "price": 94,
+        "mrp": 399
+      },
+      {
+        "color": "Black",
+        "capacity": "2 Litres",
+        "price": 94,
+        "mrp": 599
+      },
+      {
+        "color": "Pink",
+        "capacity": "2 Litres",
+        "price": 94,
+        "mrp": 599
+      },
+      {
+        "color": "Purple",
+        "capacity": "2 Litres",
+        "price": 94,
+        "mrp": 599
+      }
+    ],
+    "productDetails": {
+      "brand": "eumqestoer",
+      "material": "Silicone / Food-grade Plastic",
+      "capacity": "2 Litres",
+      "color": "Blue",
+      "bottleType": "Standard Water Bottle",
+      "specialFeatures": [
+        "Leak Proof",
+        "Motivational Time Marker",
+        "Break-Proof",
+        "Straw Sipper"
+      ],
+      "bpaFree": true,
+      "recommendedUses": [
+        "Gym",
+        "Office",
+        "School",
+        "Travel",
+        "Sports"
+      ],
+      "countryOfOrigin": "India"
+    },
+    "usageGuidelines": [
+      "Wash before first use",
+      "Hand wash recommended for longevity",
+      "Not suitable for hot liquids",
+      "Clean straw and lid separately"
+    ],
+    "deliveryInfo": {
+      "delivery": "Free Delivery",
+      "fulfilledBy": "Amazon Delivered",
+      "cashOnDelivery": true,
+      "returnPolicy": "10 Days Returnable",
+      "secureTransaction": true,
+      "badge": "Amazon's Choice"
+    },
+    "customerReviews": [
+      {
+        "username": "Amit Singh",
+        "rating": 5,
+        "comment": "Very useful bottle for tracking water intake. Great value for money."
+      },
+      {
+        "username": "Pooja Verma",
+        "rating": 4,
+        "comment": "Nice design and good capacity. Leak-proof as promised."
+      },
+      {
+        "username": "Rahul Mehta",
+        "rating": 4,
+        "comment": "Lightweight and easy to carry to the gym. Straw works well."
+      }
+    ]
+  },
+  {
+    "id": "tempt-personalized-notebook-pen-gift-set-black",
+    "name": "Tempt Personalized Notebook and Pen Gift Set with Name Engraving (Black)",
+    "category": "stationery-gifts",
+    "price": 198,
+    "discountPrice": 999,
+    "discountRate": 80,
+    "rating": 3.1,
+    "reviews": 6,
+    "ratingText": "3.1 out of 5 stars",
+    "reviewText": "Based on 6 customer ratings on Amazon",
+    "shortLink": "https://amzn.to/4r2zzd2",
+    "fullLink": "https://www.amazon.in/dp/B0FRST75NT?social_share=cm_sw_r_apin_dp_C6R7Z73TKEE7YZ6JSCZ1&badgeInsights=insights&linkCode=ll1&tag=valdio-21&linkId=3aecf018bc7f0d7752c8867a6a0c4f6f&language=en_IN&ref_=as_li_ss_tl",
+    "image": "https://m.media-amazon.com/images/I/71nZ83tkTOL._SX522_.jpg",
+    "description": "The Tempt Personalized Notebook and Pen Gift Set features a premium black elastic diary paired with a matching pen, both engraved with a custom name in elegant gold lettering. Designed for professionals and students, this stylish set is perfect for daily notes, meetings, and thoughtful gifting.",
+    "features": [
+      "Custom name engraving on notebook and pen",
+      "Premium black hardcover diary with elastic closure",
+      "Gold-accented design for a professional look",
+      "Smooth-writing pen with crystal-filled barrel",
+      "Durable construction suitable for everyday use",
+      "Ideal personalized gift for professionals and students"
+    ],
+    "variants": [
+      {
+        "color": "Black",
+        "customization": "1 Text Input (Name Engraving)",
+        "price": 198,
+        "mrp": 999
+      }
+    ],
+    "productDetails": {
+      "brand": "Tempt",
+      "color": "Black",
+      "theme": "Professional",
+      "sheetSize": "A5 (21.0 cm)",
+      "pages": 160,
+      "material": "Hardcover Paper",
+      "closureType": "Elastic Band",
+      "customizable": true,
+      "packageContents": [
+        "1 Personalized Notebook",
+        "1 Matching Engraved Pen"
+      ],
+      "countryOfOrigin": "India"
+    },
+    "usageGuidelines": [
+      "Avoid exposure to moisture",
+      "Use a dry cloth to clean cover",
+      "Personalized items are non-returnable"
+    ],
+    "deliveryInfo": {
+      "delivery": "Free Delivery",
+      "fulfilledBy": "Amazon Delivered",
+      "cashOnDelivery": false,
+      "returnPolicy": "Non-Returnable",
+      "secureTransaction": true,
+      "badge": "Top Brand"
+    },
+    "customerReviews": [
+      {
+        "username": "Rahul Verma",
+        "rating": 4,
+        "comment": "Nice personalized gift. Looks premium and classy."
+      },
+      {
+        "username": "Sneha Kapoor",
+        "rating": 3,
+        "comment": "Good design but pages could be thicker."
+      },
+      {
+        "username": "Amit Shah",
+        "rating": 2,
+        "comment": "Engraving is good but pen quality is average."
+      }
+    ]
+  },
+  {
+    "id": "milton-smilo-450-sipper-438ml-grey",
+    "name": "MILTON Smilo 450 Sipper PET Water Bottle for School Kids (438 ml, Grey)",
+    "category": "kids-water-bottles",
+    "price": 110,
+    "discountPrice": 115,
+    "discountRate": 4,
+    "rating": 3.9,
+    "reviews": 81,
+    "ratingText": "3.9 out of 5 stars",
+    "reviewText": "Based on 81 customer ratings on Amazon",
+    "shortLink": "https://amzn.to/3YJOYmo",
+    "fullLink": "https://www.amazon.in/dp/B0FLXRR5N9?social_share=cm_sw_r_apin_dp_RK1J2BVVXG7HS2DKCJED&badgeInsights=insights&th=1&linkCode=ll1&tag=valdio-21&linkId=8d4cf5413ad2cf5e4ebef85e3b48f6f8&language=en_IN&ref_=as_li_ss_tl",
+    "image": "https://m.media-amazon.com/images/I/71tQRM6aDML._SX679_.jpg",
+    "description": "The MILTON Smilo 450 Sipper Water Bottle is designed for school kids and everyday use. Made from food-grade, BPA-free PET plastic, it ensures safe hydration. Featuring a leak-proof sipper lid and an easy-carry loop, this lightweight and durable bottle is perfect for school, home, office, and travel.",
+    "features": [
+      "Food-grade and BPA-free PET material",
+      "Leak-proof sipper lid prevents spills",
+      "Lightweight and durable construction",
+      "Easy-carry loop handle for convenience",
+      "Ideal for school, home, office, and travel",
+      "Trusted Milton quality with 50+ years of expertise"
+    ],
+    "variants": [
+      {
+        "color": "Grey",
+        "capacity": "438 ml",
+        "price": 110,
+        "mrp": 115
+      },
+      {
+        "color": "Blue",
+        "capacity": "438 ml",
+        "price": 110,
+        "mrp": 115
+      },
+      {
+        "color": "Light Blue",
+        "capacity": "438 ml",
+        "price": 105,
+        "mrp": 115
+      },
+      {
+        "color": "Purple",
+        "capacity": "438 ml",
+        "price": 105,
+        "mrp": 115
+      }
+    ],
+    "sizeOptions": [
+      "438 ml",
+      "600 ml"
+    ],
+    "productDetails": {
+      "brand": "MILTON",
+      "material": "Plastic (PET)",
+      "bottleType": "Sipper Bottle",
+      "color": "Grey",
+      "capacity": "438 ml",
+      "bpaFree": true,
+      "leakProof": true,
+      "recommendedUses": [
+        "School",
+        "Home",
+        "Office",
+        "Travel"
+      ],
+      "countryOfOrigin": "India"
+    },
+    "usageGuidelines": [
+      "Wash before first use",
+      "Do not use for hot liquids",
+      "Clean regularly for hygiene",
+      "Store with lid open after washing"
+    ],
+    "deliveryInfo": {
+      "delivery": "Free Delivery",
+      "fulfilledBy": "Amazon Delivered",
+      "cashOnDelivery": true,
+      "returnPolicy": "10 Days Returnable",
+      "secureTransaction": true,
+      "badge": "Top Brand"
+    },
+    "customerReviews": [
+      {
+        "username": "Rohit Kumar",
+        "rating": 4,
+        "comment": "Nice bottle for kids. Lightweight and leak proof."
+      },
+      {
+        "username": "Anjali Sharma",
+        "rating": 4,
+        "comment": "Good quality plastic and easy to carry for school."
+      },
+      {
+        "username": "Suresh Patel",
+        "rating": 3,
+        "comment": "Decent bottle, works well for everyday use."
+      }
+    ]
+  }
 ]
