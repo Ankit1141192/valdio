@@ -599,539 +599,710 @@
     ]
   },
   {
-  "id": "ugaoo-luckybamboo-3layer01",
-  "name": "Ugaoo Lucky Bamboo 3 Layer Feng Shui Plant (Green Color)",
-  "category": "home-garden",
-  "price": 199,
-  "discountPrice": 499,
-  "discountRate": 60,
-  "rating": 4.3,
-  "reviews": 9464,
-  "ratingText": "4.3 out of 5 stars",
-  "reviewText": "Based on 9,464 customer ratings on Amazon",
-  "shortLink": "https://amzn.to/3LgbaBC",
-  "fullLink": "https://www.amazon.in/dp/B071943N6X?social_share=cm_sw_r_ud_dp_108K6ZFXZT7KAMZHKMPD&th=1&linkCode=ll1&tag=valdio-21&linkId=31538c0e9dc872d86f592e3f88dbc2d9&language=en_IN&ref_=as_li_ss_tl",
-  "image": "https://m.media-amazon.com/images/I/518eaTa9hmL._SX679_.jpg",
-  "description": "Ugaoo Lucky Bamboo 3 Layer plant is a popular indoor Feng Shui plant believed to bring good luck, prosperity, and positive energy. Easy to care for, this live bamboo plant comes in an elegant glass bowl, making it perfect for home decor, office desks, living rooms, and bedrooms.",
-  "features": [
-    "Popular indoor Feng Shui plant for luck and prosperity",
-    "Easy to maintain and ideal for beginners",
-    "Air-purifying natural indoor plant",
-    "Live bamboo plant with decorative glass bowl",
-    "Perfect for home, office desk, and bedroom decor",
-    "Requires minimal sunlight (partial shade)",
-    "Low maintenance watering routine"
-  ],
-  "sizes": [
-    {
-      "name": "2 Layer",
-      "price": 199,
-      "mrp": 395,
-      "discountRate": 50
+    "id": "ugaoo-luckybamboo-3layer01",
+    "name": "Ugaoo Lucky Bamboo 3 Layer Feng Shui Plant (Green Color)",
+    "category": "home-garden",
+    "price": 199,
+    "discountPrice": 499,
+    "discountRate": 60,
+    "rating": 4.3,
+    "reviews": 9464,
+    "ratingText": "4.3 out of 5 stars",
+    "reviewText": "Based on 9,464 customer ratings on Amazon",
+    "shortLink": "https://amzn.to/3LgbaBC",
+    "fullLink": "https://www.amazon.in/dp/B071943N6X?social_share=cm_sw_r_ud_dp_108K6ZFXZT7KAMZHKMPD&th=1&linkCode=ll1&tag=valdio-21&linkId=31538c0e9dc872d86f592e3f88dbc2d9&language=en_IN&ref_=as_li_ss_tl",
+    "image": "https://m.media-amazon.com/images/I/518eaTa9hmL._SX679_.jpg",
+    "description": "Ugaoo Lucky Bamboo 3 Layer plant is a popular indoor Feng Shui plant believed to bring good luck, prosperity, and positive energy. Easy to care for, this live bamboo plant comes in an elegant glass bowl, making it perfect for home decor, office desks, living rooms, and bedrooms.",
+    "features": [
+      "Popular indoor Feng Shui plant for luck and prosperity",
+      "Easy to maintain and ideal for beginners",
+      "Air-purifying natural indoor plant",
+      "Live bamboo plant with decorative glass bowl",
+      "Perfect for home, office desk, and bedroom decor",
+      "Requires minimal sunlight (partial shade)",
+      "Low maintenance watering routine"
+    ],
+    "sizes": [
+      {
+        "name": "2 Layer",
+        "price": 199,
+        "mrp": 395,
+        "discountRate": 50
+      },
+      {
+        "name": "3 Layer",
+        "price": 199,
+        "mrp": 499,
+        "discountRate": 60
+      }
+    ],
+    "styles": [
+      "Glass Bowl",
+      "Ceramic Planter",
+      "Lotus Bowl",
+      "Potters Wheel"
+    ],
+    "productDetails": {
+      "brand": "UGAOO",
+      "plantType": "Lucky Bamboo",
+      "usage": "Indoor",
+      "materialFeature": "Organic",
+      "color": "Green",
+      "specialFeature": "Air Purification",
+      "expectedBloomingPeriod": "Summer",
+      "expectedPlantingPeriod": "Summer",
+      "sunlightExposure": "Partial Shade",
+      "itemWeight": "400 g",
+      "netQuantity": "1 Count"
     },
-    {
-      "name": "3 Layer",
-      "price": 199,
-      "mrp": 499,
-      "discountRate": 60
-    }
-  ],
-  "styles": [
-    "Glass Bowl",
-    "Ceramic Planter",
-    "Lotus Bowl",
-    "Potters Wheel"
-  ],
-  "productDetails": {
-    "brand": "UGAOO",
-    "plantType": "Lucky Bamboo",
-    "usage": "Indoor",
-    "materialFeature": "Organic",
-    "color": "Green",
-    "specialFeature": "Air Purification",
-    "expectedBloomingPeriod": "Summer",
-    "expectedPlantingPeriod": "Summer",
-    "sunlightExposure": "Partial Shade",
-    "itemWeight": "400 g",
-    "netQuantity": "1 Count"
-  },
-  "careInstructions": [
-    "Change water every 3–4 days for better growth",
-    "Keep in partial shade, avoid direct sunlight",
-    "Can be placed in bathrooms, living rooms, and offices",
-    "Use clean, chlorine-free water if possible"
-  ],
-  "plantDimensions": {
-    "heightWithoutPot": "8–10 inches",
-    "spread": "6–8 inches"
-  },
-  "deliveryInfo": {
-    "delivery": "Free Delivery",
-    "fulfilledBy": "Amazon Delivered",
-    "cashOnDelivery": true,
-    "returnPolicy": "Non-Returnable",
-    "secureTransaction": true,
-    "badge": "Top Brand"
-  },
-  "customerReviews": [
-    {
-      "username": "Priya Sharma",
-      "rating": 5,
-      "comment": "Healthy plant and very well packed. Looks beautiful on my office desk."
+    "careInstructions": [
+      "Change water every 3–4 days for better growth",
+      "Keep in partial shade, avoid direct sunlight",
+      "Can be placed in bathrooms, living rooms, and offices",
+      "Use clean, chlorine-free water if possible"
+    ],
+    "plantDimensions": {
+      "heightWithoutPot": "8–10 inches",
+      "spread": "6–8 inches"
     },
-    {
-      "username": "Amit Verma",
-      "rating": 4,
-      "comment": "Easy to maintain and brings a nice vibe to the room."
+    "deliveryInfo": {
+      "delivery": "Free Delivery",
+      "fulfilledBy": "Amazon Delivered",
+      "cashOnDelivery": true,
+      "returnPolicy": "Non-Returnable",
+      "secureTransaction": true,
+      "badge": "Top Brand"
     },
-    {
-      "username": "Neha Jain",
-      "rating": 4,
-      "comment": "Good quality bamboo. Water change instructions were helpful."
-    }
-  ]
-},
-{
-  "id": "himalaya-babywash-extramoist-400ml",
-  "name": "Himalaya Extra Moisturizing Baby Wash 400ml | No Tears Formula with Olive Oil, Aloe Vera & Milk",
-  "category": "baby-care",
-  "price": 217,
-  "discountPrice": 330,
-  "discountRate": 34,
-  "rating": 4.4,
-  "reviews": 42797,
-  "ratingText": "4.4 out of 5 stars",
-  "reviewText": "Based on 42,797 customer ratings on Amazon",
-  "shortLink": "https://amzn.to/49ZCZr2",
-  "fullLink": "https://www.amazon.in/dp/B07XM5SHHH?social_share=cm_sw_r_ud_dp_YDC4S1QNAMJJA49JAN4A&th=1&linkCode=ll1&tag=valdio-21&linkId=f0ff1e01d28d54755fe5d94fe7104895&language=en_IN&ref_=as_li_ss_tl",
-  "image": "https://m.media-amazon.com/images/I/718yOSbi0QL._SL1500_.jpg",
-  "description": "Himalaya Extra Moisturizing Baby Wash is a gentle, soap-free cleanser specially formulated to cleanse and moisturize your baby’s delicate skin. Enriched with natural ingredients like Olive Oil, Aloe Vera, Milk, Almond Oil, and Indian Lotus, this no-tears baby wash helps keep skin soft, nourished, and healthy after every bath.",
-  "features": [
-    "No-tears gentle cleansing formula",
-    "Deeply moisturizes baby’s delicate skin",
-    "Soap-free and dermatologically tested",
-    "Suitable for daily use",
-    "Ideal for all skin types",
-    "Made with natural and herbal ingredients"
-  ],
-  "keyIngredients": [
-    "Olive Oil – Nourishes, protects, and softens skin",
-    "Indian Aloe – Soothes and conditions the skin",
-    "Milk – Nourishes and moisturizes skin",
-    "Almond Oil – Renowned natural skin softener",
-    "Indian Lotus – Helps keep skin soft and supple"
-  ],
-  "variants": [
-    {
+    "customerReviews": [
+      {
+        "username": "Priya Sharma",
+        "rating": 5,
+        "comment": "Healthy plant and very well packed. Looks beautiful on my office desk."
+      },
+      {
+        "username": "Amit Verma",
+        "rating": 4,
+        "comment": "Easy to maintain and brings a nice vibe to the room."
+      },
+      {
+        "username": "Neha Jain",
+        "rating": 4,
+        "comment": "Good quality bamboo. Water change instructions were helpful."
+      }
+    ]
+  },
+  {
+    "id": "himalaya-babywash-extramoist-400ml",
+    "name": "Himalaya Extra Moisturizing Baby Wash 400ml | No Tears Formula with Olive Oil, Aloe Vera & Milk",
+    "category": "baby-care",
+    "price": 217,
+    "discountPrice": 330,
+    "discountRate": 34,
+    "rating": 4.4,
+    "reviews": 42797,
+    "ratingText": "4.4 out of 5 stars",
+    "reviewText": "Based on 42,797 customer ratings on Amazon",
+    "shortLink": "https://amzn.to/49ZCZr2",
+    "fullLink": "https://www.amazon.in/dp/B07XM5SHHH?social_share=cm_sw_r_ud_dp_YDC4S1QNAMJJA49JAN4A&th=1&linkCode=ll1&tag=valdio-21&linkId=f0ff1e01d28d54755fe5d94fe7104895&language=en_IN&ref_=as_li_ss_tl",
+    "image": "https://m.media-amazon.com/images/I/718yOSbi0QL._SL1500_.jpg",
+    "description": "Himalaya Extra Moisturizing Baby Wash is a gentle, soap-free cleanser specially formulated to cleanse and moisturize your baby’s delicate skin. Enriched with natural ingredients like Olive Oil, Aloe Vera, Milk, Almond Oil, and Indian Lotus, this no-tears baby wash helps keep skin soft, nourished, and healthy after every bath.",
+    "features": [
+      "No-tears gentle cleansing formula",
+      "Deeply moisturizes baby’s delicate skin",
+      "Soap-free and dermatologically tested",
+      "Suitable for daily use",
+      "Ideal for all skin types",
+      "Made with natural and herbal ingredients"
+    ],
+    "keyIngredients": [
+      "Olive Oil – Nourishes, protects, and softens skin",
+      "Indian Aloe – Soothes and conditions the skin",
+      "Milk – Nourishes and moisturizes skin",
+      "Almond Oil – Renowned natural skin softener",
+      "Indian Lotus – Helps keep skin soft and supple"
+    ],
+    "variants": [
+      {
+        "scent": "Extra Moisturising",
+        "price": 217,
+        "mrp": 330,
+        "size": "400 ml"
+      },
+      {
+        "scent": "Gentle Wash",
+        "price": 171,
+        "mrp": 330,
+        "size": "400 ml"
+      },
+      {
+        "scent": "Pure Cow Ghee",
+        "price": 360,
+        "mrp": 500,
+        "size": "400 ml"
+      },
+      {
+        "scent": "Refreshing Wash",
+        "price": 180,
+        "mrp": 300,
+        "size": "400 ml"
+      }
+    ],
+    "sizes": [
+      "100 ml (Pack of 1)",
+      "200 ml (Pack of 1)",
+      "200 ml (Pack of 2)",
+      "400 ml (Pack of 1)",
+      "400 ml (Pack of 2)",
+      "600 ml (Pack of 1)",
+      "600 ml (Pack of 2)",
+      "700 ml (Pack of 1)"
+    ],
+    "productDetails": {
+      "brand": "Himalaya",
+      "itemForm": "Oil",
       "scent": "Extra Moisturising",
-      "price": 217,
-      "mrp": 330,
-      "size": "400 ml"
+      "skinType": "All Skin Types",
+      "ageRange": "Baby",
+      "productBenefits": "Moisturizing",
+      "specialFeature": "Milk, Moisturizing",
+      "itemWeight": "450 g",
+      "dimensions": "8.4 x 4.9 x 21 cm",
+      "packageQuantity": 1
     },
-    {
-      "scent": "Gentle Wash",
-      "price": 171,
-      "mrp": 330,
-      "size": "400 ml"
+    "deliveryInfo": {
+      "delivery": "Free Delivery",
+      "fulfilledBy": "Amazon Delivered",
+      "cashOnDelivery": true,
+      "returnPolicy": "Non-Returnable",
+      "secureTransaction": true,
+      "badge": "Top Brand"
     },
-    {
-      "scent": "Pure Cow Ghee",
-      "price": 360,
-      "mrp": 500,
-      "size": "400 ml"
-    },
-    {
-      "scent": "Refreshing Wash",
-      "price": 180,
-      "mrp": 300,
-      "size": "400 ml"
-    }
-  ],
-  "sizes": [
-    "100 ml (Pack of 1)",
-    "200 ml (Pack of 1)",
-    "200 ml (Pack of 2)",
-    "400 ml (Pack of 1)",
-    "400 ml (Pack of 2)",
-    "600 ml (Pack of 1)",
-    "600 ml (Pack of 2)",
-    "700 ml (Pack of 1)"
-  ],
-  "productDetails": {
-    "brand": "Himalaya",
-    "itemForm": "Oil",
-    "scent": "Extra Moisturising",
-    "skinType": "All Skin Types",
-    "ageRange": "Baby",
-    "productBenefits": "Moisturizing",
-    "specialFeature": "Milk, Moisturizing",
-    "itemWeight": "450 g",
-    "dimensions": "8.4 x 4.9 x 21 cm",
-    "packageQuantity": 1
+    "customerReviews": [
+      {
+        "username": "Ananya R",
+        "rating": 5,
+        "comment": "Very gentle on my baby’s skin. No irritation and smells pleasant."
+      },
+      {
+        "username": "Rohit Kumar",
+        "rating": 4,
+        "comment": "Keeps baby skin soft and moisturized. Good value for money."
+      },
+      {
+        "username": "Neha Sharma",
+        "rating": 5,
+        "comment": "Trusted Himalaya product. Perfect for daily baby baths."
+      }
+    ]
   },
-  "deliveryInfo": {
-    "delivery": "Free Delivery",
-    "fulfilledBy": "Amazon Delivered",
-    "cashOnDelivery": true,
-    "returnPolicy": "Non-Returnable",
-    "secureTransaction": true,
-    "badge": "Top Brand"
-  },
-  "customerReviews": [
-    {
-      "username": "Ananya R",
-      "rating": 5,
-      "comment": "Very gentle on my baby’s skin. No irritation and smells pleasant."
-    },
-    {
-      "username": "Rohit Kumar",
-      "rating": 4,
-      "comment": "Keeps baby skin soft and moisturized. Good value for money."
-    },
-    {
-      "username": "Neha Sharma",
-      "rating": 5,
-      "comment": "Trusted Himalaya product. Perfect for daily baby baths."
-    }
-  ]
-},
-{
-  "id": "himalaya-baby-cream-almond-200ml",
-  "name": "Himalaya Baby Cream, Face Moisturizer & Day Cream for Dry Skin (Almond) 200ml",
-  "category": "baby-care",
-  "price": 168,
-  "discountPrice": 280,
-  "discountRate": 40,
-  "rating": 4.4,
-  "reviews": 43775,
-  "ratingText": "4.4 out of 5 stars",
-  "reviewText": "Based on 43,775 customer ratings on Amazon",
-  "shortLink": "https://amzn.to/45LSeBu",
-  "fullLink": "https://www.amazon.in/dp/B00QGEN6C8?social_share=cm_sw_r_ud_dp_DP83Y0NPBTV0W4SB0MV8&th=1&linkCode=ll1&tag=valdio-21&linkId=4c2b7574b3d45a0c8da064cea4dd3110&language=en_IN&ref_=as_li_ss_tl",
-  "image": "https://m.media-amazon.com/images/I/711hgbm4rmL._SL1500_.jpg",
-  "description": "Himalaya Baby Cream is a gentle daily face moisturizer and day cream specially formulated for babies with dry and sensitive skin. Enriched with natural almond oil and herbal ingredients, it helps deeply moisturize, nourish, and protect your baby’s delicate skin, keeping it soft and healthy throughout the day.",
-  "features": [
-    "Daily face moisturizer & day cream for babies",
-    "Helps relieve dryness and keeps skin soft",
-    "Gentle and safe for delicate baby skin",
-    "Dermatologically tested",
-    "Suitable for all seasons",
-    "Ideal for daily use on face and body"
-  ],
-  "keyIngredients": [
-    "Almond Oil – Deeply nourishes and moisturizes dry skin",
-    "Natural herbal extracts – Help protect and soften baby’s skin"
-  ],
-  "variants": [
-    {
+  {
+    "id": "himalaya-baby-cream-almond-200ml",
+    "name": "Himalaya Baby Cream, Face Moisturizer & Day Cream for Dry Skin (Almond) 200ml",
+    "category": "baby-care",
+    "price": 168,
+    "discountPrice": 280,
+    "discountRate": 40,
+    "rating": 4.4,
+    "reviews": 43775,
+    "ratingText": "4.4 out of 5 stars",
+    "reviewText": "Based on 43,775 customer ratings on Amazon",
+    "shortLink": "https://amzn.to/45LSeBu",
+    "fullLink": "https://www.amazon.in/dp/B00QGEN6C8?social_share=cm_sw_r_ud_dp_DP83Y0NPBTV0W4SB0MV8&th=1&linkCode=ll1&tag=valdio-21&linkId=4c2b7574b3d45a0c8da064cea4dd3110&language=en_IN&ref_=as_li_ss_tl",
+    "image": "https://m.media-amazon.com/images/I/711hgbm4rmL._SL1500_.jpg",
+    "description": "Himalaya Baby Cream is a gentle daily face moisturizer and day cream specially formulated for babies with dry and sensitive skin. Enriched with natural almond oil and herbal ingredients, it helps deeply moisturize, nourish, and protect your baby’s delicate skin, keeping it soft and healthy throughout the day.",
+    "features": [
+      "Daily face moisturizer & day cream for babies",
+      "Helps relieve dryness and keeps skin soft",
+      "Gentle and safe for delicate baby skin",
+      "Dermatologically tested",
+      "Suitable for all seasons",
+      "Ideal for daily use on face and body"
+    ],
+    "keyIngredients": [
+      "Almond Oil – Deeply nourishes and moisturizes dry skin",
+      "Natural herbal extracts – Help protect and soften baby’s skin"
+    ],
+    "variants": [
+      {
+        "scent": "Almond",
+        "price": 168,
+        "mrp": 280,
+        "size": "200 ml"
+      },
+      {
+        "scent": "Pure Cow Ghee",
+        "price": 444,
+        "mrp": 450,
+        "size": "200 ml"
+      }
+    ],
+    "sizes": [
+      "50 ml (Pack of 1)",
+      "100 ml (Pack of 1)",
+      "200 ml (Pack of 1)"
+    ],
+    "productDetails": {
+      "brand": "Himalaya",
+      "itemVolume": "200 ml",
       "scent": "Almond",
-      "price": 168,
-      "mrp": 280,
-      "size": "200 ml"
+      "ageRange": "Baby",
+      "skinType": "Dry Skin",
+      "specialFeature": "Premium",
+      "itemForm": "Cream",
+      "dimensions": "7.5 x 7.5 x 18 cm",
+      "packageQuantity": 1
     },
-    {
-      "scent": "Pure Cow Ghee",
-      "price": 444,
-      "mrp": 450,
-      "size": "200 ml"
-    }
-  ],
-  "sizes": [
-    "50 ml (Pack of 1)",
-    "100 ml (Pack of 1)",
-    "200 ml (Pack of 1)"
-  ],
-  "productDetails": {
-    "brand": "Himalaya",
-    "itemVolume": "200 ml",
-    "scent": "Almond",
-    "ageRange": "Baby",
-    "skinType": "Dry Skin",
-    "specialFeature": "Premium",
-    "itemForm": "Cream",
-    "dimensions": "7.5 x 7.5 x 18 cm",
-    "packageQuantity": 1
+    "deliveryInfo": {
+      "delivery": "Free Delivery",
+      "fulfilledBy": "Amazon Delivered",
+      "cashOnDelivery": true,
+      "returnPolicy": "Non-Returnable",
+      "secureTransaction": true,
+      "badge": "Amazon's Choice"
+    },
+    "customerReviews": [
+      {
+        "username": "Pooja Mehta",
+        "rating": 5,
+        "comment": "Very moisturizing and gentle. Perfect for my baby’s dry skin."
+      },
+      {
+        "username": "Ravi Kumar",
+        "rating": 4,
+        "comment": "Good cream for daily use. Absorbs well and smells nice."
+      },
+      {
+        "username": "Neha Jain",
+        "rating": 5,
+        "comment": "Trusted brand. Keeps baby skin soft and hydrated all day."
+      }
+    ]
   },
-  "deliveryInfo": {
-    "delivery": "Free Delivery",
-    "fulfilledBy": "Amazon Delivered",
-    "cashOnDelivery": true,
-    "returnPolicy": "Non-Returnable",
-    "secureTransaction": true,
-    "badge": "Amazon's Choice"
+  {
+    "id": "yonex-mavis-350-greencap",
+    "name": "Yonex Mavis 350 Green Cap Nylon Shuttlecock (Yellow)",
+    "category": "sports-badminton",
+    "price": 1115,
+    "discountPrice": 1265,
+    "discountRate": 12,
+    "rating": 4.0,
+    "reviews": 32482,
+    "ratingText": "4.0 out of 5 stars",
+    "reviewText": "Based on 32,482 customer ratings on Amazon",
+    "shortLink": "https://amzn.to/4jLsGKI",
+    "fullLink": "https://www.amazon.in/dp/B000FI8ER8?social_share=cm_sw_r_cso_wa_apan_dp_NZQQ9YBE0SJ0KMA5PK6D&th=1&linkCode=ll1&tag=valdio-21&linkId=8fea60da45b9d29cc3997b3697554edc&language=en_IN&ref_=as_li_ss_tl",
+    "image": "https://m.media-amazon.com/images/I/61-rv4FJ3AL._SL1500_.jpg",
+    "description": "Yonex Mavis 350 Green Cap nylon shuttlecocks are designed to deliver excellent durability and consistent flight performance. Known for their quick recovery time, these shuttlecocks closely match the performance of feather shuttles and are ideal for regular practice and competitive play in warm conditions.",
+    "features": [
+      "High-quality nylon shuttlecocks for consistent performance",
+      "Fast recovery time of 0.02 seconds after smash",
+      "Performance close to feather shuttlecocks",
+      "Designed for warm playing conditions",
+      "Durable construction for long-lasting use",
+      "Ideal for training and match play"
+    ],
+    "variants": [
+      {
+        "style": "Green Cap",
+        "speed": "Slow",
+        "recommendedTemperature": "22°C to 33°C",
+        "price": 1115,
+        "mrp": 1265
+      },
+      {
+        "style": "Blue Cap",
+        "speed": "Medium",
+        "recommendedTemperature": "12°C to 23°C",
+        "price": 1373,
+        "mrp": 1650
+      }
+    ],
+    "packDetails": {
+      "packSize": "Pack of 6",
+      "pricePerUnit": 185.83
+    },
+    "productDetails": {
+      "brand": "YONEX",
+      "material": "Nylon",
+      "color": "Yellow",
+      "sport": "Badminton",
+      "speedCategory": "Slow Speed",
+      "recoveryTime": "0.02 seconds",
+      "countryOfOrigin": "Japan"
+    },
+    "usageGuidelines": [
+      "Green cap recommended for warm climates (22°C–33°C)",
+      "Store in a cool, dry place",
+      "Use appropriate shuttle speed based on temperature"
+    ],
+    "deliveryInfo": {
+      "delivery": "Free Delivery",
+      "fulfilledBy": "Amazon Delivered",
+      "cashOnDelivery": true,
+      "returnPolicy": "Non-Returnable",
+      "secureTransaction": true,
+      "badge": "#1 Best Seller"
+    },
+    "customerReviews": [
+      {
+        "username": "Saurabh Patel",
+        "rating": 5,
+        "comment": "Excellent durability and very consistent flight. Perfect for daily practice."
+      },
+      {
+        "username": "Vikas Sharma",
+        "rating": 4,
+        "comment": "Good alternative to feather shuttles. Works best in warm weather."
+      },
+      {
+        "username": "Anil Mehta",
+        "rating": 4,
+        "comment": "Original Yonex quality. Slightly expensive but worth it."
+      }
+    ]
   },
-  "customerReviews": [
-    {
-      "username": "Pooja Mehta",
-      "rating": 5,
-      "comment": "Very moisturizing and gentle. Perfect for my baby’s dry skin."
+  {
+    "id": "3m-postit-sticky-note-cube-3x3",
+    "name": "3M Post-it Sticky Note Cube, 200 Sheets (4 Colors x 50 Sheets)",
+    "category": "office-stationery",
+    "price": 128,
+    "discountPrice": 175,
+    "discountRate": 27,
+    "rating": 4.4,
+    "reviews": 10167,
+    "ratingText": "4.4 out of 5 stars",
+    "reviewText": "Based on 10,167 customer ratings on Amazon",
+    "shortLink": "https://amzn.to/4qkvFMy",
+    "fullLink": "https://www.amazon.in/dp/B00N1U7JXM?social_share=cm_sw_r_cso_wa_apan_dp_DYKHMCDD2YMC2ECRJHMW&th=1&linkCode=ll1&tag=valdio-21&linkId=30df0982b9ae19613f04cb01f57efcef&language=en_IN&ref_=as_li_ss_tl",
+    "image": "https://m.media-amazon.com/images/I/719gxnixAXL._SL1500_.jpg",
+    "description": "3M Post-it Sticky Note Cube comes with 200 sheets in 4 vibrant colors, making it perfect for notes, reminders, study, school, and office organization. Designed for easy sticking and clean removal, it helps you stay organized and creative.",
+    "features": [
+      "200 sticky notes in a compact cube format",
+      "4 vibrant colors for easy color coding",
+      "Strong adhesive that sticks securely and removes cleanly",
+      "Perfect for notes, reminders, and to-do lists",
+      "Compact 3 x 3 inch size for desks and workspaces",
+      "High-quality paper from trusted 3M brand"
+    ],
+    "variants": [
+      {
+        "size": "72mm x 72mm",
+        "pack": "Single Pack",
+        "price": 128,
+        "mrp": 175
+      },
+      {
+        "size": "72mm x 72mm",
+        "pack": "Pack of 2",
+        "price": 256,
+        "mrp": 350
+      }
+    ],
+    "packDetails": {
+      "packSize": "200 Sheets",
+      "pricePerUnit": 128,
+      "sheetDistribution": "4 Colors x 50 Sheets"
     },
-    {
-      "username": "Ravi Kumar",
-      "rating": 4,
-      "comment": "Good cream for daily use. Absorbs well and smells nice."
+    "productDetails": {
+      "brand": "Post-It",
+      "material": "Paper",
+      "color": "Multicolour",
+      "shape": "Square",
+      "size": "3 x 3 inches (72mm x 72mm)",
+      "netQuantity": "1 Count"
     },
-    {
-      "username": "Neha Jain",
-      "rating": 5,
-      "comment": "Trusted brand. Keeps baby skin soft and hydrated all day."
-    }
-  ]
-},
-{
-  "id": "yonex-mavis-350-greencap",
-  "name": "Yonex Mavis 350 Green Cap Nylon Shuttlecock (Yellow)",
-  "category": "sports-badminton",
-  "price": 1115,
-  "discountPrice": 1265,
-  "discountRate": 12,
-  "rating": 4.0,
-  "reviews": 32482,
-  "ratingText": "4.0 out of 5 stars",
-  "reviewText": "Based on 32,482 customer ratings on Amazon",
-  "shortLink": "https://amzn.to/4jLsGKI",
-  "fullLink": "https://www.amazon.in/dp/B000FI8ER8?social_share=cm_sw_r_cso_wa_apan_dp_NZQQ9YBE0SJ0KMA5PK6D&th=1&linkCode=ll1&tag=valdio-21&linkId=8fea60da45b9d29cc3997b3697554edc&language=en_IN&ref_=as_li_ss_tl",
-  "image": "https://m.media-amazon.com/images/I/61-rv4FJ3AL._SL1500_.jpg",
-  "description": "Yonex Mavis 350 Green Cap nylon shuttlecocks are designed to deliver excellent durability and consistent flight performance. Known for their quick recovery time, these shuttlecocks closely match the performance of feather shuttles and are ideal for regular practice and competitive play in warm conditions.",
-  "features": [
-    "High-quality nylon shuttlecocks for consistent performance",
-    "Fast recovery time of 0.02 seconds after smash",
-    "Performance close to feather shuttlecocks",
-    "Designed for warm playing conditions",
-    "Durable construction for long-lasting use",
-    "Ideal for training and match play"
-  ],
-  "variants": [
-    {
-      "style": "Green Cap",
-      "speed": "Slow",
-      "recommendedTemperature": "22°C to 33°C",
-      "price": 1115,
-      "mrp": 1265
+    "usageGuidelines": [
+      "Use for notes, reminders, and task organization",
+      "Color-code tasks for better productivity",
+      "Stick on clean, dry surfaces for best adhesion",
+      "Avoid dusty or oily surfaces"
+    ],
+    "deliveryInfo": {
+      "delivery": "Free Delivery",
+      "fulfilledBy": "Amazon Delivered",
+      "cashOnDelivery": true,
+      "returnPolicy": "10 Days Replacement",
+      "secureTransaction": true,
+      "badge": "Top Brand"
     },
-    {
-      "style": "Blue Cap",
-      "speed": "Medium",
-      "recommendedTemperature": "12°C to 23°C",
-      "price": 1373,
-      "mrp": 1650
-    }
-  ],
-  "packDetails": {
-    "packSize": "Pack of 6",
-    "pricePerUnit": 185.83
+    "customerReviews": [
+      {
+        "username": "Rahul Verma",
+        "rating": 5,
+        "comment": "Very useful for daily office work. Colors are bright and paper quality is excellent."
+      },
+      {
+        "username": "Neha Singh",
+        "rating": 4,
+        "comment": "Good stickiness and perfect size for reminders."
+      },
+      {
+        "username": "Amit Sharma",
+        "rating": 4,
+        "comment": "Original Post-it quality. Slightly expensive but worth it."
+      }
+    ]
   },
-  "productDetails": {
-    "brand": "YONEX",
-    "material": "Nylon",
-    "color": "Yellow",
-    "sport": "Badminton",
-    "speedCategory": "Slow Speed",
-    "recoveryTime": "0.02 seconds",
-    "countryOfOrigin": "Japan"
-  },
-  "usageGuidelines": [
-    "Green cap recommended for warm climates (22°C–33°C)",
-    "Store in a cool, dry place",
-    "Use appropriate shuttle speed based on temperature"
-  ],
-  "deliveryInfo": {
-    "delivery": "Free Delivery",
-    "fulfilledBy": "Amazon Delivered",
-    "cashOnDelivery": true,
-    "returnPolicy": "Non-Returnable",
-    "secureTransaction": true,
-    "badge": "#1 Best Seller"
-  },
-  "customerReviews": [
-    {
-      "username": "Saurabh Patel",
-      "rating": 5,
-      "comment": "Excellent durability and very consistent flight. Perfect for daily practice."
-    },
-    {
-      "username": "Vikas Sharma",
-      "rating": 4,
-      "comment": "Good alternative to feather shuttles. Works best in warm weather."
-    },
-    {
-      "username": "Anil Mehta",
-      "rating": 4,
-      "comment": "Original Yonex quality. Slightly expensive but worth it."
-    }
-  ]
-},
-{
-  "id": "3m-postit-sticky-note-cube-3x3",
-  "name": "3M Post-it Sticky Note Cube, 200 Sheets (4 Colors x 50 Sheets)",
-  "category": "office-stationery",
-  "price": 128,
-  "discountPrice": 175,
-  "discountRate": 27,
-  "rating": 4.4,
-  "reviews": 10167,
-  "ratingText": "4.4 out of 5 stars",
-  "reviewText": "Based on 10,167 customer ratings on Amazon",
-  "shortLink": "https://amzn.to/4qkvFMy",
-  "fullLink": "https://www.amazon.in/dp/B00N1U7JXM?social_share=cm_sw_r_cso_wa_apan_dp_DYKHMCDD2YMC2ECRJHMW&th=1&linkCode=ll1&tag=valdio-21&linkId=30df0982b9ae19613f04cb01f57efcef&language=en_IN&ref_=as_li_ss_tl",
-  "image": "https://m.media-amazon.com/images/I/719gxnixAXL._SL1500_.jpg",
-  "description": "3M Post-it Sticky Note Cube comes with 200 sheets in 4 vibrant colors, making it perfect for notes, reminders, study, school, and office organization. Designed for easy sticking and clean removal, it helps you stay organized and creative.",
-  "features": [
-    "200 sticky notes in a compact cube format",
-    "4 vibrant colors for easy color coding",
-    "Strong adhesive that sticks securely and removes cleanly",
-    "Perfect for notes, reminders, and to-do lists",
-    "Compact 3 x 3 inch size for desks and workspaces",
-    "High-quality paper from trusted 3M brand"
-  ],
-  "variants": [
-    {
-      "size": "72mm x 72mm",
-      "pack": "Single Pack",
-      "price": 128,
-      "mrp": 175
-    },
-    {
-      "size": "72mm x 72mm",
-      "pack": "Pack of 2",
-      "price": 256,
-      "mrp": 350
-    }
-  ],
-  "packDetails": {
-    "packSize": "200 Sheets",
-    "pricePerUnit": 128,
-    "sheetDistribution": "4 Colors x 50 Sheets"
-  },
-  "productDetails": {
-    "brand": "Post-It",
-    "material": "Paper",
-    "color": "Multicolour",
-    "shape": "Square",
-    "size": "3 x 3 inches (72mm x 72mm)",
-    "netQuantity": "1 Count"
-  },
-  "usageGuidelines": [
-    "Use for notes, reminders, and task organization",
-    "Color-code tasks for better productivity",
-    "Stick on clean, dry surfaces for best adhesion",
-    "Avoid dusty or oily surfaces"
-  ],
-  "deliveryInfo": {
-    "delivery": "Free Delivery",
-    "fulfilledBy": "Amazon Delivered",
-    "cashOnDelivery": true,
-    "returnPolicy": "10 Days Replacement",
-    "secureTransaction": true,
-    "badge": "Top Brand"
-  },
-  "customerReviews": [
-    {
-      "username": "Rahul Verma",
-      "rating": 5,
-      "comment": "Very useful for daily office work. Colors are bright and paper quality is excellent."
-    },
-    {
-      "username": "Neha Singh",
-      "rating": 4,
-      "comment": "Good stickiness and perfect size for reminders."
-    },
-    {
-      "username": "Amit Sharma",
-      "rating": 4,
-      "comment": "Original Post-it quality. Slightly expensive but worth it."
-    }
-  ]
-},
-{
-  "id": "designing-data-intensive-applications-book",
-  "name": "Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems",
-  "category": "books-technology",
-  "price": 1499,
-  "discountPrice": 1999,
-  "discountRate": 25,
-  "rating": 4.7,
-  "reviews": 3006,
-  "ratingText": "4.7 out of 5 stars",
-  "reviewText": "Based on 3,006 customer ratings on Amazon",
-  "shortLink": "https://amzn.to/49rUT5R",
-  "fullLink": "https://www.amazon.in/Designing-Data-Intensive-Applications-Reliable-Maintainable/dp/6158555266?&linkCode=ll1&tag=valdio-21&linkId=e923a8972a56a7cb536a5a6e2b18574c&language=en_IN&ref_=as_li_ss_tl",
-  "image": "https://m.media-amazon.com/images/I/61ewHYfGFsL._SL1000_.jpg",
-  "description": "Designing Data-Intensive Applications by Martin Kleppmann is a must-read book for software engineers and system architects. It explores the core principles behind building reliable, scalable, and maintainable systems, covering databases, distributed systems, data models, consistency, fault tolerance, and scalability.",
-  "features": [
-    "Covers fundamentals of data-intensive system design",
-    "Explains databases, storage engines, and data models",
-    "Deep dive into distributed systems and scalability",
-    "Focus on reliability, consistency, and fault tolerance",
-    "Practical real-world examples and trade-offs",
-    "Highly recommended for backend engineers and architects"
-  ],
-  "variants": [
-    {
+  {
+    "id": "designing-data-intensive-applications-book",
+    "name": "Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems",
+    "category": "books-technology",
+    "price": 1499,
+    "discountPrice": 1999,
+    "discountRate": 25,
+    "rating": 4.7,
+    "reviews": 3006,
+    "ratingText": "4.7 out of 5 stars",
+    "reviewText": "Based on 3,006 customer ratings on Amazon",
+    "shortLink": "https://amzn.to/49rUT5R",
+    "fullLink": "https://www.amazon.in/Designing-Data-Intensive-Applications-Reliable-Maintainable/dp/6158555266?&linkCode=ll1&tag=valdio-21&linkId=e923a8972a56a7cb536a5a6e2b18574c&language=en_IN&ref_=as_li_ss_tl",
+    "image": "https://m.media-amazon.com/images/I/61ewHYfGFsL._SL1000_.jpg",
+    "description": "Designing Data-Intensive Applications by Martin Kleppmann is a must-read book for software engineers and system architects. It explores the core principles behind building reliable, scalable, and maintainable systems, covering databases, distributed systems, data models, consistency, fault tolerance, and scalability.",
+    "features": [
+      "Covers fundamentals of data-intensive system design",
+      "Explains databases, storage engines, and data models",
+      "Deep dive into distributed systems and scalability",
+      "Focus on reliability, consistency, and fault tolerance",
+      "Practical real-world examples and trade-offs",
+      "Highly recommended for backend engineers and architects"
+    ],
+    "variants": [
+      {
+        "format": "Paperback",
+        "price": 1499,
+        "mrp": 1999
+      },
+      {
+        "format": "Kindle Edition",
+        "price": 1424,
+        "mrp": 1999
+      },
+      {
+        "format": "Audiobook",
+        "price": 0,
+        "mrp": 0,
+        "note": "Available with Audible membership trial"
+      }
+    ],
+    "packDetails": {
       "format": "Paperback",
-      "price": 1499,
-      "mrp": 1999
+      "pages": "Approx. 600+ pages",
+      "language": "English"
+    },
+    "productDetails": {
+      "author": "Martin Kleppmann",
+      "publisher": "O'Reilly Media",
+      "publicationDate": "1 January 2017",
+      "binding": "Paperback",
+      "category": "Computer Science / Software Engineering",
+      "countryOfOrigin": "India"
+    },
+    "usageGuidelines": [
+      "Ideal for backend developers and system designers",
+      "Best read alongside practical system design experience",
+      "Use as a reference for scalable architecture decisions"
+    ],
+    "deliveryInfo": {
+      "delivery": "Free Delivery",
+      "fulfilledBy": "Amazon Delivered",
+      "cashOnDelivery": true,
+      "returnPolicy": "10 Days Replacement",
+      "secureTransaction": true,
+      "badge": "Best Seller in System Design Books"
+    },
+    "customerReviews": [
+      {
+        "username": "Rahul Verma",
+        "rating": 5,
+        "comment": "The best book on system design. Explains complex concepts very clearly."
+      },
+      {
+        "username": "Ankit Sharma",
+        "rating": 5,
+        "comment": "A must-read for backend engineers preparing for system design interviews."
+      },
+      {
+        "username": "Vikas Mehta",
+        "rating": 4,
+        "comment": "Very detailed and insightful. Requires patience but totally worth it."
+      }
+    ]
+  },
+  {
+  "id": "corporate-porium-personalized-steel-bottle-h231",
+  "name": "CORPORATE PORIUM Your Name Printed Curvy Stainless Steel Bottle (1L, Black)",
+  "category": "home-kitchen-water-bottles",
+  "price": 236,
+  "discountPrice": 999,
+  "discountRate": 76,
+  "rating": 3.5,
+  "reviews": 1552,
+  "ratingText": "3.5 out of 5 stars",
+  "reviewText": "Based on 1,552 customer ratings on Amazon",
+  "shortLink": "https://amzn.to/49IFPQb",
+  "fullLink": "https://www.amazon.in/dp/B0CZF53PNY?social_share=cm_sw_r_apin_dp_YQ1BVD4H9NS87D7EEXVD_1&badgeInsights=insights&th=1&linkCode=ll1&tag=valdio-21&linkId=57e64e1bf40de1605ad84ca61991540f&language=en_IN&ref_=as_li_ss_tl",
+  "image": "https://m.media-amazon.com/images/I/61yK3mfgUTL._SL1500_.jpg",
+  "description": "The CORPORATE PORIUM personalized stainless steel bottle is a stylish and durable daily-use bottle featuring permanent laser engraving for customization. With a 1-liter capacity, leak-proof cap, and premium stainless steel construction, it makes an ideal corporate gift, festive present, or personal hydration companion.",
+  "features": [
+    "Premium single-wall stainless steel construction",
+    "Permanent laser-engraved name personalization",
+    "Leak-proof cap for spill-free use",
+    "Wide mouth design for easy ice insertion",
+    "Food-safe and BPA-free materials",
+    "Durable, rust-resistant, and corrosion-resistant",
+    "Ideal for daily use, gifting, and travel"
+  ],
+  "variants": [
+    {
+      "model": "H231-Bl-New",
+      "style": "Curvy Bottle",
+      "color": "Black",
+      "price": 236,
+      "mrp": 999
     },
     {
-      "format": "Kindle Edition",
-      "price": 1424,
-      "mrp": 1999
+      "model": "H241-A",
+      "style": "Straight Bottle",
+      "price": 236,
+      "mrp": 999
     },
     {
-      "format": "Audiobook",
-      "price": 0,
-      "mrp": 0,
-      "note": "Available with Audible membership trial"
+      "model": "Rubber Coated Bottle",
+      "price": 527,
+      "mrp": 999
+    },
+    {
+      "model": "Wood Cap Bottle",
+      "price": 474,
+      "mrp": 999
     }
   ],
   "packDetails": {
-    "format": "Paperback",
-    "pages": "Approx. 600+ pages",
-    "language": "English"
+    "capacity": "1 Litre",
+    "quantity": 1,
+    "customisation": "1 text input (Name engraving)"
   },
   "productDetails": {
-    "author": "Martin Kleppmann",
-    "publisher": "O'Reilly Media",
-    "publicationDate": "1 January 2017",
-    "binding": "Paperback",
-    "category": "Computer Science / Software Engineering",
+    "brand": "CORPORATE PORIUM",
+    "material": "Stainless Steel",
+    "bottleType": "Daily Use",
+    "color": "Black",
+    "capacity": "1 Litre",
+    "engravingType": "Laser Engraved",
+    "bpaFree": true,
+    "leakProof": true,
     "countryOfOrigin": "India"
   },
   "usageGuidelines": [
-    "Ideal for backend developers and system designers",
-    "Best read alongside practical system design experience",
-    "Use as a reference for scalable architecture decisions"
+    "Hand wash recommended to preserve engraving",
+    "Avoid hot liquids (single-wall bottle)",
+    "Do not use in microwave or dishwasher",
+    "Store with cap open after washing"
   ],
   "deliveryInfo": {
     "delivery": "Free Delivery",
     "fulfilledBy": "Amazon Delivered",
     "cashOnDelivery": true,
-    "returnPolicy": "10 Days Replacement",
+    "returnPolicy": "Non-Returnable (Customized Product)",
     "secureTransaction": true,
-    "badge": "Best Seller in System Design Books"
+    "badge": "Republic Day Deal"
   },
   "customerReviews": [
     {
-      "username": "Rahul Verma",
+      "username": "Amit Kumar",
       "rating": 5,
-      "comment": "The best book on system design. Explains complex concepts very clearly."
+      "comment": "Nice engraving quality and solid build. Worth the price for gifting."
     },
     {
-      "username": "Ankit Sharma",
-      "rating": 5,
-      "comment": "A must-read for backend engineers preparing for system design interviews."
-    },
-    {
-      "username": "Vikas Mehta",
+      "username": "Neha Sharma",
       "rating": 4,
-      "comment": "Very detailed and insightful. Requires patience but totally worth it."
+      "comment": "Looks premium and leak-proof. Custom name came out clean."
+    },
+    {
+      "username": "Rohit Verma",
+      "rating": 3,
+      "comment": "Good bottle but single-wall, so not for hot drinks."
+    }
+  ]
+},
+{
+  "id": "toblerone-milk-honey-almond-nougat-2pack",
+  "name": "Toblerone Of Switzerland Milk Chocolate With Honey And Almond Nougat (Pack of 2 x 100g)",
+  "category": "grocery-chocolates",
+  "price": 385,
+  "discountPrice": 699,
+  "discountRate": 45,
+  "rating": 4.2,
+  "reviews": 8572,
+  "ratingText": "4.2 out of 5 stars",
+  "reviewText": "Based on 8,572 customer ratings on Amazon",
+  "shortLink": "https://amzn.to/3ZiznKI",
+  "fullLink": "https://www.amazon.in/dp/B07JVLS17V?social_share=cm_sw_r_ud_dp_TTPNTD3DKKR800KD2Q7W&th=1&linkCode=ll1&tag=valdio-21&linkId=d05357e040b1c25c2da3230f0314a756&language=en_IN&ref_=as_li_ss_tl",
+  "image": "https://m.media-amazon.com/images/I/41z+jBhbVVS.jpg",
+  "description": "Toblerone Milk Chocolate with Honey and Almond Nougat is a premium Swiss chocolate known for its iconic triangular shape and rich taste. Made with smooth milk chocolate blended with crunchy almond nougat and honey, this 2-pack is perfect for gifting, sharing, or personal indulgence.",
+  "features": [
+    "Authentic Swiss milk chocolate",
+    "Infused with honey and crunchy almond nougat",
+    "Iconic triangular Toblerone shape",
+    "Smooth texture with rich flavor",
+    "Perfect for gifting and celebrations",
+    "Pack of 2 snack-size bars"
+  ],
+  "variants": [
+    {
+      "flavour": "Milk, Honey and Almond Nougat",
+      "packSize": "100 g x 2",
+      "price": 385,
+      "mrp": 699
+    }
+  ],
+  "packDetails": {
+    "netQuantity": "200 g",
+    "numberOfPieces": 2,
+    "pricePerUnit": 192.5
+  },
+  "productDetails": {
+    "brand": "Toblerone",
+    "itemForm": "Bar",
+    "chocolateType": "Milk Chocolate",
+    "flavour": "Milk, Honey and Almond Nougat",
+    "dietType": "Non-Vegetarian",
+    "speciality": "Almond Nougat",
+    "occasion": "Birthday, Gifting",
+    "allergenInformation": "Eggs",
+    "countryOfOrigin": "Switzerland"
+  },
+  "usageGuidelines": [
+    "Store in a cool, dry place",
+    "Keep away from direct sunlight",
+    "Consume before expiry date mentioned on pack"
+  ],
+  "deliveryInfo": {
+    "delivery": "Free Delivery",
+    "fulfilledBy": "Amazon Delivered",
+    "cashOnDelivery": true,
+    "returnPolicy": "Non-Returnable",
+    "secureTransaction": true,
+    "badge": "Top Brand"
+  },
+  "customerReviews": [
+    {
+      "username": "Rahul Mehta",
+      "rating": 5,
+      "comment": "Classic Toblerone taste. Fresh and perfect for gifting."
+    },
+    {
+      "username": "Pooja Singh",
+      "rating": 4,
+      "comment": "Rich chocolate with crunchy nougat. A bit pricey but worth it."
+    },
+    {
+      "username": "Ankit Verma",
+      "rating": 4,
+      "comment": "Original Swiss chocolate. Loved the triangular design."
     }
   ]
 }
-
-
-
-
 
 
 ]
