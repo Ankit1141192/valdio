@@ -960,7 +960,176 @@
       "comment": "Original Yonex quality. Slightly expensive but worth it."
     }
   ]
+},
+{
+  "id": "3m-postit-sticky-note-cube-3x3",
+  "name": "3M Post-it Sticky Note Cube, 200 Sheets (4 Colors x 50 Sheets)",
+  "category": "office-stationery",
+  "price": 128,
+  "discountPrice": 175,
+  "discountRate": 27,
+  "rating": 4.4,
+  "reviews": 10167,
+  "ratingText": "4.4 out of 5 stars",
+  "reviewText": "Based on 10,167 customer ratings on Amazon",
+  "shortLink": "https://amzn.to/4qkvFMy",
+  "fullLink": "https://www.amazon.in/dp/B00N1U7JXM?social_share=cm_sw_r_cso_wa_apan_dp_DYKHMCDD2YMC2ECRJHMW&th=1&linkCode=ll1&tag=valdio-21&linkId=30df0982b9ae19613f04cb01f57efcef&language=en_IN&ref_=as_li_ss_tl",
+  "image": "https://m.media-amazon.com/images/I/719gxnixAXL._SL1500_.jpg",
+  "description": "3M Post-it Sticky Note Cube comes with 200 sheets in 4 vibrant colors, making it perfect for notes, reminders, study, school, and office organization. Designed for easy sticking and clean removal, it helps you stay organized and creative.",
+  "features": [
+    "200 sticky notes in a compact cube format",
+    "4 vibrant colors for easy color coding",
+    "Strong adhesive that sticks securely and removes cleanly",
+    "Perfect for notes, reminders, and to-do lists",
+    "Compact 3 x 3 inch size for desks and workspaces",
+    "High-quality paper from trusted 3M brand"
+  ],
+  "variants": [
+    {
+      "size": "72mm x 72mm",
+      "pack": "Single Pack",
+      "price": 128,
+      "mrp": 175
+    },
+    {
+      "size": "72mm x 72mm",
+      "pack": "Pack of 2",
+      "price": 256,
+      "mrp": 350
+    }
+  ],
+  "packDetails": {
+    "packSize": "200 Sheets",
+    "pricePerUnit": 128,
+    "sheetDistribution": "4 Colors x 50 Sheets"
+  },
+  "productDetails": {
+    "brand": "Post-It",
+    "material": "Paper",
+    "color": "Multicolour",
+    "shape": "Square",
+    "size": "3 x 3 inches (72mm x 72mm)",
+    "netQuantity": "1 Count"
+  },
+  "usageGuidelines": [
+    "Use for notes, reminders, and task organization",
+    "Color-code tasks for better productivity",
+    "Stick on clean, dry surfaces for best adhesion",
+    "Avoid dusty or oily surfaces"
+  ],
+  "deliveryInfo": {
+    "delivery": "Free Delivery",
+    "fulfilledBy": "Amazon Delivered",
+    "cashOnDelivery": true,
+    "returnPolicy": "10 Days Replacement",
+    "secureTransaction": true,
+    "badge": "Top Brand"
+  },
+  "customerReviews": [
+    {
+      "username": "Rahul Verma",
+      "rating": 5,
+      "comment": "Very useful for daily office work. Colors are bright and paper quality is excellent."
+    },
+    {
+      "username": "Neha Singh",
+      "rating": 4,
+      "comment": "Good stickiness and perfect size for reminders."
+    },
+    {
+      "username": "Amit Sharma",
+      "rating": 4,
+      "comment": "Original Post-it quality. Slightly expensive but worth it."
+    }
+  ]
+},
+{
+  "id": "designing-data-intensive-applications-book",
+  "name": "Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems",
+  "category": "books-technology",
+  "price": 1499,
+  "discountPrice": 1999,
+  "discountRate": 25,
+  "rating": 4.7,
+  "reviews": 3006,
+  "ratingText": "4.7 out of 5 stars",
+  "reviewText": "Based on 3,006 customer ratings on Amazon",
+  "shortLink": "https://amzn.to/49rUT5R",
+  "fullLink": "https://www.amazon.in/Designing-Data-Intensive-Applications-Reliable-Maintainable/dp/6158555266?&linkCode=ll1&tag=valdio-21&linkId=e923a8972a56a7cb536a5a6e2b18574c&language=en_IN&ref_=as_li_ss_tl",
+  "image": "https://m.media-amazon.com/images/I/61ewHYfGFsL._SL1000_.jpg",
+  "description": "Designing Data-Intensive Applications by Martin Kleppmann is a must-read book for software engineers and system architects. It explores the core principles behind building reliable, scalable, and maintainable systems, covering databases, distributed systems, data models, consistency, fault tolerance, and scalability.",
+  "features": [
+    "Covers fundamentals of data-intensive system design",
+    "Explains databases, storage engines, and data models",
+    "Deep dive into distributed systems and scalability",
+    "Focus on reliability, consistency, and fault tolerance",
+    "Practical real-world examples and trade-offs",
+    "Highly recommended for backend engineers and architects"
+  ],
+  "variants": [
+    {
+      "format": "Paperback",
+      "price": 1499,
+      "mrp": 1999
+    },
+    {
+      "format": "Kindle Edition",
+      "price": 1424,
+      "mrp": 1999
+    },
+    {
+      "format": "Audiobook",
+      "price": 0,
+      "mrp": 0,
+      "note": "Available with Audible membership trial"
+    }
+  ],
+  "packDetails": {
+    "format": "Paperback",
+    "pages": "Approx. 600+ pages",
+    "language": "English"
+  },
+  "productDetails": {
+    "author": "Martin Kleppmann",
+    "publisher": "O'Reilly Media",
+    "publicationDate": "1 January 2017",
+    "binding": "Paperback",
+    "category": "Computer Science / Software Engineering",
+    "countryOfOrigin": "India"
+  },
+  "usageGuidelines": [
+    "Ideal for backend developers and system designers",
+    "Best read alongside practical system design experience",
+    "Use as a reference for scalable architecture decisions"
+  ],
+  "deliveryInfo": {
+    "delivery": "Free Delivery",
+    "fulfilledBy": "Amazon Delivered",
+    "cashOnDelivery": true,
+    "returnPolicy": "10 Days Replacement",
+    "secureTransaction": true,
+    "badge": "Best Seller in System Design Books"
+  },
+  "customerReviews": [
+    {
+      "username": "Rahul Verma",
+      "rating": 5,
+      "comment": "The best book on system design. Explains complex concepts very clearly."
+    },
+    {
+      "username": "Ankit Sharma",
+      "rating": 5,
+      "comment": "A must-read for backend engineers preparing for system design interviews."
+    },
+    {
+      "username": "Vikas Mehta",
+      "rating": 4,
+      "comment": "Very detailed and insightful. Requires patience but totally worth it."
+    }
+  ]
 }
+
+
 
 
 
