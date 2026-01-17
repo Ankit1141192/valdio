@@ -690,6 +690,195 @@
       "comment": "Good quality bamboo. Water change instructions were helpful."
     }
   ]
+},
+{
+  "id": "himalaya-babywash-extramoist-400ml",
+  "name": "Himalaya Extra Moisturizing Baby Wash 400ml | No Tears Formula with Olive Oil, Aloe Vera & Milk",
+  "category": "baby-care",
+  "price": 217,
+  "discountPrice": 330,
+  "discountRate": 34,
+  "rating": 4.4,
+  "reviews": 42797,
+  "ratingText": "4.4 out of 5 stars",
+  "reviewText": "Based on 42,797 customer ratings on Amazon",
+  "shortLink": "https://amzn.to/49ZCZr2",
+  "fullLink": "https://www.amazon.in/dp/B07XM5SHHH?social_share=cm_sw_r_ud_dp_YDC4S1QNAMJJA49JAN4A&th=1&linkCode=ll1&tag=valdio-21&linkId=f0ff1e01d28d54755fe5d94fe7104895&language=en_IN&ref_=as_li_ss_tl",
+  "image": "https://m.media-amazon.com/images/I/718yOSbi0QL._SL1500_.jpg",
+  "description": "Himalaya Extra Moisturizing Baby Wash is a gentle, soap-free cleanser specially formulated to cleanse and moisturize your baby’s delicate skin. Enriched with natural ingredients like Olive Oil, Aloe Vera, Milk, Almond Oil, and Indian Lotus, this no-tears baby wash helps keep skin soft, nourished, and healthy after every bath.",
+  "features": [
+    "No-tears gentle cleansing formula",
+    "Deeply moisturizes baby’s delicate skin",
+    "Soap-free and dermatologically tested",
+    "Suitable for daily use",
+    "Ideal for all skin types",
+    "Made with natural and herbal ingredients"
+  ],
+  "keyIngredients": [
+    "Olive Oil – Nourishes, protects, and softens skin",
+    "Indian Aloe – Soothes and conditions the skin",
+    "Milk – Nourishes and moisturizes skin",
+    "Almond Oil – Renowned natural skin softener",
+    "Indian Lotus – Helps keep skin soft and supple"
+  ],
+  "variants": [
+    {
+      "scent": "Extra Moisturising",
+      "price": 217,
+      "mrp": 330,
+      "size": "400 ml"
+    },
+    {
+      "scent": "Gentle Wash",
+      "price": 171,
+      "mrp": 330,
+      "size": "400 ml"
+    },
+    {
+      "scent": "Pure Cow Ghee",
+      "price": 360,
+      "mrp": 500,
+      "size": "400 ml"
+    },
+    {
+      "scent": "Refreshing Wash",
+      "price": 180,
+      "mrp": 300,
+      "size": "400 ml"
+    }
+  ],
+  "sizes": [
+    "100 ml (Pack of 1)",
+    "200 ml (Pack of 1)",
+    "200 ml (Pack of 2)",
+    "400 ml (Pack of 1)",
+    "400 ml (Pack of 2)",
+    "600 ml (Pack of 1)",
+    "600 ml (Pack of 2)",
+    "700 ml (Pack of 1)"
+  ],
+  "productDetails": {
+    "brand": "Himalaya",
+    "itemForm": "Oil",
+    "scent": "Extra Moisturising",
+    "skinType": "All Skin Types",
+    "ageRange": "Baby",
+    "productBenefits": "Moisturizing",
+    "specialFeature": "Milk, Moisturizing",
+    "itemWeight": "450 g",
+    "dimensions": "8.4 x 4.9 x 21 cm",
+    "packageQuantity": 1
+  },
+  "deliveryInfo": {
+    "delivery": "Free Delivery",
+    "fulfilledBy": "Amazon Delivered",
+    "cashOnDelivery": true,
+    "returnPolicy": "Non-Returnable",
+    "secureTransaction": true,
+    "badge": "Top Brand"
+  },
+  "customerReviews": [
+    {
+      "username": "Ananya R",
+      "rating": 5,
+      "comment": "Very gentle on my baby’s skin. No irritation and smells pleasant."
+    },
+    {
+      "username": "Rohit Kumar",
+      "rating": 4,
+      "comment": "Keeps baby skin soft and moisturized. Good value for money."
+    },
+    {
+      "username": "Neha Sharma",
+      "rating": 5,
+      "comment": "Trusted Himalaya product. Perfect for daily baby baths."
+    }
+  ]
+},
+{
+  "id": "himalaya-baby-cream-almond-200ml",
+  "name": "Himalaya Baby Cream, Face Moisturizer & Day Cream for Dry Skin (Almond) 200ml",
+  "category": "baby-care",
+  "price": 168,
+  "discountPrice": 280,
+  "discountRate": 40,
+  "rating": 4.4,
+  "reviews": 43775,
+  "ratingText": "4.4 out of 5 stars",
+  "reviewText": "Based on 43,775 customer ratings on Amazon",
+  "shortLink": "https://amzn.to/45LSeBu",
+  "fullLink": "https://www.amazon.in/dp/B00QGEN6C8?social_share=cm_sw_r_ud_dp_DP83Y0NPBTV0W4SB0MV8&th=1&linkCode=ll1&tag=valdio-21&linkId=4c2b7574b3d45a0c8da064cea4dd3110&language=en_IN&ref_=as_li_ss_tl",
+  "image": "https://m.media-amazon.com/images/I/711hgbm4rmL._SL1500_.jpg",
+  "description": "Himalaya Baby Cream is a gentle daily face moisturizer and day cream specially formulated for babies with dry and sensitive skin. Enriched with natural almond oil and herbal ingredients, it helps deeply moisturize, nourish, and protect your baby’s delicate skin, keeping it soft and healthy throughout the day.",
+  "features": [
+    "Daily face moisturizer & day cream for babies",
+    "Helps relieve dryness and keeps skin soft",
+    "Gentle and safe for delicate baby skin",
+    "Dermatologically tested",
+    "Suitable for all seasons",
+    "Ideal for daily use on face and body"
+  ],
+  "keyIngredients": [
+    "Almond Oil – Deeply nourishes and moisturizes dry skin",
+    "Natural herbal extracts – Help protect and soften baby’s skin"
+  ],
+  "variants": [
+    {
+      "scent": "Almond",
+      "price": 168,
+      "mrp": 280,
+      "size": "200 ml"
+    },
+    {
+      "scent": "Pure Cow Ghee",
+      "price": 444,
+      "mrp": 450,
+      "size": "200 ml"
+    }
+  ],
+  "sizes": [
+    "50 ml (Pack of 1)",
+    "100 ml (Pack of 1)",
+    "200 ml (Pack of 1)"
+  ],
+  "productDetails": {
+    "brand": "Himalaya",
+    "itemVolume": "200 ml",
+    "scent": "Almond",
+    "ageRange": "Baby",
+    "skinType": "Dry Skin",
+    "specialFeature": "Premium",
+    "itemForm": "Cream",
+    "dimensions": "7.5 x 7.5 x 18 cm",
+    "packageQuantity": 1
+  },
+  "deliveryInfo": {
+    "delivery": "Free Delivery",
+    "fulfilledBy": "Amazon Delivered",
+    "cashOnDelivery": true,
+    "returnPolicy": "Non-Returnable",
+    "secureTransaction": true,
+    "badge": "Amazon's Choice"
+  },
+  "customerReviews": [
+    {
+      "username": "Pooja Mehta",
+      "rating": 5,
+      "comment": "Very moisturizing and gentle. Perfect for my baby’s dry skin."
+    },
+    {
+      "username": "Ravi Kumar",
+      "rating": 4,
+      "comment": "Good cream for daily use. Absorbs well and smells nice."
+    },
+    {
+      "username": "Neha Jain",
+      "rating": 5,
+      "comment": "Trusted brand. Keeps baby skin soft and hydrated all day."
+    }
+  ]
 }
+
+
 
 ]
