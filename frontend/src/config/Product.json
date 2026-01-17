@@ -877,7 +877,91 @@
       "comment": "Trusted brand. Keeps baby skin soft and hydrated all day."
     }
   ]
+},
+{
+  "id": "yonex-mavis-350-greencap",
+  "name": "Yonex Mavis 350 Green Cap Nylon Shuttlecock (Yellow)",
+  "category": "sports-badminton",
+  "price": 1115,
+  "discountPrice": 1265,
+  "discountRate": 12,
+  "rating": 4.0,
+  "reviews": 32482,
+  "ratingText": "4.0 out of 5 stars",
+  "reviewText": "Based on 32,482 customer ratings on Amazon",
+  "shortLink": "https://amzn.to/4jLsGKI",
+  "fullLink": "https://www.amazon.in/dp/B000FI8ER8?social_share=cm_sw_r_cso_wa_apan_dp_NZQQ9YBE0SJ0KMA5PK6D&th=1&linkCode=ll1&tag=valdio-21&linkId=8fea60da45b9d29cc3997b3697554edc&language=en_IN&ref_=as_li_ss_tl",
+  "image": "https://m.media-amazon.com/images/I/61-rv4FJ3AL._SL1500_.jpg",
+  "description": "Yonex Mavis 350 Green Cap nylon shuttlecocks are designed to deliver excellent durability and consistent flight performance. Known for their quick recovery time, these shuttlecocks closely match the performance of feather shuttles and are ideal for regular practice and competitive play in warm conditions.",
+  "features": [
+    "High-quality nylon shuttlecocks for consistent performance",
+    "Fast recovery time of 0.02 seconds after smash",
+    "Performance close to feather shuttlecocks",
+    "Designed for warm playing conditions",
+    "Durable construction for long-lasting use",
+    "Ideal for training and match play"
+  ],
+  "variants": [
+    {
+      "style": "Green Cap",
+      "speed": "Slow",
+      "recommendedTemperature": "22°C to 33°C",
+      "price": 1115,
+      "mrp": 1265
+    },
+    {
+      "style": "Blue Cap",
+      "speed": "Medium",
+      "recommendedTemperature": "12°C to 23°C",
+      "price": 1373,
+      "mrp": 1650
+    }
+  ],
+  "packDetails": {
+    "packSize": "Pack of 6",
+    "pricePerUnit": 185.83
+  },
+  "productDetails": {
+    "brand": "YONEX",
+    "material": "Nylon",
+    "color": "Yellow",
+    "sport": "Badminton",
+    "speedCategory": "Slow Speed",
+    "recoveryTime": "0.02 seconds",
+    "countryOfOrigin": "Japan"
+  },
+  "usageGuidelines": [
+    "Green cap recommended for warm climates (22°C–33°C)",
+    "Store in a cool, dry place",
+    "Use appropriate shuttle speed based on temperature"
+  ],
+  "deliveryInfo": {
+    "delivery": "Free Delivery",
+    "fulfilledBy": "Amazon Delivered",
+    "cashOnDelivery": true,
+    "returnPolicy": "Non-Returnable",
+    "secureTransaction": true,
+    "badge": "#1 Best Seller"
+  },
+  "customerReviews": [
+    {
+      "username": "Saurabh Patel",
+      "rating": 5,
+      "comment": "Excellent durability and very consistent flight. Perfect for daily practice."
+    },
+    {
+      "username": "Vikas Sharma",
+      "rating": 4,
+      "comment": "Good alternative to feather shuttles. Works best in warm weather."
+    },
+    {
+      "username": "Anil Mehta",
+      "rating": 4,
+      "comment": "Original Yonex quality. Slightly expensive but worth it."
+    }
+  ]
 }
+
 
 
 
