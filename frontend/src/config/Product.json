@@ -2129,7 +2129,7 @@
   {
   "id": "mobio-kids-slippers-spiderman",
   "name": "MOBIO Kids Slippers for Boys & Girls – Soft Non-Slip Indoor Outdoor House Shoes (Spiderman)",
-  "category": "Kids Footwear",
+  "category": "Footwear",
   "price": 219,
   "discountPrice": 499,
   "discountRate": 56,
@@ -2298,6 +2298,71 @@
       "username": "Neha Gupta",
       "rating": 4,
       "comment": "Great earbuds at this price point. Sliding volume control is very handy."
+    }
+  ]
+},
+{
+  "id": "lakmeperfectradiance01",
+  "name": "Lakmé Perfect Radiance Brightening Facewash with 98% Pure Niacinamide Complex | For Glowing Skin",
+  "category": "Beauty & Personal Care",
+  "price": 104,
+  "discountPrice": 175,
+  "discountRate": 41,
+  "rating": 4.2,
+  "reviews": 8536,
+  "ratingText": "4.2 out of 5 stars",
+  "reviewText": "Based on 8,536 customer ratings on Amazon",
+  "shortLink": "https://amzn.to/461Bvdw",
+  "fullLink": "https://www.amazon.in/Absolute-Perfect-Radiance-Lightening-Facewash/dp/B00CS1K0UE?crid=1565WR1UM7HU2&dib=eyJ2IjoiMSJ9.c62z1hQTvPHQCoQDS0i3raIECZPZEeehy7r4uaTnWKOC_8lBJsoLcTp8286Dai88D5ET8aplaNA7Zg5RTPTzceu0uZifnsQzS4m_sy4rXRMr9TACHkXBn4hVipfYZAGVduBSmjbI_YWj0Fosvc4ZmKiwU23QMBLi6-dyqKyLBcEQf6sIJQ_ULLt7hJIMw82_MJMbUv1f80F0mFVsMtks4e3IGjS6PlJldFupDt0TUUXtTYmk5cJPA-R9PKUnxACiZw0naP3D2cg4RKkR5Iw0eIwgZhnW-8fV8-OnqmAUdDg.LwSgJCMCJtVf9pKyktcAhG8-kx2IWEP2zKF1L_7Df6I&dib_tag=se&keywords=lakme%2Bperfect%2Bradiance%2Bface%2Bwash&qid=1768759397&sprefix=lakme%2Bperfect%2Bface%2Bwash%2Caps%2C445&sr=8-6&th=1&linkCode=ll1&tag=valdio-21&linkId=4f186c1716b07c1816e13d86d496782d&language=en_IN&ref_=as_li_ss_tl",
+  "image": "https://m.media-amazon.com/images/I/41BytXDHTfL._SL1000_.jpg",
+  "description": "Lakmé Perfect Radiance Brightening Facewash is enriched with 98% Pure Niacinamide Complex and Glycerin. It deeply cleanses skin, helps reduce pigmentation, and reveals visibly brighter and radiant skin without stripping moisture.",
+  "features": [
+    "Enriched with 98% Pure Niacinamide Complex",
+    "Helps reduce pigmentation and dark spots",
+    "Deep cleansing formula removes excess oil and dirt",
+    "Brightens and evens skin tone",
+    "Infused with Glycerin for nourishment",
+    "Suitable for daily use and all skin types"
+  ],
+  "colors": [
+    {
+      "name": "Pink",
+      "image": "https://m.media-amazon.com/images/I/41BytXDHTfL._SL1000_.jpg"
+    }
+  ],
+  "sizes": [
+    "50 g"
+  ],
+  "productDetails": {
+    "material": "Gel Based Cleanser",
+    "length": "N/A",
+    "style": "Facewash",
+    "closureType": "Flip Cap",
+    "fitType": "N/A",
+    "careInstructions": "Store in a cool and dry place",
+    "countryOfOrigin": "India"
+  },
+  "deliveryInfo": {
+    "delivery": "Free Delivery",
+    "returnPolicy": "Non-Returnable",
+    "fulfilledBy": "Amazon Delivered",
+    "secureTransaction": true
+  },
+  "customerReviews": [
+    {
+      "username": "Pooja Singh",
+      "rating": 5,
+      "comment": "Gives a fresh and bright feel after every wash. Very gentle on skin."
+    },
+    {
+      "username": "Rahul Mehta",
+      "rating": 4,
+      "comment": "Good for daily use and helps control oil without drying."
+    },
+    {
+      "username": "Ankita Sharma",
+      "rating": 4,
+      "comment": "Nice fragrance and decent results for pigmentation with regular use."
     }
   ]
 }
