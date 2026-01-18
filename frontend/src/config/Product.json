@@ -2509,7 +2509,82 @@
       "comment": "Nice packaging and good for daily consumption."
     }
   ]
+},
+{
+  "id": "jivo-kachi-ghani-mustard-oil-5l",
+  "name": "Jivo Premium Cold Pressed Kachi Ghani Mustard Oil, 5 Litre",
+  "category": "Grocery & Gourmet Food",
+  "price": 849,
+  "discountPrice": 1250,
+  "discountRate": 32,
+  "rating": 4.1,
+  "reviews": 4079,
+  "ratingText": "4.1 out of 5 stars",
+  "reviewText": "Based on 4,079 customer ratings on Amazon",
+  "shortLink": "https://amzn.to/4pJweyk",
+  "fullLink": "https://www.amazon.in/dp/B091XPD9J3?social_share=cm_sw_r_cso_tg_apan_dp_XSBNQM281MJ6MEX5JNK9&th=1&linkCode=ll1&tag=valdio-21&linkId=b2651afbeda7d780a4368270928c840c&language=en_IN&ref_=as_li_ss_tl",
+  "image": "https://m.media-amazon.com/images/I/71syZRyDKlL._SL1500_.jpg",
+  "description": "Jivo Premium Cold Pressed Kachi Ghani Mustard Oil is extracted using a traditional cold-pressing process from the first pressing of mustard seeds. Rich in natural aroma, pungency, Omega-3 (ALA), and Vitamin E, it is ideal for everyday Indian cooking, frying, sautéing, and pickling.",
+  "features": [
+    "Cold pressed from first-pressed mustard seeds",
+    "Traditional kachi ghani extraction process",
+    "Rich aroma and strong pungent flavour",
+    "High smoking point suitable for Indian cooking",
+    "Contains Omega-3 (ALA) for heart health",
+    "Natural tocopherols (Vitamin E) for antioxidant support",
+    "Ideal for cooking, frying, sautéing, and pickling",
+    "Vegetarian and free from chemical refining"
+  ],
+  "sizes": [
+    "5 Litres"
+  ],
+  "variants": [
+    {
+      "name": "Mustard Oil",
+      "volume": "5 Litres",
+      "price": 849,
+      "mrp": 1250,
+      "pricePerLitre": 169.8,
+      "discountRate": 32
+    }
+  ],
+  "productDetails": {
+    "brand": "JIVO",
+    "dietType": "Vegetarian",
+    "flavour": "Mustard",
+    "itemForm": "Liquid",
+    "netContentVolume": "5 Litres",
+    "recommendedUses": "Cooking, Frying, Pickling",
+    "speciality": "Taste of health and nutrition",
+    "useBy": "31 JAN 2027"
+  },
+  "deliveryInfo": {
+    "delivery": "Free Delivery",
+    "returnPolicy": "Non-Returnable",
+    "fulfilledBy": "Amazon Delivered",
+    "cashOnDelivery": true,
+    "secureTransaction": true,
+    "badge": "Top Brand"
+  },
+  "customerReviews": [
+    {
+      "username": "Amit Verma",
+      "rating": 5,
+      "comment": "Authentic mustard oil with strong aroma. Perfect for pickles and cooking."
+    },
+    {
+      "username": "Sunita Sharma",
+      "rating": 4,
+      "comment": "Good quality and value for money. Packaging is also good."
+    },
+    {
+      "username": "Rakesh Gupta",
+      "rating": 4,
+      "comment": "Tastes pure and traditional. Works well for everyday Indian cooking."
+    }
+  ]
 }
+
 
 
 
