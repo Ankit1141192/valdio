@@ -3,7 +3,12 @@ import { TrendingUp } from "lucide-react";
 import { useNavigate } from "react-router-dom";
 import ProductCard from "./ProductCard";
 import products from "../config/Product.json";
+
 import useLocalFavorites from "../hooks/useLocalFavorites";
+
+
+// .env we are use  OUR_PRODUCT_API = "https://rjn-shops.onrender.com/api/products"
+
 
 const ProductsSection = () => {
   const navigate = useNavigate();
