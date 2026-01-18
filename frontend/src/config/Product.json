@@ -2583,7 +2583,102 @@
       "comment": "Tastes pure and traditional. Works well for everyday Indian cooking."
     }
   ]
+},
+{
+  "id": "jivo-cold-pressed-sunflower-oil-5l",
+  "name": "Jivo Cold Pressed Unrefined Sunflower Oil - 5 Litres",
+  "category": "Grocery & Gourmet Food",
+  "price": 879,
+  "discountPrice": 1350,
+  "discountRate": 35,
+  "rating": 4.1,
+  "reviews": 4227,
+  "ratingText": "4.1 out of 5 stars",
+  "reviewText": "Based on 4,227 customer ratings on Amazon",
+  "shortLink": "https://amzn.to/4qsN2Lh",
+  "fullLink": "https://www.amazon.in/dp/B0991VMDB1?social_share=cm_sw_r_cso_tg_apan_dp_AX03VVEZ9KWSEPAJRV8K&th=1&linkCode=ll1&tag=valdio-21&linkId=661b2ca1b23af282439eeacdebdde602&language=en_IN&ref_=as_li_ss_tl",
+  "image": "https://m.media-amazon.com/images/I/711iOwY44KL._SL1500_.jpg",
+  "description": "Jivo Cold Pressed Unrefined Sunflower Oil is a chemical-free cooking oil extracted using a traditional cold-pressed method to retain natural nutrients and mild flavour. Suitable for roasting, frying, baking, and everyday cooking across all cuisines, it offers a healthy balance of essential fatty acids and natural antioxidants.",
+  "features": [
+    "Cold pressed extraction to retain natural nutrients",
+    "Unrefined and chemical-free processing",
+    "Mild flavour suitable for all cuisines",
+    "Ideal for roasting, frying, baking, and sautéing",
+    "Contains healthy monounsaturated fats (MUFA)",
+    "Rich in Omega-6 polyunsaturated fatty acids",
+    "Natural tocopherols act as antioxidants",
+    "Fortified with Vitamins A and D",
+    "Vegetarian-friendly cooking oil"
+  ],
+  "sizes": [
+    "1 Litre",
+    "1 Litre (Pack of 2)",
+    "5 Litres"
+  ],
+  "variants": [
+    {
+      "name": "Sunflower Oil",
+      "volume": "1 Litre",
+      "price": 184,
+      "mrp": 275,
+      "pricePerLitre": 184,
+      "discountRate": 33
+    },
+    {
+      "name": "Sunflower Oil",
+      "volume": "1 Litre (Pack of 2)",
+      "price": 368,
+      "mrp": 550,
+      "pricePerLitre": 184,
+      "discountRate": 33
+    },
+    {
+      "name": "Sunflower Oil",
+      "volume": "5 Litres",
+      "price": 879,
+      "mrp": 1350,
+      "pricePerLitre": 175.8,
+      "discountRate": 35
+    }
+  ],
+  "productDetails": {
+    "brand": "JIVO",
+    "dietType": "Vegetarian",
+    "flavour": "Sunflower",
+    "itemForm": "Liquid",
+    "netContentVolume": "5 Litres",
+    "recommendedUses": "Roasting, Frying, Baking, Hair & Skin Care",
+    "speciality": "Does not contain saturated fats",
+    "meltingTemperature": "100°C",
+    "useBy": "31 DEC 2026"
+  },
+  "deliveryInfo": {
+    "delivery": "Free Delivery",
+    "returnPolicy": "Non-Returnable",
+    "fulfilledBy": "Amazon Delivered",
+    "cashOnDelivery": true,
+    "secureTransaction": true,
+    "badge": "Top Brand"
+  },
+  "customerReviews": [
+    {
+      "username": "Neha Kapoor",
+      "rating": 5,
+      "comment": "Very light and clean oil. Perfect for everyday cooking."
+    },
+    {
+      "username": "Sandeep Malhotra",
+      "rating": 4,
+      "comment": "Good quality sunflower oil. No strong smell and feels healthy."
+    },
+    {
+      "username": "Pooja Jain",
+      "rating": 4,
+      "comment": "Works well for frying and baking. Value for money on discount."
+    }
+  ]
 }
+
 
 
 
