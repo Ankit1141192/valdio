@@ -2677,7 +2677,106 @@
       "comment": "Works well for frying and baking. Value for money on discount."
     }
   ]
+},
+{
+  "id": "lakme-perfect-radiance-pigmentation-day-gel-50g",
+  "name": "Lakme Perfect Radiance Pigmentation Treatment Day Gel Crème with 10% Niacinamide Resorcinol Complex",
+  "category": "Beauty & Personal Care",
+  "price": 207,
+  "discountPrice": 349,
+  "discountRate": 41,
+  "rating": 4.1,
+  "reviews": 33653,
+  "ratingText": "4.1 out of 5 stars",
+  "reviewText": "Based on 33,653 customer ratings on Amazon",
+  "shortLink": "https://amzn.to/4bCJrFI",
+  "fullLink": "https://www.amazon.in/Pigmentation-Treatment-Niacinamide-Resorcinol-Antioxidants/dp/B01C571752?crid=11T2NW1R2XZXX&dib=eyJ2IjoiMSJ9.FJyxn1I48BKf-36vgce-H8PrhJCozNhi-UIRRI5oyhmN9EGX0fqp1lpPG9nPflNYXlY3R1zCHavwOJovCE5EHZTR08IhUJurzKz7_g2OkYS81vwnV1LH9JquNS9DUHAOoSPQX02sYcoHkL7zl-Y27nGP-8Cq2CrCStpV7iTGaAxWxtnIFhAoGt1iBDqg6tDk96dqrEOkqlIc6NxB8F4jy3a2JsJ6-PoxKKFguNXcI3-dN0pwS3jsTf0X9QXU_rDAirZzBOYIAvIo1kvpjr7hlCv3Act2oyWygleV76n4CN4.nApSHbvv1f8GkCGFwEb9i0tQCZ_T3_8LzHgFPB-rTro&dib_tag=se&keywords=lakme%2Bperfect%2Bradiance%2Bcream&qid=1768762198&sprefix=lakme%2Bperfect%2Breduiance%2Bcrrea%2Caps%2C460&sr=8-2-spons&aref=mVEaaMwgYn&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1&linkCode=ll1&tag=valdio-21&linkId=28c6be4de5d5d61e6f68b8227f9f67f2&language=en_IN&ref_=as_li_ss_tl",
+  "image": "https://m.media-amazon.com/images/I/61fqwozv1BL._SL1500_.jpg",
+  "description": "Lakme Perfect Radiance Pigmentation Treatment Day Gel Crème is a lightweight daily skincare solution designed to visibly reduce pigmentation and enhance skin radiance. Powered with a 10% Niacinamide and Resorcinol complex along with 7 antioxidants, it helps repair skin, improve even tone, and protect against daily environmental damage.",
+  "features": [
+    "Triple-action formula repairs, de-pigments & protects skin",
+    "Contains 10% Niacinamide & Hexyl Resorcinol",
+    "Targets 6 signs of pigmentation including acne marks and sunburn",
+    "Antioxidants and UV filters protect against oxidation",
+    "Lightweight gel crème with instant absorption",
+    "Clinically tested and dermatologist inspired",
+    "Suitable for daily use on all skin types",
+    "Designed for Indian skin tones"
+  ],
+  "sizes": [
+    "15 g (Pack of 1)",
+    "15 g (Pack of 2)",
+    "28 g (Pack of 1)",
+    "50 g (Pack of 1)"
+  ],
+  "variants": [
+    {
+      "size": "15 g",
+      "price": 97,
+      "mrp": 99,
+      "pricePer100g": 646.67,
+      "discountRate": 2
+    },
+    {
+      "size": "15 g (Pack of 2)",
+      "price": 194,
+      "mrp": 198,
+      "pricePer100g": 646.67,
+      "discountRate": 2
+    },
+    {
+      "size": "28 g",
+      "price": 249,
+      "mrp": 275,
+      "pricePer100g": 889.29,
+      "discountRate": 9
+    },
+    {
+      "size": "50 g",
+      "price": 207,
+      "mrp": 349,
+      "pricePer100g": 414,
+      "discountRate": 41
+    }
+  ],
+  "productDetails": {
+    "brand": "LAKMÉ",
+    "itemForm": "Gel Crème",
+    "skinType": "All Skin Types",
+    "activeIngredients": "10% Niacinamide, Hexyl Resorcinol",
+    "specialFeature": "Antibacterial",
+    "scent": "Musk",
+    "itemVolume": "50 ml",
+    "ageRange": "Adult",
+    "useBy": "30 JAN 2027"
+  },
+  "deliveryInfo": {
+    "delivery": "Free Delivery",
+    "returnPolicy": "Non-Returnable",
+    "fulfilledBy": "Amazon Delivered",
+    "cashOnDelivery": true,
+    "secureTransaction": true,
+    "badge": "Amazon’s Choice / Top Brand"
+  },
+  "customerReviews": [
+    {
+      "username": "Anjali Verma",
+      "rating": 5,
+      "comment": "Very lightweight and absorbs quickly. Skin looks brighter within weeks."
+    },
+    {
+      "username": "Ritika Sharma",
+      "rating": 4,
+      "comment": "Helps reduce acne marks and pigmentation. Good for daily use."
+    },
+    {
+      "username": "Neeraj Gupta",
+      "rating": 4,
+      "comment": "Nice gel texture, non-greasy and works well under sunscreen."
+    }
+  ]
 }
+
 
 
 
