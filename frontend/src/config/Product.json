@@ -2365,7 +2365,153 @@
       "comment": "Nice fragrance and decent results for pigmentation with regular use."
     }
   ]
+},
+{
+  "id": "lpslimoxford01",
+  "name": "Louis Philippe Men's Slim Fit Signature Oxford Easy Care Full Sleeve Casual Shirt",
+  "category": "Apparel & Accessories",
+  "price": 1034,
+  "discountPrice": 2299,
+  "discountRate": 55,
+  "rating": 4.2,
+  "reviews": 454,
+  "ratingText": "4.2 out of 5 stars",
+  "reviewText": "Based on 454 customer ratings on Amazon",
+  "shortLink": "https://amzn.to/461BK8q",
+  "fullLink": "https://www.amazon.in/gp/product/B0DXL43WBX?smid=A1WYWER0W24N8S&th=1&psc=1&linkCode=ll1&tag=valdio-21&linkId=94f14d0a526b99699eedaf0f6ec9b472&language=en_IN&ref_=as_li_ss_tl",
+  "image": "https://m.media-amazon.com/images/I/51Vhvlnkl9L._SX679_.jpg",
+  "description": "Louis Philippe men’s slim fit signature Oxford shirt is crafted from premium 100% cotton fabric. Designed with a modern slim fit, full sleeves, and a spread collar, it offers a polished casual look suitable for everyday wear and smart outings.",
+  "features": [
+    "100% premium cotton Oxford fabric",
+    "Slim fit for a modern silhouette",
+    "Full sleeve design for a polished look",
+    "Spread collar with collared neck style",
+    "Curved hem for tucked or untucked wear",
+    "Solid pattern for versatile styling",
+    "Easy-care and breathable fabric"
+  ],
+  "colors": [
+    {
+      "name": "Medium Grey",
+      "image": "https://m.media-amazon.com/images/I/51Vhvlnkl9L._SX679_.jpg"
+    },
+    {
+      "name": "Black",
+      "image": "https://m.media-amazon.com/images/I/512NSc47c2L._SY741_.jpg"
+    },
+    {
+      "name": "White",
+      "image": "https://m.media-amazon.com/images/I/51lQgbJKEgL._SY741_.jpg"
+    },
+    {
+      "name": "Light Blue",
+      "image": "https://m.media-amazon.com/images/I/61mSi8eNHmL._SY741_.jpg"
+    }
+  ],
+  "sizes": [
+    "38",
+    "39",
+    "40",
+    "42",
+    "44"
+  ],
+  "productDetails": {
+    "material": "100% Cotton",
+    "length": "Standard Length",
+    "style": "Casual Shirt",
+    "closureType": "Button",
+    "fitType": "Slim Fit",
+    "careInstructions": "Machine wash cold",
+    "countryOfOrigin": "India"
+  },
+  "deliveryInfo": {
+    "delivery": "Free Delivery",
+    "returnPolicy": "10 days Return & Exchange",
+    "fulfilledBy": "Amazon Delivered",
+    "secureTransaction": true
+  },
+  "customerReviews": [
+    {
+      "username": "Amit Verma",
+      "rating": 4,
+      "comment": "Excellent fabric quality and perfect slim fit. Looks premium."
+    },
+    {
+      "username": "Rakesh Malhotra",
+      "rating": 5,
+      "comment": "Very comfortable and stylish. Suitable for casual and office wear."
+    },
+    {
+      "username": "Nikhil Sharma",
+      "rating": 3,
+      "comment": "Good shirt but slightly expensive without discount."
+    }
+  ]
+},
+{
+  "id": "nutraj-australian-almonds-500g",
+  "name": "Nutraj Australian Almonds 500g Pouch | Badam Giri | Dry Fruits and Nuts",
+  "category": "Grocery & Gourmet Food",
+  "price": 465,
+  "discountPrice": 649,
+  "discountRate": 28,
+  "rating": 3.8,
+  "reviews": 171,
+  "ratingText": "3.8 out of 5 stars",
+  "reviewText": "Based on 171 customer ratings on Amazon",
+  "shortLink": "https://amzn.to/3Lmd8At",
+  "fullLink": "https://www.amazon.in/gp/product/B0F2MTYKHP?smid=AMT8686ON43CM&th=1&linkCode=ll1&tag=valdio-21&linkId=c5fa1c3b040487452ff17959aeae7baa&language=en_IN&ref_=as_li_ss_tl",
+  "image": "https://m.media-amazon.com/images/I/51KKTcSl1DL._SX679_.jpg",
+  "description": "Nutraj Australian Almonds are premium quality badam giri sourced directly from Australia. These naturally crunchy and chemical-free almonds are hygienically packed to preserve freshness and are perfect for snacking, cooking, baking, and festive gifting.",
+  "features": [
+    "100% premium Australian almonds",
+    "Sourced directly from Australia",
+    "Naturally crunchy and rich in flavor",
+    "Chemical-free and vegetarian product",
+    "Hygienically sealed for freshness",
+    "Ideal for snacking, baking, and cooking",
+    "Suitable for daily consumption and gifting"
+  ],
+  "colors": [],
+  "sizes": [
+    "500g"
+  ],
+  "productDetails": {
+    "brand": "Nutraj",
+    "flavour": "Australian Almond",
+    "itemWeight": "500g",
+    "itemForm": "Dried",
+    "speciality": "Chemical Free",
+    "dietType": "Vegetarian",
+    "useBy": "31 AUG 2026",
+    "countryOfOrigin": "Australia"
+  },
+  "deliveryInfo": {
+    "delivery": "Free Delivery",
+    "returnPolicy": "Non-Returnable",
+    "fulfilledBy": "Amazon Delivered",
+    "secureTransaction": true
+  },
+  "customerReviews": [
+    {
+      "username": "Suresh Patel",
+      "rating": 4,
+      "comment": "Good quality almonds, fresh and crunchy."
+    },
+    {
+      "username": "Neha Jain",
+      "rating": 3,
+      "comment": "Taste is decent but a bit expensive without offers."
+    },
+    {
+      "username": "Rahul Mehta",
+      "rating": 4,
+      "comment": "Nice packaging and good for daily consumption."
+    }
+  ]
 }
+
+
 
 
 ]
