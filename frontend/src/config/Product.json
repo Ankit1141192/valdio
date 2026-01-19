@@ -2127,660 +2127,720 @@
     ]
   },
   {
-  "id": "mobio-kids-slippers-spiderman",
-  "name": "MOBIO Kids Slippers for Boys & Girls – Soft Non-Slip Indoor Outdoor House Shoes (Spiderman)",
-  "category": "Footwear",
-  "price": 219,
-  "discountPrice": 499,
-  "discountRate": 56,
-  "rating": 4.2,
-  "reviews": 202,
-  "ratingText": "4.2 out of 5 stars",
-  "reviewText": "Based on 202 customer ratings on Amazon",
-  "shortLink": "https://amzn.to/4qDVnvu",
-  "fullLink": "https://www.amazon.in/gp/product/B0CQCYW52Y?smid=A3CN2S30UABJDE&th=1&psc=1&linkCode=ll1&tag=valdio-21&linkId=8b6d4c2dd3a35fcab34b660d67f4c9d8&language=en_IN&ref_=as_li_ss_tl",
-  "image": "https://m.media-amazon.com/images/I/71xdxWQGpLL._SY575_.jpg",
-  "description": "MOBIO Kids Spiderman slippers are designed for comfort, safety, and everyday use. Made with lightweight EVA material, these slippers feature a non-slip sole and water-resistant design, making them suitable for both indoor and outdoor activities. The fun Spiderman theme makes them a favorite among kids.",
-  "features": [
-    "Soft and lightweight EVA material",
-    "Non-slip sole for enhanced safety",
-    "Slip-on design for easy wear",
-    "Water-resistant and quick-drying",
-    "Suitable for indoor and outdoor use",
-    "Attractive Spiderman cartoon design"
-  ],
-  "colors": [
-    {
-      "name": "Royal Blue",
-      "image": "https://m.media-amazon.com/images/I/71xdxWQGpLL._SY575_.jpg"
-    },
-    {
-      "name": "Red",
-      "image": "https://m.media-amazon.com/images/I/71O5JPSLQEL._SY625_.jpg"
-    },
-    {
-      "name": "C. Green",
-      "image": "https://m.media-amazon.com/images/I/71xj3v4PSxL._SY575_.jpg"
-    }
-  ],
-  "sizes": [
-    "5 Kids UK",
-    "6 Kids UK",
-    "7 Kids UK",
-    "8 Kids UK",
-    "9 Kids UK",
-    "10 Kids UK",
-    "11 Kids UK",
-    "12 Kids UK",
-    "13 Kids UK",
-    "1 UK",
-    "2 UK",
-    "3 UK"
-  ],
-  "productDetails": {
-    "brand": "MOBIO",
-    "material": "EVA",
-    "soleMaterial": "Ethylene Vinyl Acetate",
-    "closureType": "Slip On",
-    "heelType": "Flat",
-    "waterResistance": "Water Resistant",
-    "style": "Casual",
-    "countryOfOrigin": "India"
-  },
-  "deliveryInfo": {
-    "delivery": "Free Delivery",
-    "returnPolicy": "10 days Exchange & Replacement only",
-    "fulfilledBy": "Amazon Delivered",
-    "cashOnDelivery": true,
-    "secureTransaction": true,
-    "badge": "#1 Best Seller"
-  },
-  "customerReviews": [
-    {
-      "username": "Riya Patel",
-      "rating": 5,
-      "comment": "Very comfortable and my son loves the Spiderman design."
-    },
-    {
-      "username": "Aman Verma",
-      "rating": 4,
-      "comment": "Good grip and lightweight. Value for money."
-    },
-    {
-      "username": "Neha Singh",
-      "rating": 4,
-      "comment": "Nice quality slippers, perfect for daily wear."
-    }
-  ]
-},
-{
-  "id": "oneplusbuds3tw01",
-  "name": "OnePlus Buds 3 Truly Wireless Bluetooth Earbuds with 49dB Smart Adaptive Noise Cancellation",
-  "category": "Electronics",
-  "brand": "OnePlus",
-  "price": 3999,
-  "discountPrice": 6499,
-  "discountRate": 38,
-  "rating": 4.3,
-  "reviews": 10275,
-  "ratingText": "4.3 out of 5 stars",
-  "reviewText": "Based on 10,275 customer ratings on Amazon",
-  "shortLink": "https://amzn.to/49D6YE0",
-  "image": "https://m.media-amazon.com/images/I/51LxiMjx3XL._SL1500_.jpg",
-  "fullLink": "https://www.amazon.in/dp/B0CRH6CYS6?social_share=cm_sw_r_cso_tg_apan_dp_HPGVCNAN4E8NPF5NSA02&th=1&linkCode=ll1&tag=valdio-21&linkId=8d3c2735e2c69f71b6a8607ff8b987f1&language=en_IN&ref_=as_li_ss_tl",
-  "description": "OnePlus Buds 3 deliver premium sound with dual dynamic drivers, up to 49dB adaptive noise cancellation, and Hi-Res audio support. Designed for immersive listening, these earbuds feature sliding volume control, fast charging, dual device connectivity, and long battery life up to 44 hours.",
-  "features": [
-    "10.4mm + 6mm dual dynamic drivers",
-    "Hi-Res Audio with LHDC 5.0 codec",
-    "Up to 49dB smart adaptive noise cancellation",
-    "Sliding touch volume control",
-    "Dual device connection (Android / iOS / Windows)",
-    "10 minutes fast charge for 7 hours playback",
-    "Up to 44 hours total playback (ANC Off)",
-    "IP55 dust & water resistance"
-  ],
-  "colors": [
-    {
-      "name": "Splendid Blue",
-      "image": "https://m.media-amazon.com/images/I/51LxiMjx3XL._SL1500_.jpg"
-    },
-    {
-      "name": "Metallic Gray",
-      "image": "https://m.media-amazon.com/images/I/51h7CQTRJ1L._SX522_.jpg"
-    },
-    {
-      "name": "Green",
-      "image": "https://m.media-amazon.com/images/I/71wlgC7Q5ZL._SX522_.jpg"
-    }
-  ],
-  "productDetails": {
-    "modelName": "Buds 3",
-    "earPlacement": "In Ear",
-    "connectivity": "Bluetooth (Wireless)",
-    "audioCodec": "LHDC 5.0",
-    "noiseCancellation": "Adaptive ANC up to 49dB",
-    "waterResistance": "IP55",
-    "fastCharging": "10 mins for 7 hours playback",
-    "batteryLife": "Up to 44 hours (ANC Off)",
-    "compatibleDevices": [
-      "Android",
-      "iOS",
-      "Windows"
+    "id": "mobio-kids-slippers-spiderman",
+    "name": "MOBIO Kids Slippers for Boys & Girls – Soft Non-Slip Indoor Outdoor House Shoes (Spiderman)",
+    "category": "Footwear",
+    "price": 219,
+    "discountPrice": 499,
+    "discountRate": 56,
+    "rating": 4.2,
+    "reviews": 202,
+    "ratingText": "4.2 out of 5 stars",
+    "reviewText": "Based on 202 customer ratings on Amazon",
+    "shortLink": "https://amzn.to/4qDVnvu",
+    "fullLink": "https://www.amazon.in/gp/product/B0CQCYW52Y?smid=A3CN2S30UABJDE&th=1&psc=1&linkCode=ll1&tag=valdio-21&linkId=8b6d4c2dd3a35fcab34b660d67f4c9d8&language=en_IN&ref_=as_li_ss_tl",
+    "image": "https://m.media-amazon.com/images/I/71xdxWQGpLL._SY575_.jpg",
+    "description": "MOBIO Kids Spiderman slippers are designed for comfort, safety, and everyday use. Made with lightweight EVA material, these slippers feature a non-slip sole and water-resistant design, making them suitable for both indoor and outdoor activities. The fun Spiderman theme makes them a favorite among kids.",
+    "features": [
+      "Soft and lightweight EVA material",
+      "Non-slip sole for enhanced safety",
+      "Slip-on design for easy wear",
+      "Water-resistant and quick-drying",
+      "Suitable for indoor and outdoor use",
+      "Attractive Spiderman cartoon design"
     ],
-    "warranty": "1 Year Manufacturer Warranty"
-  },
-  "deliveryInfo": {
-    "delivery": "Free Delivery",
-    "replacementPolicy": "10 days Service Centre Replacement",
-    "payOnDelivery": true,
-    "fulfilledBy": "Amazon Delivered",
-    "secureTransaction": true
-  },
-  "offers": {
-    "bankOffers": [
-      "Up to ₹1,000 discount on SBI Credit Cards",
-      "No Cost EMI on Amazon Pay ICICI Credit Card"
+    "colors": [
+      {
+        "name": "Royal Blue",
+        "image": "https://m.media-amazon.com/images/I/71xdxWQGpLL._SY575_.jpg"
+      },
+      {
+        "name": "Red",
+        "image": "https://m.media-amazon.com/images/I/71O5JPSLQEL._SY625_.jpg"
+      },
+      {
+        "name": "C. Green",
+        "image": "https://m.media-amazon.com/images/I/71xj3v4PSxL._SY575_.jpg"
+      }
     ],
-    "cashback": "Up to ₹119 Amazon Pay cashback"
+    "sizes": [
+      "5 Kids UK",
+      "6 Kids UK",
+      "7 Kids UK",
+      "8 Kids UK",
+      "9 Kids UK",
+      "10 Kids UK",
+      "11 Kids UK",
+      "12 Kids UK",
+      "13 Kids UK",
+      "1 UK",
+      "2 UK",
+      "3 UK"
+    ],
+    "productDetails": {
+      "brand": "MOBIO",
+      "material": "EVA",
+      "soleMaterial": "Ethylene Vinyl Acetate",
+      "closureType": "Slip On",
+      "heelType": "Flat",
+      "waterResistance": "Water Resistant",
+      "style": "Casual",
+      "countryOfOrigin": "India"
+    },
+    "deliveryInfo": {
+      "delivery": "Free Delivery",
+      "returnPolicy": "10 days Exchange & Replacement only",
+      "fulfilledBy": "Amazon Delivered",
+      "cashOnDelivery": true,
+      "secureTransaction": true,
+      "badge": "#1 Best Seller"
+    },
+    "customerReviews": [
+      {
+        "username": "Riya Patel",
+        "rating": 5,
+        "comment": "Very comfortable and my son loves the Spiderman design."
+      },
+      {
+        "username": "Aman Verma",
+        "rating": 4,
+        "comment": "Good grip and lightweight. Value for money."
+      },
+      {
+        "username": "Neha Singh",
+        "rating": 4,
+        "comment": "Nice quality slippers, perfect for daily wear."
+      }
+    ]
   },
-  "customerReviews": [
-    {
-      "username": "Aman Verma",
-      "rating": 5,
-      "comment": "Excellent sound quality and ANC is really effective. Battery life is impressive."
+  {
+    "id": "oneplusbuds3tw01",
+    "name": "OnePlus Buds 3 Truly Wireless Bluetooth Earbuds with 49dB Smart Adaptive Noise Cancellation",
+    "category": "Electronics",
+    "brand": "OnePlus",
+    "price": 3999,
+    "discountPrice": 6499,
+    "discountRate": 38,
+    "rating": 4.3,
+    "reviews": 10275,
+    "ratingText": "4.3 out of 5 stars",
+    "reviewText": "Based on 10,275 customer ratings on Amazon",
+    "shortLink": "https://amzn.to/49D6YE0",
+    "image": "https://m.media-amazon.com/images/I/51LxiMjx3XL._SL1500_.jpg",
+    "fullLink": "https://www.amazon.in/dp/B0CRH6CYS6?social_share=cm_sw_r_cso_tg_apan_dp_HPGVCNAN4E8NPF5NSA02&th=1&linkCode=ll1&tag=valdio-21&linkId=8d3c2735e2c69f71b6a8607ff8b987f1&language=en_IN&ref_=as_li_ss_tl",
+    "description": "OnePlus Buds 3 deliver premium sound with dual dynamic drivers, up to 49dB adaptive noise cancellation, and Hi-Res audio support. Designed for immersive listening, these earbuds feature sliding volume control, fast charging, dual device connectivity, and long battery life up to 44 hours.",
+    "features": [
+      "10.4mm + 6mm dual dynamic drivers",
+      "Hi-Res Audio with LHDC 5.0 codec",
+      "Up to 49dB smart adaptive noise cancellation",
+      "Sliding touch volume control",
+      "Dual device connection (Android / iOS / Windows)",
+      "10 minutes fast charge for 7 hours playback",
+      "Up to 44 hours total playback (ANC Off)",
+      "IP55 dust & water resistance"
+    ],
+    "colors": [
+      {
+        "name": "Splendid Blue",
+        "image": "https://m.media-amazon.com/images/I/51LxiMjx3XL._SL1500_.jpg"
+      },
+      {
+        "name": "Metallic Gray",
+        "image": "https://m.media-amazon.com/images/I/51h7CQTRJ1L._SX522_.jpg"
+      },
+      {
+        "name": "Green",
+        "image": "https://m.media-amazon.com/images/I/71wlgC7Q5ZL._SX522_.jpg"
+      }
+    ],
+    "productDetails": {
+      "modelName": "Buds 3",
+      "earPlacement": "In Ear",
+      "connectivity": "Bluetooth (Wireless)",
+      "audioCodec": "LHDC 5.0",
+      "noiseCancellation": "Adaptive ANC up to 49dB",
+      "waterResistance": "IP55",
+      "fastCharging": "10 mins for 7 hours playback",
+      "batteryLife": "Up to 44 hours (ANC Off)",
+      "compatibleDevices": [
+        "Android",
+        "iOS",
+        "Windows"
+      ],
+      "warranty": "1 Year Manufacturer Warranty"
     },
-    {
-      "username": "Ritik Sharma",
-      "rating": 4,
-      "comment": "Fast charging is super useful. Fit is comfortable for long use."
+    "deliveryInfo": {
+      "delivery": "Free Delivery",
+      "replacementPolicy": "10 days Service Centre Replacement",
+      "payOnDelivery": true,
+      "fulfilledBy": "Amazon Delivered",
+      "secureTransaction": true
     },
-    {
-      "username": "Neha Gupta",
-      "rating": 4,
-      "comment": "Great earbuds at this price point. Sliding volume control is very handy."
-    }
-  ]
-},
-{
-  "id": "lakmeperfectradiance01",
-  "name": "Lakmé Perfect Radiance Brightening Facewash with 98% Pure Niacinamide Complex | For Glowing Skin",
-  "category": "Beauty & Personal Care",
-  "price": 104,
-  "discountPrice": 175,
-  "discountRate": 41,
-  "rating": 4.2,
-  "reviews": 8536,
-  "ratingText": "4.2 out of 5 stars",
-  "reviewText": "Based on 8,536 customer ratings on Amazon",
-  "shortLink": "https://amzn.to/461Bvdw",
-  "fullLink": "https://www.amazon.in/Absolute-Perfect-Radiance-Lightening-Facewash/dp/B00CS1K0UE?crid=1565WR1UM7HU2&dib=eyJ2IjoiMSJ9.c62z1hQTvPHQCoQDS0i3raIECZPZEeehy7r4uaTnWKOC_8lBJsoLcTp8286Dai88D5ET8aplaNA7Zg5RTPTzceu0uZifnsQzS4m_sy4rXRMr9TACHkXBn4hVipfYZAGVduBSmjbI_YWj0Fosvc4ZmKiwU23QMBLi6-dyqKyLBcEQf6sIJQ_ULLt7hJIMw82_MJMbUv1f80F0mFVsMtks4e3IGjS6PlJldFupDt0TUUXtTYmk5cJPA-R9PKUnxACiZw0naP3D2cg4RKkR5Iw0eIwgZhnW-8fV8-OnqmAUdDg.LwSgJCMCJtVf9pKyktcAhG8-kx2IWEP2zKF1L_7Df6I&dib_tag=se&keywords=lakme%2Bperfect%2Bradiance%2Bface%2Bwash&qid=1768759397&sprefix=lakme%2Bperfect%2Bface%2Bwash%2Caps%2C445&sr=8-6&th=1&linkCode=ll1&tag=valdio-21&linkId=4f186c1716b07c1816e13d86d496782d&language=en_IN&ref_=as_li_ss_tl",
-  "image": "https://m.media-amazon.com/images/I/41BytXDHTfL._SL1000_.jpg",
-  "description": "Lakmé Perfect Radiance Brightening Facewash is enriched with 98% Pure Niacinamide Complex and Glycerin. It deeply cleanses skin, helps reduce pigmentation, and reveals visibly brighter and radiant skin without stripping moisture.",
-  "features": [
-    "Enriched with 98% Pure Niacinamide Complex",
-    "Helps reduce pigmentation and dark spots",
-    "Deep cleansing formula removes excess oil and dirt",
-    "Brightens and evens skin tone",
-    "Infused with Glycerin for nourishment",
-    "Suitable for daily use and all skin types"
-  ],
-  "colors": [
-    {
-      "name": "Pink",
-      "image": "https://m.media-amazon.com/images/I/41BytXDHTfL._SL1000_.jpg"
-    }
-  ],
-  "sizes": [
-    "50 g"
-  ],
-  "productDetails": {
-    "material": "Gel Based Cleanser",
-    "length": "N/A",
-    "style": "Facewash",
-    "closureType": "Flip Cap",
-    "fitType": "N/A",
-    "careInstructions": "Store in a cool and dry place",
-    "countryOfOrigin": "India"
+    "offers": {
+      "bankOffers": [
+        "Up to ₹1,000 discount on SBI Credit Cards",
+        "No Cost EMI on Amazon Pay ICICI Credit Card"
+      ],
+      "cashback": "Up to ₹119 Amazon Pay cashback"
+    },
+    "customerReviews": [
+      {
+        "username": "Aman Verma",
+        "rating": 5,
+        "comment": "Excellent sound quality and ANC is really effective. Battery life is impressive."
+      },
+      {
+        "username": "Ritik Sharma",
+        "rating": 4,
+        "comment": "Fast charging is super useful. Fit is comfortable for long use."
+      },
+      {
+        "username": "Neha Gupta",
+        "rating": 4,
+        "comment": "Great earbuds at this price point. Sliding volume control is very handy."
+      }
+    ]
   },
-  "deliveryInfo": {
-    "delivery": "Free Delivery",
-    "returnPolicy": "Non-Returnable",
-    "fulfilledBy": "Amazon Delivered",
-    "secureTransaction": true
+  {
+    "id": "lakmeperfectradiance01",
+    "name": "Lakmé Perfect Radiance Brightening Facewash with 98% Pure Niacinamide Complex | For Glowing Skin",
+    "category": "Beauty & Personal Care",
+    "price": 104,
+    "discountPrice": 175,
+    "discountRate": 41,
+    "rating": 4.2,
+    "reviews": 8536,
+    "ratingText": "4.2 out of 5 stars",
+    "reviewText": "Based on 8,536 customer ratings on Amazon",
+    "shortLink": "https://amzn.to/461Bvdw",
+    "fullLink": "https://www.amazon.in/Absolute-Perfect-Radiance-Lightening-Facewash/dp/B00CS1K0UE?crid=1565WR1UM7HU2&dib=eyJ2IjoiMSJ9.c62z1hQTvPHQCoQDS0i3raIECZPZEeehy7r4uaTnWKOC_8lBJsoLcTp8286Dai88D5ET8aplaNA7Zg5RTPTzceu0uZifnsQzS4m_sy4rXRMr9TACHkXBn4hVipfYZAGVduBSmjbI_YWj0Fosvc4ZmKiwU23QMBLi6-dyqKyLBcEQf6sIJQ_ULLt7hJIMw82_MJMbUv1f80F0mFVsMtks4e3IGjS6PlJldFupDt0TUUXtTYmk5cJPA-R9PKUnxACiZw0naP3D2cg4RKkR5Iw0eIwgZhnW-8fV8-OnqmAUdDg.LwSgJCMCJtVf9pKyktcAhG8-kx2IWEP2zKF1L_7Df6I&dib_tag=se&keywords=lakme%2Bperfect%2Bradiance%2Bface%2Bwash&qid=1768759397&sprefix=lakme%2Bperfect%2Bface%2Bwash%2Caps%2C445&sr=8-6&th=1&linkCode=ll1&tag=valdio-21&linkId=4f186c1716b07c1816e13d86d496782d&language=en_IN&ref_=as_li_ss_tl",
+    "image": "https://m.media-amazon.com/images/I/41BytXDHTfL._SL1000_.jpg",
+    "description": "Lakmé Perfect Radiance Brightening Facewash is enriched with 98% Pure Niacinamide Complex and Glycerin. It deeply cleanses skin, helps reduce pigmentation, and reveals visibly brighter and radiant skin without stripping moisture.",
+    "features": [
+      "Enriched with 98% Pure Niacinamide Complex",
+      "Helps reduce pigmentation and dark spots",
+      "Deep cleansing formula removes excess oil and dirt",
+      "Brightens and evens skin tone",
+      "Infused with Glycerin for nourishment",
+      "Suitable for daily use and all skin types"
+    ],
+    "colors": [
+      {
+        "name": "Pink",
+        "image": "https://m.media-amazon.com/images/I/41BytXDHTfL._SL1000_.jpg"
+      }
+    ],
+    "sizes": [
+      "50 g"
+    ],
+    "productDetails": {
+      "material": "Gel Based Cleanser",
+      "length": "N/A",
+      "style": "Facewash",
+      "closureType": "Flip Cap",
+      "fitType": "N/A",
+      "careInstructions": "Store in a cool and dry place",
+      "countryOfOrigin": "India"
+    },
+    "deliveryInfo": {
+      "delivery": "Free Delivery",
+      "returnPolicy": "Non-Returnable",
+      "fulfilledBy": "Amazon Delivered",
+      "secureTransaction": true
+    },
+    "customerReviews": [
+      {
+        "username": "Pooja Singh",
+        "rating": 5,
+        "comment": "Gives a fresh and bright feel after every wash. Very gentle on skin."
+      },
+      {
+        "username": "Rahul Mehta",
+        "rating": 4,
+        "comment": "Good for daily use and helps control oil without drying."
+      },
+      {
+        "username": "Ankita Sharma",
+        "rating": 4,
+        "comment": "Nice fragrance and decent results for pigmentation with regular use."
+      }
+    ]
   },
-  "customerReviews": [
-    {
-      "username": "Pooja Singh",
-      "rating": 5,
-      "comment": "Gives a fresh and bright feel after every wash. Very gentle on skin."
+  {
+    "id": "lpslimoxford01",
+    "name": "Louis Philippe Men's Slim Fit Signature Oxford Easy Care Full Sleeve Casual Shirt",
+    "category": "Apparel & Accessories",
+    "price": 1034,
+    "discountPrice": 2299,
+    "discountRate": 55,
+    "rating": 4.2,
+    "reviews": 454,
+    "ratingText": "4.2 out of 5 stars",
+    "reviewText": "Based on 454 customer ratings on Amazon",
+    "shortLink": "https://amzn.to/461BK8q",
+    "fullLink": "https://www.amazon.in/gp/product/B0DXL43WBX?smid=A1WYWER0W24N8S&th=1&psc=1&linkCode=ll1&tag=valdio-21&linkId=94f14d0a526b99699eedaf0f6ec9b472&language=en_IN&ref_=as_li_ss_tl",
+    "image": "https://m.media-amazon.com/images/I/51Vhvlnkl9L._SX679_.jpg",
+    "description": "Louis Philippe men’s slim fit signature Oxford shirt is crafted from premium 100% cotton fabric. Designed with a modern slim fit, full sleeves, and a spread collar, it offers a polished casual look suitable for everyday wear and smart outings.",
+    "features": [
+      "100% premium cotton Oxford fabric",
+      "Slim fit for a modern silhouette",
+      "Full sleeve design for a polished look",
+      "Spread collar with collared neck style",
+      "Curved hem for tucked or untucked wear",
+      "Solid pattern for versatile styling",
+      "Easy-care and breathable fabric"
+    ],
+    "colors": [
+      {
+        "name": "Medium Grey",
+        "image": "https://m.media-amazon.com/images/I/51Vhvlnkl9L._SX679_.jpg"
+      },
+      {
+        "name": "Black",
+        "image": "https://m.media-amazon.com/images/I/512NSc47c2L._SY741_.jpg"
+      },
+      {
+        "name": "White",
+        "image": "https://m.media-amazon.com/images/I/51lQgbJKEgL._SY741_.jpg"
+      },
+      {
+        "name": "Light Blue",
+        "image": "https://m.media-amazon.com/images/I/61mSi8eNHmL._SY741_.jpg"
+      }
+    ],
+    "sizes": [
+      "38",
+      "39",
+      "40",
+      "42",
+      "44"
+    ],
+    "productDetails": {
+      "material": "100% Cotton",
+      "length": "Standard Length",
+      "style": "Casual Shirt",
+      "closureType": "Button",
+      "fitType": "Slim Fit",
+      "careInstructions": "Machine wash cold",
+      "countryOfOrigin": "India"
     },
-    {
-      "username": "Rahul Mehta",
-      "rating": 4,
-      "comment": "Good for daily use and helps control oil without drying."
+    "deliveryInfo": {
+      "delivery": "Free Delivery",
+      "returnPolicy": "10 days Return & Exchange",
+      "fulfilledBy": "Amazon Delivered",
+      "secureTransaction": true
     },
-    {
-      "username": "Ankita Sharma",
-      "rating": 4,
-      "comment": "Nice fragrance and decent results for pigmentation with regular use."
-    }
-  ]
-},
-{
-  "id": "lpslimoxford01",
-  "name": "Louis Philippe Men's Slim Fit Signature Oxford Easy Care Full Sleeve Casual Shirt",
-  "category": "Apparel & Accessories",
-  "price": 1034,
-  "discountPrice": 2299,
-  "discountRate": 55,
-  "rating": 4.2,
-  "reviews": 454,
-  "ratingText": "4.2 out of 5 stars",
-  "reviewText": "Based on 454 customer ratings on Amazon",
-  "shortLink": "https://amzn.to/461BK8q",
-  "fullLink": "https://www.amazon.in/gp/product/B0DXL43WBX?smid=A1WYWER0W24N8S&th=1&psc=1&linkCode=ll1&tag=valdio-21&linkId=94f14d0a526b99699eedaf0f6ec9b472&language=en_IN&ref_=as_li_ss_tl",
-  "image": "https://m.media-amazon.com/images/I/51Vhvlnkl9L._SX679_.jpg",
-  "description": "Louis Philippe men’s slim fit signature Oxford shirt is crafted from premium 100% cotton fabric. Designed with a modern slim fit, full sleeves, and a spread collar, it offers a polished casual look suitable for everyday wear and smart outings.",
-  "features": [
-    "100% premium cotton Oxford fabric",
-    "Slim fit for a modern silhouette",
-    "Full sleeve design for a polished look",
-    "Spread collar with collared neck style",
-    "Curved hem for tucked or untucked wear",
-    "Solid pattern for versatile styling",
-    "Easy-care and breathable fabric"
-  ],
-  "colors": [
-    {
-      "name": "Medium Grey",
-      "image": "https://m.media-amazon.com/images/I/51Vhvlnkl9L._SX679_.jpg"
-    },
-    {
-      "name": "Black",
-      "image": "https://m.media-amazon.com/images/I/512NSc47c2L._SY741_.jpg"
-    },
-    {
-      "name": "White",
-      "image": "https://m.media-amazon.com/images/I/51lQgbJKEgL._SY741_.jpg"
-    },
-    {
-      "name": "Light Blue",
-      "image": "https://m.media-amazon.com/images/I/61mSi8eNHmL._SY741_.jpg"
-    }
-  ],
-  "sizes": [
-    "38",
-    "39",
-    "40",
-    "42",
-    "44"
-  ],
-  "productDetails": {
-    "material": "100% Cotton",
-    "length": "Standard Length",
-    "style": "Casual Shirt",
-    "closureType": "Button",
-    "fitType": "Slim Fit",
-    "careInstructions": "Machine wash cold",
-    "countryOfOrigin": "India"
+    "customerReviews": [
+      {
+        "username": "Amit Verma",
+        "rating": 4,
+        "comment": "Excellent fabric quality and perfect slim fit. Looks premium."
+      },
+      {
+        "username": "Rakesh Malhotra",
+        "rating": 5,
+        "comment": "Very comfortable and stylish. Suitable for casual and office wear."
+      },
+      {
+        "username": "Nikhil Sharma",
+        "rating": 3,
+        "comment": "Good shirt but slightly expensive without discount."
+      }
+    ]
   },
-  "deliveryInfo": {
-    "delivery": "Free Delivery",
-    "returnPolicy": "10 days Return & Exchange",
-    "fulfilledBy": "Amazon Delivered",
-    "secureTransaction": true
+  {
+    "id": "nutraj-australian-almonds-500g",
+    "name": "Nutraj Australian Almonds 500g Pouch | Badam Giri | Dry Fruits and Nuts",
+    "category": "Grocery & Gourmet Food",
+    "price": 465,
+    "discountPrice": 649,
+    "discountRate": 28,
+    "rating": 3.8,
+    "reviews": 171,
+    "ratingText": "3.8 out of 5 stars",
+    "reviewText": "Based on 171 customer ratings on Amazon",
+    "shortLink": "https://amzn.to/3Lmd8At",
+    "fullLink": "https://www.amazon.in/gp/product/B0F2MTYKHP?smid=AMT8686ON43CM&th=1&linkCode=ll1&tag=valdio-21&linkId=c5fa1c3b040487452ff17959aeae7baa&language=en_IN&ref_=as_li_ss_tl",
+    "image": "https://m.media-amazon.com/images/I/51KKTcSl1DL._SX679_.jpg",
+    "description": "Nutraj Australian Almonds are premium quality badam giri sourced directly from Australia. These naturally crunchy and chemical-free almonds are hygienically packed to preserve freshness and are perfect for snacking, cooking, baking, and festive gifting.",
+    "features": [
+      "100% premium Australian almonds",
+      "Sourced directly from Australia",
+      "Naturally crunchy and rich in flavor",
+      "Chemical-free and vegetarian product",
+      "Hygienically sealed for freshness",
+      "Ideal for snacking, baking, and cooking",
+      "Suitable for daily consumption and gifting"
+    ],
+    "colors": [],
+    "sizes": [
+      "500g"
+    ],
+    "productDetails": {
+      "brand": "Nutraj",
+      "flavour": "Australian Almond",
+      "itemWeight": "500g",
+      "itemForm": "Dried",
+      "speciality": "Chemical Free",
+      "dietType": "Vegetarian",
+      "useBy": "31 AUG 2026",
+      "countryOfOrigin": "Australia"
+    },
+    "deliveryInfo": {
+      "delivery": "Free Delivery",
+      "returnPolicy": "Non-Returnable",
+      "fulfilledBy": "Amazon Delivered",
+      "secureTransaction": true
+    },
+    "customerReviews": [
+      {
+        "username": "Suresh Patel",
+        "rating": 4,
+        "comment": "Good quality almonds, fresh and crunchy."
+      },
+      {
+        "username": "Neha Jain",
+        "rating": 3,
+        "comment": "Taste is decent but a bit expensive without offers."
+      },
+      {
+        "username": "Rahul Mehta",
+        "rating": 4,
+        "comment": "Nice packaging and good for daily consumption."
+      }
+    ]
   },
-  "customerReviews": [
-    {
-      "username": "Amit Verma",
-      "rating": 4,
-      "comment": "Excellent fabric quality and perfect slim fit. Looks premium."
+  {
+    "id": "jivo-kachi-ghani-mustard-oil-5l",
+    "name": "Jivo Premium Cold Pressed Kachi Ghani Mustard Oil, 5 Litre",
+    "category": "Grocery & Gourmet Food",
+    "price": 849,
+    "discountPrice": 1250,
+    "discountRate": 32,
+    "rating": 4.1,
+    "reviews": 4079,
+    "ratingText": "4.1 out of 5 stars",
+    "reviewText": "Based on 4,079 customer ratings on Amazon",
+    "shortLink": "https://amzn.to/4pJweyk",
+    "fullLink": "https://www.amazon.in/dp/B091XPD9J3?social_share=cm_sw_r_cso_tg_apan_dp_XSBNQM281MJ6MEX5JNK9&th=1&linkCode=ll1&tag=valdio-21&linkId=b2651afbeda7d780a4368270928c840c&language=en_IN&ref_=as_li_ss_tl",
+    "image": "https://m.media-amazon.com/images/I/71syZRyDKlL._SL1500_.jpg",
+    "description": "Jivo Premium Cold Pressed Kachi Ghani Mustard Oil is extracted using a traditional cold-pressing process from the first pressing of mustard seeds. Rich in natural aroma, pungency, Omega-3 (ALA), and Vitamin E, it is ideal for everyday Indian cooking, frying, sautéing, and pickling.",
+    "features": [
+      "Cold pressed from first-pressed mustard seeds",
+      "Traditional kachi ghani extraction process",
+      "Rich aroma and strong pungent flavour",
+      "High smoking point suitable for Indian cooking",
+      "Contains Omega-3 (ALA) for heart health",
+      "Natural tocopherols (Vitamin E) for antioxidant support",
+      "Ideal for cooking, frying, sautéing, and pickling",
+      "Vegetarian and free from chemical refining"
+    ],
+    "sizes": [
+      "5 Litres"
+    ],
+    "variants": [
+      {
+        "name": "Mustard Oil",
+        "volume": "5 Litres",
+        "price": 849,
+        "mrp": 1250,
+        "pricePerLitre": 169.8,
+        "discountRate": 32
+      }
+    ],
+    "productDetails": {
+      "brand": "JIVO",
+      "dietType": "Vegetarian",
+      "flavour": "Mustard",
+      "itemForm": "Liquid",
+      "netContentVolume": "5 Litres",
+      "recommendedUses": "Cooking, Frying, Pickling",
+      "speciality": "Taste of health and nutrition",
+      "useBy": "31 JAN 2027"
     },
-    {
-      "username": "Rakesh Malhotra",
-      "rating": 5,
-      "comment": "Very comfortable and stylish. Suitable for casual and office wear."
+    "deliveryInfo": {
+      "delivery": "Free Delivery",
+      "returnPolicy": "Non-Returnable",
+      "fulfilledBy": "Amazon Delivered",
+      "cashOnDelivery": true,
+      "secureTransaction": true,
+      "badge": "Top Brand"
     },
-    {
-      "username": "Nikhil Sharma",
-      "rating": 3,
-      "comment": "Good shirt but slightly expensive without discount."
-    }
-  ]
-},
-{
-  "id": "nutraj-australian-almonds-500g",
-  "name": "Nutraj Australian Almonds 500g Pouch | Badam Giri | Dry Fruits and Nuts",
-  "category": "Grocery & Gourmet Food",
-  "price": 465,
-  "discountPrice": 649,
-  "discountRate": 28,
-  "rating": 3.8,
-  "reviews": 171,
-  "ratingText": "3.8 out of 5 stars",
-  "reviewText": "Based on 171 customer ratings on Amazon",
-  "shortLink": "https://amzn.to/3Lmd8At",
-  "fullLink": "https://www.amazon.in/gp/product/B0F2MTYKHP?smid=AMT8686ON43CM&th=1&linkCode=ll1&tag=valdio-21&linkId=c5fa1c3b040487452ff17959aeae7baa&language=en_IN&ref_=as_li_ss_tl",
-  "image": "https://m.media-amazon.com/images/I/51KKTcSl1DL._SX679_.jpg",
-  "description": "Nutraj Australian Almonds are premium quality badam giri sourced directly from Australia. These naturally crunchy and chemical-free almonds are hygienically packed to preserve freshness and are perfect for snacking, cooking, baking, and festive gifting.",
-  "features": [
-    "100% premium Australian almonds",
-    "Sourced directly from Australia",
-    "Naturally crunchy and rich in flavor",
-    "Chemical-free and vegetarian product",
-    "Hygienically sealed for freshness",
-    "Ideal for snacking, baking, and cooking",
-    "Suitable for daily consumption and gifting"
-  ],
-  "colors": [],
-  "sizes": [
-    "500g"
-  ],
-  "productDetails": {
-    "brand": "Nutraj",
-    "flavour": "Australian Almond",
-    "itemWeight": "500g",
-    "itemForm": "Dried",
-    "speciality": "Chemical Free",
-    "dietType": "Vegetarian",
-    "useBy": "31 AUG 2026",
-    "countryOfOrigin": "Australia"
+    "customerReviews": [
+      {
+        "username": "Amit Verma",
+        "rating": 5,
+        "comment": "Authentic mustard oil with strong aroma. Perfect for pickles and cooking."
+      },
+      {
+        "username": "Sunita Sharma",
+        "rating": 4,
+        "comment": "Good quality and value for money. Packaging is also good."
+      },
+      {
+        "username": "Rakesh Gupta",
+        "rating": 4,
+        "comment": "Tastes pure and traditional. Works well for everyday Indian cooking."
+      }
+    ]
   },
-  "deliveryInfo": {
-    "delivery": "Free Delivery",
-    "returnPolicy": "Non-Returnable",
-    "fulfilledBy": "Amazon Delivered",
-    "secureTransaction": true
+  {
+    "id": "jivo-cold-pressed-sunflower-oil-5l",
+    "name": "Jivo Cold Pressed Unrefined Sunflower Oil - 5 Litres",
+    "category": "Grocery & Gourmet Food",
+    "price": 879,
+    "discountPrice": 1350,
+    "discountRate": 35,
+    "rating": 4.1,
+    "reviews": 4227,
+    "ratingText": "4.1 out of 5 stars",
+    "reviewText": "Based on 4,227 customer ratings on Amazon",
+    "shortLink": "https://amzn.to/4qsN2Lh",
+    "fullLink": "https://www.amazon.in/dp/B0991VMDB1?social_share=cm_sw_r_cso_tg_apan_dp_AX03VVEZ9KWSEPAJRV8K&th=1&linkCode=ll1&tag=valdio-21&linkId=661b2ca1b23af282439eeacdebdde602&language=en_IN&ref_=as_li_ss_tl",
+    "image": "https://m.media-amazon.com/images/I/711iOwY44KL._SL1500_.jpg",
+    "description": "Jivo Cold Pressed Unrefined Sunflower Oil is a chemical-free cooking oil extracted using a traditional cold-pressed method to retain natural nutrients and mild flavour. Suitable for roasting, frying, baking, and everyday cooking across all cuisines, it offers a healthy balance of essential fatty acids and natural antioxidants.",
+    "features": [
+      "Cold pressed extraction to retain natural nutrients",
+      "Unrefined and chemical-free processing",
+      "Mild flavour suitable for all cuisines",
+      "Ideal for roasting, frying, baking, and sautéing",
+      "Contains healthy monounsaturated fats (MUFA)",
+      "Rich in Omega-6 polyunsaturated fatty acids",
+      "Natural tocopherols act as antioxidants",
+      "Fortified with Vitamins A and D",
+      "Vegetarian-friendly cooking oil"
+    ],
+    "sizes": [
+      "1 Litre",
+      "1 Litre (Pack of 2)",
+      "5 Litres"
+    ],
+    "variants": [
+      {
+        "name": "Sunflower Oil",
+        "volume": "1 Litre",
+        "price": 184,
+        "mrp": 275,
+        "pricePerLitre": 184,
+        "discountRate": 33
+      },
+      {
+        "name": "Sunflower Oil",
+        "volume": "1 Litre (Pack of 2)",
+        "price": 368,
+        "mrp": 550,
+        "pricePerLitre": 184,
+        "discountRate": 33
+      },
+      {
+        "name": "Sunflower Oil",
+        "volume": "5 Litres",
+        "price": 879,
+        "mrp": 1350,
+        "pricePerLitre": 175.8,
+        "discountRate": 35
+      }
+    ],
+    "productDetails": {
+      "brand": "JIVO",
+      "dietType": "Vegetarian",
+      "flavour": "Sunflower",
+      "itemForm": "Liquid",
+      "netContentVolume": "5 Litres",
+      "recommendedUses": "Roasting, Frying, Baking, Hair & Skin Care",
+      "speciality": "Does not contain saturated fats",
+      "meltingTemperature": "100°C",
+      "useBy": "31 DEC 2026"
+    },
+    "deliveryInfo": {
+      "delivery": "Free Delivery",
+      "returnPolicy": "Non-Returnable",
+      "fulfilledBy": "Amazon Delivered",
+      "cashOnDelivery": true,
+      "secureTransaction": true,
+      "badge": "Top Brand"
+    },
+    "customerReviews": [
+      {
+        "username": "Neha Kapoor",
+        "rating": 5,
+        "comment": "Very light and clean oil. Perfect for everyday cooking."
+      },
+      {
+        "username": "Sandeep Malhotra",
+        "rating": 4,
+        "comment": "Good quality sunflower oil. No strong smell and feels healthy."
+      },
+      {
+        "username": "Pooja Jain",
+        "rating": 4,
+        "comment": "Works well for frying and baking. Value for money on discount."
+      }
+    ]
   },
-  "customerReviews": [
-    {
-      "username": "Suresh Patel",
-      "rating": 4,
-      "comment": "Good quality almonds, fresh and crunchy."
+  {
+    "id": "lakme-perfect-radiance-pigmentation-day-gel-50g",
+    "name": "Lakme Perfect Radiance Pigmentation Treatment Day Gel Crème with 10% Niacinamide Resorcinol Complex",
+    "category": "Beauty & Personal Care",
+    "price": 207,
+    "discountPrice": 349,
+    "discountRate": 41,
+    "rating": 4.1,
+    "reviews": 33653,
+    "ratingText": "4.1 out of 5 stars",
+    "reviewText": "Based on 33,653 customer ratings on Amazon",
+    "shortLink": "https://amzn.to/4bCJrFI",
+    "fullLink": "https://www.amazon.in/Pigmentation-Treatment-Niacinamide-Resorcinol-Antioxidants/dp/B01C571752?crid=11T2NW1R2XZXX&dib=eyJ2IjoiMSJ9.FJyxn1I48BKf-36vgce-H8PrhJCozNhi-UIRRI5oyhmN9EGX0fqp1lpPG9nPflNYXlY3R1zCHavwOJovCE5EHZTR08IhUJurzKz7_g2OkYS81vwnV1LH9JquNS9DUHAOoSPQX02sYcoHkL7zl-Y27nGP-8Cq2CrCStpV7iTGaAxWxtnIFhAoGt1iBDqg6tDk96dqrEOkqlIc6NxB8F4jy3a2JsJ6-PoxKKFguNXcI3-dN0pwS3jsTf0X9QXU_rDAirZzBOYIAvIo1kvpjr7hlCv3Act2oyWygleV76n4CN4.nApSHbvv1f8GkCGFwEb9i0tQCZ_T3_8LzHgFPB-rTro&dib_tag=se&keywords=lakme%2Bperfect%2Bradiance%2Bcream&qid=1768762198&sprefix=lakme%2Bperfect%2Breduiance%2Bcrrea%2Caps%2C460&sr=8-2-spons&aref=mVEaaMwgYn&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1&linkCode=ll1&tag=valdio-21&linkId=28c6be4de5d5d61e6f68b8227f9f67f2&language=en_IN&ref_=as_li_ss_tl",
+    "image": "https://m.media-amazon.com/images/I/61fqwozv1BL._SL1500_.jpg",
+    "description": "Lakme Perfect Radiance Pigmentation Treatment Day Gel Crème is a lightweight daily skincare solution designed to visibly reduce pigmentation and enhance skin radiance. Powered with a 10% Niacinamide and Resorcinol complex along with 7 antioxidants, it helps repair skin, improve even tone, and protect against daily environmental damage.",
+    "features": [
+      "Triple-action formula repairs, de-pigments & protects skin",
+      "Contains 10% Niacinamide & Hexyl Resorcinol",
+      "Targets 6 signs of pigmentation including acne marks and sunburn",
+      "Antioxidants and UV filters protect against oxidation",
+      "Lightweight gel crème with instant absorption",
+      "Clinically tested and dermatologist inspired",
+      "Suitable for daily use on all skin types",
+      "Designed for Indian skin tones"
+    ],
+    "sizes": [
+      "15 g (Pack of 1)",
+      "15 g (Pack of 2)",
+      "28 g (Pack of 1)",
+      "50 g (Pack of 1)"
+    ],
+    "variants": [
+      {
+        "size": "15 g",
+        "price": 97,
+        "mrp": 99,
+        "pricePer100g": 646.67,
+        "discountRate": 2
+      },
+      {
+        "size": "15 g (Pack of 2)",
+        "price": 194,
+        "mrp": 198,
+        "pricePer100g": 646.67,
+        "discountRate": 2
+      },
+      {
+        "size": "28 g",
+        "price": 249,
+        "mrp": 275,
+        "pricePer100g": 889.29,
+        "discountRate": 9
+      },
+      {
+        "size": "50 g",
+        "price": 207,
+        "mrp": 349,
+        "pricePer100g": 414,
+        "discountRate": 41
+      }
+    ],
+    "productDetails": {
+      "brand": "LAKMÉ",
+      "itemForm": "Gel Crème",
+      "skinType": "All Skin Types",
+      "activeIngredients": "10% Niacinamide, Hexyl Resorcinol",
+      "specialFeature": "Antibacterial",
+      "scent": "Musk",
+      "itemVolume": "50 ml",
+      "ageRange": "Adult",
+      "useBy": "30 JAN 2027"
     },
-    {
-      "username": "Neha Jain",
-      "rating": 3,
-      "comment": "Taste is decent but a bit expensive without offers."
+    "deliveryInfo": {
+      "delivery": "Free Delivery",
+      "returnPolicy": "Non-Returnable",
+      "fulfilledBy": "Amazon Delivered",
+      "cashOnDelivery": true,
+      "secureTransaction": true,
+      "badge": "Amazon’s Choice / Top Brand"
     },
-    {
-      "username": "Rahul Mehta",
-      "rating": 4,
-      "comment": "Nice packaging and good for daily consumption."
-    }
-  ]
-},
-{
-  "id": "jivo-kachi-ghani-mustard-oil-5l",
-  "name": "Jivo Premium Cold Pressed Kachi Ghani Mustard Oil, 5 Litre",
-  "category": "Grocery & Gourmet Food",
-  "price": 849,
-  "discountPrice": 1250,
-  "discountRate": 32,
-  "rating": 4.1,
-  "reviews": 4079,
-  "ratingText": "4.1 out of 5 stars",
-  "reviewText": "Based on 4,079 customer ratings on Amazon",
-  "shortLink": "https://amzn.to/4pJweyk",
-  "fullLink": "https://www.amazon.in/dp/B091XPD9J3?social_share=cm_sw_r_cso_tg_apan_dp_XSBNQM281MJ6MEX5JNK9&th=1&linkCode=ll1&tag=valdio-21&linkId=b2651afbeda7d780a4368270928c840c&language=en_IN&ref_=as_li_ss_tl",
-  "image": "https://m.media-amazon.com/images/I/71syZRyDKlL._SL1500_.jpg",
-  "description": "Jivo Premium Cold Pressed Kachi Ghani Mustard Oil is extracted using a traditional cold-pressing process from the first pressing of mustard seeds. Rich in natural aroma, pungency, Omega-3 (ALA), and Vitamin E, it is ideal for everyday Indian cooking, frying, sautéing, and pickling.",
-  "features": [
-    "Cold pressed from first-pressed mustard seeds",
-    "Traditional kachi ghani extraction process",
-    "Rich aroma and strong pungent flavour",
-    "High smoking point suitable for Indian cooking",
-    "Contains Omega-3 (ALA) for heart health",
-    "Natural tocopherols (Vitamin E) for antioxidant support",
-    "Ideal for cooking, frying, sautéing, and pickling",
-    "Vegetarian and free from chemical refining"
-  ],
-  "sizes": [
-    "5 Litres"
-  ],
-  "variants": [
-    {
-      "name": "Mustard Oil",
-      "volume": "5 Litres",
-      "price": 849,
-      "mrp": 1250,
-      "pricePerLitre": 169.8,
-      "discountRate": 32
-    }
-  ],
-  "productDetails": {
-    "brand": "JIVO",
-    "dietType": "Vegetarian",
-    "flavour": "Mustard",
-    "itemForm": "Liquid",
-    "netContentVolume": "5 Litres",
-    "recommendedUses": "Cooking, Frying, Pickling",
-    "speciality": "Taste of health and nutrition",
-    "useBy": "31 JAN 2027"
+    "customerReviews": [
+      {
+        "username": "Anjali Verma",
+        "rating": 5,
+        "comment": "Very lightweight and absorbs quickly. Skin looks brighter within weeks."
+      },
+      {
+        "username": "Ritika Sharma",
+        "rating": 4,
+        "comment": "Helps reduce acne marks and pigmentation. Good for daily use."
+      },
+      {
+        "username": "Neeraj Gupta",
+        "rating": 4,
+        "comment": "Nice gel texture, non-greasy and works well under sunscreen."
+      }
+    ]
   },
-  "deliveryInfo": {
-    "delivery": "Free Delivery",
-    "returnPolicy": "Non-Returnable",
-    "fulfilledBy": "Amazon Delivered",
-    "cashOnDelivery": true,
-    "secureTransaction": true,
-    "badge": "Top Brand"
-  },
-  "customerReviews": [
-    {
-      "username": "Amit Verma",
-      "rating": 5,
-      "comment": "Authentic mustard oil with strong aroma. Perfect for pickles and cooking."
+  {
+    "id": "deep-print-mart-personalized-diary-gift-set-a5",
+    "name": "DEEP PRINT MART Personalized Diary, Metal Pen & Keychain Set",
+    "category": "Gifts & Stationery",
+    "price": 299,
+    "discountPrice": 499,
+    "discountRate": 40,
+    "rating": 3.0,
+    "reviews": 2,
+    "ratingText": "3.0 out of 5 stars",
+    "reviewText": "Based on 2 customer ratings on Amazon",
+    "shortLink": "https://amzn.to/3NQyMxi",
+    "fullLink": "https://www.amazon.in/dp/B0FSYFH4LM?social_share=cm_sw_r_apin_dp_S96HHTRQDR0MGCARD3HQ&badgeInsights=insights&linkCode=ll1&tag=valdio-21&linkId=145f0dc361ca535008ff009f18fc8607&language=en_IN&ref_=as_li_ss_tl",
+    "image": "https://m.media-amazon.com/images/I/61MMWS+gZ0L._SL1500_.jpg",
+    "description": "DEEP PRINT MART Personalized Diary Gift Set includes an A5 size writing journal with 190 pages, a premium engraved metal pen, and a stylish engraved metal keychain. Perfect for office use, corporate gifting, festivals like Diwali and Christmas, and special occasions.",
+    "features": [
+      "Personalized laser engraving on metal pen and keychain",
+      "A5 size diary with 190 pages for daily writing",
+      "Premium refillable executive metal pen",
+      "Durable and stylish engraved metal keychain",
+      "Ideal for corporate events, employee appreciation, and business gifting",
+      "Luxury and utility combined in one elegant gift set"
+    ],
+    "sizes": [
+      "A5 (190 Pages)"
+    ],
+    "variants": [
+      {
+        "size": "A5 (190 Pages)",
+        "price": 299,
+        "mrp": 499,
+        "pricePer100g": null,
+        "discountRate": 40
+      }
+    ],
+    "productDetails": {
+      "brand": "DEEP PRINT MART",
+      "itemForm": "Diary Gift Set",
+      "skinType": null,
+      "activeIngredients": null,
+      "specialFeature": "Personalised Name Engraving",
+      "scent": null,
+      "itemVolume": null,
+      "ageRange": "Adult",
+      "useBy": null
     },
-    {
-      "username": "Sunita Sharma",
-      "rating": 4,
-      "comment": "Good quality and value for money. Packaging is also good."
+    "deliveryInfo": {
+      "delivery": "Free Delivery",
+      "returnPolicy": "Non-Returnable",
+      "fulfilledBy": "Amazon Delivered",
+      "cashOnDelivery": true,
+      "secureTransaction": true,
+      "badge": ""
     },
-    {
-      "username": "Rakesh Gupta",
-      "rating": 4,
-      "comment": "Tastes pure and traditional. Works well for everyday Indian cooking."
-    }
-  ]
-},
-{
-  "id": "jivo-cold-pressed-sunflower-oil-5l",
-  "name": "Jivo Cold Pressed Unrefined Sunflower Oil - 5 Litres",
-  "category": "Grocery & Gourmet Food",
-  "price": 879,
-  "discountPrice": 1350,
-  "discountRate": 35,
-  "rating": 4.1,
-  "reviews": 4227,
-  "ratingText": "4.1 out of 5 stars",
-  "reviewText": "Based on 4,227 customer ratings on Amazon",
-  "shortLink": "https://amzn.to/4qsN2Lh",
-  "fullLink": "https://www.amazon.in/dp/B0991VMDB1?social_share=cm_sw_r_cso_tg_apan_dp_AX03VVEZ9KWSEPAJRV8K&th=1&linkCode=ll1&tag=valdio-21&linkId=661b2ca1b23af282439eeacdebdde602&language=en_IN&ref_=as_li_ss_tl",
-  "image": "https://m.media-amazon.com/images/I/711iOwY44KL._SL1500_.jpg",
-  "description": "Jivo Cold Pressed Unrefined Sunflower Oil is a chemical-free cooking oil extracted using a traditional cold-pressed method to retain natural nutrients and mild flavour. Suitable for roasting, frying, baking, and everyday cooking across all cuisines, it offers a healthy balance of essential fatty acids and natural antioxidants.",
-  "features": [
-    "Cold pressed extraction to retain natural nutrients",
-    "Unrefined and chemical-free processing",
-    "Mild flavour suitable for all cuisines",
-    "Ideal for roasting, frying, baking, and sautéing",
-    "Contains healthy monounsaturated fats (MUFA)",
-    "Rich in Omega-6 polyunsaturated fatty acids",
-    "Natural tocopherols act as antioxidants",
-    "Fortified with Vitamins A and D",
-    "Vegetarian-friendly cooking oil"
-  ],
-  "sizes": [
-    "1 Litre",
-    "1 Litre (Pack of 2)",
-    "5 Litres"
-  ],
-  "variants": [
-    {
-      "name": "Sunflower Oil",
-      "volume": "1 Litre",
-      "price": 184,
-      "mrp": 275,
-      "pricePerLitre": 184,
-      "discountRate": 33
-    },
-    {
-      "name": "Sunflower Oil",
-      "volume": "1 Litre (Pack of 2)",
-      "price": 368,
-      "mrp": 550,
-      "pricePerLitre": 184,
-      "discountRate": 33
-    },
-    {
-      "name": "Sunflower Oil",
-      "volume": "5 Litres",
-      "price": 879,
-      "mrp": 1350,
-      "pricePerLitre": 175.8,
-      "discountRate": 35
-    }
-  ],
-  "productDetails": {
-    "brand": "JIVO",
-    "dietType": "Vegetarian",
-    "flavour": "Sunflower",
-    "itemForm": "Liquid",
-    "netContentVolume": "5 Litres",
-    "recommendedUses": "Roasting, Frying, Baking, Hair & Skin Care",
-    "speciality": "Does not contain saturated fats",
-    "meltingTemperature": "100°C",
-    "useBy": "31 DEC 2026"
-  },
-  "deliveryInfo": {
-    "delivery": "Free Delivery",
-    "returnPolicy": "Non-Returnable",
-    "fulfilledBy": "Amazon Delivered",
-    "cashOnDelivery": true,
-    "secureTransaction": true,
-    "badge": "Top Brand"
-  },
-  "customerReviews": [
-    {
-      "username": "Neha Kapoor",
-      "rating": 5,
-      "comment": "Very light and clean oil. Perfect for everyday cooking."
-    },
-    {
-      "username": "Sandeep Malhotra",
-      "rating": 4,
-      "comment": "Good quality sunflower oil. No strong smell and feels healthy."
-    },
-    {
-      "username": "Pooja Jain",
-      "rating": 4,
-      "comment": "Works well for frying and baking. Value for money on discount."
-    }
-  ]
-},
-{
-  "id": "lakme-perfect-radiance-pigmentation-day-gel-50g",
-  "name": "Lakme Perfect Radiance Pigmentation Treatment Day Gel Crème with 10% Niacinamide Resorcinol Complex",
-  "category": "Beauty & Personal Care",
-  "price": 207,
-  "discountPrice": 349,
-  "discountRate": 41,
-  "rating": 4.1,
-  "reviews": 33653,
-  "ratingText": "4.1 out of 5 stars",
-  "reviewText": "Based on 33,653 customer ratings on Amazon",
-  "shortLink": "https://amzn.to/4bCJrFI",
-  "fullLink": "https://www.amazon.in/Pigmentation-Treatment-Niacinamide-Resorcinol-Antioxidants/dp/B01C571752?crid=11T2NW1R2XZXX&dib=eyJ2IjoiMSJ9.FJyxn1I48BKf-36vgce-H8PrhJCozNhi-UIRRI5oyhmN9EGX0fqp1lpPG9nPflNYXlY3R1zCHavwOJovCE5EHZTR08IhUJurzKz7_g2OkYS81vwnV1LH9JquNS9DUHAOoSPQX02sYcoHkL7zl-Y27nGP-8Cq2CrCStpV7iTGaAxWxtnIFhAoGt1iBDqg6tDk96dqrEOkqlIc6NxB8F4jy3a2JsJ6-PoxKKFguNXcI3-dN0pwS3jsTf0X9QXU_rDAirZzBOYIAvIo1kvpjr7hlCv3Act2oyWygleV76n4CN4.nApSHbvv1f8GkCGFwEb9i0tQCZ_T3_8LzHgFPB-rTro&dib_tag=se&keywords=lakme%2Bperfect%2Bradiance%2Bcream&qid=1768762198&sprefix=lakme%2Bperfect%2Breduiance%2Bcrrea%2Caps%2C460&sr=8-2-spons&aref=mVEaaMwgYn&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1&linkCode=ll1&tag=valdio-21&linkId=28c6be4de5d5d61e6f68b8227f9f67f2&language=en_IN&ref_=as_li_ss_tl",
-  "image": "https://m.media-amazon.com/images/I/61fqwozv1BL._SL1500_.jpg",
-  "description": "Lakme Perfect Radiance Pigmentation Treatment Day Gel Crème is a lightweight daily skincare solution designed to visibly reduce pigmentation and enhance skin radiance. Powered with a 10% Niacinamide and Resorcinol complex along with 7 antioxidants, it helps repair skin, improve even tone, and protect against daily environmental damage.",
-  "features": [
-    "Triple-action formula repairs, de-pigments & protects skin",
-    "Contains 10% Niacinamide & Hexyl Resorcinol",
-    "Targets 6 signs of pigmentation including acne marks and sunburn",
-    "Antioxidants and UV filters protect against oxidation",
-    "Lightweight gel crème with instant absorption",
-    "Clinically tested and dermatologist inspired",
-    "Suitable for daily use on all skin types",
-    "Designed for Indian skin tones"
-  ],
-  "sizes": [
-    "15 g (Pack of 1)",
-    "15 g (Pack of 2)",
-    "28 g (Pack of 1)",
-    "50 g (Pack of 1)"
-  ],
-  "variants": [
-    {
-      "size": "15 g",
-      "price": 97,
-      "mrp": 99,
-      "pricePer100g": 646.67,
-      "discountRate": 2
-    },
-    {
-      "size": "15 g (Pack of 2)",
-      "price": 194,
-      "mrp": 198,
-      "pricePer100g": 646.67,
-      "discountRate": 2
-    },
-    {
-      "size": "28 g",
-      "price": 249,
-      "mrp": 275,
-      "pricePer100g": 889.29,
-      "discountRate": 9
-    },
-    {
-      "size": "50 g",
-      "price": 207,
-      "mrp": 349,
-      "pricePer100g": 414,
-      "discountRate": 41
-    }
-  ],
-  "productDetails": {
-    "brand": "LAKMÉ",
-    "itemForm": "Gel Crème",
-    "skinType": "All Skin Types",
-    "activeIngredients": "10% Niacinamide, Hexyl Resorcinol",
-    "specialFeature": "Antibacterial",
-    "scent": "Musk",
-    "itemVolume": "50 ml",
-    "ageRange": "Adult",
-    "useBy": "30 JAN 2027"
-  },
-  "deliveryInfo": {
-    "delivery": "Free Delivery",
-    "returnPolicy": "Non-Returnable",
-    "fulfilledBy": "Amazon Delivered",
-    "cashOnDelivery": true,
-    "secureTransaction": true,
-    "badge": "Amazon’s Choice / Top Brand"
-  },
-  "customerReviews": [
-    {
-      "username": "Anjali Verma",
-      "rating": 5,
-      "comment": "Very lightweight and absorbs quickly. Skin looks brighter within weeks."
-    },
-    {
-      "username": "Ritika Sharma",
-      "rating": 4,
-      "comment": "Helps reduce acne marks and pigmentation. Good for daily use."
-    },
-    {
-      "username": "Neeraj Gupta",
-      "rating": 4,
-      "comment": "Nice gel texture, non-greasy and works well under sunscreen."
-    }
-  ]
-}
-
-
-
-
-
-
-
+    "customerReviews": [
+      {
+        "username": "Amit Kumar",
+        "rating": 4,
+        "comment": "Good quality diary and engraving is neat. Nice gift option."
+      },
+      {
+        "username": "Pooja Sharma",
+        "rating": 2,
+        "comment": "Product is decent but delivery took longer than expected."
+      }
+    ]
+  }
 ]
