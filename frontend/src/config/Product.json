@@ -2842,5 +2842,104 @@
         "comment": "Product is decent but delivery took longer than expected."
       }
     ]
+  },
+  {
+    "id": "nabhya-hippo-stainless-steel-baby-sipper-250ml",
+    "name": "Nabhya Hippo Stainless Steel Baby Spout Sipper Cup for Kids (250 ML)",
+    "category": "Baby Products",
+    "price": 249,
+    "discountPrice": 499,
+    "discountRate": 50,
+    "rating": 3.8,
+    "reviews": 147,
+    "ratingText": "3.8 out of 5 stars",
+    "reviewText": "Based on 147 customer ratings on Amazon",
+    "shortLink": "https://amzn.to/4jQMwnQ",
+    "fullLink": "https://www.amazon.in/dp/B09YNZ4KGJ?social_share=cm_sw_r_ud_dp_X9HZ6NG124MYFWBNPBZH&th=1&linkCode=ll1&tag=valdio-21&linkId=c9d1e8c2ea1e2e435814a7253fbe8b45&language=en_IN&ref_=as_li_ss_tl",
+    "image": "https://m.media-amazon.com/images/I/61nUqUSZV6L._SL1500_.jpg",
+    "description": "Nabhya Hippo Stainless Steel Baby Spout Sipper Cup is designed for babies aged 3 to 18 months. Made from SS304 stainless steel with a BPA-free silicone spout, it offers safe, leak-proof, and comfortable sipping while encouraging independent drinking.",
+    "features": [
+      "SS304 stainless steel body, rust and odour free",
+      "BPA-free soft silicone spout",
+      "Leak-proof design for mess-free use",
+      "Touch-flow valve opens with gentle pressure",
+      "Cute side handles for easy grip",
+      "Soft spout gentle on baby’s teeth",
+      "Single-walled steel construction"
+    ],
+    "colors": [
+      {
+        "name": "Orange",
+        "image": "https://m.media-amazon.com/images/I/61nUqUSZV6L._SL1500_.jpg"
+      },
+      {
+        "name": "Pink",
+        "image": "https://m.media-amazon.com/images/I/61Ptsdl8O6L._SX679_.jpg"
+      },
+      {
+        "name": "Sky Blue",
+        "image": "https://m.media-amazon.com/images/I/61WIgGeqMlL._SX679_.jpg"
+      }
+    ],
+    "sizes": [
+      "250 ML"
+    ],
+    "variants": [
+      {
+        "color": "Orange",
+        "size": "250 ML",
+        "price": 249,
+        "mrp": 499,
+        "discountRate": 50
+      },
+      {
+        "color": "Pink",
+        "size": "250 ML",
+        "price": 269,
+        "mrp": 499,
+        "discountRate": 46
+      },
+      {
+        "color": "Sky Blue",
+        "size": "250 ML",
+        "price": 249,
+        "mrp": 999,
+        "discountRate": 75
+      }
+    ],
+    "productDetails": {
+      "brand": "Nabhya",
+      "material": "Stainless Steel",
+      "itemForm": "Sipper Cup",
+      "specialFeature": "Leak Proof, BPA Free",
+      "capacity": "250 ml",
+      "ageRange": "3 to 18 Months",
+      "recommendedUse": "Home"
+    },
+    "deliveryInfo": {
+      "delivery": "Free Delivery",
+      "returnPolicy": "10 days Returnable",
+      "fulfilledBy": "Amazon Delivered",
+      "cashOnDelivery": true,
+      "secureTransaction": true,
+      "badge": "Top Brand"
+    },
+    "customerReviews": [
+      {
+        "username": "Rahul Mehta",
+        "rating": 4,
+        "comment": "Good quality and easy for my baby to hold."
+      },
+      {
+        "username": "Sneha Patil",
+        "rating": 3,
+        "comment": "Nice product but slightly heavy for smaller babies."
+      },
+      {
+        "username": "Ayesha Khan",
+        "rating": 4,
+        "comment": "Leak-proof and hygienic. Worth buying."
+      }
+    ]
   }
 ]
