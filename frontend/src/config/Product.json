@@ -2941,5 +2941,121 @@
         "comment": "Leak-proof and hygienic. Worth buying."
       }
     ]
-  }
+  },
+  {
+  "id": "liramark-silicone-back-cover-iqoo-z3-5g",
+  "name": "LIRAMARK Silicone Soft Back Cover Case for iQOO Z3 5G",
+  "category": "Mobile Accessories",
+  "price": 149,
+  "discountPrice": 599,
+  "discountRate": 75,
+  "rating": 4.3,
+  "reviews": 238,
+  "ratingText": "4.3 out of 5 stars",
+  "reviewText": "Based on 238 customer ratings on Amazon",
+  "shortLink": "https://amzn.to/4sM4oEv",
+  "fullLink": "https://www.amazon.in/gp/product/B0BL18LP3D?smid=A1WYWER0W24N8S&th=1&linkCode=ll1&tag=valdio-21&linkId=6efc4f072da305a70bac2e9813599965&language=en_IN&ref_=as_li_ss_tl",
+  "image": "https://m.media-amazon.com/images/I/51Mhp9FtqpL._SL1200_.jpg",
+  "description": "LIRAMARK Silicone Soft Back Cover Case is specially designed for iQOO Z3 5G, offering premium liquid silicone protection with a sleek, non-slip grip. The case provides full-body protection, raised edges for camera and screen safety, and precise cutouts for seamless usability.",
+  "features": [
+    "Compatible with iQOO Z3 5G",
+    "Premium liquid silicone material",
+    "1.2mm raised edges for camera and screen protection",
+    "360-degree full body protection",
+    "Soft tactile buttons with precise cutouts",
+    "Non-slip, anti-fingerprint, scratch-resistant surface",
+    "Supports wireless charging",
+    "Easy to clean with damp cloth"
+  ],
+  "colors": [
+    {
+      "name": "Black",
+      "image": "https://m.media-amazon.com/images/I/61wqmer76jL._SL1200_.jpg"
+    },
+    {
+      "name": "Green",
+      "image": "https://m.media-amazon.com/images/I/61wqmer76jL._SL1200_.jpg"
+    },
+    {
+      "name": "Silicone Black",
+      "image": "https://m.media-amazon.com/images/I/51WfR8PaTsL._SL1200_.jpg"
+    },
+    {
+      "name": "Silicone Blue",
+      "image": "https://m.media-amazon.com/images/I/51Mhp9FtqpL._SL1200_.jpg"
+    },
+    {
+      "name": "Silicone Green",
+      "image": "https://m.media-amazon.com/images/I/51dor+z3mJL._SX522_.jpg"
+    }
+  ],
+  "sizes": [
+    "iQOO Z3 5G"
+  ],
+  "variants": [
+    {
+      "color": "Black",
+      "price": 149,
+      "mrp": 599,
+      "discountRate": 75
+    },
+    {
+      "color": "Green",
+      "price": 149,
+      "mrp": 599,
+      "discountRate": 75
+    },
+    {
+      "color": "Silicone Black",
+      "price": 149,
+      "mrp": 599,
+      "discountRate": 75
+    },
+    {
+      "color": "Silicone Blue",
+      "price": 149,
+      "mrp": 599,
+      "discountRate": 75
+    },
+    {
+      "color": "Silicone Green",
+      "price": 149,
+      "mrp": 599,
+      "discountRate": 75
+    }
+  ],
+  "productDetails": {
+    "brand": "LIRAMARK",
+    "material": "Liquid Silicone",
+    "compatibleDevices": "iQOO Z3 5G",
+    "specialFeature": "Non-slip, Scratch Resistant, Anti-fingerprint",
+    "thickness": "2.0 mm",
+    "warranty": "6 Months"
+  },
+  "deliveryInfo": {
+    "delivery": "Amazon Delivered",
+    "returnPolicy": "10 days Returnable",
+    "cashOnDelivery": true,
+    "secureTransaction": true,
+    "badge": "Amazon’s Choice / Top Brand"
+  },
+  "customerReviews": [
+    {
+      "username": "Amit Sharma",
+      "rating": 5,
+      "comment": "Excellent grip and perfect fit. Looks premium."
+    },
+    {
+      "username": "Rahul Verma",
+      "rating": 4,
+      "comment": "Good protection and smooth finish. Worth the price."
+    },
+    {
+      "username": "Neha Singh",
+      "rating": 4,
+      "comment": "Nice silicone quality, buttons feel very responsive."
+    }
+  ]
+}
+
 ]
