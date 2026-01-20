@@ -3148,6 +3148,93 @@
     "partnerOffer": "Buy 2 Get 5% Off",
     "upiOffer": "Earn ₹13 on UPI payment above ₹499"
   }
+},
+{
+  "id": "iqoo-z10x-5g-6gb-128gb-titanium",
+  "name": "iQOO Z10x 5G (Titanium, 6GB RAM, 128GB Storage)",
+  "category": "Smartphones",
+  "price": 14998,
+  "discountPrice": 17499,
+  "discountRate": 14,
+  "rating": 4.4,
+  "reviews": 9402,
+  "ratingText": "4.4 out of 5 stars",
+  "reviewText": "Based on 9,402 customer ratings on Amazon",
+  "shortLink": "https://amzn.to/4sPrA4H",
+  "fullLink": "https://www.amazon.in/dp/B0F2T674FJ?social_share=cm_sw_r_ud_dp_GWXTKKQMMKTRZQ6ZJNN7&th=1&linkCode=ll1&tag=valdio-21&linkId=315df84e1740734a5601463f769f75a7&language=en_IN&ref_=as_li_ss_tl",
+  "image": "https://m.media-amazon.com/images/I/61YfJEGeqDL._SL1200_.jpg",
+  "description": "iQOO Z10x 5G delivers flagship-level performance with MediaTek Dimensity 7300 processor, a massive 6500mAh battery, 120Hz display, and military-grade durability. Designed for power users who demand speed, endurance, and reliability.",
+  "features": [
+    "MediaTek Dimensity 7300 processor (4nm TSMC)",
+    "6500mAh large capacity battery",
+    "44W FlashCharge fast charging",
+    "6.72-inch 120Hz Eye Care Display",
+    "50MP Ultra HD AI camera",
+    "4K video recording support",
+    "Dual stereo speakers with 400% volume boost",
+    "Military-grade durability certified",
+    "Funtouch OS 15 based on Android 15"
+  ],
+  "colors": [
+    {
+      "name": "Titanium",
+      "image": "https://m.media-amazon.com/images/I/61YfJEGeqDL._SL1200_.jpg"
+    },
+    {
+      "name": "Ultramarine",
+      "image": "https://m.media-amazon.com/images/I/61oa+zoqwmL._SX679_.jpg"
+    }
+  ],
+  "sizes": [
+    "6GB + 128GB",
+    "8GB + 128GB",
+    "8GB + 256GB"
+  ],
+  "variants": [
+    {
+      "color": "Titanium",
+      "price": 14998,
+      "mrp": 17499,
+      "discountRate": 14
+    },
+    {
+      "color": "Ultramarine",
+      "price": 14998,
+      "mrp": 17499,
+      "discountRate": 14
+    }
+  ],
+  "productDetails": {
+    "brand": "iQOO",
+    "operatingSystem": "Funtouch OS 15 (Android 15)",
+    "processor": "MediaTek Dimensity 7300",
+    "processorSpeed": "2.5 GHz",
+    "ram": "6 GB",
+    "storage": "128 GB",
+    "storageType": "UFS 3.1",
+    "battery": "6500 mAh",
+    "charging": "44W FlashCharge",
+    "display": "6.72 inch 120Hz Eye Care Display",
+    "camera": "50 MP Rear Camera",
+    "audio": "Dual Stereo Speakers",
+    "durability": "Military-Grade Certified",
+    "countryOfOrigin": "India"
+  },
+  "deliveryInfo": {
+    "delivery": "Amazon Delivered",
+    "returnPolicy": "10 days Service Centre Replacement",
+    "cashOnDelivery": true,
+    "secureTransaction": true,
+    "freeDelivery": true,
+    "badge": "Top Brand"
+  },
+  "offers": {
+    "emi": "Starts at ₹527 per month",
+    "bankOffer": "Up to ₹1,000 discount on SBI Credit Cards",
+    "cashback": "Up to ₹449 Amazon Pay cashback on ICICI Bank Credit Cards",
+    "partnerOffer": "Get GST invoice and save up to 18%",
+    "upiOffer": "Earn ₹60 on UPI payment above ₹499"
+  }
 }
 
 
