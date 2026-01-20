@@ -3748,7 +3748,76 @@
     "partnerOffer": "Get GST invoice and save up to 18%",
     "upiOffer": "UPI payment offer above ₹499"
   }
+},
+{
+  "id": "tommy-hilfiger-brown-men-wallet-felixgcw03",
+  "name": "Tommy Hilfiger Brown Men's Wallet (TH/FELIXGCW03)",
+  "category": "Fashion Accessories",
+  "price": 929,
+  "discountPrice": 2499,
+  "discountRate": 63,
+  "rating": 4.5,
+  "reviews": 757,
+  "ratingText": "4.5 out of 5 stars",
+  "reviewText": "Based on 757 customer ratings on Amazon",
+  "shortLink": "https://amzn.to/49Lblg6",
+  "fullLink": "https://www.amazon.in/dp/B07Z9LD5KR?social_share=cm_sw_r_cso_tg_apan_dp_4AJFMT8HYCPYRKDNEEQC&linkCode=ll1&tag=valdio-21&linkId=655baa074cc2d32ab788e4acaecefb45&language=en_IN&ref_=as_li_ss_tl",
+  "image": "https://m.media-amazon.com/images/I/71TPFlJ5FjL._SL1200_.jpg",
+  "description": "Tommy Hilfiger Men's Wallet is a premium leather wallet designed for everyday casual use. Crafted with high-quality leather, it offers a sleek solid design with multiple compartments for organized storage of cash and cards.",
+  "features": [
+    "Premium genuine leather construction",
+    "Classic solid design",
+    "Compact and lightweight",
+    "Multiple compartments for cash and cards",
+    "Durable stitching for long-lasting use",
+    "Ideal for daily casual and formal wear"
+  ],
+  "colors": [
+    {
+      "name": "Brown",
+      "image": "https://m.media-amazon.com/images/I/71TPFlJ5FjL._SL1200_.jpg"
+    }
+  ],
+  "sizes": [
+    "Standard"
+  ],
+  "variants": [
+    {
+      "color": "Brown",
+      "price": 929,
+      "mrp": 2499,
+      "discountRate": 63
+    }
+  ],
+  "productDetails": {
+    "brand": "Tommy Hilfiger",
+    "material": "Leather",
+    "color": "Brown",
+    "style": "Casual",
+    "pattern": "Solid",
+    "numberOfCompartments": 2,
+    "dimensions": "11.5 x 2 x 9.5 cm",
+    "laptopCompatibility": "No",
+    "countryOfOrigin": "India"
+  },
+  "deliveryInfo": {
+    "delivery": "Amazon Delivered",
+    "returnPolicy": "10 days Returnable",
+    "cashOnDelivery": true,
+    "secureTransaction": true,
+    "freeDelivery": true,
+    "badge": "Top Brand",
+    "warranty": "6 Months Manufacturer Warranty"
+  },
+  "offers": {
+    "emi": "Not Available",
+    "bankOffer": "Up to ₹1,500 discount on select Credit Cards",
+    "cashback": "Up to ₹27 Amazon Pay cashback on ICICI Bank Credit Cards",
+    "partnerOffer": "Buy 5 luggage products and get 5% off",
+    "upiOffer": "UPI payment offer above ₹499"
+  }
 }
+
 
 
 
