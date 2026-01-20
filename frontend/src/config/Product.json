@@ -3527,6 +3527,118 @@
     "upiOffer": "UPI payment offer above ₹499",
     "coupon": "5% Coupon Available"
   }
+},
+{
+  "id": "lavie-women-sparkle-framed-clutch",
+  "name": "Lavie Women's Sparkle Framed Clutch | Ladies Purse Handbag",
+  "category": "Fashion Accessories",
+  "price": 699,
+  "discountPrice": 2499,
+  "discountRate": 72,
+  "rating": 4.3,
+  "reviews": 1803,
+  "ratingText": "4.3 out of 5 stars",
+  "reviewText": "Based on 1,803 customer ratings on Amazon",
+  "shortLink": "https://amzn.to/3NmMOXz",
+  "fullLink": "https://www.amazon.in/gp/product/B0BJKRGDJF?th=1&psc=1&linkCode=ll1&tag=valdio-21&linkId=fdd622b7158169b147873ac2922a39ad&language=en_IN&ref_=as_li_ss_tl",
+  "image": "https://m.media-amazon.com/images/I/71nE+5UGnML._SY695_.jpg",
+  "description": "Lavie Women's Sparkle Framed Clutch is a premium evening handbag crafted with shiny faux leather, an imported metal frame, silk lining, and a crystal-studded clasp. Designed to elevate your evening look while carrying all your essentials with ease.",
+  "features": [
+    "Premium shiny faux leather material",
+    "Imported metal frame with crystal-studded clasp",
+    "Smooth clasp closure with silk lining",
+    "Detachable long metal shoulder chain",
+    "Built-in pocket for essentials",
+    "Compact yet spacious design",
+    "Ideal for evening and party occasions"
+  ],
+  "colors": [
+    {
+      "name": "Black",
+      "image": "https://m.media-amazon.com/images/I/718Oh-VUpJL._SY695_.jpg"
+    },
+    {
+      "name": "Gold Metallic",
+      "image": "https://m.media-amazon.com/images/I/81QX9Dat3JL._SY625_.jpg"
+    },
+    {
+      "name": "Light Pink",
+      "image": "https://m.media-amazon.com/images/I/81bid64C67L._SY625_.jpg"
+    },
+    {
+      "name": "Mint",
+      "image": "https://m.media-amazon.com/images/I/81jAJAvtkOL._SY625_.jpg"
+    },
+    {
+      "name": "Navy",
+      "image": "https://m.media-amazon.com/images/I/71nE+5UGnML._SY695_.jpg"
+    }
+  ],
+  "sizes": [
+    "Small"
+  ],
+  "variants": [
+    {
+      "color": "Black",
+      "price": 699,
+      "mrp": 2499,
+      "discountRate": 72
+    },
+    {
+      "color": "Gold Metallic",
+      "price": 699,
+      "mrp": 2499,
+      "discountRate": 72
+    },
+    {
+      "color": "Light Pink",
+      "price": 899,
+      "mrp": 2499,
+      "discountRate": 64
+    },
+    {
+      "color": "Mint",
+      "price": 699,
+      "mrp": 2499,
+      "discountRate": 72
+    },
+    {
+      "color": "Navy",
+      "price": 699,
+      "mrp": 2499,
+      "discountRate": 72
+    }
+  ],
+  "productDetails": {
+    "brand": "Lavie",
+    "outerMaterial": "Faux Leather",
+    "closureType": "Clasp",
+    "style": "Clutch",
+    "occasion": "Evening",
+    "numberOfPockets": 1,
+    "careInstructions": "Spot clean only. Keep away from heat sources. Store in a cool, dry place.",
+    "dimensions": "8.5 x 3.5 x 11.5 cm",
+    "weight": "240 g",
+    "countryOfOrigin": "India",
+    "includedComponents": "1 Clutch Bag"
+  },
+  "deliveryInfo": {
+    "delivery": "Amazon Delivered",
+    "returnPolicy": "10 days Return & Exchange",
+    "cashOnDelivery": true,
+    "secureTransaction": true,
+    "freeDelivery": true,
+    "badge": "Top Brand",
+    "warranty": "Manufacturer Warranty Available"
+  },
+  "offers": {
+    "emi": "Not Available",
+    "bankOffer": "Up to ₹1,500 discount on select Credit Cards",
+    "cashback": "Up to ₹20 Amazon Pay cashback on ICICI Bank Credit Cards",
+    "partnerOffer": "Buy 2 Get 5% Off",
+    "upiOffer": "UPI payment offer above ₹499"
+  }
 }
+
 
 ]
