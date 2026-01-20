@@ -3450,5 +3450,83 @@
     "partnerOffer": "Buy 2 get extra 2% off, Buy 3 get extra 4% off",
     "upiOffer": "UPI payment offer above ₹499"
   }
+},
+{
+  "id": "himalaya-baby-lotion-almond-olive-oil-400ml",
+  "name": "Himalaya Baby Lotion with Almond and Olive Oil (400 ml)",
+  "category": "Baby Care",
+  "price": 206,
+  "discountPrice": 350,
+  "discountRate": 41,
+  "rating": 4.4,
+  "reviews": 73997,
+  "ratingText": "4.4 out of 5 stars",
+  "reviewText": "Based on 73,997 customer ratings on Amazon",
+  "shortLink": "https://amzn.to/4qWCkfM",
+  "fullLink": "https://www.amazon.in/Himalaya-4003F-Baby-Lotion-400ml/dp/B008YD5500?crid=UPKXSVGY16GZ&dib=eyJ2IjoiMSJ9.3rJy6iK9uTKFa0bGZJYeKleaXU9FjjDj_yHsyXtdlva5piRT1vZW0HfbzXUrc5ZxuvjYlJANECDocDGDIJSvpV6aFrtGcbmDXdPZeWgV28ZGdcSLj1M0EJoCVBv6obMpiEspJZSU87saYwSPbannfFIeX1hMo4bLMvWcZb6qa_VbIXIZgi1lNy5XZnxFgM2CWNS4b6zE9HDHdar445aGbDWS7O6IxGu1b2jw1OTs6AEsya9ot-sHrp7pBnbLx_CfMUM22Hvxy9iZUaADGIqKQpBFMyIcMFwJar2JzCVmam8.jvetG1D70B7FgoRI6YHEgbRlPQUVr2mIIKGkCx-yOYE&dib_tag=se&keywords=himalaya%2Bbaby%2Blotion&nsdOptOutParam=true&qid=1768933618&sprefix=himalaya%2Bbaby%2Blotio%2Caps%2C387&sr=8-1-spons&aref=12lGI6PJN5&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1&linkCode=ll1&tag=valdio-21&linkId=34416a928834a2138c3500d1ac639cc2&language=en_IN&ref_=as_li_ss_tl",
+  "image": "https://m.media-amazon.com/images/I/514tJKYbIEL._SL1199_.jpg",
+  "description": "Himalaya Baby Lotion is enriched with Olive Oil, Almond Oil, and Licorice to gently nourish and protect your baby's delicate skin. It helps soothe dryness, itchiness, rashes, and irritation while keeping the skin soft, smooth, and healthy.",
+  "features": [
+    "Enriched with Olive Oil and Almond Oil",
+    "Contains Licorice with anti-inflammatory properties",
+    "Helps prevent dryness and skin irritation",
+    "Antioxidant-rich formula",
+    "Suitable for daily use on infant skin",
+    "Gentle and safe for all skin types"
+  ],
+  "colors": [
+    {
+      "name": "White",
+      "image": "https://m.media-amazon.com/images/I/514tJKYbIEL._SL1199_.jpg"
+    }
+  ],
+  "sizes": [
+    "100 ml",
+    "200 ml",
+    "400 ml",
+    "700 ml"
+  ],
+  "variants": [
+    {
+      "size": "400 ml",
+      "price": 206,
+      "mrp": 350,
+      "discountRate": 41
+    }
+  ],
+  "productDetails": {
+    "brand": "Himalaya",
+    "itemForm": "Lotion",
+    "activeIngredients": [
+      "Olive Oil",
+      "Almond Oil",
+      "Licorice"
+    ],
+    "skinType": "All Skin Types",
+    "ageRange": "Infant",
+    "specialFeature": "Antioxidant",
+    "netQuantity": "400 ml",
+    "itemDimensions": "10.5 x 6 x 16 cm",
+    "usage": "Dry Skin, Itchiness, Rashes, Swelling",
+    "countryOfOrigin": "India",
+    "useBy": "30 JAN 2027"
+  },
+  "deliveryInfo": {
+    "delivery": "Amazon Delivered",
+    "returnPolicy": "Non-Returnable",
+    "cashOnDelivery": true,
+    "secureTransaction": true,
+    "freeDelivery": true,
+    "badge": "Top Brand"
+  },
+  "offers": {
+    "emi": "Not Available",
+    "bankOffer": "Up to ₹20.60 discount on SBI Credit Cards",
+    "cashback": "Up to ₹6 Amazon Pay cashback on ICICI Bank Credit Cards",
+    "partnerOffer": "Get GST invoice and save up to 18%",
+    "upiOffer": "UPI payment offer above ₹499",
+    "coupon": "5% Coupon Available"
+  }
 }
+
 ]
