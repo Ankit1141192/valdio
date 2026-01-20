@@ -3638,7 +3638,118 @@
     "partnerOffer": "Buy 2 Get 5% Off",
     "upiOffer": "UPI payment offer above ₹499"
   }
+},
+{
+  "id": "lavie-women-sara-sling-bag",
+  "name": "Lavie Women's Sara Sling Bag | Ladies Purse Handbag",
+  "category": "Fashion Accessories",
+  "price": 649,
+  "discountPrice": 2499,
+  "discountRate": 74,
+  "rating": 4.0,
+  "reviews": 2597,
+  "ratingText": "4.0 out of 5 stars",
+  "reviewText": "Based on 2,597 customer ratings on Amazon",
+  "shortLink": "https://amzn.to/4pN3DrS",
+  "fullLink": "https://www.amazon.in/dp/B0784GL9Y9?social_share=cm_sw_r_ud_dp_P2MF8DW9XMJVQ143GZFP&th=1&psc=1&linkCode=ll1&tag=valdio-21&linkId=8acf8f745d4c5c0b956797c9fccd56af&language=en_IN&ref_=as_li_ss_tl",
+  "image": "https://m.media-amazon.com/images/I/61kv-STE-ZL._SY695_.jpg",
+  "description": "Lavie Women's Sara Sling Bag is a stylish and compact everyday handbag made from premium faux leather with a pebbled texture. Designed for casual outings, it offers multiple pockets and a lightweight build for easy daily use.",
+  "features": [
+    "Premium quality faux leather material",
+    "Stylish pebbled texture design",
+    "One spacious main compartment",
+    "Front zip pocket for quick access",
+    "Back zip pocket for added storage",
+    "Lightweight and comfortable sling style",
+    "Ideal for daily casual use"
+  ],
+  "colors": [
+    {
+      "name": "Navy",
+      "image": "https://m.media-amazon.com/images/I/61t304yzTmL._SY695_.jpg"
+    },
+    {
+      "name": "Olive",
+      "image": "https://m.media-amazon.com/images/I/81Spp39B6kS._SY625_.jpg"
+    },
+    {
+      "name": "Pink",
+      "image": "https://m.media-amazon.com/images/I/7114hlCAubL._SY625_.jpg"
+    },
+    {
+      "name": "Tan",
+      "image": "https://m.media-amazon.com/images/I/71xx9TTeGsL._SY625_.jpg"
+    },
+    {
+      "name": "Orange Brown",
+      "image": "https://m.media-amazon.com/images/I/61kv-STE-ZL._SY695_.jpg"
+    }
+  ],
+  "sizes": [
+    "Small"
+  ],
+  "variants": [
+    {
+      "color": "Navy",
+      "price": 599,
+      "mrp": 2499,
+      "discountRate": 76
+    },
+    {
+      "color": "Olive",
+      "price": 649,
+      "mrp": 2499,
+      "discountRate": 74
+    },
+    {
+      "color": "Pink",
+      "price": 649,
+      "mrp": 2499,
+      "discountRate": 74
+    },
+    {
+      "color": "Tan",
+      "price": 599,
+      "mrp": 2499,
+      "discountRate": 76
+    },
+    {
+      "color": "Orange Brown",
+      "price": 649,
+      "mrp": 2499,
+      "discountRate": 74
+    }
+  ],
+  "productDetails": {
+    "brand": "Lavie",
+    "outerMaterial": "Synthetic / Faux Leather",
+    "closureType": "Zipper",
+    "style": "Sling Bag",
+    "occasion": "Casual",
+    "numberOfPockets": 3,
+    "dimensions": "20.5 x 6 x 18 cm",
+    "careInstructions": "Do not expose to extreme heat",
+    "countryOfOrigin": "China",
+    "includedComponents": "1 Sling Bag"
+  },
+  "deliveryInfo": {
+    "delivery": "Amazon Delivered",
+    "returnPolicy": "10 days Return & Exchange",
+    "cashOnDelivery": true,
+    "secureTransaction": true,
+    "freeDelivery": true,
+    "badge": "Top Brand",
+    "warranty": "Manufacturer Warranty Available"
+  },
+  "offers": {
+    "emi": "Not Available",
+    "bankOffer": "Up to ₹1,500 discount on select Credit Cards",
+    "cashback": "Up to ₹19 Amazon Pay cashback on ICICI Bank Credit Cards",
+    "partnerOffer": "Get GST invoice and save up to 18%",
+    "upiOffer": "UPI payment offer above ₹499"
+  }
 }
+
 
 
 ]
