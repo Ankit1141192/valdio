@@ -3235,7 +3235,85 @@
     "partnerOffer": "Get GST invoice and save up to 18%",
     "upiOffer": "Earn ₹60 on UPI payment above ₹499"
   }
-}
+},
 
+{
+  "id": "solimo-cotton-padded-oven-gloves-blue-pack-of-2",
+  "name": "AmazonBrand - Solimo 100% Cotton Padded Oven Gloves Paisley (Pack of 2, Blue)",
+  "category": "Home & Kitchen",
+  "price": 239,
+  "discountPrice": 450,
+  "discountRate": 47,
+  "rating": 4.3,
+  "reviews": 11895,
+  "ratingText": "4.3 out of 5 stars",
+  "reviewText": "Based on 11,895 customer ratings on Amazon",
+  "shortLink": "https://amzn.to/3NT21j2",
+  "fullLink": "https://www.amazon.in/Amazon-Brand-Solimo-Cotton-Paisley/dp/B06WLGNSVJ?crid=2I5F2MH0RI6OO&dib=eyJ2IjoiMSJ9.LaLb3dT_EzEe0dyjacIA1TpEXEkpi2tYZ5_tSuNDQ4JrUtf8V68_VkwoH2dct7DCn-C_3qbSJOHGZPGMc0ze4UxFqMH51_n-T858AGCevc2xklcp0bKpWVqetZcYwlTjx0_OStRkxe5n6jweLP9PwmQsSRHO9OJC5FlOkTa9eHKdEoT6WPAYEojphAL1-TlkKYWcS9FSTnSfotVvV1HdKZ6174JgJq--7ksMnwVoJ1gXIlloe7hYOotR6eWDdE1goyzu0QBpSQY77e-RV5-D1IZju8HcWNd4hBYQRvNJ1v0.ZgmMX6I4KtSgusePkaav9unLnBqLxl_B-FYKquUoZKQ&dib_tag=se&keywords=microwave%2Boven%2Bhand%2Bgloves&qid=1768927908&sprefix=microwave%2Boven%2Bhand%2Caps%2C381&sr=8-1-spons&aref=2FrLJFF7HC&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1&linkCode=ll1&tag=valdio-21&linkId=05d9da59ca883277ee879964fdd35e45&language=en_IN&ref_=as_li_ss_tl",
+  "image": "https://m.media-amazon.com/images/I/71BUnXdBXSL._SL1500_.jpg",
+  "description": "Amazon Brand - Solimo 100% Cotton Padded Oven Gloves are designed for safe and comfortable handling of hot cookware. With 3.5 layers of cotton insulation and a quilted outer surface, these gloves provide excellent heat resistance, grip, and durability for everyday kitchen use.",
+  "features": [
+    "3.5 layers of cotton for superior heat insulation",
+    "100% cotton quilted outer layer for strong grip",
+    "Protects hands while handling hot dishes and cookware",
+    "Machine washable for easy maintenance",
+    "Comfortable fit for both men and women",
+    "Ideal for ovens, stoves, and microwaves",
+    "Pack of 2 padded oven gloves"
+  ],
+  "colors": [
+    {
+      "name": "Blue",
+      "image": "https://m.media-amazon.com/images/I/71BUnXdBXSL._SL1500_.jpg"
+    },
+    {
+      "name": "Multicolour",
+      "image": "https://m.media-amazon.com/images/I/71KQxdalYWL._SL1500_.jpg"
+    }
+  ],
+  "sizes": [
+    "30 x 18 cm"
+  ],
+  "variants": [
+    {
+      "color": "Blue",
+      "price": 239,
+      "mrp": 450,
+      "discountRate": 47
+    },
+    {
+      "color": "Multicolour",
+      "price": 249,
+      "mrp": 450,
+      "discountRate": 45
+    }
+  ],
+  "productDetails": {
+    "brand": "Amazon Brand - Solimo",
+    "outerMaterial": "Cotton",
+    "fillMaterial": "Cotton",
+    "shape": "Hand",
+    "dimensions": "30L x 18W cm",
+    "careInstructions": "Machine Wash",
+    "numberOfPieces": 2,
+    "usage": "Oven, Stove, Hot Cookware Handling",
+    "countryOfOrigin": "India"
+  },
+  "deliveryInfo": {
+    "delivery": "Amazon Delivered",
+    "returnPolicy": "10 days Returnable",
+    "cashOnDelivery": true,
+    "secureTransaction": true,
+    "freeDelivery": true,
+    "badge": "Top Brand"
+  },
+  "offers": {
+    "emi": "Not Available",
+    "bankOffer": "Up to ₹1,000 discount on SBI Credit Cards",
+    "cashback": "Up to ₹7 Amazon Pay cashback on ICICI Bank Credit Cards",
+    "partnerOffer": "Buy any 2 get extra 2% off, Buy any 3 get extra 4% off",
+    "upiOffer": "Earn ₹2 on UPI payment above ₹499"
+  }
+}
 
 ]
