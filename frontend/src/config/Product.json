@@ -3056,6 +3056,99 @@
       "comment": "Nice silicone quality, buttons feel very responsive."
     }
   ]
+},
+{
+  "id": "puma-men-scorch-mark-running-shoe",
+  "name": "Puma Men Scorch Mark Running Shoe",
+  "category": "Footwear",
+  "price": 1349,
+  "discountPrice": 5499,
+  "discountRate": 75,
+  "rating": 4.0,
+  "reviews": 734,
+  "ratingText": "4.0 out of 5 stars",
+  "reviewText": "Based on 734 customer ratings on Amazon",
+  "shortLink": "https://amzn.to/3LLVsOB",
+  "fullLink": "https://www.amazon.in/dp/B0BVMFHLRZ?social_share=cm_sw_r_cso_wa_mwn_dp_9EKDDBGCRZPAZBNT42BH&th=1&psc=1&linkCode=ll1&tag=valdio-21&linkId=276766bd56033f7ccb42991a31b8dc93&language=en_IN&ref_=as_li_ss_tl",
+  "image": "https://m.media-amazon.com/images/I/61Qzi1PsvmL._SY695_.jpg",
+  "description": "Puma Men Scorch Mark Running Shoe is designed for urban runners and daily commuters, offering a perfect balance of comfort, durability, and modern style. The lightweight textile upper and rubber sole ensure flexibility and grip for everyday movement.",
+  "features": [
+    "Designed for urban running and daily wear",
+    "Lightweight and breathable textile upper",
+    "Durable rubber sole for strong grip",
+    "Flat heel for comfort and stability",
+    "Slip-on pull-on closure",
+    "Stylish sneaker design",
+    "Comfortable for long daily use"
+  ],
+  "colors": [
+    {
+      "name": "Black-Burnt Red-White",
+      "image": "https://m.media-amazon.com/images/I/61xybajO65L._SY695_.jpg"
+    },
+    {
+      "name": "Black-White-Cool Dark Gray",
+      "image": "https://m.media-amazon.com/images/I/61DgMPH34bL._SY695_.jpg"
+    },
+    {
+      "name": "Blazing Blue-Lime Squeeze-Black",
+      "image": "https://m.media-amazon.com/images/I/61Qzi1PsvmL._SY695_.jpg"
+    }
+  ],
+  "sizes": [
+    "6 UK",
+    "7 UK",
+    "8 UK",
+    "9 UK",
+    "10 UK",
+    "11 UK"
+  ],
+  "variants": [
+    {
+      "color": "Black-Burnt Red-White",
+      "price": 1349,
+      "mrp": 5499,
+      "discountRate": 75
+    },
+    {
+      "color": "Black-White-Cool Dark Gray",
+      "price": 1349,
+      "mrp": 5499,
+      "discountRate": 75
+    },
+    {
+      "color": "Blazing Blue-Lime Squeeze-Black",
+      "price": 1349,
+      "mrp": 5499,
+      "discountRate": 75
+    }
+  ],
+  "productDetails": {
+    "brand": "PUMA",
+    "material": "Textile",
+    "soleMaterial": "Rubber",
+    "closureType": "Pull-On",
+    "heelType": "Flat",
+    "waterResistance": "Not Water Resistant",
+    "style": "Sneaker",
+    "countryOfOrigin": "India"
+  },
+  "deliveryInfo": {
+    "delivery": "Amazon Delivered",
+    "returnPolicy": "10 days Return & Exchange",
+    "cashOnDelivery": true,
+    "secureTransaction": true,
+    "freeDelivery": true,
+    "badge": "Top Brand"
+  },
+  "offers": {
+    "emi": "Starts at ₹123 per month",
+    "bankOffer": "Up to ₹1,000 discount on SBI Credit Cards",
+    "cashback": "Up to ₹40 Amazon Pay cashback on ICICI Bank Credit Cards",
+    "partnerOffer": "Buy 2 Get 5% Off",
+    "upiOffer": "Earn ₹13 on UPI payment above ₹499"
+  }
 }
+
 
 ]

@@ -5,14 +5,23 @@ const {
   getProductById,
   updateProduct,
   deleteProduct
-} = require("../controllers/productController.js");
+} = require("../controllers/productController");
+
+const { protect, adminOnly } = require("../middleware/authMiddleware");
 
 const router = express.Router();
 
-router.post("/", createProduct);        // Admin
-router.get("/", getProducts);           // User
-router.get("/:id", getProductById);     // User
-router.put("/:id", updateProduct);      // Admin
-router.delete("/:id", deleteProduct);   // Admin
+/* ===========================
+   PUBLIC / USER (NO AUTH)
+=========================== */
+router.get("/", getProducts);
+router.get("/:id", getProductById);
+
+/* ===========================
+   ADMIN ONLY (AUTH REQUIRED)
+=========================== */
+router.post("/", protect, adminOnly, createProduct);
+router.put("/:id", protect, adminOnly, updateProduct);
+router.delete("/:id", protect, adminOnly, deleteProduct);
 
 module.exports = router;

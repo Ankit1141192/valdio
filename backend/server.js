@@ -1,7 +1,6 @@
 const express = require("express");
 const dotenv = require("dotenv");
-const connectDB = require("./config/db.js");
-const productRoutes = require("./routes/productRoutes.js");
+const connectDB = require("./config/db");
 
 dotenv.config();
 connectDB();
@@ -9,8 +8,9 @@ connectDB();
 const app = express();
 app.use(express.json());
 
-app.use("/api/products", productRoutes);
+app.use("/api/auth", require("./routes/authRoutes"));
+app.use("/api/products", require("./routes/productRoutes"));
 
-app.listen(5000, () =>
-  console.log("Server running on http://localhost:5000")
-);
+app.listen(5000, () => {
+  console.log("Server running on http://localhost:5000");
+});
