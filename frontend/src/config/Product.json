@@ -3816,7 +3816,90 @@
     "partnerOffer": "Buy 5 luggage products and get 5% off",
     "upiOffer": "UPI payment offer above ₹499"
   }
+},
+{
+  "id": "urbn-power-bank-20000mah-22w-fast-charging-blue",
+  "name": "URBN Power Bank 20000mAh Fast Charging | 22.5W Power Delivery | Triple Output (Blue)",
+  "category": "Electronics & Accessories",
+  "price": 899,
+  "discountPrice": 2999,
+  "discountRate": 70,
+  "rating": 4.0,
+  "reviews": 2991,
+  "ratingText": "4.0 out of 5 stars",
+  "reviewText": "Based on 2,991 customer ratings on Amazon",
+  "shortLink": "https://amzn.to/49NFKdM",
+  "fullLink": "https://www.amazon.in/dp/B0DQ4Q8SGG?social_share=cm_sw_r_ud_dp_P56FNK9365A1FDV3YKFR_1&th=1&linkCode=ll1&tag=valdio-21&linkId=d6f8498aaa84fea292426cb68ddab98c&language=en_IN&ref_=as_li_ss_tl",
+  "image": "https://m.media-amazon.com/images/I/51a0YTClysL._SX679_.jpg",
+  "description": "URBN 20000mAh Power Bank delivers massive backup with 22.5W super-fast Power Delivery. Designed with triple output ports, USB Type-C input/output, and pass-through charging, it allows you to charge multiple devices safely and efficiently on the go.",
+  "features": [
+    "20000mAh high-capacity battery",
+    "22.5W super fast Power Delivery (PD)",
+    "Triple output ports for charging multiple devices",
+    "USB Type-C input & output support",
+    "Pass-through charging support",
+    "12-layer circuit protection for safety",
+    "Overcharging, overheating & short-circuit protection",
+    "Compact and portable design"
+  ],
+  "colors": [
+    {
+      "name": "Blue",
+      "image": "https://m.media-amazon.com/images/I/51a0YTClysL._SX679_.jpg"
+    },
+    {
+      "name": "Black",
+      "image": "https://m.media-amazon.com/images/I/71TUiV0TyiL._SX679_.jpg"
+    }
+  ],
+  "sizes": [
+    "20000mAh"
+  ],
+  "variants": [
+    {
+      "color": "Blue",
+      "price": 899,
+      "mrp": 2999,
+      "discountRate": 70
+    },
+    {
+      "color": "Black",
+      "price": 899,
+      "mrp": 2999,
+      "discountRate": 70
+    }
+  ],
+  "productDetails": {
+    "brand": "URBN",
+    "batteryCapacity": "20000mAh",
+    "connectorType": "USB Type-C",
+    "outputPower": "22.5W",
+    "specialFeatures": [
+      "Fast Charging",
+      "Pass Through Charging",
+      "Over Charging Protection"
+    ],
+    "compatibleDevices": "Smartphones, Tablets, Earbuds, iPad",
+    "warranty": "6 Months Manufacturer Warranty",
+    "countryOfOrigin": "India"
+  },
+  "deliveryInfo": {
+    "delivery": "Amazon Delivered",
+    "returnPolicy": "10 days Service Centre Replacement",
+    "cashOnDelivery": true,
+    "secureTransaction": true,
+    "freeDelivery": true,
+    "badge": "Top Brand"
+  },
+  "offers": {
+    "emi": "Not Available",
+    "bankOffer": "Up to ₹1,000 discount on SBI Credit Cards",
+    "cashback": "Up to ₹26 Amazon Pay cashback on ICICI Bank Credit Cards",
+    "partnerOffer": "Buy 2 or more and get 10% additional discount",
+    "upiOffer": "Earn ₹8 on UPI payment above ₹499"
+  }
 }
+
 
 
 
