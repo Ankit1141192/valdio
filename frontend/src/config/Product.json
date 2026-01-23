@@ -3976,7 +3976,86 @@
       "mrp": 1597
     }
   ]
+},
+{
+  "id": "set-wet-casually-cool-hair-gel-250ml",
+  "name": "Set Wet Styling Hair Gel for Men – Casually Cool | Medium Hold, High Shine | 250 ml",
+  "category": "Beauty & Personal Care",
+  "price": 168,
+  "discountPrice": 225,
+  "discountRate": 25,
+  "rating": 4.1,
+  "reviews": 6231,
+  "ratingText": "4.1 out of 5 stars",
+  "reviewText": "Based on 6,231 customer ratings on Amazon",
+  "shortLink": "https://amzn.to/4pXZfGT",
+  "fullLink": "https://www.amazon.in/Set-Wet-Cool-Hold-250ml/dp/B079HWW3NM?th=1&linkCode=ll1&tag=valdio-21&linkId=8b396d7cd29490fb3ef5607175cbe1bf&language=en_IN&ref_=as_li_ss_tl",
+  "image": "https://m.media-amazon.com/images/I/61TayWsLq8L._SL1500_.jpg",
+  "description": "Set Wet Casually Cool Hair Gel for men provides medium hold with high shine, enriched with Pro-Vitamin B5 for healthy-looking hair. The alcohol-free and sulphate-free formula styles hair effortlessly for a natural, casual look that lasts all day.",
+  "features": [
+    "Medium hold with high shine",
+    "Enriched with Pro-Vitamin B5",
+    "Alcohol-free and sulphate-free formula",
+    "Easy to wash off with water",
+    "Suitable for casual everyday styling",
+    "No harmful chemicals like SLS, SLES, phthalates or formaldehyde"
+  ],
+  "sizes": [
+    "250 ml"
+  ],
+  "variants": [
+    {
+      "style": "Casually Cool",
+      "size": "250 ml",
+      "price": 168,
+      "mrp": 225,
+      "discountRate": 25
+    }
+  ],
+  "productDetails": {
+    "brand": "Set Wet",
+    "styleName": "Casually Cool Hair Gel",
+    "patternName": "Hair Gel",
+    "hairType": "All",
+    "itemForm": "Gel",
+    "scent": "Aloe, Unscented",
+    "materialFree": [
+      "Alcohol Free",
+      "Sulphate Free"
+    ],
+    "productBenefits": [
+      "Shining",
+      "Smoothening"
+    ],
+    "netQuantity": "250 ml",
+    "itemWeight": "250 ml",
+    "includedComponents": "Hair Gel (1 Unit)",
+    "expiryDate": "31 December 2027"
+  },
+  "deliveryInfo": {
+    "delivery": "Amazon Delivered",
+    "returnPolicy": "Non-Returnable",
+    "cashOnDelivery": true,
+    "secureTransaction": true,
+    "freeDelivery": true,
+    "badge": "Top Brand"
+  },
+  "offers": {
+    "coupon": "Apply 2% coupon",
+    "cashback": "Up to ₹5 Amazon Pay cashback on ICICI Bank Credit Cards",
+    "bankOffer": "Up to ₹750 discount on select Credit & Debit Cards",
+    "partnerOffer": "Buy 3 get 3%, Buy 4 get 4%, Buy 5 get 5% off",
+    "upiOffer": "Earn ₹1 on UPI payment above ₹499"
+  },
+  "freeProducts": [
+    {
+      "name": "Nat Habit Ubtan Face Wash",
+      "size": "7 g",
+      "mrp": 1597
+    }
+  ]
 }
+
 
 
 
