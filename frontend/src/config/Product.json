@@ -3898,6 +3898,84 @@
     "partnerOffer": "Buy 2 or more and get 10% additional discount",
     "upiOffer": "Earn ₹8 on UPI payment above ₹499"
   }
+},
+{
+  "id": "himalaya-purifying-neem-face-wash-150ml",
+  "name": "Himalaya Purifying Neem Face Wash | Clears & Prevents Pimples & Acne | 150 ml",
+  "category": "Beauty & Personal Care",
+  "price": 178,
+  "discountPrice": 299,
+  "discountRate": 40,
+  "rating": 4.4,
+  "reviews": 12315,
+  "ratingText": "4.4 out of 5 stars",
+  "reviewText": "Based on 12,315 customer ratings on Amazon",
+  "shortLink": "https://amzn.to/4bMHyX2",
+  "fullLink": "https://www.amazon.in/Himalaya-Herbals-Purifying-Neem-150ml/dp/B010Z0LH8I?crid=16Z8CGJFZKFM0&dib=eyJ2IjoiMSJ9.zMwM5CBLJ0l5MU3LN6AiYVik3WIva_bIH_UY1nMNf8V_SRFm6RYsSyyl8F6--JyCP0YoQG0ridD4vt-PQWgKr4k3ygGiB15XiSnb5htfSLzFuo8uhElJzng1v2MJFTbLY1vMGQf8K92dRicCYheFoDsDdTCzdo4SNQ1pPilmOS6CGFmHLKaZtZcUKMBfowsoSf1ajC_T3RiyX-BYhsONcF2-zm0hsowJk-vMNXPpoqsGU4sx8kCEqdZIutrEYNfKGkF2nygWB4YwWWduXDfNb31N2z4WqjNCqWn_y1jc4Ug.Lh5fzS89EINWP4ukHgTDvTloBJ7-wLqh-9VkwMLanL8&dib_tag=se&keywords=himalaya%2Bface%2Bwash%2Bneem%2Bface%2Bwash&qid=1769153251&sprefix=himalaya%2B%2Caps%2C702&sr=8-5&th=1&linkCode=ll1&tag=valdio-21&linkId=6c5b807b7fe3475ecda2654cd8cb0982&language=en_IN&ref_=as_li_ss_tl",
+  "image": "https://m.media-amazon.com/images/I/518N3l4z1-L._SL1100_.jpg",
+  "description": "Himalaya Purifying Neem Face Wash is a soap-free, gentle cleanser made with Neem and Turmeric. It helps eliminate pimples, prevent acne recurrence, and cleanse the skin without over-drying. Suitable for men and women, this clinically proven formula is ideal for daily use.",
+  "features": [
+    "Eliminates pimples",
+    "Prevents recurrence of acne",
+    "Gently cleanses skin",
+    "Soap-free and herbal formulation",
+    "Clinically proven formula",
+    "Suitable for men and women"
+  ],
+  "sizes": [
+    "150 ml"
+  ],
+  "variants": [
+    {
+      "size": "150 ml",
+      "price": 178,
+      "mrp": 299,
+      "discountRate": 40
+    }
+  ],
+  "productDetails": {
+    "brand": "Himalaya",
+    "scent": "Neem",
+    "useFor": "Face",
+    "skinType": "Dry",
+    "ageRange": "Youth, Adult",
+    "itemWeight": "0.15 kg",
+    "dimensions": "44 x 76 x 152 mm",
+    "includedComponents": "Face Wash (1 Unit, 150 ml)",
+    "productBenefits": "Cleansing, Acne Prevention",
+    "ingredients": [
+      "Neem",
+      "Turmeric"
+    ],
+    "countryOfOrigin": "India",
+    "expiryDate": "30 January 2027"
+  },
+  "deliveryInfo": {
+    "delivery": "Amazon Delivered",
+    "returnPolicy": "Non-Returnable",
+    "cashOnDelivery": true,
+    "secureTransaction": true,
+    "freeDelivery": true,
+    "badge": "Top Brand"
+  },
+  "offers": {
+    "cashback": "Up to ₹5 Amazon Pay cashback on ICICI Bank Credit Cards",
+    "bankOffer": "Up to ₹750 discount on select Credit & Debit Cards",
+    "partnerOffer": "Buy 3 get 3%, Buy 4 get 4%, Buy 5 get 5% off",
+    "upiOffer": "Earn ₹1 on UPI payment above ₹499"
+  },
+  "freeProducts": [
+    {
+      "name": "Cetaphil Hydrating Foaming Cream Cleanser",
+      "size": "29 ml",
+      "mrp": 157
+    },
+    {
+      "name": "Nat Habit Ubtan Face Wash",
+      "size": "7 g",
+      "mrp": 1597
+    }
+  ]
 }
 
 
