@@ -4152,6 +4152,125 @@
     "cashback": "Up to ₹71 Amazon Pay Cashback on ICICI Credit Cards",
     "partnerOffer": "Get GST invoice and save up to 18% on business purchases"
   }
+},
+
+{
+  "id": "i-jewels-kundan-dulhan-bridal-set",
+  "name": "I Jewels Traditional Ethnic Indian Kundan Dulhan Bridal Jewellery Set for Women",
+  "category": "jewellery",
+  "price": 2999,
+  "discountPrice": 9999,
+  "discountRate": 70,
+  "rating": 3.9,
+  "reviews": 290,
+  "ratingText": "3.9 out of 5 stars",
+  "reviewText": "Based on 290 customer ratings on Amazon",
+  "shortLink": "https://amzn.to/49WP6nE",
+  "fullLink": "https://www.amazon.in/dp/B07QZL81K7?social_share=cm_sw_r_ud_dp_9MKYFKQ7DMN4C0YJYS08&th=1&linkCode=ll1&tag=valdio-21&linkId=b6c2a5ee9859e84528d69cb7ebebcfde&language=en_IN&ref_=as_li_ss_tl",
+  "image": "https://m.media-amazon.com/images/I/71zuVzAzUiL._SY535_.jpg",
+
+  "description": "Traditional ethnic bridal jewellery set by I Jewels, crafted with kundan-style simulated stones and faux pearls. Designed for weddings and special occasions with a rich, royal finish.",
+
+  "features": [
+    "Traditional kundan-style bridal jewellery set",
+    "Simulated stones and faux pearls",
+    "Premium alloy base with gold-plated finish",
+    "Lightweight and comfortable for long wear",
+    "Adjustable chains for secure fit",
+    "Ideal for weddings and festive occasions"
+  ],
+
+  "colors": [
+    {
+      "name": "Green",
+      "image": "https://m.media-amazon.com/images/I/71zuVzAzUiL._SY535_.jpg"
+    },
+    {
+      "name": "Maroon Green",
+      "image": "https://m.media-amazon.com/images/I/A12ws6mqeEL._SY500_.jpg"
+    },
+    {
+      "name": "Red",
+      "image": "https://m.media-amazon.com/images/I/71tI1T1or-L._SY500_.jpg"
+    },
+    {
+      "name": "Turquoise",
+      "image": "https://m.media-amazon.com/images/I/81VQX0xQn0L._SY625_.jpg"
+    },
+    {
+      "name": "White",
+      "image": "https://m.media-amazon.com/images/I/81VQX0xQn0L._SY625_.jpg"
+    }
+  ],
+
+  "sizes": ["Free Size"],
+
+  "variants": [
+    {
+      "color": "Green",
+      "price": 2999,
+      "mrp": 9999,
+      "discountRate": 70,
+      "image": "https://m.media-amazon.com/images/I/81VQX0xQn0L._SY625_.jpg"
+    },
+    {
+      "color": "Maroon Green",
+      "price": 2999,
+      "mrp": 9999,
+      "discountRate": 70,
+      "image": "https://m.media-amazon.com/images/I/81VQX0xQn0L._SY625_.jpg"
+    },
+    {
+      "color": "Red",
+      "price": 2999,
+      "mrp": 9999,
+      "discountRate": 70,
+      "image": "https://m.media-amazon.com/images/I/81VQX0xQn0L._SY625_.jpg"
+    },
+    {
+      "color": "Turquoise",
+      "price": 2999,
+      "mrp": 9999,
+      "discountRate": 70,
+      "image": "https://m.media-amazon.com/images/I/81VQX0xQn0L._SY625_.jpg"
+    },
+    {
+      "color": "White",
+      "price": 2999,
+      "mrp": 9999,
+      "discountRate": 70,
+      "image": "https://m.media-amazon.com/images/I/81VQX0xQn0L._SY625_.jpg"
+    }
+  ],
+
+  "productDetails": {
+    "brand": "I Jewels",
+    "materialType": "Gold Plated",
+    "metalType": "Alloy",
+    "gemType": "Artificial stones and beads",
+    "chainType": "Fancy",
+    "claspType": "Lobster Clasp",
+    "occasion": ["Wedding", "Birthday"],
+    "netQuantity": "1 Set",
+    "includedComponents": ["Necklace", "Earrings", "Nosepin"],
+    "countryOfOrigin": "India"
+  },
+
+  "deliveryInfo": {
+    "delivery": "Amazon Delivered",
+    "returnPolicy": "10 Days Returnable",
+    "cashOnDelivery": true,
+    "secureTransaction": true,
+    "freeDelivery": true,
+    "badge": "Top Brand"
+  },
+
+  "offers": {
+    "coupon": "Extra 2% off coupon applied",
+    "bankOffer": "Up to ₹1,500 discount on select Credit & Debit Cards",
+    "cashback": "Up to ₹149 Amazon Pay Cashback on ICICI Credit Cards",
+    "partnerOffer": "Buy 3 or more and get 7% off on qualifying items"
+  }
 }
 
 
