@@ -3,10 +3,12 @@ import { useNavigate } from "react-router-dom";
 import ProductCard from "../components/ProductCard";
 import products from "../config/Product.json";
 import useLocalFavorites from "../hooks/useLocalFavorites";
+import { useCart } from "../context/CartContext.jsx";
 
 const Favorites = () => {
   const navigate = useNavigate();
   const { favorites, toggleFavorite } = useLocalFavorites("favorites");
+  const { addToCart } = useCart();
 
   const favoriteProducts = products.filter((p) => favorites.has(p.id));
 
@@ -66,7 +68,8 @@ const Favorites = () => {
               product={product}
               favorites={favorites}
               toggleFavorite={toggleFavorite}
-              onCardClick={() => navigate(`/products/${product.id}`)}
+              onClick={() => navigate(`/products/${product.id}`)}
+              onAddToCart={() => addToCart(product.id, 1)}
             />
           ))}
         </div>

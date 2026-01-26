@@ -1,19 +1,24 @@
-import React, { useState, useEffect } from "react";
-import { useNavigate } from "react-router-dom";
+import React, { useEffect, useMemo, useState } from "react";
+import { useNavigate, useSearchParams } from "react-router-dom";
 import ProductCard from "../components/ProductCard";
 import products from "../config/Product.json";
 import { Grid, List } from "lucide-react";
 import useLocalFavorites from "../hooks/useLocalFavorites";
+import { useCart } from "../context/CartContext.jsx";
 
 const Products = () => {
   const navigate = useNavigate();
+  const [searchParams, setSearchParams] = useSearchParams();
   const { favorites, toggleFavorite } = useLocalFavorites("favorites");
+  const { addToCart } = useCart();
 
-  const [search, setSearch] = useState("");
+  const [search, setSearch] = useState(searchParams.get("search") || "");
   const [debouncedSearch, setDebouncedSearch] = useState("");
   const [sort, setSort] = useState("name");
   const [priceRange, setPriceRange] = useState([0, 100000]);
-  const [categoryFilter, setCategoryFilter] = useState("");
+  const [categoryFilter, setCategoryFilter] = useState(
+    searchParams.get("category") || ""
+  );
   const [view, setView] = useState("grid");
   const [showFavoritesOnly, setShowFavoritesOnly] = useState(false);
 
@@ -27,12 +32,27 @@ const Products = () => {
     return () => clearTimeout(timeout);
   }, [search]);
 
+  // Keep URL in sync (so navbar/category clicks work)
+  useEffect(() => {
+    const next = new URLSearchParams(searchParams);
+    if (search) next.set("search", search);
+    else next.delete("search");
+    if (categoryFilter) next.set("category", categoryFilter);
+    else next.delete("category");
+    setSearchParams(next, { replace: true });
+    setCurrentPage(1);
+    // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, [search, categoryFilter]);
+
   // Scroll to top on page change
   useEffect(() => {
     window.scrollTo({ top: 0, behavior: "smooth" });
   }, [currentPage]);
 
-  const categories = [...new Set(products.map((p) => p.category))];
+  const categories = useMemo(
+    () => [...new Set(products.map((p) => p.category))],
+    []
+  );
 
   // Filter + Sort products
   const filteredProducts = products
@@ -216,8 +236,8 @@ const Products = () => {
                   product={product}
                   favorites={favorites}
                   toggleFavorite={toggleFavorite}
-                  view={view}
                   onClick={() => navigate(`/products/${product.id}`)}
+                  onAddToCart={() => addToCart(product.id, 1)}
                 />
               ))}
             </div>

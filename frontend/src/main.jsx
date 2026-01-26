@@ -4,13 +4,16 @@ import './index.css'
 import { BrowserRouter } from 'react-router-dom'
 import App from './App.jsx'
 import { SpeedInsights } from '@vercel/speed-insights/react'
+import { CartProvider } from "./context/CartContext.jsx";
 
 
 createRoot(document.getElementById('root')).render(
   <StrictMode>
     <BrowserRouter>
       
-     <App/>
+     <CartProvider>
+      <App/>
+     </CartProvider>
      <SpeedInsights />
     </BrowserRouter>
     

@@ -1,89 +1,101 @@
-import React from "react";
+import React, { useEffect, useMemo, useState } from "react";
 import { Link } from "react-router-dom";
-import { Award, ArrowRight, Star } from "lucide-react";
+import { ChevronLeft, ChevronRight } from "lucide-react";
+import homeData from "../config/homeData.json";
 
 const HeroSection = () => {
-  const isDark = false;
+  const slides = useMemo(() => homeData.heroSlides || [], []);
+  const [idx, setIdx] = useState(0);
+
+  useEffect(() => {
+    if (!slides.length) return;
+    const t = setInterval(() => setIdx((p) => (p + 1) % slides.length), 6000);
+    return () => clearInterval(t);
+  }, [slides.length]);
+
+  const active = slides[idx];
+  if (!active) return null;
+
+  const prev = () => setIdx((p) => (p - 1 + slides.length) % slides.length);
+  const next = () => setIdx((p) => (p + 1) % slides.length);
 
   return (
-    <section
-      id="home"
-      className="relative overflow-hidden bg-[url('https://raw.githubusercontent.com/prebuiltui/prebuiltui/main/assets/hero/gridBackground.png')] bg-no-repeat bg-cover bg-center text-sm pb-32"
-    >
-      {/* Hero Content */}
-      <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-20 grid md:grid-cols-1 gap-12 items-center font-[Poppins]">
-        {/* Left */}
-        <div className="space-y-6 text-center md:text-left">
-          {/* Trusted Badge */}
-          <div
-            className={`inline-flex items-center space-x-2 ${
-              isDark
-                ? "bg-blue-900/30"
-                : "bg-gradient-to-r from-blue-100 to-purple-100"
-            } rounded-full px-4 py-2 mx-auto md:mx-0`}
-          >
-            <Award className="w-5 h-5 text-blue-600" />
-            <span
-              className={`text-sm font-medium ${
-                isDark ? "text-blue-300" : "text-blue-900"
-              }`}
-            >
-              Trusted Product Recommendations
-            </span>
+    <section className="relative mt-2">
+      <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+        <div className="relative h-[380px] sm:h-[460px] rounded-3xl overflow-hidden shadow-sm bg-gray-100">
+          {/* Image */}
+          <img
+            src={active.image}
+            alt={active.title}
+            className="absolute inset-0 w-full h-full object-cover"
+            loading="eager"
+          />
+
+          {/* Overlays */}
+          <div className="absolute inset-0 bg-gradient-to-r from-black/55 via-black/15 to-transparent" />
+          <div className="absolute inset-0 bg-white/10" />
+
+          {/* Content */}
+          <div className="absolute inset-0 flex items-center">
+            <div className="px-6 sm:px-10 max-w-xl text-white font-[Poppins]">
+              <p className="text-xs sm:text-sm uppercase tracking-wider text-white/85">
+                {active.eyebrow}
+              </p>
+              <h1 className="mt-2 text-4xl sm:text-5xl font-bold leading-tight">
+                {active.title}
+              </h1>
+              <p className="mt-3 text-base sm:text-lg text-white/90">
+                {active.subtitle}
+              </p>
+
+              <div className="mt-6 flex items-center gap-3">
+                <Link
+                  to={active.ctaLink}
+                  className="inline-flex items-center justify-center bg-white text-gray-900 px-5 py-3 rounded-xl font-semibold hover:bg-gray-100 transition"
+                >
+                  {active.ctaText}
+                </Link>
+                <Link
+                  to="/products"
+                  className="inline-flex items-center justify-center bg-black/30 border border-white/30 px-5 py-3 rounded-xl font-semibold hover:bg-black/40 transition"
+                >
+                  View Products
+                </Link>
+              </div>
+            </div>
           </div>
 
-          {/* Heading */}
-          <h2
-            className={`text-5xl md:text-6xl font-bold leading-tight font-serif ${
-              isDark ? "text-white" : "text-gray-900"
-            }`}
+          {/* Controls */}
+          <button
+            type="button"
+            onClick={prev}
+            aria-label="Previous slide"
+            className="absolute left-4 top-1/2 -translate-y-1/2 w-10 h-10 rounded-full bg-white/85 hover:bg-white flex items-center justify-center shadow"
           >
-            Find the Best Amazon Products &
-            <span className="block bg-gradient-to-r from-green-500 via-blue-500 to-purple-500 bg-clip-text text-transparent">
-              Save Time & Shop Smarter
-            </span>
-          </h2>
-
-          {/* Subheading */}
-          <p
-            className={`text-lg leading-relaxed max-w-xl mx-auto md:mx-0 font-[Poppins] ${
-              isDark ? "text-gray-300" : "text-gray-600"
-            }`}
+            <ChevronLeft className="w-5 h-5 text-gray-900" />
+          </button>
+          <button
+            type="button"
+            onClick={next}
+            aria-label="Next slide"
+            className="absolute right-4 top-1/2 -translate-y-1/2 w-10 h-10 rounded-full bg-white/85 hover:bg-white flex items-center justify-center shadow"
           >
-            I curate top-rated products from Amazon so you don’t have to spend hours searching.  
-            Discover the best choices, compare features, and make informed shopping decisions.
-          </p>
+            <ChevronRight className="w-5 h-5 text-gray-900" />
+          </button>
 
-          {/* Call-to-action buttons */}
-          <div className="flex flex-wrap justify-center md:justify-start gap-4">
-            <Link
-              to="/products"
-              className="bg-green-500 hover:bg-blue-500 text-white px-8 py-4 rounded-full font-semibold transition transform hover:scale-105 flex items-center space-x-2"
-            >
-              <span>Explore Products</span>
-              <ArrowRight className="w-5 h-5" />
-            </Link>
-
-            <Link
-              to="/stories"
-              className="flex items-center gap-2 border border-green-400 hover:bg-green-100 rounded-full px-8 py-4 font-semibold text-green-600 transition"
-            >
-              <span>How I Choose</span>
-              <ArrowRight className="w-4 h-4" />
-            </Link>
-          </div>
-
-          {/* Ratings/Trust Section */}
-          <div className="flex justify-center md:justify-start items-center space-x-4 mt-6">
-            {[...Array(5)].map((_, i) => (
-              <Star
-                key={i}
-                className="w-5 h-5 fill-yellow-400 text-yellow-400"
+          {/* Dots */}
+          <div className="absolute bottom-4 left-1/2 -translate-x-1/2 flex gap-2">
+            {slides.map((s, i) => (
+              <button
+                key={s.id}
+                type="button"
+                onClick={() => setIdx(i)}
+                aria-label={`Go to slide ${i + 1}`}
+                className={`h-2.5 rounded-full transition-all ${
+                  i === idx ? "w-8 bg-white" : "w-2.5 bg-white/60 hover:bg-white/80"
+                }`}
               />
             ))}
-            <span className={`text-sm ${isDark ? "text-gray-400" : "text-gray-600"}`}>
-              5.0 Rating by Shoppers
-            </span>
           </div>
         </div>
       </div>

@@ -12,6 +12,7 @@ import Pricing from "./Pages/Pricing";
 import Favorites from "./Pages/Favorites";
 import ProductDetails from "./Pages/ProductDetails";
 import CategoryProducts from "./Pages/CategoryProducts";
+import Cart from "./Pages/Cart";
 import FAQ from "./Pages/FAQ";
 import PrivacyPolicy from "./Pages/PrivacyPolicy";
 import TermsOfService from "./Pages/TermsOfService";
@@ -30,6 +31,7 @@ return (
 <Route path="/products" element={<Products />} />
 <Route path="/pricing" element={<Pricing />} />
 <Route path="/favorites" element={<Favorites />} />
+<Route path="/cart" element={<Cart />} />
 <Route path="/stories" element={<Stories />} />
 <Route path="/contact" element={<ContactPage />} />
 <Route path="/faq" element={<FAQ />} />

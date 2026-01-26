@@ -3,11 +3,13 @@ import { useParams, useNavigate, Link } from "react-router-dom";
 import products from "../config/Product.json";
 import { ShoppingCart, Heart, Star, ArrowLeft } from "lucide-react";
 import useLocalFavorites from "../hooks/useLocalFavorites";
+import { useCart } from "../context/CartContext.jsx";
 
 const ProductDetails = () => {
   const { id } = useParams();
   const navigate = useNavigate();
   const { favorites, toggleFavorite } = useLocalFavorites("favorites");
+  const { addToCart } = useCart();
 
   const [product, setProduct] = useState(null);
   const [selectedColor, setSelectedColor] = useState(null);
@@ -34,6 +36,7 @@ const ProductDetails = () => {
   );
 
   const handleBuyNow = () => window.open(product.fullLink, "_blank");
+  const handleAddToCart = () => addToCart(product.id, 1);
   const handleToggleFavorite = (e) => {
     e.stopPropagation();
     toggleFavorite(product.id);
@@ -148,19 +151,28 @@ const ProductDetails = () => {
               <p className="text-gray-700 text-base leading-relaxed mb-8">{product.description}</p>
             </div>
 
-            {/* Buy Now */}
-            <button
-              onClick={handleBuyNow}
-              className="relative flex items-center justify-center gap-2 bg-gradient-to-r from-orange-500 via-red-500 to-pink-500 
-             text-white px-8 py-3 rounded-xl font-semibold shadow-lg transition-all duration-300 
-             hover:from-pink-500 hover:to-orange-500 hover:scale-105 hover:shadow-[0_0_25px_rgba(255,107,53,0.5)]
-             active:scale-95 overflow-hidden group"
-            >
-              <span className="absolute inset-0 bg-gradient-to-r from-transparent via-white/20 to-transparent 
-                   translate-x-[-200%] group-hover:translate-x-[200%] transition-transform duration-700 ease-in-out"></span>
-              <ShoppingCart className="w-5 h-5 transition-transform duration-300 group-hover:translate-x-1" />
-              <span className="relative z-10 tracking-wide">Buy Now</span>
-            </button>
+            {/* Actions */}
+            <div className="grid grid-cols-1 sm:grid-cols-2 gap-3">
+              <button
+                onClick={handleAddToCart}
+                className="flex items-center justify-center gap-2 bg-gradient-to-r from-blue-600 to-purple-600 text-white px-8 py-3 rounded-xl font-semibold shadow-lg transition-all duration-300 hover:scale-105 active:scale-95"
+              >
+                <ShoppingCart className="w-5 h-5" />
+                Add to Cart
+              </button>
+
+              <button
+                onClick={handleBuyNow}
+                className="relative flex items-center justify-center gap-2 bg-gradient-to-r from-orange-500 via-red-500 to-pink-500 
+               text-white px-8 py-3 rounded-xl font-semibold shadow-lg transition-all duration-300 
+               hover:from-pink-500 hover:to-orange-500 hover:scale-105 hover:shadow-[0_0_25px_rgba(255,107,53,0.5)]
+               active:scale-95 overflow-hidden group"
+              >
+                <span className="absolute inset-0 bg-gradient-to-r from-transparent via-white/20 to-transparent 
+                     translate-x-[-200%] group-hover:translate-x-[200%] transition-transform duration-700 ease-in-out"></span>
+                <span className="relative z-10 tracking-wide">Buy Now</span>
+              </button>
+            </div>
           </div>
         </div>
 

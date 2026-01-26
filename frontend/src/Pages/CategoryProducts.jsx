@@ -2,11 +2,15 @@ import React from "react";
 import { useParams, useNavigate, Link } from "react-router-dom";
 import products from "../config/Product.json";
 import ProductCard from "../components/ProductCard";
+import useLocalFavorites from "../hooks/useLocalFavorites";
+import { useCart } from "../context/CartContext.jsx";
 
 // https://rjnshops-a9bf3-default-rtdb.firebaseio.com/
 const CategoryProducts = () => {
   const { category } = useParams();
   const navigate = useNavigate();
+  const { favorites, toggleFavorite } = useLocalFavorites("favorites");
+  const { addToCart } = useCart();
 
   // Filter products by category
   const filteredProducts = products.filter(
@@ -35,15 +39,13 @@ const CategoryProducts = () => {
         {filteredProducts.length > 0 ? (
           <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-8">
             {filteredProducts.map((product) => (
-              <div
-                key={product.id}
-                onClick={() => handleProductClick(product.id)}
-                className="cursor-pointer transition-transform hover:scale-105"
-              >
+              <div key={product.id} className="transition-transform hover:scale-105">
                 <ProductCard
                   product={product}
-                  favorites={new Set()}
-                  toggleFavorite={() => {}}
+                  favorites={favorites}
+                  toggleFavorite={toggleFavorite}
+                  onClick={() => handleProductClick(product.id)}
+                  onAddToCart={() => addToCart(product.id, 1)}
                 />
               </div>
             ))}

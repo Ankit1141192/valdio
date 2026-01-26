@@ -1,8 +1,8 @@
 import React from "react";
 import { Heart, Star, ShoppingCart } from "lucide-react";
 
-const ProductCard = ({ product, favorites, toggleFavorite, onClick }) => {
-  const isFavorited = favorites.has(product.id);
+const ProductCard = ({ product, favorites, toggleFavorite, onClick, onAddToCart }) => {
+  const isFavorited = favorites?.has?.(product.id) || false;
 
   const originalPrice = product.price;
   const discountedPrice = product.discountPrice || product.price;
@@ -86,8 +86,12 @@ const ProductCard = ({ product, favorites, toggleFavorite, onClick }) => {
           </div>
 
           <button
-            onClick={(e) => e.stopPropagation()}
+            onClick={(e) => {
+              e.stopPropagation();
+              onAddToCart?.(product);
+            }}
             className="bg-gradient-to-r from-blue-600 to-purple-600 text-white p-3 rounded-full hover:shadow-lg hover:scale-110 transition-all"
+            aria-label="Add to cart"
           >
             <ShoppingCart className="w-5 h-5" />
           </button>

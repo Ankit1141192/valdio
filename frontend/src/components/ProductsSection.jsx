@@ -5,6 +5,7 @@ import ProductCard from "./ProductCard";
 import products from "../config/Product.json";
 
 import useLocalFavorites from "../hooks/useLocalFavorites";
+import { useCart } from "../context/CartContext.jsx";
 
 
 // .env we are use  OUR_PRODUCT_API = "https://rjn-shops.onrender.com/api/products"
@@ -13,6 +14,7 @@ import useLocalFavorites from "../hooks/useLocalFavorites";
 const ProductsSection = () => {
   const navigate = useNavigate();
   const { favorites, toggleFavorite } = useLocalFavorites("favorites");
+  const { addToCart } = useCart();
 
   // Show only first 6 products
   const topProducts = products.slice(0, 6);
@@ -65,6 +67,7 @@ const ProductsSection = () => {
                 favorites={favorites}
                 toggleFavorite={toggleFavorite}
                 onClick={() => handleNavigate(product.id)}
+                onAddToCart={() => addToCart(product.id, 1)}
               />
             </div>
           ))}
