@@ -4054,6 +4054,104 @@
       "mrp": 1597
     }
   ]
+},
+
+{
+  "id": "lucky-jewellery-dulhan-bridal-set-8pcs",
+  "name": "Lucky Jewellery Designer Gold Plated Dulhan Bridal Jewelry Set 8 Pcs. for Girls & Women",
+  "category": "jewellery",
+  "price": 2398,
+  "discountPrice": 23502,
+  "discountRate": 90,
+  "rating": 3.6,
+  "reviews": 117,
+  "ratingText": "3.6 out of 5 stars",
+  "reviewText": "Based on 117 customer ratings on Amazon",
+  "shortLink": "https://amzn.to/3M72Wfl",
+  "fullLink": "https://www.amazon.in/dp/B08WLPVQHJ?social_share=cm_sw_r_ud_dp_W0D2Z6M4F69DYPHMPTAR&th=1&linkCode=ll1&tag=valdio-21&linkId=156a0dd96c4af4a40f686809dda9bc15&language=en_IN&ref_=as_li_ss_tl",
+
+  "image": "https://m.media-amazon.com/images/I/819WgkQKBrL._SY625_.jpg",
+
+  "description": "Elegant gold plated Dulhan bridal jewellery set from Lucky Jewellery, designed for weddings, engagements, and festive occasions. Lightweight, stylish, and perfect for gifting.",
+
+  "features": [
+    "8 pieces complete bridal jewellery set",
+    "Gold plated premium finish",
+    "Studded with Cubic Zirconia stones",
+    "Lightweight and comfortable to wear",
+    "Suitable for weddings, engagements & parties",
+    "Durable with long-lasting shine"
+  ],
+
+  "colors": [
+    {
+      "name": "Green",
+      "image": "https://m.media-amazon.com/images/I/819WgkQKBrL._SY625_.jpg"
+    },
+    {
+      "name": "Red",
+      "image": "https://m.media-amazon.com/images/I/819eUiEtMYL._SY625_.jpg"
+    },
+    {
+      "name": "Gold",
+      "image": "https://m.media-amazon.com/images/I/81jy4eLTlIL._SY625_.jpg"
+    }
+  ],
+
+  "sizes": ["Free Size"],
+
+  "variants": [
+    {
+      "color": "Green",
+      "price": 2398,
+      "mrp": 23502,
+      "discountRate": 90,
+      "image": "https://m.media-amazon.com/images/I/81g9Y2Y2yDL._SY625_.jpg"
+    },
+    {
+      "color": "Gold",
+      "price": 2590,
+      "mrp": 23502,
+      "discountRate": 89,
+      "image": "https://m.media-amazon.com/images/I/81g9Y2Y2yDL._SY625_.jpg"
+    },
+    {
+      "color": "Maroon & Green",
+      "price": 2244,
+      "mrp": 23502,
+      "discountRate": 90,
+      "image": "https://m.media-amazon.com/images/I/81g9Y2Y2yDL._SY625_.jpg"
+    }
+  ],
+
+  "productDetails": {
+    "brand": "Lucky Jewellery",
+    "materialType": "Gold Plated",
+    "metalType": "Gold Plated",
+    "gemType": "Cubic Zirconia",
+    "chainType": "Bead",
+    "claspType": "Lobster Clasp",
+    "occasion": ["Wedding", "Engagement", "Birthday", "Party"],
+    "itemWeight": "950 g",
+    "netQuantity": "1 Set (8 Pieces)",
+    "includedComponents": ["Necklace", "Earrings"],
+    "countryOfOrigin": "India"
+  },
+
+  "deliveryInfo": {
+    "delivery": "Amazon Delivered",
+    "returnPolicy": "10 Days Returnable",
+    "cashOnDelivery": true,
+    "secureTransaction": true,
+    "freeDelivery": true,
+    "badge": "Top Brand"
+  },
+
+  "offers": {
+    "bankOffer": "Up to ₹1,500 discount on select Credit & Debit Cards",
+    "cashback": "Up to ₹71 Amazon Pay Cashback on ICICI Credit Cards",
+    "partnerOffer": "Get GST invoice and save up to 18% on business purchases"
+  }
 }
 
 
@@ -4062,3 +4160,4 @@
 
 
 ]
+
