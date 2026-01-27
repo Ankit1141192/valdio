@@ -4271,11 +4271,87 @@
     "cashback": "Up to ₹149 Amazon Pay Cashback on ICICI Credit Cards",
     "partnerOffer": "Buy 3 or more and get 7% off on qualifying items"
   }
+},
+
+{
+  "id": "zest-4-toyz-kids-express-train-remote-control",
+  "name": "Zest 4 Toyz Kids Express Train Toy with Remote Control, Lights and Sounds, Rechargeable EMU Train Model Toy for Kids Boys Girls (White)",
+  "category": "toys",
+  "price": 804,
+  "discountPrice": 1990,
+  "discountRate": 60,
+  "rating": 3.8,
+  "reviews": 217,
+  "ratingText": "3.8 out of 5 stars",
+  "reviewText": "Based on 217 customer ratings on Amazon",
+  "shortLink": "https://amzn.to/4t0rCXz",
+  "fullLink": "https://www.amazon.in/Zest-Toyz-Express-Control-Rechargeable/dp/B0CZZYQV74?crid=2YCG5DOVKO7FP&dib=eyJ2IjoiMSJ9.EaFRHHRqIMH6VyHTO6vhC04OYFbc8Q3wAXFiW0MUyLgorpc33MYnIn7SYirSRkOrCLyy1qIswyZLzS9crUZpDxHBSfjGYRP4-w_ZJBiKTu8Ccd1ahmRauGkwYyRBhmhm10uKX56JWk7d26x5wZTLgF0k9fOu3jw8tVnF38Ivq1w4Iidc0S0Rh604NceiuwDZSHITXptBJuGMP7D81c4AoaFztUOwfCSOohdAD1iai_IIRpoUckrqpFw_w5TySfqcwhMOFMIs7WhrdEQMPHg8vmSAiccdRfLptzKeH_pa4tI.dI7dTowU8EK-oSG8yyk2LWnkIq0-jIDUlOcLsiyZRNQ&dib_tag=se&keywords=toy+train&qid=1769269240&sprefix=toy+trai%2Caps%2C392&sr=8-10&linkCode=ll1&tag=valdio-21&linkId=9c359afe5ad0628245c557f8b5d393c3&language=en_IN&ref_=as_li_ss_tl",
+  "image": "https://m.media-amazon.com/images/I/713a9UgelJL._SX569_.jpg",
+
+  "description": "Fun and engaging Zest 4 Toyz Kids Express Train toy with remote control, realistic lights and sound effects. Designed to spark imagination and provide hours of safe, interactive play for kids.",
+
+  "features": [
+    "Remote control train with forward, backward, left & right movement",
+    "Bright lights and realistic sound effects",
+    "Rechargeable train unit with USB charging cable",
+    "Child-safe design with rounded edges",
+    "Sturdy build for long-lasting play",
+    "Ideal gift for kids on birthdays and special occasions"
+  ],
+
+  "colors": [
+    {
+      "name": "White",
+      "image": "https://m.media-amazon.com/images/I/713a9UgelJL._SX569_.jpg"
+    }
+  ],
+
+  "sizes": ["Standard"],
+
+  "variants": [
+    {
+      "color": "White",
+      "price": 804,
+      "mrp": 1990,
+      "discountRate": 60,
+      "image": "https://m.media-amazon.com/images/I/713a9UgelJL._SX569_.jpg"
+    }
+  ],
+
+  "productDetails": {
+    "brand": "Zest 4 Toyz",
+    "materialType": "Plastic",
+    "powerSource": "Rechargeable Battery",
+    "controllerBattery": "2 x AA Batteries (Not Included)",
+    "specialFeatures": [
+      "Remote Controlled",
+      "Lights and Sounds",
+      "Rechargeable"
+    ],
+    "recommendedAge": "3+ Years",
+    "includedComponents": [
+      "Train",
+      "Remote Controller",
+      "USB Charging Cable"
+    ],
+    "countryOfOrigin": "India"
+  },
+
+  "deliveryInfo": {
+    "delivery": "Amazon Delivered",
+    "returnPolicy": "10 Days Replacement",
+    "cashOnDelivery": true,
+    "secureTransaction": true,
+    "freeDelivery": true,
+    "badge": "Top Brand"
+  },
+
+  "offers": {
+    "bankOffer": "Up to ₹1,000 discount on select Credit & Debit Cards",
+    "cashback": "Up to ₹40 Amazon Pay Cashback on ICICI Credit Cards",
+    "partnerOffer": "3% off on 2 items, 5% off on 3 items, 7% off on 5 items"
+  }
 }
-
-
-
-
 
 
 ]
