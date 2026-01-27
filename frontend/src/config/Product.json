@@ -4351,7 +4351,92 @@
     "cashback": "Up to ₹40 Amazon Pay Cashback on ICICI Credit Cards",
     "partnerOffer": "3% off on 2 items, 5% off on 3 items, 7% off on 5 items"
   }
+},
+
+{
+  "id": "tya-makeup-eyeshadow-brush-blender-combo",
+  "name": "T.Y.A Makeup Eyeshadow Kit + 5 Pcs Makeup Brush + 2 Pc Blender Puff Combo - Multicolor",
+  "category": "beauty & makeup",
+  "price": 261,
+  "discountPrice": 789,
+  "discountRate": 67,
+  "rating": 3.8,
+  "reviews": 14409,
+  "ratingText": "3.8 out of 5 stars",
+  "reviewText": "Based on 14,409 customer ratings on Amazon",
+  "shortLink": "https://amzn.to/46ezvP8",
+  "fullLink": "https://www.amazon.in/dp/B07Y5CQF52?social_share=cm_sw_r_ud_dp_7R185EFN5H6DASPVM3ND&linkCode=ll1&tag=valdio-21&linkId=eefcab56b99abdcdcb06e47011647468&language=en_IN&ref_=as_li_ss_tl",
+  "image": "https://m.media-amazon.com/images/I/411McCP6RwL.jpg",
+
+  
+  "description": "Complete T.Y.A makeup combo kit featuring eyeshadows, blush, face powders, lip colors, makeup brushes and blender puffs. Perfect for daily use, beginners and gifting.",
+
+  "features": [
+    "24 shades eyeshadow palette",
+    "3 shades blush and 2 face powders",
+    "4 lip colors included",
+    "5 pcs multicolor makeup brushes",
+    "2 sponge blender puffs",
+    "Suitable for all skin types and tones"
+  ],
+
+  "colors": [
+    {
+      "name": "Multicolor",
+      "image": "https://m.media-amazon.com/images/I/411McCP6RwL.jpg"
+    }
+  ],
+
+  "sizes": ["Standard"],
+
+  "variants": [
+    {
+      "color": "Multicolor",
+      "price": 261,
+      "mrp": 789,
+      "discountRate": 67,
+      "image": "https://m.media-amazon.com/images/I/51gOZYw4vgL._SY450_.jpg"
+    }
+  ],
+
+  "productDetails": {
+    "brand": "T.Y.A",
+    "itemForm": "Liquid",
+    "productBenefits": "Makeup Kit Combo",
+    "skinTone": "All",
+    "skinType": "All",
+    "packageInformation": "Palette",
+    "itemDimensions": "23 x 11 x 7 cm",
+    "itemWeight": "300 g",
+    "netQuantity": "1 Count",
+    "useBy": "08 Oct 2026",
+    "includedComponents": [
+      "Eyeshadow Palette",
+      "Blush",
+      "Face Powders",
+      "Lip Colors",
+      "5 Makeup Brushes",
+      "2 Blender Puffs"
+    ],
+    "countryOfOrigin": "India"
+  },
+
+  "deliveryInfo": {
+    "delivery": "Amazon Delivered",
+    "returnPolicy": "Non-Returnable",
+    "cashOnDelivery": true,
+    "secureTransaction": true,
+    "freeDelivery": true,
+    "badge": "Top Brand"
+  },
+
+  "offers": {
+    "bankOffer": "Up to ₹750 discount on select Credit & Debit Cards",
+    "cashback": "Up to ₹13 Amazon Pay Cashback on ICICI Credit Cards",
+    "partnerOffer": "Buy 2 or more and get 3% off on qualifying items"
+  }
 }
+
 
 
 ]
