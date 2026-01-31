@@ -4435,7 +4435,116 @@
     "cashback": "Up to ₹13 Amazon Pay Cashback on ICICI Credit Cards",
     "partnerOffer": "Buy 2 or more and get 3% off on qualifying items"
   }
+},
+
+{
+  "id": "homesake-retro-metal-table-lamp-pleated-shade",
+  "name": "Homesake® Retro Down to The Wire Metal Table Lamp with Fabric Shade, Bedside Lamp for Home & Living Room (Off-White)",
+  "category": "home & decor",
+  "price": 396,
+  "discountPrice": 1600,
+  "discountRate": 75,
+  "rating": 4.1,
+  "reviews": 681,
+  "ratingText": "4.1 out of 5 stars",
+  "reviewText": "Based on 681 customer ratings on Amazon",
+  "shortLink": "https://amzn.to/4qUTomS",
+  "fullLink": "https://www.amazon.in/dp/B0DQP38PJD?social_share=cm_sw_r_cso_wa_apan_dp_7CM6RE6GX36GZS1EB61Q&badgeInsights=bestseller&th=1&linkCode=ll1&tag=valdio-21&linkId=3d10207f10f5fb9f7b72a034324f377b&language=en_IN&ref_=as_li_ss_tl",
+
+  "image": "https://m.media-amazon.com/images/I/61xO0lWxdOL._SX425_.jpg",
+
+
+  "description": "Elegant Homesake retro-style metal table lamp featuring a pleated fabric shade and sturdy metal base. Ideal for bedside tables, living rooms, study areas, and decorative lighting.",
+
+  "features": [
+    "Retro modern design with pleated fabric shade",
+    "Durable polished metal base",
+    "Compact and lightweight for easy placement",
+    "Easy to assemble with secure lamp shade fitting",
+    "Compatible with standard E27 bulb",
+    "Perfect for bedroom, living room, study, and cafes"
+  ],
+
+  "colors": [
+    {
+      "name": "Off-White",
+      "image": "https://m.media-amazon.com/images/I/61xO0lWxdOL._SX425_.jpg"
+    },
+    {
+      "name": "Beige",
+      "image": "https://m.media-amazon.com/images/I/816zMHT-J-L._SX425_.jpg"
+    },
+    {
+      "name": "White",
+      "image": "https://m.media-amazon.com/images/I/71phqit7mXL._SL1500_.jpg"
+    }
+  ],
+
+  "sizes": ["Standard"],
+
+  "variants": [
+    {
+      "color": "Off-White",
+      "price": 396,
+      "mrp": 1600,
+      "discountRate": 75,
+      "image": "https://m.media-amazon.com/images/I/61xO0lWxdOL._SX425_.jpg"
+    },
+    {
+      "color": "Beige",
+      "price": 398,
+      "mrp": 1600,
+      "discountRate": 75,
+      "image": "https://m.media-amazon.com/images/I/816zMHT-J-L._SX425_.jpg"
+    },
+    {
+      "color": "White",
+      "price": 398,
+      "mrp": 1600,
+      "discountRate": 75,
+      "image": "https://m.media-amazon.com/images/I/71phqit7mXL._SL1500_.jpg"
+    }
+  ],
+
+  "productDetails": {
+    "brand": "Homesake",
+    "lampType": "Table Lamp",
+    "style": "Modern",
+    "finishType": "Polished",
+    "baseMaterial": "Metal",
+    "shadeMaterial": "Fabric",
+    "shadeColor": "Off-White",
+    "bulbBase": "E27",
+    "switchType": "2 Pin Plug",
+    "dimensions": "24 x 24 x 34.7 cm",
+    "itemWeight": "312 g",
+    "recommendedUse": [
+      "Bedroom",
+      "Living Room",
+      "Study Room",
+      "Dining Room",
+      "Office",
+      "Cafe"
+    ],
+    "countryOfOrigin": "India"
+  },
+
+  "deliveryInfo": {
+    "delivery": "Amazon Delivered",
+    "returnPolicy": "10 Days Returnable",
+    "cashOnDelivery": true,
+    "secureTransaction": true,
+    "freeDelivery": true,
+    "badge": "#1 Best Seller"
+  },
+
+  "offers": {
+    "bankOffer": "Up to ₹1,500 discount on select Credit & Debit Cards",
+    "cashback": "Up to ₹19 Amazon Pay Cashback on ICICI Credit Cards",
+    "partnerOffer": "Buy 2 get 5% off, Buy 3 get 7% off on select categories"
+  }
 }
+
 
 
 
