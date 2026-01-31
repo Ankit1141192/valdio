@@ -4543,7 +4543,140 @@
     "cashback": "Up to ₹19 Amazon Pay Cashback on ICICI Credit Cards",
     "partnerOffer": "Buy 2 get 5% off, Buy 3 get 7% off on select categories"
   }
+},
+
+{
+  "id": "lukzer-3-layer-engineered-wood-bookshelf-mr010",
+  "name": "Lukzer 3 Layer Engineered Wood Multipurpose Rack Bookshelf Storage Organizer Stand (MR-010)",
+  "category": "home & furniture",
+  "price": 1295,
+  "discountPrice": 3499,
+  "discountRate": 63,
+  "rating": 4.1,
+  "reviews": 1762,
+  "ratingText": "4.1 out of 5 stars",
+  "reviewText": "Based on 1,762 customer ratings on Amazon",
+  "shortLink": "https://amzn.to/4r1u0fd",
+  "fullLink": "https://www.amazon.in/dp/B0CXLR5HKB?social_share=cm_sw_r_cso_wa_apan_dp_JSESGJKRX461M7DAPF9A&badgeInsights=bestseller-insights&th=1&linkCode=ll1&tag=valdio-21&linkId=53fea36685e8ec121ba94f35c862513a&language=en_IN&ref_=as_li_ss_tl",
+
+  "image": "https://m.media-amazon.com/images/I/81p6raoi-hL._SX679_.jpg",
+
+  "description": "Lukzer multipurpose 3 layer engineered wood bookshelf designed for storage and display. Ideal for organizing books, plants, decor, and office essentials in a compact vertical space.",
+
+  "features": [
+    "3 open shelves for organized storage",
+    "Engineered wood construction",
+    "Space-saving vertical design",
+    "Modern rectangular style",
+    "Suitable for bedroom, living room, office, and nursery",
+    "DIY assembly with included hardware and guide"
+  ],
+
+  "colors": [
+    {
+      "name": "Oak Brown",
+      "image": "https://m.media-amazon.com/images/I/81p6raoi-hL._SX679_.jpg"
+    },
+    {
+      "name": "Black",
+      "image": "https://m.media-amazon.com/images/I/71UQ957KfqL._SX679_.jpg"
+    },
+    {
+      "name": "Light Oak",
+      "image": "https://m.media-amazon.com/images/I/81JfBhInKCL._SX679_.jpg"
+    },
+    {
+      "name": "Wenge",
+      "image": "https://m.media-amazon.com/images/I/813+UPB7i+L._SX679_.jpg"
+    },
+    {
+      "name": "White",
+      "image": "https://m.media-amazon.com/images/I/81eNElIdtIL._SX679_.jpg"
+    }
+  ],
+
+  "sizes": ["3 Layer"],
+
+  "variants": [
+    {
+      "color": "Oak Brown",
+      "price": 1295,
+      "mrp": 3499,
+      "discountRate": 63,
+      "image": "https://m.media-amazon.com/images/I/81p6raoi-hL._SX679_.jpg"
+    },
+    {
+      "color": "Black",
+      "price": 1295,
+      "mrp": 3499,
+      "discountRate": 63,
+      "image": "https://m.media-amazon.com/images/I/71UQ957KfqL._SX679_.jpg"
+    },
+    {
+      "color": "Light Oak",
+      "price": 1295,
+      "mrp": 3499,
+      "discountRate": 63,
+      "image": "https://m.media-amazon.com/images/I/81JfBhInKCL._SX679_.jpg"
+    },
+    {
+      "color": "Wenge",
+      "price": 1295,
+      "mrp": 3499,
+      "discountRate": 63,
+      "image": "https://m.media-amazon.com/images/I/813+UPB7i+L._SX679_.jpg"
+    },
+    {
+      "color": "White",
+      "price": 1295,
+      "mrp": 3499,
+      "discountRate": 63,
+      "image": "https://m.media-amazon.com/images/I/81eNElIdtIL._SX679_.jpg"
+    }
+  ],
+
+  "productDetails": {
+    "brand": "Lukzer",
+    "material": "Engineered Wood",
+    "mountingType": "Floor Mount",
+    "shelfType": "Display Shelf",
+    "numberOfShelves": 3,
+    "specialFeatures": [
+      "Adjustable",
+      "Heavy Duty",
+      "Space Saving"
+    ],
+    "roomType": [
+      "Bedroom",
+      "Dining Room",
+      "Living Room",
+      "Nursery",
+      "Office"
+    ],
+    "shape": "Rectangular",
+    "style": "Modern",
+    "finishType": "Wood",
+    "dimensions": "22 x 33 x 80 cm",
+    "assemblyRequired": true,
+    "countryOfOrigin": "India"
+  },
+
+  "deliveryInfo": {
+    "delivery": "Amazon Delivered",
+    "returnPolicy": "10 Days Replacement",
+    "cashOnDelivery": true,
+    "secureTransaction": true,
+    "freeDelivery": true,
+    "badge": "#1 Best Seller"
+  },
+
+  "offers": {
+    "bankOffer": "Up to ₹1,500 discount on select Credit & Debit Cards",
+    "cashback": "Up to ₹64 Amazon Pay Cashback on ICICI Credit Cards",
+    "partnerOffer": "Get GST invoice and save up to 18% on business purchases"
+  }
 }
+
 
 
 
