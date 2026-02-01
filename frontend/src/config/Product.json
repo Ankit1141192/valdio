@@ -700,20 +700,6 @@
     "discountRate": 34,
     "rating": 4.4,
     "reviews": 42797,
-    "ratingText": "4.4 out of 5 stars",
-    "reviewText": "Based on 42,797 customer ratings on Amazon",
-    "shortLink": "https://amzn.to/49ZCZr2",
-    "fullLink": "https://www.amazon.in/dp/B07XM5SHHH?social_share=cm_sw_r_ud_dp_YDC4S1QNAMJJA49JAN4A&th=1&linkCode=ll1&tag=valdio-21&linkId=f0ff1e01d28d54755fe5d94fe7104895&language=en_IN&ref_=as_li_ss_tl",
-    "image": "https://m.media-amazon.com/images/I/718yOSbi0QL._SL1500_.jpg",
-    "description": "Himalaya Extra Moisturizing Baby Wash is a gentle, soap-free cleanser specially formulated to cleanse and moisturize your baby’s delicate skin. Enriched with natural ingredients like Olive Oil, Aloe Vera, Milk, Almond Oil, and Indian Lotus, this no-tears baby wash helps keep skin soft, nourished, and healthy after every bath.",
-    "features": [
-      "No-tears gentle cleansing formula",
-      "Deeply moisturizes baby’s delicate skin",
-      "Soap-free and dermatologically tested",
-      "Suitable for daily use",
-      "Ideal for all skin types",
-      "Made with natural and herbal ingredients"
-    ],
     "keyIngredients": [
       "Olive Oil – Nourishes, protects, and softens skin",
       "Indian Aloe – Soothes and conditions the skin",
@@ -1019,7 +1005,21 @@
     ],
     "deliveryInfo": {
       "delivery": "Free Delivery",
-      "fulfilledBy": "Amazon Delivered",
+  
+    "ratingText": "4.4 out of 5 stars",
+    "reviewText": "Based on 42,797 customer ratings on Amazon",
+    "shortLink": "https://amzn.to/49ZCZr2",
+    "fullLink": "https://www.amazon.in/dp/B07XM5SHHH?social_share=cm_sw_r_ud_dp_YDC4S1QNAMJJA49JAN4A&th=1&linkCode=ll1&tag=valdio-21&linkId=f0ff1e01d28d54755fe5d94fe7104895&language=en_IN&ref_=as_li_ss_tl",
+    "image": "https://m.media-amazon.com/images/I/718yOSbi0QL._SL1500_.jpg",
+    "description": "Himalaya Extra Moisturizing Baby Wash is a gentle, soap-free cleanser specially formulated to cleanse and moisturize your baby’s delicate skin. Enriched with natural ingredients like Olive Oil, Aloe Vera, Milk, Almond Oil, and Indian Lotus, this no-tears baby wash helps keep skin soft, nourished, and healthy after every bath.",
+    "features": [
+      "No-tears gentle cleansing formula",
+      "Deeply moisturizes baby’s delicate skin",
+      "Soap-free and dermatologically tested",
+      "Suitable for daily use",
+      "Ideal for all skin types",
+      "Made with natural and herbal ingredients"
+    ],    "fulfilledBy": "Amazon Delivered",
       "cashOnDelivery": true,
       "returnPolicy": "10 Days Replacement",
       "secureTransaction": true,
