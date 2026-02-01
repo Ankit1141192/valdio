@@ -32,7 +32,7 @@ const Navbar = () => {
   }, []);
 
   // ✅ Correct Order: Home → Products → Pricing → Favorites → Stories
-  const navItems = ["Home", "Products", "Pricing", "Stories"];
+  const navItems = ["Home", "Products","Favorites"];
   const getLink = (item) =>
     item === "Home" ? "/" : `/${item.toLowerCase()}`;
 

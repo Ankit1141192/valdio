@@ -4675,7 +4675,97 @@
     "cashback": "Up to ₹64 Amazon Pay Cashback on ICICI Credit Cards",
     "partnerOffer": "Get GST invoice and save up to 18% on business purchases"
   }
+},
+{
+  "id": "novobit-80w-supervooc-fast-charger-type-c-combo",
+  "name": "Novobit 80W SUPERVOOC Fast Charger with Type-C Cable | Ultra-Fast Charging",
+  "category": "Electronics & Accessories",
+  "price": 749,
+  "discountPrice": 2499,
+  "discountRate": 70,
+  "rating": 4.4,
+  "reviews": 13154,
+  "ratingText": "4.4 out of 5 stars",
+  "reviewText": "Based on 13,154 customer ratings on Amazon",
+  "shortLink": "https://amzn.to/4qTC55N",
+  "fullLink": "https://www.amazon.in/dp/B0GCD41ZFJ?social_share=cm_sw_r_cso_wa_apan_dp_B6Q4EM31ABA5S7MGKMXC&badgeInsights=insights&th=1&linkCode=ll1&tag=valdio-21&linkId=d11a9927882d89e0bb102e23ec111142&language=en_IN&ref_=as_li_ss_tl",
+  "image": "https://m.media-amazon.com/images/I/515Kjvcx21L._SL1024_.jpg",
+  "description": "Novobit 80W SUPERVOOC Fast Charger delivers ultra-fast charging for compatible OnePlus and OPPO smartphones. Supports multiple fast-charging protocols and includes a durable Type-C cable for efficient and safe charging.",
+  "features": [
+    "Up to 80W SUPERVOOC ultra-fast charging",
+    "22.5W fast charging for non-VOOC devices",
+    "Supports VOOC, SUPERVOOC, Warp, Dash, Dart, SuperDart",
+    "QC 3.0, AFC, FCP & SCP support",
+    "Smart IC with auto power detection",
+    "Overheat, over-current & short-circuit protection",
+    "Wide compatibility with Android devices",
+    "Durable Type-C cable included"
+  ],
+  "colors": [
+    {
+      "name": "Red",
+      "image": "https://m.media-amazon.com/images/I/515Kjvcx21L._SL1024_.jpg"
+    }
+  ],
+  "sizes": [
+    "80W"
+  ],
+  "variants": [
+    {
+      "model": "80W SuperVOOC Combo",
+      "price": 749,
+      "mrp": 2499,
+      "discountRate": 70
+    },
+    {
+      "model": "25W Adapter (2026, White)",
+      "price": 668,
+      "mrp": 699,
+      "discountRate": 4
+    },
+    {
+      "model": "20W Type-C Combo",
+      "price": 615,
+      "mrp": 1999,
+      "discountRate": 69
+    }
+  ],
+  "productDetails": {
+    "brand": "Novobit",
+    "connectorType": "USB Type-A",
+    "outputPower": "80W",
+    "inputVoltage": "220V AC",
+    "amperage": "6.5A",
+    "specialFeatures": [
+      "Ultra Fast Charging",
+      "Smart Output Detection",
+      "Multi-Protection Safety System"
+    ],
+    "compatibleDevices": "OnePlus, OPPO, Samsung, Xiaomi, Redmi, POCO, iQOO, Vivo, Motorola, Nothing, Google Pixel",
+    "includedComponents": [
+      "80W USB-A Charger Adapter",
+      "1 Meter Type-C Cable"
+    ],
+    "warranty": "1 Year Manufacturer Warranty",
+    "countryOfOrigin": "India"
+  },
+  "deliveryInfo": {
+    "delivery": "Amazon Delivered",
+    "returnPolicy": "10 days Replacement",
+    "cashOnDelivery": true,
+    "secureTransaction": true,
+    "freeDelivery": true,
+    "badge": "Top Rated"
+  },
+  "offers": {
+    "emi": "Not Available",
+    "bankOffer": "Up to ₹1,500 discount on select Credit Cards",
+    "cashback": "Up to ₹22 Amazon Pay Cashback on ICICI Bank Cards",
+    "partnerOffer": "Get GST invoice and save up to 18%",
+    "upiOffer": "Earn ₹70 on UPI payment above ₹499"
+  }
 }
+
 
 
 
