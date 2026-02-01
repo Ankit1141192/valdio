@@ -205,13 +205,7 @@ const Navbar = () => {
             </Link>
 
             {/* Pricing */}
-            <Link
-              to="/pricing"
-              onClick={() => setMenuOpen(false)}
-              className="text-lg font-medium text-gray-900 hover:text-gray-700 transition"
-            >
-              Pricing
-            </Link>
+          
 
             {/* ❤️ Favorites */}
             <Link
@@ -235,13 +229,7 @@ const Navbar = () => {
             </button>
 
             {/* Stories */}
-            <Link
-              to="/stories"
-              onClick={() => setMenuOpen(false)}
-              className="text-lg font-medium text-gray-900 hover:text-gray-700 transition"
-            >
-              Stories
-            </Link>
+            
 
             {/* Contact Button */}
             {/* <Link
