@@ -4777,7 +4777,104 @@
     "emi": "No Cost EMI available on select cards for orders above ₹3000",
     "businessOffer": "Save up to 4% with Amazon Business account"
   }
+},
+
+{
+  "id": "muscleblaze-micronised-creatine-creamp-100g",
+  "name": "MuscleBlaze Micronised Creatine Monohydrate CreAMP Powder, Unflavoured (32 Servings, 100g)",
+  "category": "health & nutrition",
+  "price": 509,
+  "discountPrice": 649,
+  "discountRate": 22,
+  "rating": 4.2,
+  "reviews": 35442,
+  "ratingText": "4.2 out of 5 stars",
+  "reviewText": "Based on 35,442 customer ratings on Amazon",
+  "shortLink": "https://amzn.to/4kinNsY",
+  "fullLink": "https://www.amazon.in/MuscleBlaze-Creatine-Monohydrate-Powder-100/dp/B00LLZ82O4?crid=2PFSIKH2I29FN&dib=eyJ2IjoiMSJ9.Y44luTaKcCflylSYsz4vWgkgkK2dWjmTHoLmfk7VVDdQk1cJQ4C045YxfQLKDgKk7iikunaakIOsbIzmtOPXlrB1tU2o7DDGFRb6N6zpzSVh-mbiOsQ-R7b5BkK3Xh6YbhGbqFSGOehDHi1Fs94NZETsbFM_c6umWZVETgnYzqdc2PA9dlajx5jT7WWLP4vMVTnHncToJ8c3LXfep4Q945Nw-ery00Kn1EYDn1ewaUipY6JmUutnmUIMEjx3d2779epdlPtXTcBtkEcF-SpDOu3PY7CiwdnrNEThrVyCozU.ygIp4Tf6XugESoLGMW5-JrAH5UmgGbjl4j1JKhlgBZA&dib_tag=se&keywords=mb%2Bcreatine&qid=1770007185&sprefix=mb%2B%2Caps%2C455&sr=8-5&th=1&linkCode=ll1&tag=valdio-21&linkId=a24bf6d8fec42836d1323a7614863118&language=en_IN&ref_=as_li_ss_tl",
+
+  "image": "https://m.media-amazon.com/images/I/711l1FkCLaL._SX679_.jpg",
+
+
+  "description": "MuscleBlaze Micronised Creatine Monohydrate CreAMP is a high-purity, trustified certified creatine supplement designed for improved absorption, strength enhancement, and muscle recovery.",
+
+  "features": [
+    "Advanced MB CreAbsorb technology for better bioavailability",
+    "100% pure micronised creatine monohydrate",
+    "Unflavoured and easy to mix with any beverage",
+    "Supports strength, endurance, and muscle recovery",
+    "Trustified certified for purity and safety",
+    "Vegetarian-friendly formulation"
+  ],
+
+  "colors": [
+    {
+      "name": "Unflavoured",
+      "image": "https://m.media-amazon.com/images/I/711l1FkCLaL._SX679_.jpg"
+    }
+  ],
+
+  "sizes": ["32 Servings (100 g)"],
+
+  "variants": [
+    {
+      "flavour": "Unflavoured",
+      "size": "32 Servings (100 g)",
+      "price": 509,
+      "mrp": 649,
+      "discountRate": 22,
+      "image": "https://m.media-amazon.com/images/I/711l1FkCLaL._SX679_.jpg"
+    },
+    {
+      "flavour": "Unflavoured",
+      "size": "80 Servings",
+      "price": 1199,
+      "mrp": 1499,
+      "discountRate": 20,
+      "image": "https://m.media-amazon.com/images/I/71Dcb7WEtQL._SX679_.jpg"
+    },
+    {
+      "flavour": "Unflavoured",
+      "size": "129 Servings",
+      "price": 1899,
+      "mrp": 2399,
+      "discountRate": 21,
+      "image": "https://m.media-amazon.com/images/I/71kBXBHId9L._SX679_.jpg"
+    }
+  ],
+
+  "productDetails": {
+    "brand": "MuscleBlaze",
+    "primarySupplementType": "Creatine",
+    "flavour": "Unflavoured",
+    "itemForm": "Powder",
+    "dietType": "Vegetarian",
+    "netQuantity": "100 g",
+    "itemWeight": "100 g",
+    "servingsPerPack": 32,
+    "specialIngredients": ["Creatine"],
+    "productBenefits": "Energy Management",
+    "dimensions": "18.3 x 10.7 x 5.6 cm",
+    "useBy": "03 Mar 2027",
+    "countryOfOrigin": "India"
+  },
+
+  "deliveryInfo": {
+    "delivery": "Amazon Delivered",
+    "returnPolicy": "Non-Returnable",
+    "cashOnDelivery": true,
+    "secureTransaction": true,
+    "freeDelivery": true,
+    "badge": "Amazon's Choice"
+  },
+
+  "offers": {
+    "cashback": "5% cashback with Amazon Pay ICICI Credit Card for Prime members, 3% for others",
+    "partnerOffer": "Spend ₹3000 or more and get 5% off on qualifying items",
+    "businessOffer": "Save up to 4% with Amazon Business account"
+  }
 }
+
 
 
 
