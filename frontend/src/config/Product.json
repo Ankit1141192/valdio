@@ -4675,6 +4675,108 @@
     "cashback": "Up to ₹64 Amazon Pay Cashback on ICICI Credit Cards",
     "partnerOffer": "Get GST invoice and save up to 18% on business purchases"
   }
+},
+
+{
+  "id": "muscleblaze-super-gainer-xxl-3kg",
+  "name": "MuscleBlaze Super Gainer XXL Powder for Muscle Mass, High Protein & Carbs",
+  "category": "health & nutrition",
+  "price": 2599,
+  "discountPrice": 3829,
+  "discountRate": 32,
+  "rating": 3.8,
+  "reviews": 20585,
+  "ratingText": "3.8 out of 5 stars",
+  "reviewText": "Based on 20,585 customer ratings on Amazon",
+  "shortLink": "https://amzn.to/4rtiyZD",
+  "fullLink": "https://www.amazon.in/MuscleBlaze-Super-Gainer-XXL-Chocolate/dp/B072DXBWW1?crid=1N7AJ8SYUG1FA&dib=eyJ2IjoiMSJ9.uo0aaF9gYbFgaRg1Njr0M15LwxCJ56XU9WS1r3AIVzUnt_fARm88Urf-x0j8hO1j1p_-JZUggCQh2h2Qpn_AFvlET4K5RVLLoawo4EdlesSP_FV_XzdSGVS9ClhteBXyyyLXzlA7Go80h6Hd9UZ7nxkhcSNoczhYeGjI3hBrL70mkkF6LarN5_ZqZ0ctviVQGtPKGt24nK6vMKKPhQLs8ImsPQ_Vm_1VDJ56DIey9pMmWaeMLrcRk5WgXKKubeUVc2ioNQMf0tGyvVsDNkch8BkTQSveH5xAXQQr66FnR2g.A7r7iY9unDl6umqF8uF8z1PA1J3ARqvO4hkF9wju8b4&dib_tag=se&keywords=mb%2Bxxl%2Bmass%2Bgainer%2B3_kg&qid=1770007273&sprefix=mb%2Bxxl%2Caps%2C390&sr=8-6&th=1&linkCode=ll1&tag=valdio-21&linkId=2a829c9a7805ca93e7ad18740d6cd865&language=en_IN&ref_=as_li_ss_tl",
+
+  "image": "https://m.media-amazon.com/images/I/61Ykrg4OcQL._SX679_.jpg",
+
+  "description": "MuscleBlaze Super Gainer XXL is a high-calorie mass gainer designed to support muscle growth and energy needs. It delivers protein, carbohydrates, vitamins, and minerals for effective muscle recovery and performance.",
+
+  "features": [
+    "15g protein and 75g carbohydrates per scoop",
+    "High-calorie formula with 462 kcal per serving",
+    "Blend of fast and slow-acting proteins",
+    "Enriched with 27 vitamins and minerals",
+    "No added sugar and trans-fat free",
+    "Supports energy management and muscle mass gain"
+  ],
+
+  "colors": [
+    {
+      "name": "Chocolate",
+      "image": "https://m.media-amazon.com/images/I/61Ykrg4OcQL._SX679_.jpg"
+    }
+  ],
+
+  "sizes": ["3 kg"],
+
+  "variants": [
+    {
+      "flavour": "Chocolate",
+      "size": "3 kg",
+      "price": 2599,
+      "mrp": 3829,
+      "discountRate": 32,
+      "image": "https://m.media-amazon.com/images/I/61Ykrg4OcQL._SX679_.jpg"
+    },
+    {
+      "flavour": "Choco Caramel",
+      "size": "3 kg",
+      "price": 2599,
+      "mrp": 4299,
+      "discountRate": 40,
+      "image": "https://m.media-amazon.com/images/I/61knZcCyswL._SX679_.jpg"
+    },
+    {
+      "flavour": "Cookies & Cream",
+      "size": "3 kg",
+      "price": 2599,
+      "mrp": 3829,
+      "discountRate": 32,
+      "image": "https://m.media-amazon.com/images/I/61pd1e-wdrL._SX679_.jpg"
+    }
+  ],
+
+  "productDetails": {
+    "brand": "MuscleBlaze",
+    "flavour": "Chocolate",
+    "primarySupplementType": "Protein",
+    "itemForm": "Powder",
+    "dietType": "Vegetarian",
+    "netQuantity": "3000 g",
+    "itemWeight": "3 kg",
+    "servingsPerPack": 30,
+    "proteinPerServing": "15 g",
+    "carbsPerServing": "75 g",
+    "specialIngredients": [
+      "Maltodextrin",
+      "Milk Solids",
+      "Whey Protein Concentrate",
+      "Barley Malt Extract"
+    ],
+    "productBenefits": "Energy Management",
+    "dimensions": "23.4 x 23.4 x 25.9 cm",
+    "useBy": "20 Mar 2027",
+    "countryOfOrigin": "India"
+  },
+
+  "deliveryInfo": {
+    "delivery": "Amazon Delivered",
+    "returnPolicy": "Non-Returnable",
+    "cashOnDelivery": true,
+    "secureTransaction": true,
+    "freeDelivery": true,
+    "badge": "Top Brand"
+  },
+
+  "offers": {
+    "cashback": "5% cashback with Amazon Pay ICICI Credit Card for Prime members, 3% for others",
+    "emi": "No Cost EMI available on select cards for orders above ₹3000",
+    "businessOffer": "Save up to 4% with Amazon Business account"
+  }
 }
 
 
