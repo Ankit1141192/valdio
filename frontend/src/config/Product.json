@@ -4961,7 +4961,106 @@
     "partnerOffer": "Get GST invoice and save up to 18% on business purchases",
     "emi": "EMI starts at ₹137 per month"
   }
+},
+
+{
+  "id": "roff-cera-clean-tile-floor-cleaner-1l",
+  "name": "Roff Cera Clean All Purpose Tile, Floor & Wall Cleaner 1 Litre (Pack of 1)",
+  "category": "home & cleaning",
+  "price": 179,
+  "discountPrice": 225,
+  "discountRate": 20,
+  "rating": 4.0,
+  "reviews": 38116,
+  "ratingText": "4.0 out of 5 stars",
+  "reviewText": "Based on 38,116 customer ratings on Amazon",
+  "shortLink": "https://amzn.to/45UKj56",
+  "fullLink": "https://www.amazon.in/Pidilite-Purpose-Cleaner-Advance-Bathroom/dp/B01LZSWXWI?crid=3J614JB1SV41O&dib=eyJ2IjoiMSJ9.1OWnjurhf7STl88hKjIBDEvo0DGjhIH6JHsYyN7SfO2a4swg2k4az4tbNMDPvZYLHcvK7VEmqzDeVbLHmdlKPyQ_o1EvYk3t1BbMCJzBU_y9kksgtlVYgAklvk5cKiHoEZWJYAFWAzcJhJql6CueDhuj_jrihNqwyqRx6E11j_qz1b8gkS_tUGVMxzFE_YYIoNOExkLBygJSBF9s0jDJTOT6b830WzP3AX7UtcLt-Xjoqjh5AFT946Hrh8TghiQss7yHpmdl0qz9lOmFIad8JkoIkWsDkzIquPJFcNvdhMg.UgnoLTevFek3AT6fSUiyBrN8NX46Qhmj9B3AKxhxkks&dib_tag=se&keywords=roff&qid=1770559561&sprefix=ro%2Caps%2C542&sr=8-1-spons&aref=1iNvooaxw7&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1&linkCode=ll2&tag=valdio-21&linkId=82d1713731b38a7a53c7e5afd27305bb&ref_=as_li_ss_tl",
+
+  "image": "https://m.media-amazon.com/images/I/51m+-Z0kk3L._SL1000_.jpg",
+
+  "description": "Roff Cera Clean is a powerful all-purpose tile, floor, and wall cleaner designed to remove grease, dirt, oil, and tough stains while preserving the shine of tiles and ceramic surfaces.",
+
+  "features": [
+    "Multi-surface tile and ceramic cleaner",
+    "Effectively removes grease, grime, oil & tough stains",
+    "Safe on tiles and preserves surface shine",
+    "Concentrated acidic formula for deep cleaning",
+    "Suitable for bedroom, bathroom, kitchen & garage floors",
+    "Can be used diluted or undiluted based on stain level"
+  ],
+
+  "colors": [
+    {
+      "name": "Liquid (Clear)",
+      "image": "https://m.media-amazon.com/images/I/51m+-Z0kk3L._SL1000_.jpg"
+    }
+  ],
+
+  "sizes": ["1 Litre"],
+
+  "variants": [
+    {
+      "size": "1 L (Pack of 1)",
+      "price": 179,
+      "mrp": 225,
+      "discountRate": 20,
+      "image": "https://m.media-amazon.com/images/I/71g5Q2z4V6L._SX679_.jpg"
+    },
+    {
+      "size": "1 L (Pack of 2)",
+      "price": 330,
+      "mrp": 450,
+      "discountRate": 27,
+      "image": "https://m.media-amazon.com/images/I/61l2GrU0hgL._SL1000_.jpg"
+    },
+    {
+      "size": "1 L (Pack of 3)",
+      "price": 460,
+      "mrp": 675,
+      "discountRate": 32,
+      "image": "https://m.media-amazon.com/images/I/61WE5Ft2qLL._SL1000_.jpg"
+    },
+    {
+      "size": "1 L (Pack of 4)",
+      "price": 600,
+      "mrp": 900,
+      "discountRate": 33,
+      "image": "https://m.media-amazon.com/images/I/61PfXg8aG+L._SL1000_.jpg"
+    }
+  ],
+
+  "productDetails": {
+    "brand": "Roff",
+    "itemForm": "Liquid",
+    "scent": "Thyme",
+    "specificUses": ["Floor", "Tile", "Wall"],
+    "surfaceRecommendation": "Floor & Tiles",
+    "materialFeature": "Acidic",
+    "specialFeature": "Concentrated",
+    "itemVolume": "1 Litre",
+    "netQuantity": "1000 ml",
+    "materialTypeFree": "Acidic",
+    "safetyPrecaution": "Use gloves for sensitive skin",
+    "countryOfOrigin": "India"
+  },
+
+  "deliveryInfo": {
+    "delivery": "Amazon Delivered",
+    "returnPolicy": "Non-Returnable",
+    "cashOnDelivery": true,
+    "secureTransaction": true,
+    "freeDelivery": true,
+    "badge": "Top Brand"
+  },
+
+  "offers": {
+    "cashback": "5% cashback with Amazon Pay ICICI Credit Card for Prime members, 3% for others",
+    "bankOffer": "7.5% instant discount up to ₹1250 on Axis Bank Credit Card EMI (min purchase ₹7500)",
+    "businessOffer": "Save up to 35% with Amazon Business account"
+  }
 }
+
 
 
 
