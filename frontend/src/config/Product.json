@@ -4873,7 +4873,96 @@
     "partnerOffer": "Spend ₹3000 or more and get 5% off on qualifying items",
     "businessOffer": "Save up to 4% with Amazon Business account"
   }
+},
+
+{
+  "id": "cosmic-byte-meteoroid-rgb-laptop-cooling-pad",
+  "name": "Cosmic Byte Meteoroid RGB Laptop Cooling Pad with 6 Fan Upto 17 inch Laptops (Black/Blue)",
+  "category": "electronics & accessories",
+  "price": 1499,
+  "discountPrice": 2499,
+  "discountRate": 40,
+  "rating": 4.0,
+  "reviews": 1895,
+  "ratingText": "4.0 out of 5 stars",
+  "reviewText": "Based on 1,895 customer ratings on Amazon",
+  "shortLink": "https://amzn.to/4aeD9tK",
+  "fullLink": "https://www.amazon.in/dp/B08P5QH3P4?social_share=cm_sw_r_cso_wa_apan_dp_6FD2D8DZ0JRW7AWWAERJ&badgeInsights=insights&th=1&linkCode=ll2&tag=valdio-21&linkId=07c8fd786c4edcfc28135d0c894e9254&ref_=as_li_ss_tl",
+
+  "image": "https://m.media-amazon.com/images/I/81nNrR49NfL._SL1500_.jpg",
+
+  "description": "Cosmic Byte Meteoroid RGB laptop cooling pad featuring six high-speed whisper-quiet fans, adjustable height, and RGB lighting modes. Designed for gaming, office work, and efficient heat dissipation for laptops up to 17 inches.",
+
+  "features": [
+    "6 high-speed whisper-quiet cooling fans",
+    "Supports laptops up to 17 inches",
+    "Adjustable height for ergonomic viewing",
+    "RGB LED lighting with 12 modes",
+    "Dual wind-speed control buttons",
+    "Durable build with stable anti-slip design"
+  ],
+
+  "colors": [
+    {
+      "name": "Black / Blue",
+      "image": "https://m.media-amazon.com/images/I/81nNrR49NfL._SL1500_.jpg"
+    }
+  ],
+
+  "sizes": ["Up to 17 inch"],
+
+  "variants": [
+    {
+      "pattern": "Cooling Pad",
+      "style": "RGB LED",
+      "color": "Black / Blue",
+      "price": 1499,
+      "mrp": 2499,
+      "discountRate": 40,
+      "image": "https://m.media-amazon.com/images/I/51pn2WF7DDL.jpg"
+    }
+  ],
+
+  "productDetails": {
+    "brand": "Cosmic Byte",
+    "coolingMethod": "Fan",
+    "numberOfFans": 6,
+    "itemWeight": "840 g",
+    "dimensions": "42.6 x 28 x 3.7 cm",
+    "patternName": "Cooling Pad",
+    "styleName": "RGB LED",
+    "adjustableHeight": true,
+    "lightingModes": 12,
+    "recommendedUse": [
+      "Gaming",
+      "Office",
+      "Business"
+    ],
+    "compatibleLaptopSize": "Up to 17 inch"
+  },
+
+  "deliveryInfo": {
+    "delivery": "Amazon Delivered",
+    "returnPolicy": "10 Days Service Centre Replacement",
+    "cashOnDelivery": true,
+    "secureTransaction": true,
+    "freeDelivery": true,
+    "badge": "Top Brand"
+  },
+
+  "warranty": {
+    "duration": "1 Year",
+    "type": "Manufacturer Warranty"
+  },
+
+  "offers": {
+    "bankOffer": "Up to ₹1,000 discount on select Credit & Debit Cards",
+    "cashback": "Up to ₹74 Amazon Pay Cashback on ICICI Credit Cards",
+    "partnerOffer": "Get GST invoice and save up to 18% on business purchases",
+    "emi": "EMI starts at ₹137 per month"
+  }
 }
+
 
 
 
