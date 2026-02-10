@@ -5059,11 +5059,102 @@
     "bankOffer": "7.5% instant discount up to ₹1250 on Axis Bank Credit Card EMI (min purchase ₹7500)",
     "businessOffer": "Save up to 35% with Amazon Business account"
   }
+},
+
+{
+  "id": "muscleblaze-biozyme-performance-whey-rocky-road-fudge-1kg",
+  "name": "MuscleBlaze Biozyme Performance Whey Protein Powder | Rocky Road Fudge (1kg / 2.2lbs)",
+  "category": "Health & Nutrition",
+  "price": 2949,
+  "discountPrice": 3349,
+  "discountRate": 12,
+  "rating": 4.2,
+  "reviews": 17326,
+  "ratingText": "4.2 out of 5 stars",
+  "reviewText": "Based on 17,326 customer ratings on Amazon",
+  "shortLink": "https://amzn.to/45WZQkQ",
+  "fullLink": "https://www.amazon.in/dp/B0G1M1W72M?social_share=cm_sw_r_cso_wa_apan_dp_LIGHTSABER22K3D8563I&badgeInsights=bestseller-insights&th=1&linkCode=ll2&tag=valdio-21&linkId=146d8dce97848cb7603ed8f32d486bbb&ref_=as_li_ss_tl",
+
+  "image": "https://m.media-amazon.com/images/I/71JD4mzz4XL._SL1500_.jpg",
+
+  "description": "MuscleBlaze Biozyme Performance Whey Protein is a clinically tested whey protein formula with Enhanced Absorption Formula (EAF) that delivers 50% higher protein absorption for superior muscle gain, recovery, and lean muscle support.",
+
+  "features": [
+    "25g high-quality whey protein per scoop",
+    "Clinically tested for 50% higher protein absorption",
+    "Enhanced Absorption Formula (EAF)",
+    "Certified by Informed Choice (UK), Labdoor (USA) & Trustified",
+    "No amino spiking and free from heavy metals",
+    "Innovative scoop-on-top hygienic packaging"
+  ],
+
+  "colors": [
+    {
+      "name": "Rocky Road Fudge",
+      "image": "https://m.media-amazon.com/images/I/71JD4mzz4XL._SL1500_.jpg"
+    }
+  ],
+
+  "sizes": ["1 kg"],
+
+  "variants": [
+    {
+      "flavour": "Rocky Road Fudge",
+      "size": "1 kg (Pack of 1)",
+      "price": 2949,
+      "mrp": 3349,
+      "discountRate": 12,
+      "image": "https://m.media-amazon.com/images/I/71JD4mzz4XL._SL1500_.jpg"
+    },
+    {
+      "flavour": "Rocky Road Fudge",
+      "size": "2 kg (Pack of 1)",
+      "price": 5499,
+      "mrp": 6699,
+      "discountRate": 18,
+      "image": "https://m.media-amazon.com/images/I/71JD4mzz4XL._SL1500_.jpg"
+    }
+  ],
+
+  "productDetails": {
+    "brand": "MuscleBlaze",
+    "proteinSource": "Whey",
+    "proteinPerServing": "25 g",
+    "servingsPerContainer": 28,
+    "itemForm": "Powder",
+    "dietType": "Vegetarian",
+    "netQuantity": "1000 g",
+    "itemWeight": "1 kg",
+    "packageType": "Jar",
+    "productBenefits": [
+      "Maximize muscle gain",
+      "Muscle recovery",
+      "Support lean muscle gain"
+    ],
+    "certifications": [
+      "Informed Choice (UK)",
+      "Labdoor (USA)",
+      "Trustified"
+    ],
+    "useBy": "22 Nov 2026",
+    "countryOfOrigin": "India"
+  },
+
+  "deliveryInfo": {
+    "delivery": "Amazon Delivered",
+    "returnPolicy": "Non-Returnable",
+    "cashOnDelivery": true,
+    "secureTransaction": true,
+    "freeDelivery": true,
+    "badge": "#1 Best Seller"
+  },
+
+  "offers": {
+    "cashback": "5% cashback with Amazon Pay ICICI Credit Card for Prime members, 3% for others",
+    "emi": "No Cost EMI available on select cards for orders above ₹3000",
+    "businessOffer": "Save up to 4% with Amazon Business account"
+  }
 }
-
-
-
-
 
 
 
