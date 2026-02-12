@@ -1,30 +1,31 @@
 import React, { useState } from "react";
+import { ChevronDown } from "lucide-react";
 
 const faqData = [
   {
-    question: "What is RJN_SHOPS?",
+    question: "What is Valdio International?",
     answer:
-      "RJN_SHOPS is a curated platform that helps you find the best Amazon products. We review, compare, and recommend only the most trusted and high-quality items.",
+      "Valdio is a premier destination for curated excellence. We serve as a sophisticated filter for the global marketplace, handpicking products that meet our rigorous standards for quality, design, and performance.",
   },
   {
-    question: "How do you select products?",
+    question: "How are products authenticated?",
     answer:
-      "Every product goes through research and testing. We focus on verified reviews, quality, and overall customer satisfaction before recommending any product.",
+      "Our curation experts perform exhaustive research on every item. We verify technical specifications, material integrity, and historical customer sentiment to ensure every recommendation is worthy of your consideration.",
   },
   {
-    question: "Do you earn from affiliate links?",
+    question: "Transparency in Commercial Relations",
     answer:
-      "Yes, some links are affiliate links. This means we may earn a small commission when you buy through them — at no extra cost to you.",
+      "Valdio operates with absolute transparency. As a participant in the Amazon Associates Program, we may receive a commission on select acquisitions made through our portal. This institutional support enables us to maintain our research operations at no additional cost to our community.",
   },
   {
-    question: "Are the reviews honest and unbiased?",
+    question: "Excellence in Recommendations",
     answer:
-      "Absolutely. We never recommend products solely for sponsorship or promotion. Every review reflects honest opinions and product performance.",
+      "Our recommendations are strictly merit-based. We do not accept payment for product placement, ensuring that our curation remains unbiased and focused solely on providing you with the best the market has to offer.",
   },
   {
-    question: "How often is the site updated?",
+    question: "Operational Updates",
     answer:
-      "We update product listings regularly to ensure you get access to the latest and most relevant deals and reviews.",
+      "The Valdio directory is dynamically managed. We continuously monitor price fluctuations and product availability to ensure our curated collections reflect the most current opportunities in the premium segment.",
   },
 ];
 
@@ -36,42 +37,73 @@ const FAQ = () => {
   };
 
   return (
-    <div className="min-h-screen bg-gradient-to-b from-[#f8fafc] to-[#e0f2fe] py-16 px-6 md:px-20">
-      <h1 className="text-4xl md:text-5xl font-bold text-center mb-10 bg-gradient-to-r from-purple-600 to-blue-500 bg-clip-text text-transparent">
-        Frequently Asked Questions
-      </h1>
-
-      <div className="max-w-4xl mx-auto space-y-6">
-        {faqData.map((item, index) => (
-          <div
-            key={index}
-            className={`transition-all duration-300 rounded-2xl p-6 shadow-md cursor-pointer bg-white hover:shadow-lg ${
-              activeIndex === index ? "border border-purple-500" : "border border-gray-200"
-            }`}
-            onClick={() => toggleFAQ(index)}
-          >
-            <div className="flex justify-between items-center">
-              <h2 className="text-lg md:text-xl font-semibold text-gray-800">
-                {item.question}
-              </h2>
-              <span
-                className={`text-2xl font-bold transition-transform duration-300 ${
-                  activeIndex === index ? "rotate-45 text-purple-600" : "text-gray-500"
-                }`}
-              >
-                +
-              </span>
-            </div>
-
-            <div
-              className={`overflow-hidden transition-all duration-500 ease-in-out ${
-                activeIndex === index ? "max-h-40 mt-3 opacity-100" : "max-h-0 opacity-0"
-              }`}
-            >
-              <p className="text-gray-600 leading-relaxed">{item.answer}</p>
-            </div>
+    <div className="min-h-screen bg-white text-slate-700 py-24 px-6 font-display">
+      <div className="max-w-4xl mx-auto">
+        {/* Header Section */}
+        <div className="mb-20 text-center sm:text-left">
+          <div className="inline-block px-4 py-1.5 bg-slate-900 text-white text-[10px] font-black uppercase tracking-[0.3em] rounded-full mb-6">
+            Knowledge Base
           </div>
-        ))}
+          <h1 className="text-5xl sm:text-6xl font-black text-slate-950 mb-6 tracking-tight">
+            Help Center
+          </h1>
+          <p className="text-slate-400 font-medium text-lg max-w-2xl">
+            Inquiries regarding our curation standards, commercial protocols, and institutional mission.
+          </p>
+        </div>
+
+        {/* FAQ Accordion */}
+        <div className="space-y-4">
+          {faqData.map((item, index) => (
+            <div
+              key={index}
+              className={`group transition-all duration-500 rounded-[2rem] border overflow-hidden ${activeIndex === index
+                  ? "bg-slate-950 border-slate-950 shadow-2xl shadow-slate-200"
+                  : "bg-slate-50 border-slate-100 hover:border-slate-200"
+                }`}
+            >
+              <button
+                onClick={() => toggleFAQ(index)}
+                className="w-full text-left p-8 sm:p-10 flex justify-between items-center gap-6"
+              >
+                <h3 className={`text-xl sm:text-2xl font-black tracking-tight transition-colors duration-500 ${activeIndex === index ? "text-white" : "text-slate-950"
+                  }`}>
+                  {item.question}
+                </h3>
+                <div className={`p-3 rounded-full transition-all duration-500 ${activeIndex === index ? "bg-white/10 text-white rotate-180" : "bg-white text-slate-400"
+                  }`}>
+                  <ChevronDown size={20} strokeWidth={3} />
+                </div>
+              </button>
+
+              <div
+                className={`transition-all duration-500 ease-in-out ${activeIndex === index ? "max-h-[500px] opacity-100" : "max-h-0 opacity-0"
+                  }`}
+              >
+                <div className="px-8 sm:px-10 pb-10">
+                  <p className={`text-lg font-medium leading-relaxed ${activeIndex === index ? "text-slate-300" : "text-slate-600"
+                    }`}>
+                    {item.answer}
+                  </p>
+                </div>
+              </div>
+            </div>
+          ))}
+        </div>
+
+        {/* Support CTA */}
+        <div className="mt-24 bg-slate-50 rounded-[3rem] p-12 text-center border border-slate-100">
+          <h2 className="text-2xl font-black text-slate-950 mb-4 uppercase tracking-wider">Unresolved Inquiry?</h2>
+          <p className="text-slate-600 font-medium mb-8 max-w-lg mx-auto">
+            Our concierge team is available for detailed consultations regarding your specific shopping requirements.
+          </p>
+          <a
+            href="/contact"
+            className="inline-flex px-10 py-5 bg-slate-950 text-white rounded-2xl font-black uppercase text-xs tracking-[0.2em] hover:bg-primary transition-all active:scale-95 shadow-xl shadow-slate-200"
+          >
+            Access Concierge Service
+          </a>
+        </div>
       </div>
     </div>
   );

@@ -1,6 +1,7 @@
 import React, { useEffect, useMemo, useState } from "react";
 import { Link } from "react-router-dom";
-import { ChevronLeft, ChevronRight } from "lucide-react";
+import { ChevronLeft, ChevronRight, ArrowRight } from "lucide-react";
+import { motion, AnimatePresence } from "framer-motion";
 import homeData from "../config/homeData.json";
 
 const HeroSection = () => {
@@ -20,81 +21,103 @@ const HeroSection = () => {
   const next = () => setIdx((p) => (p + 1) % slides.length);
 
   return (
-    <section className="relative mt-2">
+    <section className="relative overflow-hidden pt-4 pb-8 sm:pt-4 sm:pb-12">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-        <div className="relative h-[380px] sm:h-[460px] rounded-3xl overflow-hidden shadow-sm bg-gray-100">
-          {/* Image */}
-          <img
-            src={active.image}
-            alt={active.title}
-            className="absolute inset-0 w-full h-full object-cover"
-            loading="eager"
-          />
-
-          {/* Overlays */}
-          <div className="absolute inset-0 bg-gradient-to-r from-black/55 via-black/15 to-transparent" />
-          <div className="absolute inset-0 bg-white/10" />
+        <div className="relative h-[480px] sm:h-[600px] rounded-[2.5rem] overflow-hidden bg-slate-100 shadow-2xl">
+          {/* Background Images with AnimatePresence */}
+          <AnimatePresence mode="wait">
+            <motion.div
+              key={idx}
+              initial={{ scale: 1.1, opacity: 0 }}
+              animate={{ scale: 1, opacity: 1 }}
+              exit={{ scale: 0.95, opacity: 0 }}
+              transition={{ duration: 0.8, ease: "easeOut" }}
+              className="absolute inset-0"
+            >
+              <img
+                src={active.image}
+                alt={active.title}
+                className="w-full h-full object-cover"
+                loading="eager"
+              />
+              {/* Refined Overlays */}
+              <div className="absolute inset-0 bg-gradient-to-r from-slate-950/80 via-slate-950/40 to-transparent" />
+              <div className="absolute inset-0 bg-primary/5 mix-blend-overlay" />
+            </motion.div>
+          </AnimatePresence>
 
           {/* Content */}
           <div className="absolute inset-0 flex items-center">
-            <div className="px-6 sm:px-10 max-w-xl text-white font-[Poppins]">
-              <p className="text-xs sm:text-sm uppercase tracking-wider text-white/85">
-                {active.eyebrow}
-              </p>
-              <h1 className="mt-2 text-4xl sm:text-5xl font-bold leading-tight">
-                {active.title}
-              </h1>
-              <p className="mt-3 text-base sm:text-lg text-white/90">
-                {active.subtitle}
-              </p>
+            <div className="px-8 sm:px-16 max-w-2xl text-white">
+              <motion.div
+                key={`content-${idx}`}
+                initial={{ opacity: 0, x: -30 }}
+                animate={{ opacity: 1, x: 0 }}
+                transition={{ duration: 0.6, delay: 0.2 }}
+              >
+                <p className="text-xs sm:text-sm uppercase tracking-[0.2em] font-bold text-primary mb-4 drop-shadow-sm">
+                  {active.eyebrow}
+                </p>
+                <h1 className="text-4xl sm:text-6xl font-bold leading-[1.1] mb-6 font-display">
+                  {active.title.split(' ').map((word, i) => (
+                    <span key={i} className={i === active.title.split(' ').length - 1 ? "text-white" : "text-white/90"}>
+                      {word}{' '}
+                    </span>
+                  ))}
+                </h1>
+                <p className="text-lg sm:text-xl text-white/80 mb-10 max-w-lg leading-relaxed font-light">
+                  {active.subtitle}
+                </p>
 
-              <div className="mt-6 flex items-center gap-3">
-                <Link
-                  to={active.ctaLink}
-                  className="inline-flex items-center justify-center bg-white text-gray-900 px-5 py-3 rounded-xl font-semibold hover:bg-gray-100 transition"
-                >
-                  {active.ctaText}
-                </Link>
-                <Link
-                  to="/products"
-                  className="inline-flex items-center justify-center bg-black/30 border border-white/30 px-5 py-3 rounded-xl font-semibold hover:bg-black/40 transition"
-                >
-                  View Products
-                </Link>
-              </div>
+                <div className="flex flex-wrap items-center gap-5">
+                  <Link
+                    to={active.ctaLink}
+                    className="btn-primary flex items-center gap-2 group shadow-2xl shadow-primary/40 px-8 py-4"
+                  >
+                    <span>{active.ctaText}</span>
+                    <ArrowRight className="w-4 h-4 transition-transform group-hover:translate-x-1" />
+                  </Link>
+                  <Link
+                    to="/products"
+                    className="btn-premium bg-white/10 hover:bg-white/20 text-white backdrop-blur-md border border-white/20 px-8 py-4 transition-all duration-300"
+                  >
+                    Explore All
+                  </Link>
+                </div>
+              </motion.div>
             </div>
           </div>
 
-          {/* Controls */}
-          <button
-            type="button"
-            onClick={prev}
-            aria-label="Previous slide"
-            className="absolute left-4 top-1/2 -translate-y-1/2 w-10 h-10 rounded-full bg-white/85 hover:bg-white flex items-center justify-center shadow"
-          >
-            <ChevronLeft className="w-5 h-5 text-gray-900" />
-          </button>
-          <button
-            type="button"
-            onClick={next}
-            aria-label="Next slide"
-            className="absolute right-4 top-1/2 -translate-y-1/2 w-10 h-10 rounded-full bg-white/85 hover:bg-white flex items-center justify-center shadow"
-          >
-            <ChevronRight className="w-5 h-5 text-gray-900" />
-          </button>
+          {/* Controls - Refined */}
+          <div className="absolute bottom-10 right-10 hidden sm:flex items-center gap-3">
+            <button
+              type="button"
+              onClick={prev}
+              className="w-12 h-12 rounded-full glass hover:bg-white text-slate-900 flex items-center justify-center transition-all duration-300 active:scale-90"
+            >
+              <ChevronLeft className="w-6 h-6" />
+            </button>
+            <button
+              type="button"
+              onClick={next}
+              className="w-12 h-12 rounded-full glass hover:bg-white text-slate-900 flex items-center justify-center transition-all duration-300 active:scale-90"
+            >
+              <ChevronRight className="w-6 h-6" />
+            </button>
+          </div>
 
-          {/* Dots */}
-          <div className="absolute bottom-4 left-1/2 -translate-x-1/2 flex gap-2">
+          {/* Progress Indicator Dots */}
+          <div className="absolute bottom-10 left-10 sm:left-16 flex items-center gap-3">
             {slides.map((s, i) => (
               <button
                 key={s.id}
                 type="button"
                 onClick={() => setIdx(i)}
-                aria-label={`Go to slide ${i + 1}`}
-                className={`h-2.5 rounded-full transition-all ${
-                  i === idx ? "w-8 bg-white" : "w-2.5 bg-white/60 hover:bg-white/80"
-                }`}
-              />
+                className="group relative py-2"
+              >
+                <div className={`h-1.5 rounded-full transition-all duration-500 ${i === idx ? "w-10 bg-primary" : "w-4 bg-white/40 group-hover:bg-white/60"
+                  }`} />
+              </button>
             ))}
           </div>
         </div>
