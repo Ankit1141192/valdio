@@ -13,7 +13,7 @@ const Disclosure = () => {
             Affiliate Disclosure
           </h1>
           <p className="text-slate-400 font-medium text-lg">
-            Compliance document for <span className="text-slate-900 font-bold">MMXXVI</span>
+            Compliance document for <span className="text-slate-900 font-bold">valdio-21</span>
           </p>
         </div>
 
