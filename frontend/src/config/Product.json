@@ -5154,6 +5154,89 @@
     "emi": "No Cost EMI available on select cards for orders above ₹3000",
     "businessOffer": "Save up to 4% with Amazon Business account"
   }
+},
+
+{
+  "id": "greeya-37-ball-silicone-ice-cube-tray",
+  "name": "Ice Cube Tray - BPA Free Silicone Flexible Easy Release 37 Ball Ice Cube Maker",
+  "category": "Home & Kitchen",
+  "price": 299,
+  "discountPrice": 598,
+  "discountRate": 50,
+  "rating": 5.0,
+  "reviews": 14,
+  "ratingText": "5.0 out of 5 stars",
+  "reviewText": "Based on 14 customer ratings on Amazon",
+  "shortLink": "https://amzn.to/4rRHfPL",
+  "fullLink": "https://www.amazon.in/dp/B0FNWR262M?social_share=cm_sw_r_ud_dp_GRCYFV602KCWC7FEY862&linkCode=ll2&tag=valdio-21&linkId=a303a6d7f04c21ac207f75184effab88&ref_=as_li_ss_tl",
+
+  "image": "https://m.media-amazon.com/images/I/51J7kYE59tL._SL1080_.jpg",
+
+  "description": "GREEYA BPA-free silicone ice cube tray designed to create 37 round ice balls. Flexible, durable, and easy to release, perfect for cocktails, whiskey, smoothies, and baby food storage.",
+
+  "features": [
+    "Made from BPA-free food-grade silicone",
+    "Creates 37 round ice balls (2.4 cm each)",
+    "Flexible and non-stick for easy release",
+    "Stackable lid prevents leakage and odor absorption",
+    "Reusable, durable, and easy to clean",
+    "Suitable for drinks, cocktails, juices, smoothies & baby food"
+  ],
+
+  "colors": [
+    {
+      "name": "Green",
+      "image": "https://m.media-amazon.com/images/I/51J7kYE59tL._SL1080_.jpg"
+    }
+  ],
+
+  "sizes": ["21.5 x 13 cm"],
+
+  "variants": [
+    {
+      "color": "Green",
+      "size": "21.5 x 13 cm",
+      "price": 299,
+      "mrp": 598,
+      "discountRate": 50,
+      "image": "https://m.media-amazon.com/images/I/61-ZeBUCb0L._SL1500_.jpg"
+    }
+  ],
+
+  "productDetails": {
+    "brand": "GREEYA",
+    "material": "BPA-Free Food Grade Silicone",
+    "shape": "Rectangular",
+    "iceBallSize": "2.4 cm",
+    "trayDimensions": "21.5 x 13 x 2.6 cm",
+    "productDimensions": "25 x 12.5 x 21.5 mm",
+    "itemWeight": "182 g",
+    "numberOfItems": 1,
+    "manufacturer": "GREEYA",
+    "specialFeatures": [
+      "Flexible",
+      "Easy Release",
+      "Reusable",
+      "Stackable Lid"
+    ],
+    "countryOfOrigin": "India"
+  },
+
+  "deliveryInfo": {
+    "delivery": "Amazon Delivered",
+    "returnPolicy": "10 Days Returnable",
+    "cashOnDelivery": false,
+    "secureTransaction": true,
+    "freeDelivery": true,
+    "badge": "Amazon's Choice"
+  },
+
+  "offers": {
+    "coupon": "Extra 2% off coupon available",
+    "cashback": "Up to ₹14 Amazon Pay Cashback on ICICI Credit Cards",
+    "bankOffer": "Up to ₹1,000 discount on select Credit & Debit Cards",
+    "businessOffer": "Save up to 11% with Amazon Business account"
+  }
 }
 
 
