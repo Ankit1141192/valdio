@@ -33,6 +33,18 @@ const Navbar = () => {
     return () => window.removeEventListener("scroll", handleScroll);
   }, []);
 
+  /* ================ BODY OVERFLOW LOCK ================ */
+  useEffect(() => {
+    if (menuOpen) {
+      document.body.style.overflow = "hidden";
+    } else {
+      document.body.style.overflow = "unset";
+    }
+    return () => {
+      document.body.style.overflow = "unset";
+    };
+  }, [menuOpen]);
+
   /* ================ HELPER FUNCTIONS ================ */
   const isActive = (path) => {
     if (path === "/") return pathname === "/" || pathname === "/home";
@@ -63,6 +75,9 @@ const Navbar = () => {
     navigate("/");
     // Close menu and clear search (happens in useEffect)
   };
+
+  /* ================ CLOSE MENU HANDLER ================ */
+  const closeMenu = () => setMenuOpen(false);
 
   return (
     <Nav className={`${scrolled ? "scrolled" : ""} glass border-b border-transparent`}>
@@ -178,23 +193,35 @@ const Navbar = () => {
 
         {/* ================ MOBILE CONTROLS ================ */}
         <div className="md:hidden flex items-center gap-4">
-          {/* Mobile Hamburger Toggle Only (Cart moved inside menu) */}
-          <StyledSwitch>
-            <input
-              type="checkbox"
-              id="checkbox"
-              checked={menuOpen}
-              onChange={() => setMenuOpen(!menuOpen)}
-              aria-label="Toggle navigation menu"
-            />
-            <label className="toggle" htmlFor="checkbox">
-              <div className="bar bar--top"></div>
-              <div className="bar bar--middle"></div>
-              <div className="bar bar--bottom"></div>
-            </label>
-          </StyledSwitch>
+          {/* Mobile Hamburger Toggle / Close Icon */}
+          {!menuOpen ? (
+            <StyledSwitch>
+              <input
+                type="checkbox"
+                id="checkbox"
+                checked={menuOpen}
+                onChange={() => setMenuOpen(!menuOpen)}
+                aria-label="Toggle navigation menu"
+                aria-expanded={menuOpen}
+              />
+              <label className="toggle" htmlFor="checkbox">
+                <div className="bar bar--top"></div>
+                <div className="bar bar--middle"></div>
+                <div className="bar bar--bottom"></div>
+              </label>
+            </StyledSwitch>
+          ) : (
+            <CloseIconButton onClick={closeMenu} aria-label="Close menu">
+              <X size={24} strokeWidth={2} />
+            </CloseIconButton>
+          )}
         </div>
       </div>
+
+      {/* ================ MOBILE MENU OVERLAY ================ */}
+      {menuOpen && (
+        <MenuOverlay onClick={closeMenu} />
+      )}
 
       {/* ================ MOBILE MENU ================ */}
       {menuOpen && (
@@ -223,6 +250,7 @@ const Navbar = () => {
           {/* Mobile Home Link */}
           <Link
             to="/"
+            onClick={closeMenu}
             className={`w-[85%] text-center py-4 text-sm font-bold tracking-widest rounded-2xl transition duration-300 ${isActive("/")
               ? "bg-primary text-white shadow-lg shadow-primary/20"
               : "text-white/60 hover:bg-white/5 hover:text-white"
@@ -234,6 +262,7 @@ const Navbar = () => {
           {/* Mobile Products Link */}
           <Link
             to="/products"
+            onClick={closeMenu}
             className={`w-[85%] text-center py-4 text-sm font-bold tracking-widest rounded-2xl transition duration-300 ${isActive("/products")
               ? "bg-primary text-white shadow-lg shadow-primary/20"
               : "text-white/60 hover:bg-white/5 hover:text-white"
@@ -246,6 +275,7 @@ const Navbar = () => {
             {/* Mobile Favorites Link */}
             <Link
               to="/favorites"
+              onClick={closeMenu}
               className={`flex items-center justify-center gap-3 py-4 rounded-2xl transition duration-300 ${isActive("/favorites")
                 ? "bg-rose-500 text-white"
                 : "bg-white/5 text-white/60 hover:text-white"
@@ -267,6 +297,7 @@ const Navbar = () => {
             {/* Mobile Cart Link */}
             <Link
               to="/cart"
+              onClick={closeMenu}
               className={`flex items-center justify-center gap-3 py-4 rounded-2xl transition duration-300 ${isActive("/cart")
                 ? "bg-blue-600 text-white"
                 : "bg-white/5 text-white/60 hover:text-white"
@@ -365,20 +396,67 @@ const Nav = styled.nav`
   }
 `;
 
-const MobileMenu = styled.div`
-  animation: slideDown 0.4s cubic-bezier(0.4, 0, 0.2, 1) forwards;
-  backdrop-filter: blur(24px);
-  background-color: rgba(15, 23, 42, 0.95);
-  border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+const MenuOverlay = styled.div`
+  position: fixed;
+  top: 70px;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background: rgba(15, 23, 42, 0.3);
+  backdrop-filter: blur(4px);
+  z-index: 99;
+  animation: fadeIn 0.3s ease;
 
-  @keyframes slideDown {
+  @keyframes fadeIn {
     from {
       opacity: 0;
-      transform: translateY(-10px);
     }
     to {
       opacity: 1;
-      transform: translateY(0);
     }
+  }
+`;
+
+const MobileMenu = styled.div`
+  animation: slideInFromRight 0.4s cubic-bezier(0.4, 0, 0.2, 1) forwards;
+  backdrop-filter: blur(24px);
+  background-color: rgba(15, 23, 42, 0.95);
+  border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+  position: fixed;
+  top: 70px;
+  right: 0;
+  left: 0;
+  z-index: 100;
+  max-height: calc(100vh - 70px);
+  overflow-y: auto;
+
+  @keyframes slideInFromRight {
+    from {
+      opacity: 0;
+      transform: translateX(100%);
+    }
+    to {
+      opacity: 1;
+      transform: translateX(0);
+    }
+  }
+`;
+
+const CloseIconButton = styled.button`
+  background: none;
+  border: none;
+  color: #1e293b;
+  width: 32px;
+  height: 24px;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transition: all 0.3s ease;
+  padding: 0;
+
+  &:hover {
+    color: #3b82f6;
+    transform: rotate(90deg);
   }
 `;
