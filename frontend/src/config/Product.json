@@ -5467,6 +5467,83 @@
     "bankOffer": "",
     "businessOffer": "Buy 2 or more and get 5% off on qualifying items"
   }
+},
+  {
+  "id": "genone-e-gen-400-vitamin-e-capsule-30",
+  "name": "Genone E-Gen 400 Vitamin E Capsule for Glowing Face, Skin and Hair Nutrition (30 Capsules)",
+  "category": "Health_PersonalCare",
+  "discountPrice": 180,
+  "price": 195,
+  "discountRate": 8,
+  "rating": 4.2,
+  "reviews": 6571,
+  "ratingText": "4.2 out of 5 stars",
+  "reviewText": "Based on 6,571 customer ratings on Amazon",
+  "shortLink": "https://amzn.to/4bR5fh6",
+  "fullLink": "https://www.amazon.in/Vitamin-Capsule-Glowing-Nutrition-Capsules/dp/B07QPVZ6KB?dib=eyJ2IjoiMSJ9.8LnqnCktGz2lZljjHgvyqXNF4OXekE1nYw_cCUlfHEH5q8B3vUGpngYfYvnSaifqa1LuMnw0KpEXIwXu1DviXm99M8YSBu_bf-eQNxkT8pcVMm19-kZlzWL3rX5QLBenyDxkDG46056O1uJAmYMlcBIztu0Kh46U3dIEws2mN42DlMzdYNU4BynpxuH3zhRfvK7OKemJgR5_rtjnQTjdovD_yoYpFAO3UdxvJays1sbtvjtfawwNU_2i4Zt9XIOrtc4VKHPe3n7Qr9TGLcFpWdaLqdSEzoagEYpKU-AQnDo.NT5ctBqNTTksDqS2k8AaFy_scDH9XXadhAqCjzoIqkM&dib_tag=se&keywords=vitamin+e+capsule&qid=1771084582&sr=8-6&linkCode=ll2&tag=valdio-21&linkId=8228c904cf543f88fd3c7aeeb95fa6f5&ref_=as_li_ss_tl",
+  "image": "https://m.media-amazon.com/images/I/910RjTodMvL._SL1500_.jpg",
+  "description": "Genone E-Gen 400 Vitamin E capsules are formulated to support glowing skin, healthy hair, and overall antioxidant nutrition. Suitable for daily supplementation.",
+  "features": [
+    "Vitamin E 400 IU capsules",
+    "Supports skin glow and hair nourishment",
+    "Provides antioxidant protection",
+    "Helps improve skin hydration and texture",
+    "Easy-to-consume softgel capsules"
+  ],
+  "sizes": [
+    "30 Capsules"
+  ],
+  "variants": [
+    {
+      "size": "30 Capsules",
+      "discountPrice": 180,
+      "mrp": 195,
+      "discountRate": 8,
+      "pricePerUnit": "₹6 / capsule",
+      "image": "https://m.media-amazon.com/images/I/910RjTodMvL._SL1500_.jpg"
+    }
+  ],
+  "productDetails": {
+    "brand": "Genone",
+    "supplementType": "Vitamin E",
+    "strength": "400 IU",
+    "itemForm": "Capsule",
+    "netQuantity": "30 Capsules",
+    "numberOfItems": 1,
+    "specialFeatures": [
+      "Antioxidant",
+      "Skin & Hair Nutrition"
+    ],
+    "recommendedUse": [
+      "Supports glowing and healthy skin",
+      "Helps maintain strong and nourished hair",
+      "Daily antioxidant supplementation"
+    ],
+    "safetyInformation": [
+      "For adult use only",
+      "Consult a healthcare professional before use"
+    ],
+    "countryOfOrigin": "India"
+  },
+  "deliveryInfo": {
+    "delivery": "Amazon Delivered",
+    "returnPolicy": "As per Amazon health product policy",
+    "cashOnDelivery": false,
+    "secureTransaction": true,
+    "freeDelivery": null,
+    "shippingRestriction": "Cannot be shipped to selected address due to local laws or Amazon policy",
+    "badge": "#1 Best Seller in Vitamin E"
+  },
+  "sellerInfo": {
+    "shipper": "Amazon",
+    "seller": "GenOne Health"
+  },
+  "offers": {
+    "coupon": "",
+    "cashback": "",
+    "bankOffer": "",
+    "businessOffer": ""
+  }
 }
 
 ]
