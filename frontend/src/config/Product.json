@@ -5161,1495 +5161,146 @@
       "businessOffer": "Save up to 11% with Amazon Business account"
     }
   },
-{
-  "id": "urbn-power-bank-20000mah-22w-fast-charging-blue",
-  "name": "URBN Power Bank 20000mAh Fast Charging | 22.5W Power Delivery | Triple Output (Blue)",
-  "category": "Electronics & Accessories",
-  "price": 899,
-  "discountPrice": 2999,
-  "discountRate": 70,
-  "rating": 4.0,
-  "reviews": 2991,
-  "ratingText": "4.0 out of 5 stars",
-  "reviewText": "Based on 2,991 customer ratings on Amazon",
-  "shortLink": "https://amzn.to/49NFKdM",
-  "fullLink": "https://www.amazon.in/dp/B0DQ4Q8SGG?social_share=cm_sw_r_ud_dp_P56FNK9365A1FDV3YKFR_1&th=1&linkCode=ll1&tag=valdio-21&linkId=d6f8498aaa84fea292426cb68ddab98c&language=en_IN&ref_=as_li_ss_tl",
-  "image": "https://m.media-amazon.com/images/I/51a0YTClysL._SX679_.jpg",
-  "description": "URBN 20000mAh Power Bank delivers massive backup with 22.5W super-fast Power Delivery. Designed with triple output ports, USB Type-C input/output, and pass-through charging, it allows you to charge multiple devices safely and efficiently on the go.",
+  {
+  "id": "sunpet-premium-plastic-round-jar-50ml-set-of-24",
+  "name": "Sunpet Premium Plastic Round Jar Set 50 Ml Set Of 24",
+  "category": "Home_Kitchen",
+  "discountPrice": 268,
+  "price": 480,
+  "discountRate": 44,
+  "rating": 4.5,
+  "reviews": 215,
+  "ratingText": "4.5 out of 5 stars",
+  "reviewText": "Based on 215 customer ratings on Amazon",
+  "shortLink": "https://amzn.to/46bypE6",
+  "fullLink": "https://www.amazon.in/gp/product/B07Y4WJZFZ?smid=AK045FGFROW25&psc=1&linkCode=ll2&tag=valdio-21&linkId=842ab8f7c6e1ddc759a1095dd56e190e&ref_=as_li_ss_tl",
+  "image": "https://m.media-amazon.com/images/I/61B5BVDHL2L._SL1500_.jpg",
+  "description": "Sunpet premium quality plastic round jars with 50 ml capacity. BPA-free, food-grade, reusable containers ideal for storing spices, sauces, condiments, and small food items.",
   "features": [
-    "20000mAh high-capacity battery",
-    "22.5W super fast Power Delivery (PD)",
-    "Triple output ports for charging multiple devices",
-    "USB Type-C input & output support",
-    "Pass-through charging support",
-    "12-layer circuit protection for safety",
-    "Overcharging, overheating & short-circuit protection",
-    "Compact and portable design"
+    "Set of 24 containers with 50 ml capacity each",
+    "Made from BPA-free food-grade plastic",
+    "Freezer safe and reusable",
+    "Dishwasher safe for easy cleaning",
+    "Compact and lightweight for easy storage"
   ],
   "colors": [
     {
-      "name": "Blue",
-      "image": "https://m.media-amazon.com/images/I/51a0YTClysL._SX679_.jpg"
-    },
-    {
-      "name": "Black",
-      "image": "https://m.media-amazon.com/images/I/71TUiV0TyiL._SX679_.jpg"
+      "name": "Transparent",
+      "image": "https://m.media-amazon.com/images/I/61B5BVDHL2L._SL1500_.jpg"
     }
   ],
   "sizes": [
-    "20000mAh"
+    "50 ml"
   ],
   "variants": [
     {
-      "color": "Blue",
-      "price": 899,
-      "mrp": 2999,
-      "discountRate": 70
-    },
-    {
-      "color": "Black",
-      "price": 899,
-      "mrp": 2999,
-      "discountRate": 70
+      "color": "Transparent",
+      "size": "50 ml",
+      "discountPrice": 268,
+      "mrp": 480,
+      "discountRate": 44,
+      "image": ""
     }
   ],
   "productDetails": {
-    "brand": "URBN",
-    "batteryCapacity": "20000mAh",
-    "connectorType": "USB Type-C",
-    "outputPower": "22.5W",
-    "specialFeatures": [
-      "Fast Charging",
-      "Pass Through Charging",
-      "Over Charging Protection"
+    "brand": "Sunpet",
+    "material": "Plastic",
+    "materialFeature": [
+      "BPA Free",
+      "Food Grade",
+      "Freezer Safe",
+      "Reusable"
     ],
-    "compatibleDevices": "Smartphones, Tablets, Earbuds, iPad",
-    "warranty": "6 Months Manufacturer Warranty",
+    "shape": "Round",
+    "capacity": "50 ml",
+    "numberOfItems": 24,
+    "specialFeatures": [
+      "Dishwasher Safe",
+      "Freezer Safe",
+      "Reusable"
+    ],
     "countryOfOrigin": "India"
   },
   "deliveryInfo": {
     "delivery": "Amazon Delivered",
-    "returnPolicy": "10 days Service Centre Replacement",
-    "cashOnDelivery": true,
+    "returnPolicy": "10 Days Returnable",
+    "cashOnDelivery": false,
     "secureTransaction": true,
     "freeDelivery": true,
     "badge": "Top Brand"
   },
   "offers": {
-    "emi": "Not Available",
-    "bankOffer": "Up to ₹1,000 discount on SBI Credit Cards",
-    "cashback": "Up to ₹26 Amazon Pay cashback on ICICI Bank Credit Cards",
-    "partnerOffer": "Buy 2 or more and get 10% additional discount",
-    "upiOffer": "Earn ₹8 on UPI payment above ₹499"
+    "coupon": "Extra 2% off coupon available",
+    "cashback": "Up to ₹8 Amazon Pay Cashback on ICICI Credit Cards",
+    "bankOffer": "Up to ₹1,500 discount on select Credit & Debit Cards",
+    "businessOffer": "Buy 2 or more and get 3% off on qualifying items"
   }
 },
 {
-  "id": "himalaya-purifying-neem-face-wash-150ml",
-  "name": "Himalaya Purifying Neem Face Wash | Clears & Prevents Pimples & Acne | 150 ml",
-  "category": "Beauty & Personal Care",
-  "price": 178,
-  "discountPrice": 299,
-  "discountRate": 40,
-  "rating": 4.4,
-  "reviews": 12315,
-  "ratingText": "4.4 out of 5 stars",
-  "reviewText": "Based on 12,315 customer ratings on Amazon",
-  "shortLink": "https://amzn.to/4bMHyX2",
-  "fullLink": "https://www.amazon.in/Himalaya-Herbals-Purifying-Neem-150ml/dp/B010Z0LH8I?crid=16Z8CGJFZKFM0&dib=eyJ2IjoiMSJ9.zMwM5CBLJ0l5MU3LN6AiYVik3WIva_bIH_UY1nMNf8V_SRFm6RYsSyyl8F6--JyCP0YoQG0ridD4vt-PQWgKr4k3ygGiB15XiSnb5htfSLzFuo8uhElJzng1v2MJFTbLY1vMGQf8K92dRicCYheFoDsDdTCzdo4SNQ1pPilmOS6CGFmHLKaZtZcUKMBfowsoSf1ajC_T3RiyX-BYhsONcF2-zm0hsowJk-vMNXPpoqsGU4sx8kCEqdZIutrEYNfKGkF2nygWB4YwWWduXDfNb31N2z4WqjNCqWn_y1jc4Ug.Lh5fzS89EINWP4ukHgTDvTloBJ7-wLqh-9VkwMLanL8&dib_tag=se&keywords=himalaya%2Bface%2Bwash%2Bneem%2Bface%2Bwash&qid=1769153251&sprefix=himalaya%2B%2Caps%2C702&sr=8-5&th=1&linkCode=ll1&tag=valdio-21&linkId=6c5b807b7fe3475ecda2654cd8cb0982&language=en_IN&ref_=as_li_ss_tl",
-  "image": "https://m.media-amazon.com/images/I/518N3l4z1-L._SL1100_.jpg",
-  "description": "Himalaya Purifying Neem Face Wash is a soap-free, gentle cleanser made with Neem and Turmeric. It helps eliminate pimples, prevent acne recurrence, and cleanse the skin without over-drying. Suitable for men and women, this clinically proven formula is ideal for daily use.",
+  "id": "sunpet-polyurethane-jar-set-250ml-12pcs",
+  "name": "Sunpet Polyurethane Jar Set - 250 Ml, 12 Pieces",
+  "category": "Home_Kitchen",
+  "discountPrice": 254,
+  "price": 499,
+  "discountRate": 49,
+  "rating": 4.2,
+  "reviews": 1073,
+  "ratingText": "4.2 out of 5 stars",
+  "reviewText": "Based on 1,073 customer ratings on Amazon",
+  "shortLink": "https://amzn.to/4rOuMMq",
+  "fullLink": "https://www.amazon.in/gp/product/B017K0L7U4?smid=AK045FGFROW25&psc=1&linkCode=ll2&tag=valdio-21&linkId=7ac2b45c14dfabb90300d3e9712add78&ref_=as_li_ss_tl",
+  "image": "https://m.media-amazon.com/images/I/619XNh1nHcL._SL1500_.jpg",
+  "description": "Sunpet food-grade polyurethane jar set with 12 containers of 250 ml each. BPA-less, dishwasher safe, freezer safe, and ideal for storing kitchen essentials, snacks, and dry items.",
   "features": [
-    "Eliminates pimples",
-    "Prevents recurrence of acne",
-    "Gently cleanses skin",
-    "Soap-free and herbal formulation",
-    "Clinically proven formula",
-    "Suitable for men and women"
+    "Set of 12 containers with 250 ml capacity each",
+    "Made from food-grade polyurethane plastic",
+    "BPA-less and safe for food storage",
+    "Dishwasher safe and freezer safe",
+    "Reusable and durable design",
+    "Each piece packed in individual PP bag"
   ],
-  "sizes": [
-    "150 ml"
-  ],
-  "variants": [
+  "colors": [
     {
-      "size": "150 ml",
-      "price": 178,
-      "mrp": 299,
-      "discountRate": 40
-    }
-  ],
-  "productDetails": {
-    "brand": "Himalaya",
-    "scent": "Neem",
-    "useFor": "Face",
-    "skinType": "Dry",
-    "ageRange": "Youth, Adult",
-    "itemWeight": "0.15 kg",
-    "dimensions": "44 x 76 x 152 mm",
-    "includedComponents": "Face Wash (1 Unit, 150 ml)",
-    "productBenefits": "Cleansing, Acne Prevention",
-    "ingredients": [
-      "Neem",
-      "Turmeric"
-    ],
-    "countryOfOrigin": "India",
-    "expiryDate": "30 January 2027"
-  },
-  "deliveryInfo": {
-    "delivery": "Amazon Delivered",
-    "returnPolicy": "Non-Returnable",
-    "cashOnDelivery": true,
-    "secureTransaction": true,
-    "freeDelivery": true,
-    "badge": "Top Brand"
-  },
-  "offers": {
-    "cashback": "Up to ₹5 Amazon Pay cashback on ICICI Bank Credit Cards",
-    "bankOffer": "Up to ₹750 discount on select Credit & Debit Cards",
-    "partnerOffer": "Buy 3 get 3%, Buy 4 get 4%, Buy 5 get 5% off",
-    "upiOffer": "Earn ₹1 on UPI payment above ₹499"
-  },
-  "freeProducts": [
-    {
-      "name": "Cetaphil Hydrating Foaming Cream Cleanser",
-      "size": "29 ml",
-      "mrp": 157
+      "name": "Clear",
+      "image": "https://m.media-amazon.com/images/I/619XNh1nHcL._SL1500_.jpg"
     },
     {
-      "name": "Nat Habit Ubtan Face Wash",
-      "size": "7 g",
-      "mrp": 1597
+      "name": "Yellow",
+      "image": "https://m.media-amazon.com/images/I/514edCDbdSL._SL1500_.jpg"
     }
-  ]
-},
-{
-  "id": "set-wet-casually-cool-hair-gel-250ml",
-  "name": "Set Wet Styling Hair Gel for Men – Casually Cool | Medium Hold, High Shine | 250 ml",
-  "category": "Beauty & Personal Care",
-  "price": 168,
-  "discountPrice": 225,
-  "discountRate": 25,
-  "rating": 4.1,
-  "reviews": 6231,
-  "ratingText": "4.1 out of 5 stars",
-  "reviewText": "Based on 6,231 customer ratings on Amazon",
-  "shortLink": "https://amzn.to/4pXZfGT",
-  "fullLink": "https://www.amazon.in/Set-Wet-Cool-Hold-250ml/dp/B079HWW3NM?th=1&linkCode=ll1&tag=valdio-21&linkId=8b396d7cd29490fb3ef5607175cbe1bf&language=en_IN&ref_=as_li_ss_tl",
-  "image": "https://m.media-amazon.com/images/I/61TayWsLq8L._SL1500_.jpg",
-  "description": "Set Wet Casually Cool Hair Gel for men provides medium hold with high shine, enriched with Pro-Vitamin B5 for healthy-looking hair. The alcohol-free and sulphate-free formula styles hair effortlessly for a natural, casual look that lasts all day.",
-  "features": [
-    "Medium hold with high shine",
-    "Enriched with Pro-Vitamin B5",
-    "Alcohol-free and sulphate-free formula",
-    "Easy to wash off with water",
-    "Suitable for casual everyday styling",
-    "No harmful chemicals like SLS, SLES, phthalates or formaldehyde"
   ],
   "sizes": [
     "250 ml"
   ],
   "variants": [
     {
-      "style": "Casually Cool",
+      "color": "Clear, Yellow",
       "size": "250 ml",
-      "price": 168,
-      "mrp": 225,
-      "discountRate": 25
+      "discountPrice": 254,
+      "mrp": 499,
+      "discountRate": 49,
+      "image": ""
     }
   ],
-  "productDetails": {
-    "brand": "Set Wet",
-    "styleName": "Casually Cool Hair Gel",
-    "patternName": "Hair Gel",
-    "hairType": "All",
-    "itemForm": "Gel",
-    "scent": "Aloe, Unscented",
-    "materialFree": [
-      "Alcohol Free",
-      "Sulphate Free"
-    ],
-    "productBenefits": [
-      "Shining",
-      "Smoothening"
-    ],
-    "netQuantity": "250 ml",
-    "itemWeight": "250 ml",
-    "includedComponents": "Hair Gel (1 Unit)",
-    "expiryDate": "31 December 2027"
-  },
-  "deliveryInfo": {
-    "delivery": "Amazon Delivered",
-    "returnPolicy": "Non-Returnable",
-    "cashOnDelivery": true,
-    "secureTransaction": true,
-    "freeDelivery": true,
-    "badge": "Top Brand"
-  },
-  "offers": {
-    "coupon": "Apply 2% coupon",
-    "cashback": "Up to ₹5 Amazon Pay cashback on ICICI Bank Credit Cards",
-    "bankOffer": "Up to ₹750 discount on select Credit & Debit Cards",
-    "partnerOffer": "Buy 3 get 3%, Buy 4 get 4%, Buy 5 get 5% off",
-    "upiOffer": "Earn ₹1 on UPI payment above ₹499"
-  },
-  "freeProducts": [
-    {
-      "name": "Nat Habit Ubtan Face Wash",
-      "size": "7 g",
-      "mrp": 1597
-    }
-  ]
-},
-
-{
-  "id": "lucky-jewellery-dulhan-bridal-set-8pcs",
-  "name": "Lucky Jewellery Designer Gold Plated Dulhan Bridal Jewelry Set 8 Pcs. for Girls & Women",
-  "category": "jewellery",
-  "price": 2398,
-  "discountPrice": 23502,
-  "discountRate": 90,
-  "rating": 3.6,
-  "reviews": 117,
-  "ratingText": "3.6 out of 5 stars",
-  "reviewText": "Based on 117 customer ratings on Amazon",
-  "shortLink": "https://amzn.to/3M72Wfl",
-  "fullLink": "https://www.amazon.in/dp/B08WLPVQHJ?social_share=cm_sw_r_ud_dp_W0D2Z6M4F69DYPHMPTAR&th=1&linkCode=ll1&tag=valdio-21&linkId=156a0dd96c4af4a40f686809dda9bc15&language=en_IN&ref_=as_li_ss_tl",
-
-  "image": "https://m.media-amazon.com/images/I/819WgkQKBrL._SY625_.jpg",
-
-  "description": "Elegant gold plated Dulhan bridal jewellery set from Lucky Jewellery, designed for weddings, engagements, and festive occasions. Lightweight, stylish, and perfect for gifting.",
-
-  "features": [
-    "8 pieces complete bridal jewellery set",
-    "Gold plated premium finish",
-    "Studded with Cubic Zirconia stones",
-    "Lightweight and comfortable to wear",
-    "Suitable for weddings, engagements & parties",
-    "Durable with long-lasting shine"
-  ],
-
-  "colors": [
-    {
-      "name": "Green",
-      "image": "https://m.media-amazon.com/images/I/819WgkQKBrL._SY625_.jpg"
-    },
-    {
-      "name": "Red",
-      "image": "https://m.media-amazon.com/images/I/819eUiEtMYL._SY625_.jpg"
-    },
-    {
-      "name": "Gold",
-      "image": "https://m.media-amazon.com/images/I/81jy4eLTlIL._SY625_.jpg"
-    }
-  ],
-
-  "sizes": ["Free Size"],
-
-  "variants": [
-    {
-      "color": "Green",
-      "price": 2398,
-      "mrp": 23502,
-      "discountRate": 90,
-      "image": "https://m.media-amazon.com/images/I/81g9Y2Y2yDL._SY625_.jpg"
-    },
-    {
-      "color": "Gold",
-      "price": 2590,
-      "mrp": 23502,
-      "discountRate": 89,
-      "image": "https://m.media-amazon.com/images/I/81g9Y2Y2yDL._SY625_.jpg"
-    },
-    {
-      "color": "Maroon & Green",
-      "price": 2244,
-      "mrp": 23502,
-      "discountRate": 90,
-      "image": "https://m.media-amazon.com/images/I/81g9Y2Y2yDL._SY625_.jpg"
-    }
-  ],
-
-  "productDetails": {
-    "brand": "Lucky Jewellery",
-    "materialType": "Gold Plated",
-    "metalType": "Gold Plated",
-    "gemType": "Cubic Zirconia",
-    "chainType": "Bead",
-    "claspType": "Lobster Clasp",
-    "occasion": ["Wedding", "Engagement", "Birthday", "Party"],
-    "itemWeight": "950 g",
-    "netQuantity": "1 Set (8 Pieces)",
-    "includedComponents": ["Necklace", "Earrings"],
-    "countryOfOrigin": "India"
-  },
-
-  "deliveryInfo": {
-    "delivery": "Amazon Delivered",
-    "returnPolicy": "10 Days Returnable",
-    "cashOnDelivery": true,
-    "secureTransaction": true,
-    "freeDelivery": true,
-    "badge": "Top Brand"
-  },
-
-  "offers": {
-    "bankOffer": "Up to ₹1,500 discount on select Credit & Debit Cards",
-    "cashback": "Up to ₹71 Amazon Pay Cashback on ICICI Credit Cards",
-    "partnerOffer": "Get GST invoice and save up to 18% on business purchases"
-  }
-},
-
-{
-  "id": "i-jewels-kundan-dulhan-bridal-set",
-  "name": "I Jewels Traditional Ethnic Indian Kundan Dulhan Bridal Jewellery Set for Women",
-  "category": "jewellery",
-  "price": 2999,
-  "discountPrice": 9999,
-  "discountRate": 70,
-  "rating": 3.9,
-  "reviews": 290,
-  "ratingText": "3.9 out of 5 stars",
-  "reviewText": "Based on 290 customer ratings on Amazon",
-  "shortLink": "https://amzn.to/49WP6nE",
-  "fullLink": "https://www.amazon.in/dp/B07QZL81K7?social_share=cm_sw_r_ud_dp_9MKYFKQ7DMN4C0YJYS08&th=1&linkCode=ll1&tag=valdio-21&linkId=b6c2a5ee9859e84528d69cb7ebebcfde&language=en_IN&ref_=as_li_ss_tl",
-  "image": "https://m.media-amazon.com/images/I/71zuVzAzUiL._SY535_.jpg",
-
-  "description": "Traditional ethnic bridal jewellery set by I Jewels, crafted with kundan-style simulated stones and faux pearls. Designed for weddings and special occasions with a rich, royal finish.",
-
-  "features": [
-    "Traditional kundan-style bridal jewellery set",
-    "Simulated stones and faux pearls",
-    "Premium alloy base with gold-plated finish",
-    "Lightweight and comfortable for long wear",
-    "Adjustable chains for secure fit",
-    "Ideal for weddings and festive occasions"
-  ],
-
-  "colors": [
-    {
-      "name": "Green",
-      "image": "https://m.media-amazon.com/images/I/71zuVzAzUiL._SY535_.jpg"
-    },
-    {
-      "name": "Maroon Green",
-      "image": "https://m.media-amazon.com/images/I/A12ws6mqeEL._SY500_.jpg"
-    },
-    {
-      "name": "Red",
-      "image": "https://m.media-amazon.com/images/I/71tI1T1or-L._SY500_.jpg"
-    },
-    {
-      "name": "Turquoise",
-      "image": "https://m.media-amazon.com/images/I/41ij4jNKE1L.jpg"
-    },
-    {
-      "name": "White",
-      "image": "https://m.media-amazon.com/images/I/71-yzmT9ZhL._SY500_.jpg"
-    }
-  ],
-
-  "sizes": ["Free Size"],
-
-  "variants": [
-    {
-      "color": "Green",
-      "price": 2999,
-      "mrp": 9999,
-      "discountRate": 70,
-      "image": "https://m.media-amazon.com/images/I/81VQX0xQn0L._SY625_.jpg"
-    },
-    {
-      "color": "Maroon Green",
-      "price": 2999,
-      "mrp": 9999,
-      "discountRate": 70,
-      "image": "https://m.media-amazon.com/images/I/81VQX0xQn0L._SY625_.jpg"
-    },
-    {
-      "color": "Red",
-      "price": 2999,
-      "mrp": 9999,
-      "discountRate": 70,
-      "image": "https://m.media-amazon.com/images/I/81VQX0xQn0L._SY625_.jpg"
-    },
-    {
-      "color": "Turquoise",
-      "price": 2999,
-      "mrp": 9999,
-      "discountRate": 70,
-      "image": "https://m.media-amazon.com/images/I/81VQX0xQn0L._SY625_.jpg"
-    },
-    {
-      "color": "White",
-      "price": 2999,
-      "mrp": 9999,
-      "discountRate": 70,
-      "image": "https://m.media-amazon.com/images/I/81VQX0xQn0L._SY625_.jpg"
-    }
-  ],
-
-  "productDetails": {
-    "brand": "I Jewels",
-    "materialType": "Gold Plated",
-    "metalType": "Alloy",
-    "gemType": "Artificial stones and beads",
-    "chainType": "Fancy",
-    "claspType": "Lobster Clasp",
-    "occasion": ["Wedding", "Birthday"],
-    "netQuantity": "1 Set",
-    "includedComponents": ["Necklace", "Earrings", "Nosepin"],
-    "countryOfOrigin": "India"
-  },
-
-  "deliveryInfo": {
-    "delivery": "Amazon Delivered",
-    "returnPolicy": "10 Days Returnable",
-    "cashOnDelivery": true,
-    "secureTransaction": true,
-    "freeDelivery": true,
-    "badge": "Top Brand"
-  },
-
-  "offers": {
-    "coupon": "Extra 2% off coupon applied",
-    "bankOffer": "Up to ₹1,500 discount on select Credit & Debit Cards",
-    "cashback": "Up to ₹149 Amazon Pay Cashback on ICICI Credit Cards",
-    "partnerOffer": "Buy 3 or more and get 7% off on qualifying items"
-  }
-},
-
-{
-  "id": "zest-4-toyz-kids-express-train-remote-control",
-  "name": "Zest 4 Toyz Kids Express Train Toy with Remote Control, Lights and Sounds, Rechargeable EMU Train Model Toy for Kids Boys Girls (White)",
-  "category": "toys",
-  "price": 804,
-  "discountPrice": 1990,
-  "discountRate": 60,
-  "rating": 3.8,
-  "reviews": 217,
-  "ratingText": "3.8 out of 5 stars",
-  "reviewText": "Based on 217 customer ratings on Amazon",
-  "shortLink": "https://amzn.to/4t0rCXz",
-  "fullLink": "https://www.amazon.in/Zest-Toyz-Express-Control-Rechargeable/dp/B0CZZYQV74?crid=2YCG5DOVKO7FP&dib=eyJ2IjoiMSJ9.EaFRHHRqIMH6VyHTO6vhC04OYFbc8Q3wAXFiW0MUyLgorpc33MYnIn7SYirSRkOrCLyy1qIswyZLzS9crUZpDxHBSfjGYRP4-w_ZJBiKTu8Ccd1ahmRauGkwYyRBhmhm10uKX56JWk7d26x5wZTLgF0k9fOu3jw8tVnF38Ivq1w4Iidc0S0Rh604NceiuwDZSHITXptBJuGMP7D81c4AoaFztUOwfCSOohdAD1iai_IIRpoUckrqpFw_w5TySfqcwhMOFMIs7WhrdEQMPHg8vmSAiccdRfLptzKeH_pa4tI.dI7dTowU8EK-oSG8yyk2LWnkIq0-jIDUlOcLsiyZRNQ&dib_tag=se&keywords=toy+train&qid=1769269240&sprefix=toy+trai%2Caps%2C392&sr=8-10&linkCode=ll1&tag=valdio-21&linkId=9c359afe5ad0628245c557f8b5d393c3&language=en_IN&ref_=as_li_ss_tl",
-  "image": "https://m.media-amazon.com/images/I/713a9UgelJL._SX569_.jpg",
-
-  "description": "Fun and engaging Zest 4 Toyz Kids Express Train toy with remote control, realistic lights and sound effects. Designed to spark imagination and provide hours of safe, interactive play for kids.",
-
-  "features": [
-    "Remote control train with forward, backward, left & right movement",
-    "Bright lights and realistic sound effects",
-    "Rechargeable train unit with USB charging cable",
-    "Child-safe design with rounded edges",
-    "Sturdy build for long-lasting play",
-    "Ideal gift for kids on birthdays and special occasions"
-  ],
-
-  "colors": [
-    {
-      "name": "White",
-      "image": "https://m.media-amazon.com/images/I/713a9UgelJL._SX569_.jpg"
-    }
-  ],
-
-  "sizes": ["Standard"],
-
-  "variants": [
-    {
-      "color": "White",
-      "price": 804,
-      "mrp": 1990,
-      "discountRate": 60,
-      "image": "https://m.media-amazon.com/images/I/713a9UgelJL._SX569_.jpg"
-    }
-  ],
-
-  "productDetails": {
-    "brand": "Zest 4 Toyz",
-    "materialType": "Plastic",
-    "powerSource": "Rechargeable Battery",
-    "controllerBattery": "2 x AA Batteries (Not Included)",
-    "specialFeatures": [
-      "Remote Controlled",
-      "Lights and Sounds",
-      "Rechargeable"
-    ],
-    "recommendedAge": "3+ Years",
-    "includedComponents": [
-      "Train",
-      "Remote Controller",
-      "USB Charging Cable"
-    ],
-    "countryOfOrigin": "India"
-  },
-
-  "deliveryInfo": {
-    "delivery": "Amazon Delivered",
-    "returnPolicy": "10 Days Replacement",
-    "cashOnDelivery": true,
-    "secureTransaction": true,
-    "freeDelivery": true,
-    "badge": "Top Brand"
-  },
-
-  "offers": {
-    "bankOffer": "Up to ₹1,000 discount on select Credit & Debit Cards",
-    "cashback": "Up to ₹40 Amazon Pay Cashback on ICICI Credit Cards",
-    "partnerOffer": "3% off on 2 items, 5% off on 3 items, 7% off on 5 items"
-  }
-},
-
-{
-  "id": "tya-makeup-eyeshadow-brush-blender-combo",
-  "name": "T.Y.A Makeup Eyeshadow Kit + 5 Pcs Makeup Brush + 2 Pc Blender Puff Combo - Multicolor",
-  "category": "beauty & makeup",
-  "price": 261,
-  "discountPrice": 789,
-  "discountRate": 67,
-  "rating": 3.8,
-  "reviews": 14409,
-  "ratingText": "3.8 out of 5 stars",
-  "reviewText": "Based on 14,409 customer ratings on Amazon",
-  "shortLink": "https://amzn.to/46ezvP8",
-  "fullLink": "https://www.amazon.in/dp/B07Y5CQF52?social_share=cm_sw_r_ud_dp_7R185EFN5H6DASPVM3ND&linkCode=ll1&tag=valdio-21&linkId=eefcab56b99abdcdcb06e47011647468&language=en_IN&ref_=as_li_ss_tl",
-  "image": "https://m.media-amazon.com/images/I/411McCP6RwL.jpg",
-
-  
-  "description": "Complete T.Y.A makeup combo kit featuring eyeshadows, blush, face powders, lip colors, makeup brushes and blender puffs. Perfect for daily use, beginners and gifting.",
-
-  "features": [
-    "24 shades eyeshadow palette",
-    "3 shades blush and 2 face powders",
-    "4 lip colors included",
-    "5 pcs multicolor makeup brushes",
-    "2 sponge blender puffs",
-    "Suitable for all skin types and tones"
-  ],
-
-  "colors": [
-    {
-      "name": "Multicolor",
-      "image": "https://m.media-amazon.com/images/I/411McCP6RwL.jpg"
-    }
-  ],
-
-  "sizes": ["Standard"],
-
-  "variants": [
-    {
-      "color": "Multicolor",
-      "price": 261,
-      "mrp": 789,
-      "discountRate": 67,
-      "image": "https://m.media-amazon.com/images/I/51gOZYw4vgL._SY450_.jpg"
-    }
-  ],
-
-  "productDetails": {
-    "brand": "T.Y.A",
-    "itemForm": "Liquid",
-    "productBenefits": "Makeup Kit Combo",
-    "skinTone": "All",
-    "skinType": "All",
-    "packageInformation": "Palette",
-    "itemDimensions": "23 x 11 x 7 cm",
-    "itemWeight": "300 g",
-    "netQuantity": "1 Count",
-    "useBy": "08 Oct 2026",
-    "includedComponents": [
-      "Eyeshadow Palette",
-      "Blush",
-      "Face Powders",
-      "Lip Colors",
-      "5 Makeup Brushes",
-      "2 Blender Puffs"
-    ],
-    "countryOfOrigin": "India"
-  },
-
-  "deliveryInfo": {
-    "delivery": "Amazon Delivered",
-    "returnPolicy": "Non-Returnable",
-    "cashOnDelivery": true,
-    "secureTransaction": true,
-    "freeDelivery": true,
-    "badge": "Top Brand"
-  },
-
-  "offers": {
-    "bankOffer": "Up to ₹750 discount on select Credit & Debit Cards",
-    "cashback": "Up to ₹13 Amazon Pay Cashback on ICICI Credit Cards",
-    "partnerOffer": "Buy 2 or more and get 3% off on qualifying items"
-  }
-},
-
-{
-  "id": "homesake-retro-metal-table-lamp-pleated-shade",
-  "name": "Homesake® Retro Down to The Wire Metal Table Lamp with Fabric Shade, Bedside Lamp for Home & Living Room (Off-White)",
-  "category": "home & decor",
-  "price": 396,
-  "discountPrice": 1600,
-  "discountRate": 75,
-  "rating": 4.1,
-  "reviews": 681,
-  "ratingText": "4.1 out of 5 stars",
-  "reviewText": "Based on 681 customer ratings on Amazon",
-  "shortLink": "https://amzn.to/4qUTomS",
-  "fullLink": "https://www.amazon.in/dp/B0DQP38PJD?social_share=cm_sw_r_cso_wa_apan_dp_7CM6RE6GX36GZS1EB61Q&badgeInsights=bestseller&th=1&linkCode=ll1&tag=valdio-21&linkId=3d10207f10f5fb9f7b72a034324f377b&language=en_IN&ref_=as_li_ss_tl",
-
-  "image": "https://m.media-amazon.com/images/I/61xO0lWxdOL._SX425_.jpg",
-
-
-  "description": "Elegant Homesake retro-style metal table lamp featuring a pleated fabric shade and sturdy metal base. Ideal for bedside tables, living rooms, study areas, and decorative lighting.",
-
-  "features": [
-    "Retro modern design with pleated fabric shade",
-    "Durable polished metal base",
-    "Compact and lightweight for easy placement",
-    "Easy to assemble with secure lamp shade fitting",
-    "Compatible with standard E27 bulb",
-    "Perfect for bedroom, living room, study, and cafes"
-  ],
-
-  "colors": [
-    {
-      "name": "Off-White",
-      "image": "https://m.media-amazon.com/images/I/61xO0lWxdOL._SX425_.jpg"
-    },
-    {
-      "name": "Beige",
-      "image": "https://m.media-amazon.com/images/I/816zMHT-J-L._SX425_.jpg"
-    },
-    {
-      "name": "White",
-      "image": "https://m.media-amazon.com/images/I/71phqit7mXL._SL1500_.jpg"
-    }
-  ],
-
-  "sizes": ["Standard"],
-
-  "variants": [
-    {
-      "color": "Off-White",
-      "price": 396,
-      "mrp": 1600,
-      "discountRate": 75,
-      "image": "https://m.media-amazon.com/images/I/61xO0lWxdOL._SX425_.jpg"
-    },
-    {
-      "color": "Beige",
-      "price": 398,
-      "mrp": 1600,
-      "discountRate": 75,
-      "image": "https://m.media-amazon.com/images/I/816zMHT-J-L._SX425_.jpg"
-    },
-    {
-      "color": "White",
-      "price": 398,
-      "mrp": 1600,
-      "discountRate": 75,
-      "image": "https://m.media-amazon.com/images/I/71phqit7mXL._SL1500_.jpg"
-    }
-  ],
-
-  "productDetails": {
-    "brand": "Homesake",
-    "lampType": "Table Lamp",
-    "style": "Modern",
-    "finishType": "Polished",
-    "baseMaterial": "Metal",
-    "shadeMaterial": "Fabric",
-    "shadeColor": "Off-White",
-    "bulbBase": "E27",
-    "switchType": "2 Pin Plug",
-    "dimensions": "24 x 24 x 34.7 cm",
-    "itemWeight": "312 g",
-    "recommendedUse": [
-      "Bedroom",
-      "Living Room",
-      "Study Room",
-      "Dining Room",
-      "Office",
-      "Cafe"
-    ],
-    "countryOfOrigin": "India"
-  },
-
-  "deliveryInfo": {
-    "delivery": "Amazon Delivered",
-    "returnPolicy": "10 Days Returnable",
-    "cashOnDelivery": true,
-    "secureTransaction": true,
-    "freeDelivery": true,
-    "badge": "#1 Best Seller"
-  },
-
-  "offers": {
-    "bankOffer": "Up to ₹1,500 discount on select Credit & Debit Cards",
-    "cashback": "Up to ₹19 Amazon Pay Cashback on ICICI Credit Cards",
-    "partnerOffer": "Buy 2 get 5% off, Buy 3 get 7% off on select categories"
-  }
-},
-
-{
-  "id": "lukzer-3-layer-engineered-wood-bookshelf-mr010",
-  "name": "Lukzer 3 Layer Engineered Wood Multipurpose Rack Bookshelf Storage Organizer Stand (MR-010)",
-  "category": "home & furniture",
-  "price": 1295,
-  "discountPrice": 3499,
-  "discountRate": 63,
-  "rating": 4.1,
-  "reviews": 1762,
-  "ratingText": "4.1 out of 5 stars",
-  "reviewText": "Based on 1,762 customer ratings on Amazon",
-  "shortLink": "https://amzn.to/4r1u0fd",
-  "fullLink": "https://www.amazon.in/dp/B0CXLR5HKB?social_share=cm_sw_r_cso_wa_apan_dp_JSESGJKRX461M7DAPF9A&badgeInsights=bestseller-insights&th=1&linkCode=ll1&tag=valdio-21&linkId=53fea36685e8ec121ba94f35c862513a&language=en_IN&ref_=as_li_ss_tl",
-
-  "image": "https://m.media-amazon.com/images/I/81p6raoi-hL._SX679_.jpg",
-
-  "description": "Lukzer multipurpose 3 layer engineered wood bookshelf designed for storage and display. Ideal for organizing books, plants, decor, and office essentials in a compact vertical space.",
-
-  "features": [
-    "3 open shelves for organized storage",
-    "Engineered wood construction",
-    "Space-saving vertical design",
-    "Modern rectangular style",
-    "Suitable for bedroom, living room, office, and nursery",
-    "DIY assembly with included hardware and guide"
-  ],
-
-  "colors": [
-    {
-      "name": "Oak Brown",
-      "image": "https://m.media-amazon.com/images/I/81p6raoi-hL._SX679_.jpg"
-    },
-    {
-      "name": "Black",
-      "image": "https://m.media-amazon.com/images/I/71UQ957KfqL._SX679_.jpg"
-    },
-    {
-      "name": "Light Oak",
-      "image": "https://m.media-amazon.com/images/I/81JfBhInKCL._SX679_.jpg"
-    },
-    {
-      "name": "Wenge",
-      "image": "https://m.media-amazon.com/images/I/813+UPB7i+L._SX679_.jpg"
-    },
-    {
-      "name": "White",
-      "image": "https://m.media-amazon.com/images/I/81eNElIdtIL._SX679_.jpg"
-    }
-  ],
-
-  "sizes": ["3 Layer"],
-
-  "variants": [
-    {
-      "color": "Oak Brown",
-      "price": 1295,
-      "mrp": 3499,
-      "discountRate": 63,
-      "image": "https://m.media-amazon.com/images/I/81p6raoi-hL._SX679_.jpg"
-    },
-    {
-      "color": "Black",
-      "price": 1295,
-      "mrp": 3499,
-      "discountRate": 63,
-      "image": "https://m.media-amazon.com/images/I/71UQ957KfqL._SX679_.jpg"
-    },
-    {
-      "color": "Light Oak",
-      "price": 1295,
-      "mrp": 3499,
-      "discountRate": 63,
-      "image": "https://m.media-amazon.com/images/I/81JfBhInKCL._SX679_.jpg"
-    },
-    {
-      "color": "Wenge",
-      "price": 1295,
-      "mrp": 3499,
-      "discountRate": 63,
-      "image": "https://m.media-amazon.com/images/I/813+UPB7i+L._SX679_.jpg"
-    },
-    {
-      "color": "White",
-      "price": 1295,
-      "mrp": 3499,
-      "discountRate": 63,
-      "image": "https://m.media-amazon.com/images/I/81eNElIdtIL._SX679_.jpg"
-    }
-  ],
-
-  "productDetails": {
-    "brand": "Lukzer",
-    "material": "Engineered Wood",
-    "mountingType": "Floor Mount",
-    "shelfType": "Display Shelf",
-    "numberOfShelves": 3,
-    "specialFeatures": [
-      "Adjustable",
-      "Heavy Duty",
-      "Space Saving"
-    ],
-    "roomType": [
-      "Bedroom",
-      "Dining Room",
-      "Living Room",
-      "Nursery",
-      "Office"
-    ],
-    "shape": "Rectangular",
-    "style": "Modern",
-    "finishType": "Wood",
-    "dimensions": "22 x 33 x 80 cm",
-    "assemblyRequired": true,
-    "countryOfOrigin": "India"
-  },
-
-  "deliveryInfo": {
-    "delivery": "Amazon Delivered",
-    "returnPolicy": "10 Days Replacement",
-    "cashOnDelivery": true,
-    "secureTransaction": true,
-    "freeDelivery": true,
-    "badge": "#1 Best Seller"
-  },
-
-  "offers": {
-    "bankOffer": "Up to ₹1,500 discount on select Credit & Debit Cards",
-    "cashback": "Up to ₹64 Amazon Pay Cashback on ICICI Credit Cards",
-    "partnerOffer": "Get GST invoice and save up to 18% on business purchases"
-  }
-},
-
-{
-  "id": "muscleblaze-super-gainer-xxl-3kg",
-  "name": "MuscleBlaze Super Gainer XXL Powder for Muscle Mass, High Protein & Carbs",
-  "category": "health & nutrition",
-  "price": 2599,
-  "discountPrice": 3829,
-  "discountRate": 32,
-  "rating": 3.8,
-  "reviews": 20585,
-  "ratingText": "3.8 out of 5 stars",
-  "reviewText": "Based on 20,585 customer ratings on Amazon",
-  "shortLink": "https://amzn.to/4rtiyZD",
-  "fullLink": "https://www.amazon.in/MuscleBlaze-Super-Gainer-XXL-Chocolate/dp/B072DXBWW1?crid=1N7AJ8SYUG1FA&dib=eyJ2IjoiMSJ9.uo0aaF9gYbFgaRg1Njr0M15LwxCJ56XU9WS1r3AIVzUnt_fARm88Urf-x0j8hO1j1p_-JZUggCQh2h2Qpn_AFvlET4K5RVLLoawo4EdlesSP_FV_XzdSGVS9ClhteBXyyyLXzlA7Go80h6Hd9UZ7nxkhcSNoczhYeGjI3hBrL70mkkF6LarN5_ZqZ0ctviVQGtPKGt24nK6vMKKPhQLs8ImsPQ_Vm_1VDJ56DIey9pMmWaeMLrcRk5WgXKKubeUVc2ioNQMf0tGyvVsDNkch8BkTQSveH5xAXQQr66FnR2g.A7r7iY9unDl6umqF8uF8z1PA1J3ARqvO4hkF9wju8b4&dib_tag=se&keywords=mb%2Bxxl%2Bmass%2Bgainer%2B3_kg&qid=1770007273&sprefix=mb%2Bxxl%2Caps%2C390&sr=8-6&th=1&linkCode=ll1&tag=valdio-21&linkId=2a829c9a7805ca93e7ad18740d6cd865&language=en_IN&ref_=as_li_ss_tl",
-
-  "image": "https://m.media-amazon.com/images/I/61Ykrg4OcQL._SX679_.jpg",
-
-  "description": "MuscleBlaze Super Gainer XXL is a high-calorie mass gainer designed to support muscle growth and energy needs. It delivers protein, carbohydrates, vitamins, and minerals for effective muscle recovery and performance.",
-
-  "features": [
-    "15g protein and 75g carbohydrates per scoop",
-    "High-calorie formula with 462 kcal per serving",
-    "Blend of fast and slow-acting proteins",
-    "Enriched with 27 vitamins and minerals",
-    "No added sugar and trans-fat free",
-    "Supports energy management and muscle mass gain"
-  ],
-
-  "colors": [
-    {
-      "name": "Chocolate",
-      "image": "https://m.media-amazon.com/images/I/61Ykrg4OcQL._SX679_.jpg"
-    }
-  ],
-
-  "sizes": ["3 kg"],
-
-  "variants": [
-    {
-      "flavour": "Chocolate",
-      "size": "3 kg",
-      "price": 2599,
-      "mrp": 3829,
-      "discountRate": 32,
-      "image": "https://m.media-amazon.com/images/I/61Ykrg4OcQL._SX679_.jpg"
-    },
-    {
-      "flavour": "Choco Caramel",
-      "size": "3 kg",
-      "price": 2599,
-      "mrp": 4299,
-      "discountRate": 40,
-      "image": "https://m.media-amazon.com/images/I/61knZcCyswL._SX679_.jpg"
-    },
-    {
-      "flavour": "Cookies & Cream",
-      "size": "3 kg",
-      "price": 2599,
-      "mrp": 3829,
-      "discountRate": 32,
-      "image": "https://m.media-amazon.com/images/I/61pd1e-wdrL._SX679_.jpg"
-    }
-  ],
-
-  "productDetails": {
-    "brand": "MuscleBlaze",
-    "flavour": "Chocolate",
-    "primarySupplementType": "Protein",
-    "itemForm": "Powder",
-    "dietType": "Vegetarian",
-    "netQuantity": "3000 g",
-    "itemWeight": "3 kg",
-    "servingsPerPack": 30,
-    "proteinPerServing": "15 g",
-    "carbsPerServing": "75 g",
-    "specialIngredients": [
-      "Maltodextrin",
-      "Milk Solids",
-      "Whey Protein Concentrate",
-      "Barley Malt Extract"
-    ],
-    "productBenefits": "Energy Management",
-    "dimensions": "23.4 x 23.4 x 25.9 cm",
-    "useBy": "20 Mar 2027",
-    "countryOfOrigin": "India"
-  },
-
-  "deliveryInfo": {
-    "delivery": "Amazon Delivered",
-    "returnPolicy": "Non-Returnable",
-    "cashOnDelivery": true,
-    "secureTransaction": true,
-    "freeDelivery": true,
-    "badge": "Top Brand"
-  },
-
-  "offers": {
-    "cashback": "5% cashback with Amazon Pay ICICI Credit Card for Prime members, 3% for others",
-    "emi": "No Cost EMI available on select cards for orders above ₹3000",
-    "businessOffer": "Save up to 4% with Amazon Business account"
-  }
-},
-
-{
-  "id": "muscleblaze-micronised-creatine-creamp-100g",
-  "name": "MuscleBlaze Micronised Creatine Monohydrate CreAMP Powder, Unflavoured (32 Servings, 100g)",
-  "category": "health & nutrition",
-  "price": 509,
-  "discountPrice": 649,
-  "discountRate": 22,
-  "rating": 4.2,
-  "reviews": 35442,
-  "ratingText": "4.2 out of 5 stars",
-  "reviewText": "Based on 35,442 customer ratings on Amazon",
-  "shortLink": "https://amzn.to/4kinNsY",
-  "fullLink": "https://www.amazon.in/MuscleBlaze-Creatine-Monohydrate-Powder-100/dp/B00LLZ82O4?crid=2PFSIKH2I29FN&dib=eyJ2IjoiMSJ9.Y44luTaKcCflylSYsz4vWgkgkK2dWjmTHoLmfk7VVDdQk1cJQ4C045YxfQLKDgKk7iikunaakIOsbIzmtOPXlrB1tU2o7DDGFRb6N6zpzSVh-mbiOsQ-R7b5BkK3Xh6YbhGbqFSGOehDHi1Fs94NZETsbFM_c6umWZVETgnYzqdc2PA9dlajx5jT7WWLP4vMVTnHncToJ8c3LXfep4Q945Nw-ery00Kn1EYDn1ewaUipY6JmUutnmUIMEjx3d2779epdlPtXTcBtkEcF-SpDOu3PY7CiwdnrNEThrVyCozU.ygIp4Tf6XugESoLGMW5-JrAH5UmgGbjl4j1JKhlgBZA&dib_tag=se&keywords=mb%2Bcreatine&qid=1770007185&sprefix=mb%2B%2Caps%2C455&sr=8-5&th=1&linkCode=ll1&tag=valdio-21&linkId=a24bf6d8fec42836d1323a7614863118&language=en_IN&ref_=as_li_ss_tl",
-
-  "image": "https://m.media-amazon.com/images/I/711l1FkCLaL._SX679_.jpg",
-
-
-  "description": "MuscleBlaze Micronised Creatine Monohydrate CreAMP is a high-purity, trustified certified creatine supplement designed for improved absorption, strength enhancement, and muscle recovery.",
-
-  "features": [
-    "Advanced MB CreAbsorb technology for better bioavailability",
-    "100% pure micronised creatine monohydrate",
-    "Unflavoured and easy to mix with any beverage",
-    "Supports strength, endurance, and muscle recovery",
-    "Trustified certified for purity and safety",
-    "Vegetarian-friendly formulation"
-  ],
-
-  "colors": [
-    {
-      "name": "Unflavoured",
-      "image": "https://m.media-amazon.com/images/I/711l1FkCLaL._SX679_.jpg"
-    }
-  ],
-
-  "sizes": ["32 Servings (100 g)"],
-
-  "variants": [
-    {
-      "flavour": "Unflavoured",
-      "size": "32 Servings (100 g)",
-      "price": 509,
-      "mrp": 649,
-      "discountRate": 22,
-      "image": "https://m.media-amazon.com/images/I/711l1FkCLaL._SX679_.jpg"
-    },
-    {
-      "flavour": "Unflavoured",
-      "size": "80 Servings",
-      "price": 1199,
-      "mrp": 1499,
-      "discountRate": 20,
-      "image": "https://m.media-amazon.com/images/I/71Dcb7WEtQL._SX679_.jpg"
-    },
-    {
-      "flavour": "Unflavoured",
-      "size": "129 Servings",
-      "price": 1899,
-      "mrp": 2399,
-      "discountRate": 21,
-      "image": "https://m.media-amazon.com/images/I/71kBXBHId9L._SX679_.jpg"
-    }
-  ],
-
-  "productDetails": {
-    "brand": "MuscleBlaze",
-    "primarySupplementType": "Creatine",
-    "flavour": "Unflavoured",
-    "itemForm": "Powder",
-    "dietType": "Vegetarian",
-    "netQuantity": "100 g",
-    "itemWeight": "100 g",
-    "servingsPerPack": 32,
-    "specialIngredients": ["Creatine"],
-    "productBenefits": "Energy Management",
-    "dimensions": "18.3 x 10.7 x 5.6 cm",
-    "useBy": "03 Mar 2027",
-    "countryOfOrigin": "India"
-  },
-
-  "deliveryInfo": {
-    "delivery": "Amazon Delivered",
-    "returnPolicy": "Non-Returnable",
-    "cashOnDelivery": true,
-    "secureTransaction": true,
-    "freeDelivery": true,
-    "badge": "Amazon's Choice"
-  },
-
-  "offers": {
-    "cashback": "5% cashback with Amazon Pay ICICI Credit Card for Prime members, 3% for others",
-    "partnerOffer": "Spend ₹3000 or more and get 5% off on qualifying items",
-    "businessOffer": "Save up to 4% with Amazon Business account"
-  }
-},
-
-{
-  "id": "cosmic-byte-meteoroid-rgb-laptop-cooling-pad",
-  "name": "Cosmic Byte Meteoroid RGB Laptop Cooling Pad with 6 Fan Upto 17 inch Laptops (Black/Blue)",
-  "category": "Electronics & Accessories",
-  "price": 1499,
-  "discountPrice": 2499,
-  "discountRate": 40,
-  "rating": 4.0,
-  "reviews": 1895,
-  "ratingText": "4.0 out of 5 stars",
-  "reviewText": "Based on 1,895 customer ratings on Amazon",
-  "shortLink": "https://amzn.to/4aeD9tK",
-  "fullLink": "https://www.amazon.in/dp/B08P5QH3P4?social_share=cm_sw_r_cso_wa_apan_dp_6FD2D8DZ0JRW7AWWAERJ&badgeInsights=insights&th=1&linkCode=ll2&tag=valdio-21&linkId=07c8fd786c4edcfc28135d0c894e9254&ref_=as_li_ss_tl",
-
-  "image": "https://m.media-amazon.com/images/I/81nNrR49NfL._SL1500_.jpg",
-
-  "description": "Cosmic Byte Meteoroid RGB laptop cooling pad featuring six high-speed whisper-quiet fans, adjustable height, and RGB lighting modes. Designed for gaming, office work, and efficient heat dissipation for laptops up to 17 inches.",
-
-  "features": [
-    "6 high-speed whisper-quiet cooling fans",
-    "Supports laptops up to 17 inches",
-    "Adjustable height for ergonomic viewing",
-    "RGB LED lighting with 12 modes",
-    "Dual wind-speed control buttons",
-    "Durable build with stable anti-slip design"
-  ],
-
-  "colors": [
-    {
-      "name": "Black / Blue",
-      "image": "https://m.media-amazon.com/images/I/81nNrR49NfL._SL1500_.jpg"
-    }
-  ],
-
-  "sizes": ["Up to 17 inch"],
-
-  "variants": [
-    {
-      "pattern": "Cooling Pad",
-      "style": "RGB LED",
-      "color": "Black / Blue",
-      "price": 1499,
-      "mrp": 2499,
-      "discountRate": 40,
-      "image": "https://m.media-amazon.com/images/I/51pn2WF7DDL.jpg"
-    }
-  ],
-
-  "productDetails": {
-    "brand": "Cosmic Byte",
-    "coolingMethod": "Fan",
-    "numberOfFans": 6,
-    "itemWeight": "840 g",
-    "dimensions": "42.6 x 28 x 3.7 cm",
-    "patternName": "Cooling Pad",
-    "styleName": "RGB LED",
-    "adjustableHeight": true,
-    "lightingModes": 12,
-    "recommendedUse": [
-      "Gaming",
-      "Office",
-      "Business"
-    ],
-    "compatibleLaptopSize": "Up to 17 inch"
-  },
-
-  "deliveryInfo": {
-    "delivery": "Amazon Delivered",
-    "returnPolicy": "10 Days Service Centre Replacement",
-    "cashOnDelivery": true,
-    "secureTransaction": true,
-    "freeDelivery": true,
-    "badge": "Top Brand"
-  },
-
-  "warranty": {
-    "duration": "1 Year",
-    "type": "Manufacturer Warranty"
-  },
-
-  "offers": {
-    "bankOffer": "Up to ₹1,000 discount on select Credit & Debit Cards",
-    "cashback": "Up to ₹74 Amazon Pay Cashback on ICICI Credit Cards",
-    "partnerOffer": "Get GST invoice and save up to 18% on business purchases",
-    "emi": "EMI starts at ₹137 per month"
-  }
-},
-
-{
-  "id": "roff-cera-clean-tile-floor-cleaner-1l",
-  "name": "Roff Cera Clean All Purpose Tile, Floor & Wall Cleaner 1 Litre (Pack of 1)",
-  "category": "home & cleaning",
-  "price": 179,
-  "discountPrice": 225,
-  "discountRate": 20,
-  "rating": 4.0,
-  "reviews": 38116,
-  "ratingText": "4.0 out of 5 stars",
-  "reviewText": "Based on 38,116 customer ratings on Amazon",
-  "shortLink": "https://amzn.to/45UKj56",
-  "fullLink": "https://www.amazon.in/Pidilite-Purpose-Cleaner-Advance-Bathroom/dp/B01LZSWXWI?crid=3J614JB1SV41O&dib=eyJ2IjoiMSJ9.1OWnjurhf7STl88hKjIBDEvo0DGjhIH6JHsYyN7SfO2a4swg2k4az4tbNMDPvZYLHcvK7VEmqzDeVbLHmdlKPyQ_o1EvYk3t1BbMCJzBU_y9kksgtlVYgAklvk5cKiHoEZWJYAFWAzcJhJql6CueDhuj_jrihNqwyqRx6E11j_qz1b8gkS_tUGVMxzFE_YYIoNOExkLBygJSBF9s0jDJTOT6b830WzP3AX7UtcLt-Xjoqjh5AFT946Hrh8TghiQss7yHpmdl0qz9lOmFIad8JkoIkWsDkzIquPJFcNvdhMg.UgnoLTevFek3AT6fSUiyBrN8NX46Qhmj9B3AKxhxkks&dib_tag=se&keywords=roff&qid=1770559561&sprefix=ro%2Caps%2C542&sr=8-1-spons&aref=1iNvooaxw7&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1&linkCode=ll2&tag=valdio-21&linkId=82d1713731b38a7a53c7e5afd27305bb&ref_=as_li_ss_tl",
-
-  "image": "https://m.media-amazon.com/images/I/51m+-Z0kk3L._SL1000_.jpg",
-
-  "description": "Roff Cera Clean is a powerful all-purpose tile, floor, and wall cleaner designed to remove grease, dirt, oil, and tough stains while preserving the shine of tiles and ceramic surfaces.",
-
-  "features": [
-    "Multi-surface tile and ceramic cleaner",
-    "Effectively removes grease, grime, oil & tough stains",
-    "Safe on tiles and preserves surface shine",
-    "Concentrated acidic formula for deep cleaning",
-    "Suitable for bedroom, bathroom, kitchen & garage floors",
-    "Can be used diluted or undiluted based on stain level"
-  ],
-
-  "colors": [
-    {
-      "name": "Liquid (Clear)",
-      "image": "https://m.media-amazon.com/images/I/51m+-Z0kk3L._SL1000_.jpg"
-    }
-  ],
-
-  "sizes": ["1 Litre"],
-
-  "variants": [
-    {
-      "size": "1 L (Pack of 1)",
-      "price": 179,
-      "mrp": 225,
-      "discountRate": 20,
-      "image": "https://m.media-amazon.com/images/I/71g5Q2z4V6L._SX679_.jpg"
-    },
-    {
-      "size": "1 L (Pack of 2)",
-      "price": 330,
-      "mrp": 450,
-      "discountRate": 27,
-      "image": "https://m.media-amazon.com/images/I/61l2GrU0hgL._SL1000_.jpg"
-    },
-    {
-      "size": "1 L (Pack of 3)",
-      "price": 460,
-      "mrp": 675,
-      "discountRate": 32,
-      "image": "https://m.media-amazon.com/images/I/61WE5Ft2qLL._SL1000_.jpg"
-    },
-    {
-      "size": "1 L (Pack of 4)",
-      "price": 600,
-      "mrp": 900,
-      "discountRate": 33,
-      "image": "https://m.media-amazon.com/images/I/61PfXg8aG+L._SL1000_.jpg"
-    }
-  ],
-
-  "productDetails": {
-    "brand": "Roff",
-    "itemForm": "Liquid",
-    "scent": "Thyme",
-    "specificUses": ["Floor", "Tile", "Wall"],
-    "surfaceRecommendation": "Floor & Tiles",
-    "materialFeature": "Acidic",
-    "specialFeature": "Concentrated",
-    "itemVolume": "1 Litre",
-    "netQuantity": "1000 ml",
-    "materialTypeFree": "Acidic",
-    "safetyPrecaution": "Use gloves for sensitive skin",
-    "countryOfOrigin": "India"
-  },
-
-  "deliveryInfo": {
-    "delivery": "Amazon Delivered",
-    "returnPolicy": "Non-Returnable",
-    "cashOnDelivery": true,
-    "secureTransaction": true,
-    "freeDelivery": true,
-    "badge": "Top Brand"
-  },
-
-  "offers": {
-    "cashback": "5% cashback with Amazon Pay ICICI Credit Card for Prime members, 3% for others",
-    "bankOffer": "7.5% instant discount up to ₹1250 on Axis Bank Credit Card EMI (min purchase ₹7500)",
-    "businessOffer": "Save up to 35% with Amazon Business account"
-  }
-},
-
-{
-  "id": "muscleblaze-biozyme-performance-whey-rocky-road-fudge-1kg",
-  "name": "MuscleBlaze Biozyme Performance Whey Protein Powder | Rocky Road Fudge (1kg / 2.2lbs)",
-  "category": "Health & Nutrition",
-  "price": 2949,
-  "discountPrice": 3349,
-  "discountRate": 12,
-  "rating": 4.2,
-  "reviews": 17326,
-  "ratingText": "4.2 out of 5 stars",
-  "reviewText": "Based on 17,326 customer ratings on Amazon",
-  "shortLink": "https://amzn.to/45WZQkQ",
-  "fullLink": "https://www.amazon.in/dp/B0G1M1W72M?social_share=cm_sw_r_cso_wa_apan_dp_LIGHTSABER22K3D8563I&badgeInsights=bestseller-insights&th=1&linkCode=ll2&tag=valdio-21&linkId=146d8dce97848cb7603ed8f32d486bbb&ref_=as_li_ss_tl",
-
-  "image": "https://m.media-amazon.com/images/I/71JD4mzz4XL._SL1500_.jpg",
-
-  "description": "MuscleBlaze Biozyme Performance Whey Protein is a clinically tested whey protein formula with Enhanced Absorption Formula (EAF) that delivers 50% higher protein absorption for superior muscle gain, recovery, and lean muscle support.",
-
-  "features": [
-    "25g high-quality whey protein per scoop",
-    "Clinically tested for 50% higher protein absorption",
-    "Enhanced Absorption Formula (EAF)",
-    "Certified by Informed Choice (UK), Labdoor (USA) & Trustified",
-    "No amino spiking and free from heavy metals",
-    "Innovative scoop-on-top hygienic packaging"
-  ],
-
-  "colors": [
-    {
-      "name": "Rocky Road Fudge",
-      "image": "https://m.media-amazon.com/images/I/71JD4mzz4XL._SL1500_.jpg"
-    }
-  ],
-
-  "sizes": ["1 kg"],
-
-  "variants": [
-    {
-      "flavour": "Rocky Road Fudge",
-      "size": "1 kg (Pack of 1)",
-      "price": 2949,
-      "mrp": 3349,
-      "discountRate": 12,
-      "image": "https://m.media-amazon.com/images/I/71JD4mzz4XL._SL1500_.jpg"
-    },
-    {
-      "flavour": "Rocky Road Fudge",
-      "size": "2 kg (Pack of 1)",
-      "price": 5499,
-      "mrp": 6699,
-      "discountRate": 18,
-      "image": "https://m.media-amazon.com/images/I/71JD4mzz4XL._SL1500_.jpg"
-    }
-  ],
-
-  "productDetails": {
-    "brand": "MuscleBlaze",
-    "proteinSource": "Whey",
-    "proteinPerServing": "25 g",
-    "servingsPerContainer": 28,
-    "itemForm": "Powder",
-    "dietType": "Vegetarian",
-    "netQuantity": "1000 g",
-    "itemWeight": "1 kg",
-    "packageType": "Jar",
-    "productBenefits": [
-      "Maximize muscle gain",
-      "Muscle recovery",
-      "Support lean muscle gain"
-    ],
-    "certifications": [
-      "Informed Choice (UK)",
-      "Labdoor (USA)",
-      "Trustified"
-    ],
-    "useBy": "22 Nov 2026",
-    "countryOfOrigin": "India"
-  },
-
-  "deliveryInfo": {
-    "delivery": "Amazon Delivered",
-    "returnPolicy": "Non-Returnable",
-    "cashOnDelivery": true,
-    "secureTransaction": true,
-    "freeDelivery": true,
-    "badge": "#1 Best Seller"
-  },
-
-  "offers": {
-    "cashback": "5% cashback with Amazon Pay ICICI Credit Card for Prime members, 3% for others",
-    "emi": "No Cost EMI available on select cards for orders above ₹3000",
-    "businessOffer": "Save up to 4% with Amazon Business account"
-  }
-},
-
-{
-  "id": "greeya-37-ball-silicone-ice-cube-tray",
-  "name": "Ice Cube Tray - BPA Free Silicone Flexible Easy Release 37 Ball Ice Cube Maker",
-  "category": "Home & Kitchen",
-  "price": 299,
-  "discountPrice": 598,
-  "discountRate": 50,
-  "rating": 5.0,
-  "reviews": 14,
-  "ratingText": "5.0 out of 5 stars",
-  "reviewText": "Based on 14 customer ratings on Amazon",
-  "shortLink": "https://amzn.to/4rRHfPL",
-  "fullLink": "https://www.amazon.in/dp/B0FNWR262M?social_share=cm_sw_r_ud_dp_GRCYFV602KCWC7FEY862&linkCode=ll2&tag=valdio-21&linkId=a303a6d7f04c21ac207f75184effab88&ref_=as_li_ss_tl",
-
-  "image": "https://m.media-amazon.com/images/I/51J7kYE59tL._SL1080_.jpg",
-
-  "description": "GREEYA BPA-free silicone ice cube tray designed to create 37 round ice balls. Flexible, durable, and easy to release, perfect for cocktails, whiskey, smoothies, and baby food storage.",
-
-  "features": [
-    "Made from BPA-free food-grade silicone",
-    "Creates 37 round ice balls (2.4 cm each)",
-    "Flexible and non-stick for easy release",
-    "Stackable lid prevents leakage and odor absorption",
-    "Reusable, durable, and easy to clean",
-    "Suitable for drinks, cocktails, juices, smoothies & baby food"
-  ],
-
-  "colors": [
-    {
-      "name": "Green",
-      "image": "https://m.media-amazon.com/images/I/51J7kYE59tL._SL1080_.jpg"
-    }
-  ],
-
-  "sizes": ["21.5 x 13 cm"],
-
-  "variants": [
-    {
-      "color": "Green",
-      "size": "21.5 x 13 cm",
-      "price": 299,
-      "mrp": 598,
-      "discountRate": 50,
-      "image": "https://m.media-amazon.com/images/I/61-ZeBUCb0L._SL1500_.jpg"
-    }
-  ],
-
-  "productDetails": {
-    "brand": "GREEYA",
-    "material": "BPA-Free Food Grade Silicone",
-    "shape": "Rectangular",
-    "iceBallSize": "2.4 cm",
-    "trayDimensions": "21.5 x 13 x 2.6 cm",
-    "productDimensions": "25 x 12.5 x 21.5 mm",
-    "itemWeight": "182 g",
-    "numberOfItems": 1,
-    "manufacturer": "GREEYA",
-    "specialFeatures": [
-      "Flexible",
-      "Easy Release",
-      "Reusable",
-      "Stackable Lid"
-    ],
-    "countryOfOrigin": "India"
-  },
-
-  "deliveryInfo": {
-    "delivery": "Amazon Delivered",
-    "returnPolicy": "10 Days Returnable",
-    "cashOnDelivery": false,
-    "secureTransaction": true,
-    "freeDelivery": true,
-    "badge": "Amazon's Choice"
-  },
-
-  "offers": {
-    "coupon": "Extra 2% off coupon available",
-    "cashback": "Up to ₹14 Amazon Pay Cashback on ICICI Credit Cards",
-    "bankOffer": "Up to ₹1,000 discount on select Credit & Debit Cards",
-    "businessOffer": "Save up to 11% with Amazon Business account"
-  }
-},
-
-{
-  "id": "sunpet-100ml-plastic-jar-pack-12",
-  "name": "Sunpet 100 ML Plastic Jar Container (Pack of 12 Pieces)",
-  "category": "Home & Kitchen",
-  "price": 166,
-  "discountPrice": 360,
-  "discountRate": 54,
-  "rating": 4.0,
-  "reviews": 33,
-  "ratingText": "4.0 out of 5 stars",
-  "reviewText": "Based on 33 customer ratings on Amazon",
-  "shortLink": "https://amzn.to/4rK3DKG",
-  "fullLink": "https://www.amazon.in/gp/product/B07Y52RD78?smid=AK045FGFROW25&psc=1&linkCode=ll2&tag=valdio-21&linkId=512d0b4e945c91e478ae3107d64a56c3&ref_=as_li_ss_tl",
-
-  "image": "https://m.media-amazon.com/images/I/31l8QO6XpzL.jpg",
-
-  "description": "Sunpet plastic jar containers are durable, reusable, and food-grade storage solutions. Ideal for storing spices, snacks, creams, and small household items.",
-
-  "features": [
-    "Pack of 12 plastic jars",
-    "100 ml capacity per container",
-    "Food-grade and safe material",
-    "Reusable and freezer-safe",
-    "Transparent design for easy visibility",
-    "Lightweight and durable"
-  ],
-
-  "colors": [
-    {
-      "name": "Transparent",
-      "image": "https://m.media-amazon.com/images/I/31l8QO6XpzL.jpg"
-    }
-  ],
-
-  "sizes": ["100 ml"],
-
-  "variants": [
-    {
-      "color": "Transparent",
-      "size": "100 ml (Pack of 12)",
-      "price": 166,
-      "mrp": 360,
-      "discountRate": 54,
-      "image": "https://m.media-amazon.com/images/I/31l8QO6XpzL.jpg"
-    }
-  ],
-
   "productDetails": {
     "brand": "Sunpet",
-    "material": "Plastic",
-    "capacity": "100 ml",
-    "materialFeatures": [
+    "material": "Polyurethane",
+    "materialFeature": [
+      "Dishwasher Safe",
       "Food Grade",
       "Freezer Safe",
-      "Reusable"
+      "BPA Less"
     ],
-    "color": "Transparent",
-    "packSize": 12,
-    "recommendedUse": [
-      "Kitchen Storage",
-      "Spices",
-      "Snacks",
-      "Cosmetic Storage"
+    "shape": "Round",
+    "capacity": "250 ml",
+    "numberOfItems": 12,
+    "specialFeatures": [
+      "Reusable",
+      "Dishwasher Safe",
+      "Freezer Safe"
     ],
     "countryOfOrigin": "India"
   },
-
   "deliveryInfo": {
     "delivery": "Amazon Delivered",
     "returnPolicy": "10 Days Returnable",
@@ -6658,18 +5309,164 @@
     "freeDelivery": true,
     "badge": "Top Brand"
   },
-
   "offers": {
     "coupon": "Extra 2% off coupon available",
-    "cashback": "Up to ₹8 Amazon Pay Cashback on ICICI Credit Cards",
+    "cashback": "Up to ₹7 Amazon Pay Cashback on ICICI Credit Cards",
     "bankOffer": "Up to ₹1,500 discount on select Credit & Debit Cards",
-    "partnerOffer": "Buy 2 or more and get 3% off on qualifying items",
-    "businessOffer": "Save up to 38% with Amazon Business account"
+    "businessOffer": "Buy 2 or more and get 3% off on qualifying items"
+  }
+},
+{
+  "id": "exotic-aromas-essential-oil-pack-of-5",
+  "name": "Exotic Aromas Essential Oil - Lavender, Lemongrass, Jasmine, Orange, Rose (Pack of 5)",
+  "category": "Health_PersonalCare",
+  "discountPrice": 399,
+  "price": 1995,
+  "discountRate": 80,
+  "rating": 4.1,
+  "reviews": 18264,
+  "ratingText": "4.1 out of 5 stars",
+  "reviewText": "Based on 18,264 customer ratings on Amazon",
+  "shortLink": "https://amzn.to/4bVg69S",
+  "fullLink": "https://www.amazon.in/gp/product/B07SZQ7LTC?smid=A2E4G1G5UA4HDU&th=1&linkCode=ll2&tag=valdio-21&linkId=8d1e21e37c3ec3d1bf9449b5e4f31362&ref_=as_li_ss_tl",
+  "image": "https://m.media-amazon.com/images/I/71tByj-xe2L._SL1080_.jpg",
+  "description": "Exotic Aromas therapeutic-grade essential oil pack containing Lavender, Lemongrass, Jasmine, Orange, and Rose oils. Ideal for aromatherapy, relaxation, diffusers, humidifiers, and home fragrance.",
+  "features": [
+    "Pack of 5 essential oils: Lavender, Lemongrass, Jasmine, Orange, Rose",
+    "100% steam distilled, natural and organic oils",
+    "Therapeutic grade for aromatherapy use",
+    "Suitable for diffusers, humidifiers, sprays, and massage blends",
+    "Helps promote relaxation and stress relief",
+    "For external use only"
+  ],
+  "scents": [
+    "Lavender",
+    "Lemongrass",
+    "Jasmine",
+    "Orange",
+    "Rose"
+  ],
+  "sizes": [
+    "50 ml (Pack of 5)"
+  ],
+  "variants": [
+    {
+      "scent": "5 Essential Oil Pack",
+      "size": "50 ml",
+      "discountPrice": 399,
+      "mrp": 1995,
+      "discountRate": 80,
+      "image": "https://m.media-amazon.com/images/I/71MdhMT8HfL._SL1080_.jpg"
+    }
+  ],
+  "productDetails": {
+    "brand": "Exotic Aromas",
+    "material": "Essential Oil",
+    "specialFeature": "Aromatherapy",
+    "productBenefits": "Relaxation",
+    "seasons": "All Seasons",
+    "capacity": "50 ml",
+    "numberOfItems": 5,
+    "useBy": "01 DEC 2026",
+    "specialFeatures": [
+      "Steam Distilled",
+      "Natural & Organic",
+      "Therapeutic Grade"
+    ],
+    "usageInstructions": [
+      "Add a few drops to a diffuser or oil burner",
+      "Mix with water-based solution to deodorize rooms",
+      "Dilute with carrier oil for topical application (max 1% concentration)"
+    ],
+    "safetyInformation": [
+      "For external use only",
+      "Do not ingest"
+    ],
+    "countryOfOrigin": "India"
+  },
+  "deliveryInfo": {
+    "delivery": "Amazon Delivered",
+    "returnPolicy": "Non-Returnable",
+    "cashOnDelivery": true,
+    "secureTransaction": true,
+    "freeDelivery": true,
+    "badge": "Amazon's Choice"
+  },
+  "offers": {
+    "coupon": "",
+    "cashback": "Up to ₹11 Amazon Pay Cashback on ICICI Credit Cards",
+    "bankOffer": "Up to ₹750 discount on select Credit & Debit Cards",
+    "businessOffer": "Spend ₹1000 or more and get 5% off on qualifying items"
+  }
+},
+{
+  "id": "urban-platter-xanthan-gum-powder-200g",
+  "name": "Urban Platter Xanthan Gum Powder, 200g",
+  "category": "Grocery_GourmetFood",
+  "discountPrice": 299,
+  "price": 350,
+  "discountRate": 15,
+  "rating": 4.1,
+  "reviews": 955,
+  "ratingText": "4.1 out of 5 stars",
+  "reviewText": "Based on 955 customer ratings on Amazon",
+  "shortLink": "https://www.amazon.in/gp/product/B01ELJ18OM/ref=ox_sc_act_title_2?smid=A3CJIYO6X9DIRJ&psc=1",
+  "fullLink": "https://www.amazon.in/gp/product/B01ELJ18OM/ref=ox_sc_act_title_2?smid=A3CJIYO6X9DIRJ&psc=1",
+  "image": "https://m.media-amazon.com/images/I/81bb9VYfJnL._SL1500_.jpg",
+  "description": "Urban Platter Xanthan Gum Powder is a premium food-grade thickening and stabilizing agent, commonly used in baking, gluten-free recipes, sauces, dressings, and beverages.",
+  "features": [
+    "Premium quality xanthan gum powder",
+    "Used as a thickener and stabilizer in food",
+    "Ideal for baking, sauces, dressings, and beverages",
+    "Suitable for gluten-free cooking",
+    "Food-grade and safe for consumption"
+  ],
+  "sizes": [
+    "200 g"
+  ],
+  "variants": [
+    {
+      "size": "200 g",
+      "discountPrice": 299,
+      "mrp": 350,
+      "discountRate": 15,
+      "image": "https://m.media-amazon.com/images/I/81bb9VYfJnL._SL1500_.jpg"
+    }
+  ],
+  "productDetails": {
+    "brand": "Urban Platter",
+    "material": "Xanthan Gum Powder",
+    "dietType": "Gluten Free",
+    "itemForm": "Powder",
+    "netQuantity": "200 g",
+    "numberOfItems": 1,
+    "useBy": "02 JAN 2027",
+    "specialFeatures": [
+      "Food Grade",
+      "Gluten Free",
+      "Versatile Thickener"
+    ],
+    "usage": [
+      "Used in baking and gluten-free recipes",
+      "Acts as a thickening agent in sauces and dressings",
+      "Improves texture and consistency of food"
+    ],
+    "countryOfOrigin": "India"
+  },
+  "deliveryInfo": {
+    "delivery": "Amazon Delivered",
+    "returnPolicy": "Non-Returnable",
+    "cashOnDelivery": true,
+    "secureTransaction": true,
+    "freeDelivery": true,
+    "badge": "Amazon's Choice"
+  },
+  "offers": {
+    "coupon": "Extra 10% off coupon available",
+    "cashback": "Up to ₹8 Amazon Pay Cashback on ICICI Credit Cards",
+    "bankOffer": "",
+    "businessOffer": "Buy 2 or more and get 5% off on qualifying items"
   }
 }
-
-
-
-
 
 ]
