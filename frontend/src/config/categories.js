@@ -7,7 +7,7 @@ const categories = [
     image: "https://m.media-amazon.com/images/I/61qPfqflVWL._SL1200_.jpg",
   },
   {
-    key: "Electronics & Accessories",
+    key: "Electronics-Accessories",
     name: "Electronics Accessories",
     image: "https://m.media-amazon.com/images/I/51a0YTClysL._SX679_.jpg",
   },
@@ -29,12 +29,12 @@ const categories = [
 
   /* Fashion */
   {
-    key: "Apparel & Accessories",
+    key: "Apparel-Accessories",
     name: "Apparel",
     image: "https://m.media-amazon.com/images/I/51OtG0Rir1L.jpg",
   },
   {
-    key: "Fashion Accessories",
+    key: "Fashion-Accessories",
     name: "Fashion Accessories",
     image: "https://m.media-amazon.com/images/I/718Oh-VUpJL._SY695_.jpg",
   },
@@ -46,12 +46,12 @@ const categories = [
 
   /* Beauty & Health */
   {
-    key: "Beauty & Personal Care",
+    key: "Beauty-Personal-Care",
     name: "Beauty & Care",
     image: "https://m.media-amazon.com/images/I/61fqwozv1BL._SL1500_.jpg",
   },
   {
-    key: "beauty & makeup",
+    key: "beauty-makeup",
     name: "Beauty & Makeup",
     image: "https://m.media-amazon.com/images/I/411McCP6RwL.jpg",
   },
@@ -63,12 +63,12 @@ const categories = [
 
   /* Home */
   {
-    key: "Home & Kitchen",
+    key: "Home_Kitchen",
     name: "Home & Kitchen",
     image: "https://m.media-amazon.com/images/I/61a-4xTRTxL._SL1080_.jpg",
   },
   {
-    key: "Kitchen & Dining",
+    key: "Kitchen-Dining",
     name: "Kitchen & Dining",
     image: "https://m.media-amazon.com/images/I/51OPj7YDZ+L._SL1000_.jpg",
   },
@@ -78,12 +78,12 @@ const categories = [
     image: "https://m.media-amazon.com/images/I/518eaTa9hmL._SX679_.jpg",
   },
   {
-    key: "home & decor",
+    key: "home-decor",
     name: "Home Decor",
     image: "https://m.media-amazon.com/images/I/61xO0lWxdOL._SX425_.jpg",
   },
   {
-    key: "home & furniture",
+    key: "home-furniture",
     name: "Furniture",
     image: "/categories/furniture.png",
   },
@@ -93,26 +93,20 @@ const categories = [
     image: "/categories/bottle.png",
   },
 
-  /* Baby */
   {
-    key: "baby-care",
+    key: "Baby-Care",
     name: "Baby Care",
     image: "/categories/baby.png",
   },
   {
-    key: "Baby Care",
-    name: "Baby Care",
-    image: "/categories/baby.png",
-  },
-  {
-    key: "Baby Products",
+    key: "Baby-Products",
     name: "Baby Products",
     image: "/categories/baby.png",
   },
 
   /* Grocery */
   {
-    key: "Grocery & Gourmet Food",
+    key: "Grocery-Gourmet-Food",
     name: "Grocery",
     image: "/categories/grocery.png",
   },
@@ -134,7 +128,7 @@ const categories = [
     image: "/categories/stationery.png",
   },
   {
-    key: "Gifts & Stationery",
+    key: "Gifts-Stationery",
     name: "Gifts",
     image: "/categories/gift.png",
   },
@@ -162,6 +156,25 @@ const categories = [
     name: "Jewellery",
     image: "https://m.media-amazon.com/images/I/71zuVzAzUiL._SY535_.jpg",
   },
+  {
+    key:"home-cleaning",
+    name:"home & cleaning",
+    image:""
+
+  },
+  {
+    key:"health-nutrition",
+    name:"health & nutrition",
+    image:""
+  },
+  {
+    key:"Health_Nutrition",
+    name:"Health_Nutrition",
+    image:"https://m.media-amazon.com/images/I/71JD4mzz4XL._SL1500_.jpg"
+  }
+
+
 ];
 
 export default categories;
+

@@ -1,134 +1,147 @@
 import React from "react";
+import { Check, ShieldCheck, Zap, Crown } from "lucide-react";
 
 const Pricing = () => {
   const plans = [
     {
-      name: "Basic",
-      price: 499,
+      name: "Member",
+      price: "0",
+      description: "Fundamental access to the Valdio curation directory.",
       features: [
-        "Access to all products",
-        "Email support",
-        "Community access",
+        "Dynamic Product Directory",
+        "Institutional Support",
+        "Public Curated Collections",
       ],
-      buttonText: "Get Started",
+      buttonText: "Register Free",
       highlight: false,
+      icon: Zap
     },
     {
-      name: "Pro",
-      price: 999,
+      name: "Insider",
+      price: "999",
+      description: "Priority insights and advanced curation tools for practitioners.",
       features: [
-        "All Basic features",
-        "Early access to new products",
-        "Priority email support",
-        "Special discounts on sales",
+        "Early Collection Access",
+        "Priority Concierge Support",
+        "Exclusive Market Analysis",
+        "Insider Member Pricing"
       ],
-      buttonText: "Buy Now",
+      buttonText: "Gain Access",
       highlight: true,
+      icon: ShieldCheck
     },
     {
-      name: "Premium",
-      price: 1499,
+      name: "Elite",
+      price: "2499",
+      description: "The absolute frontier of the Valdio experience.",
       features: [
-        "All Pro features",
-        "1-on-1 customer support",
-        "Exclusive product previews",
-        "Free shipping on all orders",
+        "Bespoke Curation Inquiries",
+        "1-on-1 Legal Concierge",
+        "Ultra-Premium Previews",
+        "Complimentary Global Logistics"
       ],
-      buttonText: "Subscribe",
+      buttonText: "Join the Elite",
       highlight: false,
+      icon: Crown
     },
   ];
 
   return (
-    <section className="py-20 bg-gradient-to-b from-gray-50 to-gray-100 font-[Poppins]">
-      <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
-        {/* Section Heading */}
-        <h2 className="text-4xl font-extrabold text-gray-900 mb-4">
-          Our Pricing Plans
-        </h2>
-        <p className="text-gray-600 mb-12 max-w-2xl mx-auto text-lg">
-          Choose the plan that best fits your needs. Upgrade anytime to unlock
-          premium features and support.
-        </p>
+    <div className="min-h-screen bg-white text-slate-700 py-24 px-6 font-display">
+      <div className="max-w-7xl mx-auto">
+        {/* Header Section */}
+        <div className="mb-24 text-center">
+          <div className="inline-block px-4 py-1.5 bg-slate-900 text-white text-[10px] font-black uppercase tracking-[0.3em] rounded-full mb-6">
+            Institutional Membership
+          </div>
+          <h1 className="text-6xl sm:text-7xl font-black text-slate-950 mb-8 tracking-tighter">
+            The Elite Collective
+          </h1>
+          <p className="text-slate-400 font-medium text-xl max-w-2xl mx-auto leading-relaxed">
+            Choose your tier of integration within the Valdio ecosystem. Unlock exclusive insights and bespoke institutional support.
+          </p>
+        </div>
 
         {/* Pricing Cards */}
-        <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-8">
+        <div className="grid grid-cols-1 lg:grid-cols-3 gap-8 items-stretch">
           {plans.map((plan, index) => (
             <div
               key={index}
-              className={`rounded-3xl shadow-xl p-8 flex flex-col justify-between transition-transform transform hover:-translate-y-2 hover:shadow-2xl ${
-                plan.highlight
-                  ? "bg-gradient-to-r from-blue-600 to-purple-600 text-white scale-105"
-                  : "bg-white text-gray-900"
-              }`}
+              className={`rounded-[3rem] p-10 sm:p-14 flex flex-col border transition-all duration-500 overflow-hidden relative group ${plan.highlight
+                  ? "bg-slate-950 border-slate-950 text-white shadow-2xl shadow-slate-200 lg:scale-105 z-10"
+                  : "bg-slate-50 border-slate-100 text-slate-950 hover:border-slate-200"
+                }`}
             >
-              <div>
-                <h3
-                  className={`text-2xl font-bold mb-4 ${
-                    plan.highlight ? "text-white" : "text-gray-900"
-                  }`}
-                >
-                  {plan.name}
-                </h3>
-                <p
-                  className={`text-4xl font-extrabold mb-6 ${
-                    plan.highlight ? "text-white" : "text-gray-900"
-                  }`}
-                >
-                  ₹{plan.price}
-                  <span
-                    className={`text-lg font-medium ${
-                      plan.highlight ? "text-gray-200" : "text-gray-600"
-                    }`}
-                  >
-                    {" "}
-                    /month
-                  </span>
+              {plan.highlight && (
+                <div className="absolute top-8 right-8 bg-white/10 px-4 py-1 rounded-full text-[10px] font-black uppercase tracking-widest">
+                  Most Preferred
+                </div>
+              )}
+
+              <div className="relative z-10 flex-1">
+                <div className={`w-14 h-14 rounded-2xl flex items-center justify-center mb-10 transition-colors duration-500 ${plan.highlight ? "bg-white/10 text-white" : "bg-slate-900 text-white group-hover:bg-primary"
+                  }`}>
+                  <plan.icon size={28} strokeWidth={1.5} />
+                </div>
+
+                <h3 className="text-3xl font-black mb-4 tracking-tight uppercase tracking-wider">{plan.name}</h3>
+                <p className={`text-sm font-medium mb-10 leading-relaxed ${plan.highlight ? "text-slate-400" : "text-slate-500"
+                  }`}>
+                  {plan.description}
                 </p>
-                <ul className="space-y-3 text-left">
+
+                <div className="mb-12">
+                  <div className="flex items-baseline gap-2">
+                    <span className="text-5xl font-black tracking-tighter">₹{plan.price}</span>
+                    <span className={`text-sm font-bold uppercase tracking-widest ${plan.highlight ? "text-slate-500" : "text-slate-400"
+                      }`}>/ annum</span>
+                  </div>
+                </div>
+
+                <ul className="space-y-6 mb-12">
                   {plan.features.map((feature, i) => (
-                    <li
-                      key={i}
-                      className={`flex items-center gap-2 text-base ${
-                        plan.highlight ? "text-gray-100" : "text-gray-700"
-                      }`}
-                    >
-                      <span
-                        className={`inline-block w-2.5 h-2.5 rounded-full ${
-                          plan.highlight
-                            ? "bg-white"
-                            : "bg-gradient-to-r from-blue-600 to-purple-600"
-                        }`}
-                      ></span>
-                      {feature}
+                    <li key={i} className="flex gap-4 items-center">
+                      <div className={`flex-shrink-0 w-5 h-5 rounded-full flex items-center justify-center ${plan.highlight ? "bg-white/20 text-white" : "bg-slate-950 text-white"
+                        }`}>
+                        <Check size={12} strokeWidth={4} />
+                      </div>
+                      <span className={`text-sm font-bold tracking-wide ${plan.highlight ? "text-slate-300" : "text-slate-600"
+                        }`}>{feature}</span>
                     </li>
                   ))}
                 </ul>
               </div>
 
-              {/* Button */}
               <button
-                className={`mt-8 py-3 rounded-xl font-semibold text-lg transition-all duration-300 ${
-                  plan.highlight
-                    ? "bg-white text-blue-600 hover:bg-gray-100"
-                    : "bg-gradient-to-r from-blue-600 to-purple-600 text-white hover:shadow-lg hover:scale-[1.02]"
-                }`}
+                className={`w-full py-5 rounded-2xl font-black uppercase text-xs tracking-[0.25em] transition-all active:scale-[0.98] shadow-xl ${plan.highlight
+                    ? "bg-white text-slate-950 hover:bg-slate-100"
+                    : "bg-slate-900 text-white hover:bg-primary"
+                  }`}
               >
                 {plan.buttonText}
               </button>
+
+              {!plan.highlight && (
+                <div className="absolute -right-20 -bottom-20 w-40 h-40 bg-slate-100 rounded-full blur-3xl group-hover:bg-slate-200 transition-all duration-700" />
+              )}
             </div>
           ))}
         </div>
 
-        {/* Bottom Text */}
-        <p className="mt-12 text-gray-600 text-lg">
-          Need a custom plan?{" "}
-          <span className="text-blue-600 hover:underline cursor-pointer">
-            Contact us
-          </span>
-        </p>
+        {/* Corporate Inquiry */}
+        <div className="mt-32 text-center border-t border-slate-50 pt-20">
+          <p className="text-slate-400 font-medium text-lg mb-8">
+            Requiring professional enterprise solutions or bulk institutional access?
+          </p>
+          <a
+            href="/contact"
+            className="text-slate-950 font-black uppercase text-sm tracking-[0.3em] border-b-2 border-slate-950 pb-2 hover:text-primary hover:border-primary transition-all"
+          >
+            Corporate Inquiry
+          </a>
+        </div>
       </div>
-    </section>
+    </div>
   );
 };
 

@@ -1,5 +1,5 @@
-import React, { useMemo, useRef, useState } from "react";
-import { useNavigate } from "react-router-dom";
+import React, { useMemo, useRef, useState, useEffect } from "react";
+import { useNavigate, useSearchParams } from "react-router-dom";
 import {
   Grid,
   List,
@@ -20,6 +20,7 @@ const ITEMS_PER_PAGE = 12;
 
 const Products = () => {
   const navigate = useNavigate();
+  const [searchParams, setSearchParams] = useSearchParams();
   const { favorites, toggleFavorite } = useLocalFavorites("favorites");
   const { addToCart } = useCart();
 
@@ -27,11 +28,20 @@ const Products = () => {
   const desktopCategoryRef = useRef(null);
   const mobileCategoryRef = useRef(null);
 
-  const [search, setSearch] = useState("");
-  const [categoryFilter, setCategoryFilter] = useState("");
+  const [search, setSearch] = useState(searchParams.get("search") || "");
+  const [categoryFilter, setCategoryFilter] = useState(searchParams.get("category") || "");
   const [sort, setSort] = useState("name");
   const [view, setView] = useState("grid");
   const [currentPage, setCurrentPage] = useState(1);
+
+  // Sync filter states with URL params
+  useEffect(() => {
+    const q = searchParams.get("search") || "";
+    const cat = searchParams.get("category") || "";
+    setSearch(q);
+    setCategoryFilter(cat);
+    if (q || cat) setCurrentPage(1);
+  }, [searchParams]);
   const [mobileFiltersOpen, setMobileFiltersOpen] = useState(false);
   const [priceRange, setPriceRange] = useState([0, 10000]);
 
@@ -115,17 +125,15 @@ const Products = () => {
       >
         <div
           className={`${dim} rounded-full overflow-hidden border-2 flex items-center justify-center transition-all group-hover:shadow-md
-            ${
-              isActive
-                ? "border-blue-600 shadow-md bg-blue-50"
-                : "border-gray-200 bg-gray-50 group-hover:border-gray-300"
+            ${isActive
+              ? "border-blue-600 shadow-md bg-blue-50"
+              : "border-gray-200 bg-gray-50 group-hover:border-gray-300"
             }`}
         >
           {isAll ? (
             <span
-              className={`font-semibold ${
-                size === "lg" ? "text-sm" : "text-xs"
-              } ${isActive ? "text-blue-600" : "text-gray-700"}`}
+              className={`font-semibold ${size === "lg" ? "text-sm" : "text-xs"
+                } ${isActive ? "text-blue-600" : "text-gray-700"}`}
             >
               All
             </span>
@@ -144,9 +152,8 @@ const Products = () => {
           )}
         </div>
         <span
-          className={`mt-2 text-gray-700 font-medium text-center ${
-            size === "lg" ? "text-xs max-w-[80px]" : "text-xs max-w-[64px]"
-          }`}
+          className={`mt-2 text-gray-700 font-medium text-center ${size === "lg" ? "text-xs max-w-[80px]" : "text-xs max-w-[64px]"
+            }`}
         >
           {isAll ? "All Products" : cat.name}
         </span>
@@ -171,9 +178,8 @@ const Products = () => {
           <MoreHorizontal size={iconSize} />
         </div>
         <span
-          className={`mt-2 text-gray-700 font-medium text-center ${
-            size === "lg" ? "text-xs max-w-[80px]" : "text-xs max-w-[64px]"
-          }`}
+          className={`mt-2 text-gray-700 font-medium text-center ${size === "lg" ? "text-xs max-w-[80px]" : "text-xs max-w-[64px]"
+            }`}
         >
           View All
         </span>
@@ -229,10 +235,9 @@ const Products = () => {
                   window.scrollTo({ top: 0, behavior: "smooth" });
                 }}
                 className={`w-10 h-10 rounded-lg border text-sm font-medium transition-all
-                  ${
-                    currentPage === item.page
-                      ? "bg-blue-600 text-white border-blue-600 shadow-md"
-                      : "border-gray-300 hover:bg-gray-100"
+                  ${currentPage === item.page
+                    ? "bg-blue-600 text-white border-blue-600 shadow-md"
+                    : "border-gray-300 hover:bg-gray-100"
                   }`}
               >
                 {item.page}
@@ -300,22 +305,20 @@ const Products = () => {
                 <div className="flex gap-1 border border-gray-300 rounded-lg p-1">
                   <button
                     onClick={() => setView("grid")}
-                    className={`p-2 rounded transition-all ${
-                      view === "grid"
-                        ? "bg-blue-500 text-white"
-                        : "text-gray-600 hover:bg-gray-100"
-                    }`}
+                    className={`p-2 rounded transition-all ${view === "grid"
+                      ? "bg-blue-500 text-white"
+                      : "text-gray-600 hover:bg-gray-100"
+                      }`}
                     title="Grid view"
                   >
                     <Grid size={18} />
                   </button>
                   <button
                     onClick={() => setView("list")}
-                    className={`p-2 rounded transition-all ${
-                      view === "list"
-                        ? "bg-blue-500 text-white"
-                        : "text-gray-600 hover:bg-gray-100"
-                    }`}
+                    className={`p-2 rounded transition-all ${view === "list"
+                      ? "bg-blue-500 text-white"
+                      : "text-gray-600 hover:bg-gray-100"
+                      }`}
                     title="List view"
                   >
                     <List size={18} />
@@ -354,17 +357,15 @@ const Products = () => {
               <div className="flex gap-1 border border-gray-300 rounded-lg p-1">
                 <button
                   onClick={() => setView("grid")}
-                  className={`p-1.5 rounded ${
-                    view === "grid" ? "bg-blue-500 text-white" : "text-gray-600"
-                  }`}
+                  className={`p-1.5 rounded ${view === "grid" ? "bg-blue-500 text-white" : "text-gray-600"
+                    }`}
                 >
                   <Grid size={16} />
                 </button>
                 <button
                   onClick={() => setView("list")}
-                  className={`p-1.5 rounded ${
-                    view === "list" ? "bg-blue-500 text-white" : "text-gray-600"
-                  }`}
+                  className={`p-1.5 rounded ${view === "list" ? "bg-blue-500 text-white" : "text-gray-600"
+                    }`}
                 >
                   <List size={16} />
                 </button>

@@ -2,104 +2,86 @@ import React from "react";
 
 const PrivacyPolicy = () => {
   return (
-    <div className="bg-gray-50 text-gray-800 py-16 px-6 md:px-16">
-      <div className="max-w-5xl mx-auto">
+    <div className="min-h-screen bg-white text-slate-700 py-24 px-6">
+      <div className="max-w-4xl mx-auto">
         {/* Header Section */}
-        <div className="text-center mb-12">
-          <h1 className="text-4xl font-extrabold text-transparent bg-clip-text bg-gradient-to-r from-green-500 via-blue-500 to-purple-600 mb-4">
+        <div className="mb-20 text-center sm:text-left">
+          <div className="inline-block px-4 py-1.5 bg-slate-900 text-white text-[10px] font-black uppercase tracking-[0.3em] rounded-full mb-6">
+            Legal Directory
+          </div>
+          <h1 className="text-5xl sm:text-6xl font-black text-slate-950 mb-6 tracking-tight">
             Privacy Policy
           </h1>
-          <p className="text-gray-500">
-            Last updated on <span className="font-medium">October 22, 2025</span>
+          <p className="text-slate-400 font-medium text-lg">
+            Last updated <span className="text-slate-900 font-bold">February 12, 2026</span>
           </p>
         </div>
 
         {/* Content Section */}
-        <div className="space-y-8 leading-relaxed text-[17px]">
+        <div className="space-y-12 leading-relaxed text-lg">
           {/* Introduction */}
-          <section>
-            <h2 className="text-2xl font-semibold mb-3">1. Introduction</h2>
-            <p>
-              Welcome to <span className="font-semibold">RJN_SHOPS</span>! We value your privacy and are committed to protecting your personal information. This Privacy Policy explains how we collect, use, and protect your data when you visit our website.
+          <section className="bg-slate-50 rounded-[2.5rem] p-10 sm:p-12 border border-slate-100">
+            <h2 className="text-2xl font-black text-slate-950 mb-6 uppercase tracking-wider">1. Commitment to Privacy</h2>
+            <p className="text-slate-600 font-medium">
+              At <span className="text-slate-950 font-bold">Valdio International</span>, your trust is our most valuable asset. We understand the importance of your data and are committed to maintaining the highest standards of protection for your personal information.
             </p>
           </section>
 
           {/* Data Collection */}
-          <section>
-            <h2 className="text-2xl font-semibold mb-3">2. Information We Collect</h2>
-            <p>
-              We collect basic information to improve your experience, such as:
+          <section className="px-6">
+            <h2 className="text-2xl font-black text-slate-950 mb-6 uppercase tracking-wider">2. Information Collection</h2>
+            <p className="mb-6">
+              To provide an unparalleled shopping experience, we collect specific data points during your journey:
             </p>
-            <ul className="list-disc list-inside mt-2 space-y-1">
-              <li>Contact details like email (if you subscribe to our newsletter)</li>
-              <li>Device and browser information for analytics</li>
-              <li>Anonymous website usage data (through cookies)</li>
+            <ul className="space-y-4">
+              {[
+                "Communication data including encrypted email signatures for correspondence.",
+                "Technical diagnostics for optimized performance across sophisticated devices.",
+                "Encrypted interaction logs to refine our curated recommendations."
+              ].map((item, i) => (
+                <li key={i} className="flex gap-4 items-start">
+                  <span className="w-1.5 h-1.5 rounded-full bg-slate-900 mt-2.5 flex-shrink-0" />
+                  <span className="text-slate-600 font-medium">{item}</span>
+                </li>
+              ))}
             </ul>
-          </section>
-
-          {/* Cookies */}
-          <section>
-            <h2 className="text-2xl font-semibold mb-3">3. Cookies & Tracking</h2>
-            <p>
-              We use cookies to personalize content, analyze site traffic, and recommend the best Amazon products for you. You can disable cookies anytime in your browser settings.
-            </p>
           </section>
 
           {/* Affiliate Disclosure */}
-          <section>
-            <h2 className="text-2xl font-semibold mb-3">4. Affiliate Disclosure</h2>
-            <p>
-              <span className="font-semibold">RJN_SHOPS</span> participates in the Amazon Associates Program. This means we may earn a small commission from qualifying purchases — at no extra cost to you. Our product recommendations remain unbiased and based on quality and performance.
+          <section className="bg-slate-950 text-white rounded-[2.5rem] p-12 shadow-2xl shadow-slate-200">
+            <h2 className="text-2xl font-black mb-6 uppercase tracking-wider">3. Affiliate Relationship</h2>
+            <p className="text-slate-300 font-medium leading-relaxed">
+              As a participant in the <span className="text-white font-bold">Amazon Associates Program</span>, Valdio curates excellence. We may earn commissions on qualifying purchases, allowing us to maintain our operational standards without additional cost to you. Our selections remain solely based on merit and quality.
             </p>
           </section>
 
-          {/* Data Usage */}
-          <section>
-            <h2 className="text-2xl font-semibold mb-3">5. How We Use Your Information</h2>
-            <p>Your data is used to:</p>
-            <ul className="list-disc list-inside mt-2 space-y-1">
-              <li>Improve website performance and product recommendations</li>
-              <li>Send updates or newsletters (only if you subscribe)</li>
-              <li>Understand user behavior to enhance your experience</li>
-            </ul>
-          </section>
-
-          {/* Security */}
-          <section>
-            <h2 className="text-2xl font-semibold mb-3">6. Data Security</h2>
-            <p>
-              We implement strong technical and administrative measures to protect your data. However, please note that no online system can be 100% secure.
-            </p>
-          </section>
-
-          {/* Third-Party Links */}
-          <section>
-            <h2 className="text-2xl font-semibold mb-3">7. Third-Party Links</h2>
-            <p>
-              Our site may contain Amazon or third-party links. Clicking those links may take you to external websites beyond our control. We recommend reviewing their privacy policies separately.
+          {/* Data Security */}
+          <section className="px-6">
+            <h2 className="text-2xl font-black text-slate-950 mb-6 uppercase tracking-wider">4. Institutional Security</h2>
+            <p className="text-slate-600 font-medium">
+              We employ military-grade encryption and rigorous administrative protocols to safeguard your information. While no digital infrastructure is infallible, our proactive security measures are designed to preemptively mitigate risks.
             </p>
           </section>
 
           {/* Contact */}
-          <section>
-            <h2 className="text-2xl font-semibold mb-3">8. Contact Us</h2>
-            <p>
-              Have questions about our Privacy Policy? Contact us anytime at{" "}
-              <a
-                href="mailto:support@rjnshops.com"
-                className="text-blue-600 hover:underline"
-              >
-                support@rjnshops.com
-              </a>
-              .
+          <section className="pt-12 border-t border-slate-100 text-center sm:text-left">
+            <h2 className="text-2xl font-black text-slate-950 mb-6 uppercase tracking-wider">5. Concierge Inquiry</h2>
+            <p className="text-slate-600 font-medium mb-8">
+              For detailed inquiries regarding our privacy standards or to exercise your data rights, please contact our legal concierge.
             </p>
+            <a
+              href="mailto:concierge@valdio.com"
+              className="inline-flex items-center gap-3 px-8 py-4 bg-slate-900 text-white rounded-2xl font-black uppercase text-xs tracking-[0.2em] hover:bg-primary transition-all active:scale-95"
+            >
+              Contact Legal Concierge
+            </a>
           </section>
         </div>
 
         {/* Footer Note */}
-        <div className="mt-16 text-center text-sm text-gray-500">
-          <p>
-            By using RJN_SHOPS, you agree to this Privacy Policy and our Terms of Service.
+        <div className="mt-32 pt-12 border-t border-slate-50 text-center">
+          <p className="text-[10px] font-black text-slate-300 uppercase tracking-[0.4em]">
+            © 2026 Valdio International — Integrity in Curated Excellence
           </p>
         </div>
       </div>

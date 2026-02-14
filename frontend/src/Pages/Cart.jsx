@@ -1,8 +1,9 @@
 import React, { useMemo } from "react";
 import { Link } from "react-router-dom";
-import { Trash2 } from "lucide-react";
+import { Trash2, ShoppingCart } from "lucide-react";
 import products from "../config/Product.json";
 import { useCart } from "../context/CartContext.jsx";
+import BrowseProductsButton from "../components/BrowseProductsButton";
 
 const Cart = () => {
   const { items, setQty, removeFromCart, clearCart } = useCart();
@@ -22,15 +23,15 @@ const Cart = () => {
 
   return (
     <div className="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
-      <div className="flex items-end justify-between gap-4 mb-8">
+      <div className="flex items-end justify-between gap-4 mb-10">
         <div>
-          <h1 className="text-3xl font-bold text-gray-900 font-[Poppins]">Your Cart</h1>
-          <p className="text-gray-600 mt-1">Items saved locally on this device.</p>
+          <h1 className="text-4xl font-black text-slate-900 tracking-tight">Your Cart</h1>
+          <p className="text-slate-500 mt-2 font-medium">Manage your premium selections.</p>
         </div>
         {rows.length ? (
           <button
             onClick={clearCart}
-            className="text-sm font-semibold text-red-600 hover:text-red-800 underline"
+            className="text-xs font-black uppercase tracking-widest text-rose-500 hover:text-rose-700 transition-colors"
           >
             Clear cart
           </button>
@@ -38,14 +39,19 @@ const Cart = () => {
       </div>
 
       {!rows.length ? (
-        <div className="bg-white border rounded-2xl p-10 text-center">
-          <p className="text-gray-600 mb-6">Your cart is empty.</p>
-          <Link
-            to="/products"
-            className="inline-flex items-center justify-center bg-gradient-to-r from-blue-600 to-purple-600 text-white px-6 py-3 rounded-xl font-semibold hover:shadow-lg transition"
-          >
-            Browse products
-          </Link>
+        <div className="bg-white border border-slate-100 rounded-[2.5rem] p-20 text-center shadow-sm">
+          <div className="mb-8 flex justify-center">
+            <div className="w-24 h-24 bg-slate-50 rounded-full flex items-center justify-center text-slate-300">
+              <ShoppingCart size={48} />
+            </div>
+          </div>
+          <h2 className="text-2xl font-black text-slate-900 mb-4">Your cart is feeling light</h2>
+          <p className="text-slate-500 mb-10 max-w-sm mx-auto font-medium">
+            Explore our curated collections and discover something extraordinary for your space.
+          </p>
+          <div className="flex justify-center">
+            <BrowseProductsButton text="Discover Products" />
+          </div>
         </div>
       ) : (
         <div className="grid lg:grid-cols-3 gap-8">
@@ -53,40 +59,52 @@ const Cart = () => {
             {rows.map(({ product, qty, price }) => (
               <div
                 key={product.id}
-                className="bg-white border border-gray-200 rounded-2xl p-4 flex gap-4 items-center"
+                className="bg-white border border-slate-100 rounded-[1.5rem] p-6 flex gap-6 items-center hover:shadow-md transition-shadow"
               >
-                <img
-                  src={product.image}
-                  alt={product.name}
-                  className="w-20 h-20 object-cover rounded-xl bg-gray-50"
-                />
+                <div className="w-24 h-24 flex-shrink-0 bg-slate-50 rounded-2xl overflow-hidden p-2">
+                  <img
+                    src={product.image}
+                    alt={product.name}
+                    className="w-full h-full object-contain"
+                  />
+                </div>
                 <div className="flex-1 min-w-0">
                   <Link
                     to={`/products/${product.id}`}
-                    className="font-semibold text-gray-900 hover:underline line-clamp-2"
+                    className="text-lg font-bold text-slate-900 hover:text-primary transition-colors line-clamp-1"
                   >
                     {product.name}
                   </Link>
-                  <div className="text-sm text-gray-600 mt-1">
-                    ₹{price.toLocaleString()} <span className="text-gray-400">each</span>
+                  <div className="text-sm text-slate-400 mt-1 font-bold tracking-wider uppercase">
+                    {product.category}
+                  </div>
+                  <div className="text-base font-black text-slate-900 mt-2">
+                    ₹{price.toLocaleString()}
                   </div>
                 </div>
 
-                <div className="flex items-center gap-3">
-                  <input
-                    type="number"
-                    min={1}
-                    value={qty}
-                    onChange={(e) => setQty(product.id, e.target.value)}
-                    className="w-20 border rounded-lg px-2 py-1 text-sm"
-                    aria-label="Quantity"
-                  />
-                  <div className="w-28 text-right font-semibold text-gray-900">
+                <div className="flex items-center gap-6">
+                  <div className="flex items-center bg-slate-50 rounded-xl p-1 border border-slate-100">
+                    <button
+                      onClick={() => setQty(product.id, Math.max(1, qty - 1))}
+                      className="w-8 h-8 flex items-center justify-center text-slate-500 hover:text-slate-900 font-bold"
+                    >
+                      -
+                    </button>
+                    <span className="w-8 text-center font-bold text-slate-900">{qty}</span>
+                    <button
+                      onClick={() => setQty(product.id, qty + 1)}
+                      className="w-8 h-8 flex items-center justify-center text-slate-500 hover:text-slate-900 font-bold"
+                    >
+                      +
+                    </button>
+                  </div>
+                  <div className="w-32 text-right font-black text-xl text-slate-950">
                     ₹{(price * qty).toLocaleString()}
                   </div>
                   <button
                     onClick={() => removeFromCart(product.id)}
-                    className="p-2 rounded-lg hover:bg-gray-100 text-gray-700"
+                    className="p-3 rounded-full hover:bg-rose-50 text-slate-300 hover:text-rose-500 transition-all"
                     aria-label="Remove item"
                   >
                     <Trash2 className="w-5 h-5" />
@@ -96,21 +114,34 @@ const Cart = () => {
             ))}
           </div>
 
-          <div className="bg-white border border-gray-200 rounded-2xl p-6 h-fit">
-            <h2 className="text-lg font-bold text-gray-900 mb-4">Order Summary</h2>
-            <div className="flex justify-between text-sm text-gray-700">
-              <span>Subtotal</span>
-              <span className="font-semibold">₹{subtotal.toLocaleString()}</span>
+          <div className="bg-white border border-slate-100 rounded-[2rem] p-8 h-fit shadow-sm">
+            <h2 className="text-xl font-black text-slate-900 mb-6">Order Summary</h2>
+            <div className="space-y-4 mb-8">
+              <div className="flex justify-between text-slate-500 font-medium">
+                <span>Subtotal</span>
+                <span className="text-slate-900 font-black">₹{subtotal.toLocaleString()}</span>
+              </div>
+              <div className="flex justify-between text-slate-500 font-medium">
+                <span>Shipping</span>
+                <span className="text-emerald-600 font-black uppercase text-xs tracking-widest">Calculated at next step</span>
+              </div>
+              <div className="pt-4 border-t border-slate-100 flex justify-between">
+                <span className="text-lg font-black text-slate-900">Total</span>
+                <span className="text-2xl font-black text-slate-950">₹{subtotal.toLocaleString()}</span>
+              </div>
             </div>
-            <p className="text-xs text-gray-500 mt-3">
-              Checkout isn’t connected to a payment gateway yet. Use “Buy Now” on a product to
-              purchase via the external link.
-            </p>
+
+            <button
+              onClick={() => alert("Checkout system is being prepared. Please check back soon!")}
+              className="w-full py-5 rounded-2xl bg-slate-900 text-white font-black uppercase tracking-[0.2em] shadow-xl hover:bg-primary transition-all active:scale-95"
+            >
+              Secure Checkout
+            </button>
             <Link
               to="/products"
-              className="mt-6 inline-flex w-full items-center justify-center bg-gradient-to-r from-green-500 to-blue-500 text-white px-6 py-3 rounded-xl font-semibold hover:shadow-lg transition"
+              className="mt-4 flex w-full items-center justify-center text-slate-400 hover:text-slate-900 font-bold text-sm transition-colors"
             >
-              Continue shopping
+              Continue Shopping ↗
             </Link>
           </div>
         </div>
