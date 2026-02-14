@@ -1,5 +1,3 @@
-// src/config/categories.js
-
 const categories = [
   {
     key: "Electronics",
@@ -171,6 +169,11 @@ const categories = [
     key:"Health_Nutrition",
     name:"Health_Nutrition",
     image:"https://m.media-amazon.com/images/I/71JD4mzz4XL._SL1500_.jpg"
+  },
+  {
+    key:"Health_PersonalCare",
+    name:"Health_PersonalCare",
+    image:""
   }
 
 
