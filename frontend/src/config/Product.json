@@ -5237,7 +5237,93 @@
     "bankOffer": "Up to ₹1,000 discount on select Credit & Debit Cards",
     "businessOffer": "Save up to 11% with Amazon Business account"
   }
+},
+
+{
+  "id": "sunpet-100ml-plastic-jar-pack-12",
+  "name": "Sunpet 100 ML Plastic Jar Container (Pack of 12 Pieces)",
+  "category": "Home & Kitchen",
+  "price": 166,
+  "discountPrice": 360,
+  "discountRate": 54,
+  "rating": 4.0,
+  "reviews": 33,
+  "ratingText": "4.0 out of 5 stars",
+  "reviewText": "Based on 33 customer ratings on Amazon",
+  "shortLink": "https://amzn.to/4rK3DKG",
+  "fullLink": "https://www.amazon.in/gp/product/B07Y52RD78?smid=AK045FGFROW25&psc=1&linkCode=ll2&tag=valdio-21&linkId=512d0b4e945c91e478ae3107d64a56c3&ref_=as_li_ss_tl",
+
+  "image": "https://m.media-amazon.com/images/I/31l8QO6XpzL.jpg",
+
+  "description": "Sunpet plastic jar containers are durable, reusable, and food-grade storage solutions. Ideal for storing spices, snacks, creams, and small household items.",
+
+  "features": [
+    "Pack of 12 plastic jars",
+    "100 ml capacity per container",
+    "Food-grade and safe material",
+    "Reusable and freezer-safe",
+    "Transparent design for easy visibility",
+    "Lightweight and durable"
+  ],
+
+  "colors": [
+    {
+      "name": "Transparent",
+      "image": "https://m.media-amazon.com/images/I/31l8QO6XpzL.jpg"
+    }
+  ],
+
+  "sizes": ["100 ml"],
+
+  "variants": [
+    {
+      "color": "Transparent",
+      "size": "100 ml (Pack of 12)",
+      "price": 166,
+      "mrp": 360,
+      "discountRate": 54,
+      "image": "https://m.media-amazon.com/images/I/31l8QO6XpzL.jpg"
+    }
+  ],
+
+  "productDetails": {
+    "brand": "Sunpet",
+    "material": "Plastic",
+    "capacity": "100 ml",
+    "materialFeatures": [
+      "Food Grade",
+      "Freezer Safe",
+      "Reusable"
+    ],
+    "color": "Transparent",
+    "packSize": 12,
+    "recommendedUse": [
+      "Kitchen Storage",
+      "Spices",
+      "Snacks",
+      "Cosmetic Storage"
+    ],
+    "countryOfOrigin": "India"
+  },
+
+  "deliveryInfo": {
+    "delivery": "Amazon Delivered",
+    "returnPolicy": "10 Days Returnable",
+    "cashOnDelivery": false,
+    "secureTransaction": true,
+    "freeDelivery": true,
+    "badge": "Top Brand"
+  },
+
+  "offers": {
+    "coupon": "Extra 2% off coupon available",
+    "cashback": "Up to ₹8 Amazon Pay Cashback on ICICI Credit Cards",
+    "bankOffer": "Up to ₹1,500 discount on select Credit & Debit Cards",
+    "partnerOffer": "Buy 2 or more and get 3% off on qualifying items",
+    "businessOffer": "Save up to 38% with Amazon Business account"
+  }
 }
+
 
 
 
