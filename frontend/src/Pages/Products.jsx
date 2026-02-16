@@ -16,7 +16,7 @@ import categories from "../config/categories";
 import useLocalFavorites from "../hooks/useLocalFavorites";
 import { useCart } from "../context/CartContext";
 
-const ITEMS_PER_PAGE = 12;
+const ITEMS_PER_PAGE = 16;
 
 const Products = () => {
   const navigate = useNavigate();
