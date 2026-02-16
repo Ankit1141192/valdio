@@ -6277,12 +6277,142 @@
     "partnerOffer": "Buy 3 or more and get 3% off",
     "businessOffer": "Save up to 15% with Amazon Business account"
   }
+},
+
+{
+  "id": "redcop-isopropyl-alcohol-99-9-300ml",
+  "name": "REDCOP Isopropyl Alcohol 99.9% Pure (300ml) Rubbing Alcohol",
+  "category": "home-cleaning",
+  "price": 499,
+  "discountPrice": 199,
+  "discountRate": 60,
+  "rating": 4.4,
+  "reviews": 4618,
+  "ratingText": "4.4 out of 5 stars",
+  "reviewText": "Based on 4,618 customer ratings on Amazon",
+  "shortLink": "https://amzn.to/3ObH6rU",
+  "fullLink": "https://www.amazon.in/REDCOP%C2%AE-ISOPROPYL-ALCOHOL-Rubbing-Alcohol/dp/B09C64KW3S?crid=2K7G4PV683CX0&dib=eyJ2IjoiMSJ9.RA4VFFXmlL7wQ_I_6CJooQa56XD9V56Qod_g-rX-Mvoosx3AWwAI30yZtz2FQ4uYlF2shzgWehXSz_uJxfwibVGsvIRetSX9zZ0_-7ijGWR2smNY_kW_8WPUT0ZPgBlTSNsl8xNBDD3LVQEE2ZEPyyqDsQFULXad1Z0PGcZqbDWcVk7Y0gRXtdgUDdgu17lBLaqAFh7-CDanOZCdEMhDFB0f1e8j_ySyvsIIIpsUOROLhevLZLOFfUujLJBGvMhdguTmh2dreZjb7aarv-MBTbwlvRmF6D2yeNhZFtJoa1Y.u1g9zCqDsZwBV0fU4F0HEXvTP0IL7u1jg-tA0Nv6AIE&dib_tag=se&keywords=isopropyl%2Balcohol&qid=1771256895&sprefix=isoproply%2Balcohal%2Caps%2C2464&sr=8-2-spons&aref=nbVLROUbvT&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1&linkCode=ll2&tag=valdio-21&linkId=c290bcfba52c1262f24a2772734e7e38&ref_=as_li_ss_tl",
+
+  "image": "https://m.media-amazon.com/images/I/61yxZhpQ11L._SL1500_.jpg",
+
+  "images": [
+    "https://m.media-amazon.com/images/I/8113YqgaSJL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/81BJXrWzU7L._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/71bZg4DgmsL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/71zSKkmT8-L._SL1500_.jpg"
+  ],
+
+  "description": "REDCOP Isopropyl Alcohol 99.9% is a high-purity cleaning and disinfecting solution suitable for technical, industrial, and household cleaning applications.",
+
+  "features": [
+    "99.9% high purity isopropyl alcohol",
+    "Quick evaporating and leaves no residue",
+    "Anti-bacterial and antimicrobial properties",
+    "Effective for cleaning electronics, glass, and surfaces",
+    "Miscible with water and dissolves many substances",
+    "Suitable for technical and industrial use"
+  ],
+
+  "colors": [
+    {
+      "name": "Clear",
+      "image": "https://m.media-amazon.com/images/I/61yxZhpQ11L._SL1500_.jpg"
+    }
+  ],
+
+  "sizes": ["300 ml"],
+
+  "variants": [
+    {
+      "size": "100 ml",
+      "price": 129,
+      "mrp": 199,
+      "discountRate": 35,
+      "image": "https://m.media-amazon.com/images/I/61HWRt2rJfL._SL1500_.jpg"
+    },
+    {
+      "size": "300 ml (Pack of 1)",
+      "price": 199,
+      "mrp": 499,
+      "discountRate": 60,
+      "image": "https://m.media-amazon.com/images/I/61yxZhpQ11L._SL1500_.jpg"
+    },
+    {
+      "size": "100 ml (Pack of 2)",
+      "price": 199,
+      "mrp": 398,
+      "discountRate": 50,
+      "image": "https://m.media-amazon.com/images/I/71wsYFaiYGL._SL1500_.jpg"
+    },
+    {
+      "size": "300 ml (Pack of 2)",
+      "price": 393,
+      "mrp": 998,
+      "discountRate": 61,
+      "image": "https://m.media-amazon.com/images/I/71OGni+FVhL._SL1500_.jpg"
+    },
+    {
+      "size": "300 ml (Pack of 3)",
+      "price": 638,
+      "mrp": 1497,
+      "discountRate": 57,
+      "image": "https://m.media-amazon.com/images/I/71g+uSIPSTL._SX466_.jpg"
+    },
+    {
+      "size": "5 Litre Pack",
+      "price": 1499,
+      "mrp": 6000,
+      "discountRate": 75,
+      "image": "https://m.media-amazon.com/images/I/61+foCVlmtL._SL1500_.jpg"
+    }
+  ],
+
+  "productDetails": {
+    "brand": "REDCOP",
+    "itemForm": "Liquid",
+    "chemicalName": "Isopropyl Alcohol",
+    "chemicalFormula": "(CH3)2-CHOH",
+    "casNumber": "67-63-0",
+    "purity": "99.9%",
+    "molecularWeight": "78.13",
+    "netQuantity": "300 ml",
+    "itemWeight": "300 g",
+    "specialFeatures": [
+      "Fast Evaporation",
+      "Residue-Free",
+      "Antibacterial",
+      "Multipurpose Cleaner"
+    ],
+    "recommendedUse": [
+      "Electronics Cleaning",
+      "Glass Cleaning",
+      "Surface Disinfection",
+      "Industrial Cleaning"
+    ],
+    "safetyInfo": [
+      "Flammable - keep away from heat and fire",
+      "Not for consumption",
+      "Use in well-ventilated area"
+    ],
+    "countryOfOrigin": "India"
+  },
+
+  "deliveryInfo": {
+    "delivery": "Amazon Delivered",
+    "returnPolicy": "10 Days Replacement",
+    "cashOnDelivery": true,
+    "secureTransaction": true,
+    "freeDelivery": true,
+    "badge": "Amazon's Choice"
+  },
+
+  "offers": {
+    "coupon": "Extra 2% off coupon available",
+    "cashback": "Up to ₹9 Amazon Pay Cashback on ICICI Credit Cards",
+    "bankOffer": "Up to ₹1,500 discount on select Credit Cards",
+    "businessOffer": "Save up to 18% with Amazon Business account"
+  }
 }
-
-
-
-
-
 
 
 
