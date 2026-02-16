@@ -5468,6 +5468,7 @@
     "businessOffer": "Buy 2 or more and get 5% off on qualifying items"
   }
 },
+
   {
   "id": "genone-e-gen-400-vitamin-e-capsule-30",
   "name": "Genone E-Gen 400 Vitamin E Capsule for Glowing Face, Skin and Hair Nutrition (30 Capsules)",
@@ -5544,6 +5545,745 @@
     "bankOffer": "",
     "businessOffer": ""
   }
+},
+
+{
+  "id": "lion-brand-saffron-kashmir-lacha-1g",
+  "name": "LION BRAND SAFFRON Original Kashmir Lacha Saffron/Kesar (Grade A Certified) - 1g",
+  "category": "Grocery_Food",
+  "price": 449,
+  "discountPrice": 349,
+  "discountRate": 22,
+  "rating": 4.2,
+  "reviews": 12815,
+  "ratingText": "4.2 out of 5 stars",
+  "reviewText": "Based on 12,815 customer ratings on Amazon",
+  "shortLink": "https://amzn.to/4tCV6ed",
+  "fullLink": "https://www.amazon.in/LION-BRAND-SAFFRON-Original-Certified/dp/B01BVAZHCS?crid=313B70F4ZWWN2&dib=eyJ2IjoiMSJ9.1PK8pQfkBjfoexMQtcGyvITeXgyMn-xeQNqfSbXCZMuCMjB-hXUDwnKPHi51IvdXJcp0GeitxBzLhsUR2b1eGZ2cUekIAWy9y-7I555unMiDa60QIaZVxAwB-eC-TjbWGw42UqjUrqgtWFjw2S21-hvI72g9HY7kFgRcriDjtXRXQk0W1asLPL_DkohbJ7Rf2TYmDmD8-lUhhDu0UjYZtCI-KeoU_kSebtETwQ5tk7qngOT5B36dQDNZbWZzShYxnbs1YOLnYi6Hdr7DPPOG3i6Lq2ibH1FPIqOAOpIQrHw.UBQzFqP-_5pIBjb-L5GiJLGl2JVk3JwANGOhZ0nkOY4&dib_tag=se&keywords=safron&qid=1771163501&sprefix=safro%2Caps%2C416&sr=8-6&th=1&linkCode=ll2&tag=valdio-21&linkId=fb239f1795572bada28b24d537e78b3b&ref_=as_li_ss_tl",
+
+  "image": "https://m.media-amazon.com/images/I/81p77f6Dw7L._SL1500_.jpg",
+
+
+  "description": "Premium Grade A certified Kashmir Lacha Saffron by Lion Brand. Ideal for cooking, beauty use, health benefits, and traditional tilak applications.",
+
+  "features": [
+    "100% pure Kashmir Lacha saffron",
+    "Grade A certified premium quality",
+    "Rich aroma, color, and flavor",
+    "Suitable for biryani, desserts, milk, and beverages",
+    "Can be used for skincare and traditional tilak",
+    "Packed hygienically for freshness"
+  ],
+
+  "colors": [
+    {
+      "name": "Natural Red",
+      "image": "https://m.media-amazon.com/images/I/81p77f6Dw7L._SL1500_.jpg"
+    }
+  ],
+
+  "sizes": ["1 g"],
+
+  "variants": [
+    {
+      "size": "1 g (Pack of 1)",
+      "price": 349,
+      "mrp": 449,
+      "discountRate": 22,
+      "image": "https://m.media-amazon.com/images/I/81p77f6Dw7L._SL1500_.jpg"
+    },
+    {
+      "size": "2 g (Pack of 2)",
+      "price": 629,
+      "mrp": 838,
+      "discountRate": 25,
+      "image": "https://m.media-amazon.com/images/I/714iXfa+rxL._SL1118_.jpg"
+    },
+    {
+      "size": "3 g (Pack of 3)",
+      "price": 1119,
+      "mrp": 1257,
+      "discountRate": 11,
+      "image": "https://m.media-amazon.com/images/I/714iXfa+rxL._SL1118_.jpg"
+    },
+    {
+      "size": "4 g (Pack of 4)",
+      "price": 1259,
+      "mrp": 1796,
+      "discountRate": 30,
+      "image": "https://m.media-amazon.com/images/I/714iXfa+rxL._SL1118_.jpg"
+    }
+    
+  ],
+
+  "productDetails": {
+    "brand": "LION BRAND SAFFRON",
+    "itemForm": "Threads",
+    "flavour": "Saffron",
+    "dietType": "Vegetarian",
+    "netQuantity": "1 g",
+    "specialFeatures": [
+      "Grade A Certified",
+      "Pure Kashmiri Saffron",
+      "High Aroma & Color"
+    ],
+    "recommendedUses": [
+      "Cooking",
+      "Biryani",
+      "Milk",
+      "Desserts",
+      "Skincare",
+      "Tilak"
+    ],
+    "useBy": "20 Apr 2026",
+    "countryOfOrigin": "India"
+  },
+
+  "deliveryInfo": {
+    "delivery": "Amazon Delivered",
+    "returnPolicy": "Non-Returnable",
+    "cashOnDelivery": true,
+    "secureTransaction": true,
+    "freeDelivery": true,
+    "badge": "Amazon's Choice"
+  },
+
+  "offers": {
+    "coupon": "Extra 2% off coupon available",
+    "cashback": "Up to ₹17 Amazon Pay Cashback on ICICI Credit Cards",
+    "partnerOffer": "3% off on 2 items, 5% off on 3 items, 7% off on 5 items",
+    "businessOffer": "Save up to 4% with Amazon Business account"
+  }
+},
+
+{
+  "id": "indus-valley-sandalwood-face-pack-200g",
+  "name": "Indus Valley Bio Organic Sandalwood Face Pack Powder (200g) for Glowing Skin & Tan Removal",
+  "category": "beauty-makeup",
+  "price": 299,
+  "discountPrice": 209,
+  "discountRate": 30,
+  "rating": 4.1,
+  "reviews": 24689,
+  "ratingText": "4.1 out of 5 stars",
+  "reviewText": "Based on 24,689 customer ratings on Amazon",
+  "shortLink": "https://amzn.to/4rdyAqM",
+  "fullLink": "https://www.amazon.in/Indus-Valley-Organic-Sandalwood-Face/dp/B01MYS7K7J?crid=83JRGH60UXKF&dib=eyJ2IjoiMSJ9.66HLAQHtXUu6xO2c6waDcHNR2stf84VU3z7mYqw7ktRicB35zYRoyLU3VZ-IYuAwvUDr_F2ViPaQ2WaVWy4IVruGWZZSz-sBA_RB604HDXQaNNo5ZqXWC2B340mEzg0b1nZZTKxGBeuatotY3hMooWmJg4uFe3DXdGYd7Tko--hjydQQivsciDS2B-jG2O5pjYklfrs65FYaflUKhcWdwpXQXQvXIjo1zaDBUjI8cvEaTKCl9M30MF6UG0b868WSWlrjCQPb5zXefCTXPHw5lfxsCGnt2ZwHMvBb5V9DJ5Q.ICeM3rFSyGH5oJbQRDwDXxkb8N4VM3IL87hOKYTrqes&dib_tag=se&keywords=sandalwood&qid=1771164795&sprefix=%2Caps%2C397&sr=8-5&th=1&linkCode=ll2&tag=valdio-21&linkId=0734dc1134e2d85b371e5d8ac65830b4&ref_=as_li_ss_tl",
+
+  "image": "https://m.media-amazon.com/images/I/61s5AnpFcXL._SL1000_.jpg",
+
+  "description": "Indus Valley Bio Organic Sandalwood Face Pack Powder is a natural skincare solution enriched with chandan powder to reduce tan, pigmentation, acne, and enhance skin glow.",
+
+  "features": [
+    "100% bio organic sandalwood powder",
+    "Helps reduce suntan, dark spots, and pigmentation",
+    "Prevents acne and skin breakouts",
+    "Enhances natural glow and skin brightness",
+    "Cruelty-free and vegan formulation",
+    "Processed under ISO & GMP standards"
+  ],
+
+  "colors": [
+    {
+      "name": "Sandalwood Powder",
+      "image": "https://m.media-amazon.com/images/I/61s5AnpFcXL._SL1000_.jpg"
+    }
+  ],
+
+  "sizes": ["200 g"],
+
+  "variants": [
+    {
+      "type": "Sandalwood Powder",
+      "size": "200 g (Pack of 1)",
+      "price": 209,
+      "mrp": 299,
+      "discountRate": 30,
+      "image": "https://m.media-amazon.com/images/I/61s5AnpFcXL._SL1000_.jpg"
+    },
+    {
+      "type": "Sandalwood Powder",
+      "size": "200 g (Pack of 2)",
+      "price": 399,
+      "mrp": 598,
+      "discountRate": 33,
+      "image": "https://m.media-amazon.com/images/I/61s5AnpFcXL._SL1000_.jpg"
+    }
+  ],
+
+  "productDetails": {
+    "brand": "INDUS VALLEY",
+    "itemForm": "Powder",
+    "scent": "Sandalwood",
+    "skinType": "All",
+    "productBenefits": [
+      "Anti-Acne",
+      "Dark Spots Reduction",
+      "Tan Removal",
+      "Skin Brightening",
+      "Moisturizing",
+      "Anti-Ageing"
+    ],
+    "netQuantity": "200 g",
+    "specialFeatures": [
+      "Organic",
+      "Cruelty-Free",
+      "Vegan",
+      "ISO & GMP Certified"
+    ],
+    "useBy": "31 May 2028",
+    "countryOfOrigin": "India"
+  },
+
+  "deliveryInfo": {
+    "delivery": "Amazon Delivered",
+    "returnPolicy": "Non-Returnable",
+    "cashOnDelivery": true,
+    "secureTransaction": true,
+    "freeDelivery": true,
+    "badge": "Top Brand"
+  },
+
+  "offers": {
+    "coupon": "Extra 5% off coupon available",
+    "cashback": "Up to ₹10 Amazon Pay Cashback on ICICI Credit Cards",
+    "partnerOffer": "Buy 3 or more and get 10% off",
+    "freeProduct": "Free Aloe Vera Gel (50ml) on eligible purchase above ₹699",
+    "businessOffer": "Save up to 15% with Amazon Business account"
+  }
+},
+
+{
+  "id": "exotic-aromas-sandalwood-oil-30ml-pack2",
+  "name": "Exotic Aromas Sandalwood Essential Oil for Aromatherapy & Stress Relief (15ml + 15ml)",
+  "category": "beauty-makeup",
+  "price": 299,
+  "discountPrice": 798,
+  "discountRate": 63,
+  "rating": 4.1,
+  "reviews": 18271,
+  "ratingText": "4.1 out of 5 stars",
+  "reviewText": "Based on 18,271 customer ratings on Amazon",
+  "shortLink": "https://amzn.to/46uzuHl",
+  "fullLink": "https://www.amazon.in/Precious-Aromas-Sandalwood-Therapy-Stress/dp/B09W2D8WQF?crid=2FROJ14XTD8MS&dib=eyJ2IjoiMSJ9.VFpQXOPKoDsOG3Dp2s3Wig-szwBWzhQXvIqbsjY9gPsw5_XeN6QwF8KJsYoFMFu00oRyx_E3dHIQn0O1X-KbIMjZ2INDbRTs-7THB3xoPZxIY_Th6eDQVRfNrpJNE3T8f3qFc_SXciJjY7pX_nnQ-VuoGH5jVgLcxJTaGW6WA3wsMMCWTYEpMSk3JD6XXjfrNSNwtPZK2VsMxymgdzlwyfFLCWtMgQiBFnKhyAdvB4ecbLBzGti3w39kQvSwCSEmwlYKNpwI6uvp1Pxj_lSeWfP5Ab5jIWWmEQBRw7GR4SU.pXAX9US63vpugp4vsmMaRfngm9wckRngATDd4MqBMIc&dib_tag=se&keywords=sandalwood%2Bessential%2Boil&qid=1771165233&sprefix=sandalwood%2Bess%2Caps%2C398&sr=8-1-spons&aref=qbvUz0DQGN&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1&linkCode=ll2&tag=valdio-21&linkId=c37e46d4bee5a643f2e773816c92137c&ref_=as_li_ss_tl",
+
+  "image": "https://m.media-amazon.com/images/I/61gQrgAFK4L._SL1280_.jpg",
+
+
+  "description": "Exotic Aromas Sandalwood Essential Oil is a therapeutic-grade oil designed for aromatherapy, relaxation, stress relief, and enhancing mood. Suitable for diffusers, massage, and home fragrance use.",
+
+  "features": [
+    "100% steam distilled natural essential oil",
+    "Ideal for aromatherapy and stress relief",
+    "Can be used in diffusers, humidifiers, and sprays",
+    "Suitable for massage when diluted with carrier oil",
+    "Helps deodorize and freshen indoor spaces",
+    "Therapeutic-grade and long-lasting fragrance"
+  ],
+
+  "colors": [
+    {
+      "name": "Sandalwood",
+      "image": "https://m.media-amazon.com/images/I/61gQrgAFK4L._SL1280_.jpg"
+    }
+  ],
+
+  "sizes": ["30 ml (15ml + 15ml)"],
+
+  "variants": [
+    {
+      "scent": "Sandalwood",
+      "size": "15 ml (Pack of 2)",
+      "price": 299,
+      "mrp": 798,
+      "discountRate": 63,
+      "image": "https://m.media-amazon.com/images/I/61gQrgAFK4L._SL1280_.jpg"
+    },
+    {
+      "scent": "Lavender",
+      "size": "15 ml (Pack of 2)",
+      "price": 299,
+      "mrp": 798,
+      "discountRate": 63,
+      "image": "https://m.media-amazon.com/images/I/71++V9fPqmL._SL1280_.jpg"
+    },
+    {
+      "scent": "Rose",
+      "size": "15 ml (Pack of 2)",
+      "price": 299,
+      "mrp": 798,
+      "discountRate": 63,
+      "image": "https://m.media-amazon.com/images/I/71NHJ93VXIL._SL1280_.jpg"
+    },
+    {
+      "scent": "Rosemarry",
+      "size": "15 ml (Pack of 2)",
+      "price": 299,
+      "mrp": 798,
+      "discountRate": 63,
+      "image": "https://m.media-amazon.com/images/I/71EPINu429L._SL1500_.jpg"
+    },
+    {
+      "scent": "Orange",
+      "size": "15 ml (Pack of 2)",
+      "price": 299,
+      "mrp": 798,
+      "discountRate": 63,
+      "image": "https://m.media-amazon.com/images/I/71lCNQOn3sL._SL1500_.jpg"
+    }
+  ],
+
+  "productDetails": {
+    "brand": "Exotic Aromas",
+    "scent": "Sandalwood",
+    "itemForm": "Liquid",
+    "netQuantity": "30 ml",
+    "specialFeature": "Aromatherapy",
+    "productBenefits": "Stress Relief",
+    "seasons": "All Seasons",
+    "usage": [
+      "Diffuser",
+      "Humidifier",
+      "Massage",
+      "Room Spray",
+      "Home Fragrance"
+    ],
+    "safetyInfo": "For external use only. Do not ingest.",
+    "useBy": "31 Dec 2026",
+    "countryOfOrigin": "India"
+  },
+
+  "deliveryInfo": {
+    "delivery": "Amazon Delivered",
+    "returnPolicy": "Non-Returnable",
+    "cashOnDelivery": true,
+    "secureTransaction": true,
+    "freeDelivery": true,
+    "badge": "Amazon's Choice"
+  },
+
+  "offers": {
+    "cashback": "Up to ₹14 Amazon Pay Cashback on ICICI Credit Cards",
+    "bankOffer": "Up to ₹750 discount on select Credit & Debit Cards",
+    "partnerOffer": "Spend ₹1000 or more and get 5% off",
+    "businessOffer": "Save up to 15% with Amazon Business account"
+  }
+},
+
+{
+  "id": "aromakrafts-soap-making-colours-set-8",
+  "name": "Aromakrafts DIY Liquid Soap Making Colours for Melt & Pour Soaps (Set of 8, 15ml Each)",
+  "category": "Diy_crafts",
+  "price": 720,
+  "discountPrice": 339,
+  "discountRate": 53,
+  "rating": 4.1,
+  "reviews": 996,
+  "ratingText": "4.1 out of 5 stars",
+  "reviewText": "Based on 996 customer ratings on Amazon",
+  "shortLink": "https://amzn.to/4cfHTCb",
+  "fullLink": "https://www.amazon.in/Aromakrafts-Liquid-Making-Colours-Soaps/dp/B0799FDCRM?crid=3QBTJYVXEQHWR&dib=eyJ2IjoiMSJ9.QcAe9Fk2JTjk2rK5MFOWaQ4bUbu01qHzqKd8CkEemaVbKy4qv157fXDgNkyTxiNfZedl0Qzt0Y6JzCVVBQAtSKTn7Q8puK7f-BYZ3VQWCRGFjgOYP9BkWtzk89W63Yvwq4WAejHEVWzs8-IQQqbBabQ_JzpQypRgwofz73OW164ggnoLIEEdod-VXT0cAX5bfe2JaA74UMVN0GcRzJBrpiWkVGU0WqV-GttpChbppmqAHMxDAWHcu9t1AnLWDpIit9jfS56bVQeNePUzmxg0bqwMjSfS9lOeac0XpnXQgtE.jfxeGKXdGCGB5zsE4ZZ9yUWtgLVfLrmNNSsKSoXaJ08&dib_tag=se&keywords=yellow+liquid+colorant+for+soap&qid=1771166555&sprefix=yellow+liquid+colorant+for+soap+%2Caps%2C491&sr=8-35&linkCode=ll2&tag=valdio-21&linkId=0689be30d3c908bb821f3bcd6051261e&ref_=as_li_ss_tl",
+
+  "image": "https://m.media-amazon.com/images/I/713PCO4NUsL._SL1500_.jpg",
+
+  "description": "Aromakrafts DIY liquid soap color kit includes 8 vibrant colours specially designed for melt & pour soaps and bath products. Easy to use with built-in dropper bottles for mess-free application.",
+
+  "features": [
+    "Set of 8 vibrant liquid colours (15 ml each)",
+    "Suitable for melt & pour soaps, bath bombs, shampoos & bath salts",
+    "Easy-to-use dropper bottles for precise application",
+    "Highly concentrated for rich and vibrant colors",
+    "Water-based and safe for bath & body products",
+    "Ideal for DIY soap making and crafting"
+  ],
+
+  "colors": [
+    {
+      "name": "Multicolor",
+      "image": "https://m.media-amazon.com/images/I/713PCO4NUsL._SL1500_.jpg"
+    }
+  ],
+
+  "sizes": ["8 x 15 ml"],
+
+  "variants": [
+    {
+      "type": "Multicolor Set",
+      "size": "8 x 15 ml",
+      "price": 339,
+      "mrp": 720,
+      "discountRate": 53,
+      "image": "https://m.media-amazon.com/images/I/713PCO4NUsL._SL1500_.jpg"
+    }
+  ],
+
+  "productDetails": {
+    "brand": "Aroma Krafts",
+    "itemForm": "Liquid",
+    "netQuantity": "120 ml",
+    "itemWeight": "100 g",
+    "includedColors": [
+      "Pink",
+      "Orange",
+      "Red",
+      "Green",
+      "Yellow",
+      "Blue",
+      "Brown",
+      "Purple"
+    ],
+    "compatibleMaterial": "Water-based Bath & Body Products",
+    "notSuitableFor": ["Candle Making"],
+    "specialFeatures": [
+      "Dropper Bottle",
+      "Highly Concentrated",
+      "Easy Application"
+    ],
+    "recommendedUse": [
+      "Soap Making",
+      "Bath Bombs",
+      "Shampoo",
+      "Bubble Bath",
+      "Bath Salts"
+    ],
+    "countryOfOrigin": "India"
+  },
+
+  "deliveryInfo": {
+    "delivery": "Amazon Delivered",
+    "returnPolicy": "Non-Returnable",
+    "cashOnDelivery": false,
+    "secureTransaction": true,
+    "freeDelivery": true,
+    "badge": ""
+  },
+
+  "offers": {
+    "cashback": "Up to ₹10 Amazon Pay Cashback on ICICI Credit Cards",
+    "bankOffer": "Up to ₹750 discount on select Credit & Debit Cards",
+    "partnerOffer": "Buy 2 or more and get 3% off on qualifying items"
+  }
+},
+
+{
+  "id": "mpr4-silicone-olive-soap-mould-4-cavity",
+  "name": "MPR4 Silicone Olive Soap Mould, 4-Cavity Multi-Purpose Mould for Soap, Candle, Resin & Chocolate (Purple)",
+  "category": "Diy_crafts",
+  "price": 499,
+  "discountPrice": 149,
+  "discountRate": 70,
+  "rating": 4.0,
+  "reviews": 57,
+  "ratingText": "4.0 out of 5 stars",
+  "reviewText": "Based on 57 customer ratings on Amazon",
+  "shortLink": "https://amzn.to/3OJKY3j",
+  "fullLink": "https://www.amazon.in/gp/product/B0F2N5FZSC?smid=A3Q1CJG2JC0JWT&psc=1&linkCode=ll2&tag=valdio-21&linkId=8669b87b703a2c3eb0bcf4e02fecb609&ref_=as_li_ss_tl",
+
+  "image": "https://m.media-amazon.com/images/I/31aEuz6EASL.jpg",
+
+  "description": "MPR4 silicone olive design mould is a versatile 4-cavity tray ideal for soap making, candle crafting, resin art, and chocolate making. Flexible and durable for easy demoulding and repeated use.",
+
+  "features": [
+    "4-cavity mould with elegant olive design",
+    "Made from high-quality flexible silicone",
+    "Non-stick surface for easy release",
+    "Suitable for soap, candle, resin & chocolate making",
+    "Durable and reusable for long-term use",
+    "Maintains fine design details in finished products"
+  ],
+
+  "colors": [
+    {
+      "name": "Purple",
+      "image": "https://m.media-amazon.com/images/I/31aEuz6EASL.jpg"
+    }
+  ],
+
+  "sizes": ["4 Cavity"],
+
+  "variants": [
+    {
+      "color": "Purple",
+      "size": "4 Cavity",
+      "price": 149,
+      "mrp": 499,
+      "discountRate": 70,
+      "image": "https://m.media-amazon.com/images/I/31aEuz6EASL.jpg"
+    }
+  ],
+
+  "productDetails": {
+    "brand": "Generic",
+    "material": "Silicone",
+    "shape": "Oval",
+    "dimensions": "13 x 2.5 x 19.5 cm",
+    "cavitySize": "7 x 4 cm",
+    "specialFeatures": [
+      "Flexible",
+      "Non-Stick",
+      "Reusable",
+      "Easy Demoulding"
+    ],
+    "compatibleMaterials": [
+      "Soap Base",
+      "Wax",
+      "Chocolate",
+      "Resin"
+    ],
+    "recommendedUse": [
+      "Soap Making",
+      "Candle Making",
+      "Resin Art",
+      "Chocolate Making"
+    ],
+    "countryOfOrigin": "India"
+  },
+
+  "deliveryInfo": {
+    "delivery": "Amazon Delivered",
+    "returnPolicy": "10 Days Returnable",
+    "cashOnDelivery": false,
+    "secureTransaction": true,
+    "freeDelivery": true,
+    "badge": ""
+  },
+
+  "offers": {
+    "cashback": "Up to ₹7 Amazon Pay Cashback on ICICI Credit Cards",
+    "bankOffer": "Up to ₹750 discount on select Credit Cards",
+    "businessOffer": "Save up to 30% with Amazon Business account"
+  }
+},
+
+{
+  "id": "mpr4-silicone-soap-mould-6-cavity-multicolor",
+  "name": "MPR4 Silicone Soap Mold | 6 Cavity Rectangle & Oval Soap Moulds for Soap, Resin, Chocolate (Multicolor - PK1)",
+  "category": "Diy_crafts",
+  "price": 599,
+  "discountPrice": 159,
+  "discountRate": 73,
+  "rating": 4.1,
+  "reviews": 108,
+  "ratingText": "4.1 out of 5 stars",
+  "reviewText": "Based on 108 customer ratings on Amazon",
+  "shortLink": "https://amzn.to/46vr2rl",
+  "fullLink": "https://www.amazon.in/Silicone-Multicolor-Rectangle-Chocolate-Cheesecakes/dp/B0DWNDYD6T?crid=2TTUPK56NO0QE&dib=eyJ2IjoiMSJ9.eSd-iT3xKA5K8OLeL1ReRM8xJdrnkHAKKva4IBaX9_tanY9oN79ran7-V8HudDyEPjuGb2VhxZ8-dismuwy2lhrJkBIlGuCXArAwYDDZxAOTP3q-uHYMp3dCo4pLKaa_ZMLUDNXsITq05dW9Up_F5wHFRVW9hgLMlDYxjUHr0P6ZzKEYfAahxcKZVLIOejr7NvcSP68870rVS3Mdv6C52uBwZHMDyev1Mpi8mU-s64_Po3d1sSnF63LMOMrrCdTiuH2YrYS93FCvJEBW7vgilH1BazVDPbl02V5Wi2K6Iis.RcO_A93g0aTnm5PQJK_aAvywGSOA1JLJCQC8bt1juZs&dib_tag=se&keywords=soap+mold&qid=1771231573&sprefix=soap+mo%2Caps%2C502&sr=8-8&linkCode=ll2&tag=valdio-21&linkId=1feb8ed6a506949b33bdd7bfcc6a297c&ref_=as_li_ss_tl",
+
+  "image": "https://m.media-amazon.com/images/I/51fv5qDH9lL.jpg",
+
+  "description": "MPR4 multicolor silicone soap mould with 6 cavities featuring rectangular and oval shapes. Ideal for soap making, resin art, chocolates, and DIY crafting projects.",
+
+  "features": [
+    "6-cavity mould with mixed shapes (rectangle & oval)",
+    "Made from food-grade, BPA-free silicone",
+    "Flexible and non-stick for easy demoulding",
+    "Safe for oven, freezer, microwave & dishwasher",
+    "Durable and reusable for long-term use",
+    "Suitable for soap, chocolate, resin & cheesecake making"
+  ],
+
+  "colors": [
+    {
+      "name": "Multicolor",
+      "image": "https://m.media-amazon.com/images/I/51fv5qDH9lL.jpg"
+    }
+  ],
+
+  "sizes": ["6 Cavity"],
+
+  "variants": [
+    {
+      "color": "Multicolor",
+      "size": "6 Cavity (PK1)",
+      "price": 159,
+      "mrp": 599,
+      "discountRate": 73,
+      "image": "https://m.media-amazon.com/images/I/51fv5qDH9lL.jpg"
+    }
+  ],
+
+  "productDetails": {
+    "brand": "Generic",
+    "material": "Food Grade Silicone",
+    "shape": ["Oval", "Rectangular"],
+    "dimensions": "25 x 10 x 10 cm",
+    "temperatureRange": "-40°C to 230°C",
+    "specialFeatures": [
+      "Flexible",
+      "Non-Stick",
+      "Reusable",
+      "BPA-Free",
+      "Heat Resistant"
+    ],
+    "compatibleMaterials": [
+      "Soap Base",
+      "Chocolate",
+      "Resin",
+      "Wax",
+      "Cheesecake"
+    ],
+    "recommendedUse": [
+      "Soap Making",
+      "Resin Art",
+      "Chocolate Making",
+      "DIY Crafts"
+    ],
+    "countryOfOrigin": "India"
+  },
+
+  "deliveryInfo": {
+    "delivery": "Amazon Delivered",
+    "returnPolicy": "10 Days Returnable",
+    "cashOnDelivery": false,
+    "secureTransaction": true,
+    "freeDelivery": true,
+    "badge": ""
+  },
+
+  "offers": {
+    "cashback": "Up to ₹7 Amazon Pay Cashback on ICICI Credit Cards",
+    "bankOffer": "Up to ₹750 discount on select Credit Cards",
+    "businessOffer": "Save up to 25% with Amazon Business account"
+  }
+},
+
+{
+  "id": "barebeauty-3d-foam-brick-wall-sticker-white",
+  "name": "Wall Stickers 3D PE Foam Brick Design Self Adhesive Wallpaper (70 x 77 cm)",
+  "category": "home-decor",
+  "price": 299,
+  "discountPrice": 98,
+  "discountRate": 67,
+  "rating": 4.0,
+  "reviews": 969,
+  "ratingText": "4.0 out of 5 stars",
+  "reviewText": "Based on 969 customer ratings on Amazon",
+  "shortLink": "https://amzn.to/4cryjfm",
+  "fullLink": "https://www.amazon.in/Barebeauty-Stickers-Wallpaper-Design-Adhesive/dp/B0CZ9QVZXZ?dib=eyJ2IjoiMSJ9.dNDpDBAxx26-FaNGp2UMuTZqPz_f9gr3J6Sib-5c0gIql733pP0EF46nuaEwOB0SskLllx2dADe9K4hGiwhK1N6ULgTLBMpq-p5rPOjwgNVJIJoqA5wgR57Zq-F5W-hjAv0Q3iju8kVcEQ8SFmQKYoEjtD--2rAi2qLYfOrUv02GH7J42EaHPvFZhXvteel3ivQigurjAQ2FCNONS-JNd7XW_Oxtt373ysNxrdT3-v7i2S7dt8DsHz7p-GEBgdelfWx-lyyAvj69ASxJwIh_WY43S_b2Vf81DeMEIDBiUtU.GMBPP6jPvYqrFHUV5bNcGT6eHVdUuopBXo7GnEZR1FM&dib_tag=se&keywords=wall%2Bdesign&qid=1771170319&sr=8-27&th=1&linkCode=ll2&tag=valdio-21&linkId=bfed31c7554f5f9d51146ade3ad9067a&ref_=as_li_ss_tl",
+
+  "image": "https://m.media-amazon.com/images/I/71lGKSMMeJL._SL1250_.jpg",
+
+  "images": [
+    "https://m.media-amazon.com/images/I/71+P9Au4WVL._SL1050_.jpg",
+    "https://m.media-amazon.com/images/I/81WLsQSn1QL._SL1500_.jpg"
+  ],
+
+  "description": "Barebeauty 3D PE foam brick wall sticker offers a stylish and modern look for your home. Easy to install, waterproof, and durable, perfect for decorating walls without professional tools.",
+
+  "features": [
+    "3D embossed brick design for realistic look",
+    "Made from soft PE foam (4mm thickness)",
+    "Self-adhesive peel and stick installation",
+    "Waterproof, moisture-proof, and sound insulation",
+    "Easy to cut and customize for DIY use",
+    "Lightweight and safe for home use"
+  ],
+
+  "colors": [
+    {
+      "name": "White",
+      "image": "https://m.media-amazon.com/images/I/71lGKSMMeJL._SL1250_.jpg"
+    },
+    {
+      "name": "Black",
+      "image": "https://m.media-amazon.com/images/I/81HuqsUaOEL._SL1500_.jpg"
+    },
+    {
+      "name": "Grey",
+      "image": "https://m.media-amazon.com/images/I/814ol5CYo-L._SL1500_.jpg"
+    },
+    {
+      "name": "Pink",
+      "image": "https://m.media-amazon.com/images/I/610vnJbkXQL.jpg"
+    }
+  ],
+
+  "sizes": ["70 x 77 cm"],
+
+  "variants": [
+    {
+      "color": "White",
+      "size": "70 x 77 cm",
+      "price": 98,
+      "mrp": 299,
+      "discountRate": 67,
+      "image": "https://m.media-amazon.com/images/I/71lGKSMMeJL._SL1250_.jpg"
+    },
+    {
+      "color": "Black",
+      "size": "70 x 77 cm",
+      "price": 98,
+      "mrp": 299,
+      "discountRate": 67,
+      "image": "https://m.media-amazon.com/images/I/81HuqsUaOEL._SL1500_.jpg"
+    },
+    {
+      "color": "Grey",
+      "size": "70 x 77 cm",
+      "price": 98,
+      "mrp": 299,
+      "discountRate": 67,
+      "image": "https://m.media-amazon.com/images/I/814ol5CYo-L._SL1500_.jpg"
+    },
+    {
+      "color": "Grey",
+      "size": "70 x 77 cm",
+      "price": 98,
+      "mrp": 299,
+      "discountRate": 67,
+      "image": "https://m.media-amazon.com/images/I/610vnJbkXQL.jpg"
+    }
+  ],
+
+  "productDetails": {
+    "brand": "Barebeauty",
+    "material": "Polyethylene Foam (PE Foam)",
+    "style": "3D Brick Design",
+    "dimensions": "70 x 77 cm",
+    "thickness": "4 mm",
+    "itemWeight": "100 g",
+    "specialFeatures": [
+      "Self Adhesive",
+      "Waterproof",
+      "Sound Insulated",
+      "Easy to Clean",
+      "DIY Friendly"
+    ],
+    "recommendedUse": [
+      "Living Room",
+      "Bedroom",
+      "Kitchen",
+      "Office",
+      "TV Wall",
+      "Sofa Background"
+    ],
+    "installation": "Peel and Stick",
+    "careInstructions": "Clean with wet cloth",
+    "countryOfOrigin": "India"
+  },
+
+  "deliveryInfo": {
+    "delivery": "Amazon Delivered",
+    "returnPolicy": "Non-Returnable",
+    "cashOnDelivery": true,
+    "secureTransaction": true,
+    "freeDelivery": true,
+    "badge": "Amazon's Choice"
+  },
+
+  "offers": {
+    "cashback": "Up to ₹4 Amazon Pay Cashback on ICICI Credit Cards",
+    "bankOffer": "Up to ₹1,500 discount on select Credit & Debit Cards",
+    "partnerOffer": "Buy 3 or more and get 3% off",
+    "businessOffer": "Save up to 15% with Amazon Business account"
+  }
 }
+
+
+
+
+
+
+
 
 ]

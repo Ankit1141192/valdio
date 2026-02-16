@@ -174,7 +174,38 @@ const categories = [
     key:"Health_PersonalCare",
     name:"Health_PersonalCare",
     image:""
-  }
+  },
+  {
+    key:"Grocery_Food",
+    name:"Grocery_Food",
+    image:""
+  },
+  {
+    key:"Diy_crafts",
+    name:"Diy_Crafts",
+    image:""
+  },
+  {
+    key:"Health_PersonalCare",
+    name:"Health_PersonalCare",
+    image:""
+  },
+  {
+    key:"Health_PersonalCare",
+    name:"Health_PersonalCare",
+    image:""
+  },
+  {
+    key:"Health_PersonalCare",
+    name:"Health_PersonalCare",
+    image:""
+  },
+  {
+    key:"Health_PersonalCare",
+    name:"Health_PersonalCare",
+    image:""
+  },
+
 
 
 ];
