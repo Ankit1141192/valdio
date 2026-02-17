@@ -6412,7 +6412,95 @@
     "bankOffer": "Up to ₹1,500 discount on select Credit Cards",
     "businessOffer": "Save up to 18% with Amazon Business account"
   }
+},
+
+{
+  "id": "jivo-gold-refined-oil-5l",
+  "name": "JIVO Gold Refined Oil Blend of Rice Bran & Sunflower Oil (5 Litre)",
+  "category": "grocery & food",
+  "price": 1050,
+  "discountPrice": 889,
+  "discountRate": 15,
+  "rating": 4.2,
+  "reviews": 1234,
+  "ratingText": "4.2 out of 5 stars",
+  "reviewText": "Based on 1,234 customer ratings on Amazon",
+  "shortLink": "https://amzn.to/3OxuwTP",
+  "fullLink": "https://www.amazon.in/gp/product/B0C9Q1S6QG?smid=A15APWRK6P7LBV&th=1&linkCode=ll2&tag=valdio-21&linkId=fef061be56ed37b9cb0004740ac6479b&ref_=as_li_ss_tl",
+
+  "image": "https://m.media-amazon.com/images/I/71t8nmRwczL._SL1500_.jpg",
+
+  "description": "JIVO Gold Refined Cooking Oil is a healthy blend of rice bran and sunflower oil enriched with antioxidants and vitamins, ideal for everyday cooking and a healthy lifestyle.",
+
+  "features": [
+    "Blend of rice bran oil and sunflower oil",
+    "Rich in antioxidants and vitamins",
+    "Supports heart health and active lifestyle",
+    "Suitable for everyday cooking, frying & sautéing",
+    "Light and healthy cooking oil",
+    "Large 5L family pack"
+  ],
+
+  "colors": [
+    {
+      "name": "Golden",
+      "image": "https://m.media-amazon.com/images/I/71t8nmRwczL._SL1500_.jpg"
+    }
+  ],
+
+  "sizes": ["5 Litre"],
+
+  "variants": [
+    {
+      "size": "5 Litre (Pack of 1)",
+      "price": 889,
+      "mrp": 1050,
+      "discountRate": 15,
+      "image": "https://m.media-amazon.com/images/I/71t8nmRwczL._SL1500_.jpg"
+    }
+  ],
+
+  "productDetails": {
+    "brand": "JIVO",
+    "itemForm": "Liquid",
+    "oilType": "Refined Oil",
+    "ingredients": [
+      "Rice Bran Oil",
+      "Sunflower Oil"
+    ],
+    "netQuantity": "5 Litre",
+    "dietType": "Vegetarian",
+    "specialFeatures": [
+      "Rich in Antioxidants",
+      "Vitamin Enriched",
+      "Heart Friendly"
+    ],
+    "recommendedUse": [
+      "Cooking",
+      "Frying",
+      "Sautéing",
+      "Daily Use"
+    ],
+    "useBy": "30 Nov 2026",
+    "countryOfOrigin": "India"
+  },
+
+  "deliveryInfo": {
+    "delivery": "Amazon Delivered",
+    "returnPolicy": "Non-Returnable",
+    "cashOnDelivery": true,
+    "secureTransaction": true,
+    "freeDelivery": true,
+    "badge": "Top Brand"
+  },
+
+  "offers": {
+    "cashback": "Up to ₹44 Amazon Pay Cashback on ICICI Credit Cards",
+    "partnerOffer": "Buy 5 get 5% off",
+    "businessOffer": "Save up to 10% with Amazon Business account"
+  }
 }
+
 
 
 
