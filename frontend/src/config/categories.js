@@ -184,6 +184,7 @@ const categories = [
     key:"Diy_crafts",
     name:"Diy_Crafts",
     image:""
+
   },
   {
     key:"Health_PersonalCare",

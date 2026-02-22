@@ -6499,6 +6499,111 @@
     "partnerOffer": "Buy 5 get 5% off",
     "businessOffer": "Save up to 10% with Amazon Business account"
   }
+},
+
+{
+  "id": "asitis-atom-beginners-whey-choco-hazel-1kg",
+  "name": "AS-IT-IS ATOM Beginners Whey Protein 1kg | Choco Hazel Fusion Flavor",
+  "category": "Health_Nutrition",
+  "price": 1823,
+  "discountPrice": 1296,
+  "discountRate": 29,
+  "rating": 3.9,
+  "reviews": 1072,
+  "ratingText": "3.9 out of 5 stars",
+  "reviewText": "Based on 1,072 customer ratings on Amazon",
+  "shortLink": "https://amzn.to/3OCSUn2",
+  "fullLink": "https://www.amazon.in/dp/B09HMJXNF9?social_share=cm_sw_r_cso_cp_apan_dp_Y2YVPSVE775HR2SKTK35&th=1&linkCode=ll2&tag=valdio-21&linkId=92b6193c739489398fb9c3df1f00f047&ref_=as_li_ss_tl",
+
+  "image": "https://m.media-amazon.com/images/I/51dIhLS3tuL._SL1000_.jpg",
+
+
+  "description": "AS-IT-IS ATOM Beginners Whey Protein is specially designed for beginners to support muscle building, recovery, and strength enhancement with a balanced blend of protein and nutrients.",
+
+  "features": [
+    "Supports muscle growth and strength building",
+    "Optimizes protein synthesis and recovery",
+    "Helps reduce muscle fatigue and soreness",
+    "Ideal for beginners and fitness starters",
+    "Improves endurance and training performance",
+    "Delicious Choco Hazel Fusion flavor"
+  ],
+
+  "colors": [
+    {
+      "name": "Choco Hazel Fusion",
+      "image": "https://m.media-amazon.com/images/I/51dIhLS3tuL._SL1000_.jpg"
+    }
+  ],
+
+  "sizes": ["1 kg"],
+
+  "variants": [
+    {
+      "flavour": "Choco Hazel Fusion",
+      "size": "1 kg",
+      "price": 1296,
+      "mrp": 1823,
+      "discountRate": 29,
+      "image": "https://m.media-amazon.com/images/I/51dIhLS3tuL._SL1000_.jpg"
+    },
+    {
+      "flavour": "Double Rich Chocolate",
+      "size": "1 kg",
+      "price": 1296,
+      "mrp": 1823,
+      "discountRate": 29,
+      "image": "https://m.media-amazon.com/images/I/51l3NQyFbcL._SL1000_.jpg"
+    },
+    {
+      "flavour": "Cookies and Cream",
+      "size": "1 kg",
+      "price": 1296,
+      "mrp": 1823,
+      "discountRate": 29,
+      "image": "https://m.media-amazon.com/images/I/51l3NQyFbcL._SL1000_.jpg"
+    }
+  ],
+
+  "productDetails": {
+    "brand": "Asitis Nutrition",
+    "proteinSource": "Whey",
+    "itemForm": "Powder",
+    "flavour": "Choco Hazel Fusion",
+    "netQuantity": "1000 g",
+    "itemWeight": "1 kg",
+    "packageType": "Bottle",
+    "ageRange": "Adult",
+    "productBenefits": [
+      "Muscle Building",
+      "Strength Increase",
+      "Muscle Recovery",
+      "Energy Support"
+    ],
+    "specialFeatures": [
+      "Beginner Friendly",
+      "Supports Protein Synthesis",
+      "Reduces Muscle Breakdown"
+    ],
+    "useBy": "01 Mar 2027",
+    "countryOfOrigin": "India"
+  },
+
+  "deliveryInfo": {
+    "delivery": "Amazon Delivered",
+    "returnPolicy": "Non-Returnable",
+    "cashOnDelivery": true,
+    "secureTransaction": true,
+    "freeDelivery": true,
+    "badge": "Top Brand"
+  },
+
+  "offers": {
+    "cashback": "5% cashback with Amazon Pay ICICI Credit Card for Prime members, 3% for others",
+    "bankOffer": "10% instant discount on SBI Card transactions (up to ₹1000)",
+    "emi": "EMI options available",
+    "businessOffer": "Save up to 4% with Amazon Business account"
+  }
 }
 
 
