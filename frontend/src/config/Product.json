@@ -6604,6 +6604,129 @@
     "emi": "EMI options available",
     "businessOffer": "Save up to 4% with Amazon Business account"
   }
+},
+  {
+  "id": "himalaya-gentle-baby-shampoo-hibiscus-400ml",
+  "name": "Himalaya Gentle Baby Shampoo (400 ml) | No Tears Formula | Hibiscus",
+  "category": "Baby-Care",
+  "price": 340,
+  "discountPrice": 240,
+  "discountRate": 29,
+  "rating": 4.3,
+  "reviews": 65245,
+  "ratingText": "4.3 out of 5 stars",
+  "reviewText": "Based on 65,245 customer ratings on Amazon",
+  "shortLink": "https://amzn.to/46rWTJh",
+  "fullLink": "https://www.amazon.in/dp/B00H5NMNXC?social_share=cm_sw_r_ud_dp_TADHFPVX6QSF3BCP5MQA_1&th=1&linkCode=ll2&tag=valdio-21&linkId=e9b7cef6603757ee692c3175e5fbe170&ref_=as_li_ss_tl",
+
+  "image": "https://m.media-amazon.com/images/I/61xjKrCVz0L._SL1500_.jpg",
+
+  "description": "Himalaya Gentle Baby Shampoo is formulated with a No Tears formula that gently cleanses, softens, and nourishes baby's hair. Enriched with Hibiscus, it keeps hair soft and healthy while being safe for daily use.",
+
+  "features": [
+    "No Tears formula",
+    "Gently cleanses baby's hair",
+    "Softens and nourishes hair",
+    "Suitable for daily use",
+    "Artificial colour free",
+    "Paraben free and soap free"
+  ],
+
+  "styles": [
+    {
+      "name": "Hibiscus",
+      "image": "https://m.media-amazon.com/images/I/61xjKrCVz0L._SL1500_.jpg"
+    }
+  ],
+
+  "sizes": [
+    "100 ml",
+    "200 ml",
+    "400 ml",
+    "600 ml",
+    "600 ml (Pack of 2)"
+  ],
+
+  "variants": [
+    {
+      "style": "Hibiscus",
+      "size": "100 ml (Pack of 1)",
+      "price": 97,
+      "mrp": 106,
+      "discountRate": 8
+    },
+    {
+      "style": "Hibiscus",
+      "size": "200 ml (Pack of 1)",
+      "price": 179,
+      "mrp": 189,
+      "discountRate": 5
+    },
+    {
+      "style": "Hibiscus",
+      "size": "400 ml (Pack of 1)",
+      "price": 240,
+      "mrp": 340,
+      "discountRate": 29
+    },
+    {
+      "style": "Hibiscus",
+      "size": "600 ml (Pack of 1)",
+      "price": 394,
+      "mrp": 540,
+      "discountRate": 27
+    },
+    {
+      "style": "Hibiscus",
+      "size": "600 ml (Pack of 2)",
+      "price": 788,
+      "mrp": 1080,
+      "discountRate": 27
+    }
+  ],
+
+  "productDetails": {
+    "brand": "Himalaya",
+    "itemForm": "Liquid",
+    "hairType": "All",
+    "scent": "Hibiscus",
+    "ageRange": "Baby",
+    "materialTypeFree": [
+      "Artificial Colour Free",
+      "Chemical Free",
+      "Paraben Free",
+      "Soap Free"
+    ],
+    "productBenefits": [
+      "Gentle cleansing",
+      "Hair softening",
+      "Nourishes scalp",
+      "Safe for babies"
+    ],
+    "countryOfOrigin": "India"
+  },
+
+  "deliveryInfo": {
+    "delivery": "Amazon Delivered",
+    "returnPolicy": "Non-Returnable",
+    "cashOnDelivery": true,
+    "secureTransaction": true,
+    "freeDelivery": true,
+    "badge": "Top Brand"
+  },
+
+  "offers": {
+    "cashback": "Up to ₹7 cashback with Amazon Pay ICICI Credit Card",
+    "upiOffer": "Earn rewards on UPI payment above ₹499 (Limited time)",
+    "businessOffer": "Save up to 18% with GST invoice on business purchases"
+  },
+
+  "tags": [
+    "#1 Best Seller",
+    "10K+ bought in past month",
+    "Baby Shampoo",
+    "No Tears Formula"
+  ]
 }
 
 
