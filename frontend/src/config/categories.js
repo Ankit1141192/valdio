@@ -186,28 +186,6 @@ const categories = [
     image:""
 
   },
-  {
-    key:"Health_PersonalCare",
-    name:"Health_PersonalCare",
-    image:""
-  },
-  {
-    key:"Health_PersonalCare",
-    name:"Health_PersonalCare",
-    image:""
-  },
-  {
-    key:"Health_PersonalCare",
-    name:"Health_PersonalCare",
-    image:""
-  },
-  {
-    key:"Health_PersonalCare",
-    name:"Health_PersonalCare",
-    image:""
-  },
-
-
 
 ];
 
