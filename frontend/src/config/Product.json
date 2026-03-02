@@ -6937,8 +6937,862 @@
     "Office Desk Plant",
     "Low Maintenance"
   ]
-}
+},
+{
+  "id": "mosac-womens-party-wear-wedge-sandal",
+  "name": "MOSAC Women's Party-Wear Trendy Designer Wedding Casual Slip-On Wedge Fashion Sandal",
+  "category": "Footwear",
+  "price": 1299,
+  "discountPrice": 575,
+  "discountRate": 56,
+  "rating": 3.9,
+  "reviews": 132,
+  "ratingText": "3.9 out of 5 stars",
+  "reviewText": "Based on 132 customer ratings on Amazon",
+  "shortLink": "https://amzn.to/4cUVDCj",
+  "fullLink": "https://www.amazon.in/dp/B0CJVD7G8H?social_share=cm_sw_r_ud_dp_1BDB7MWX7H1AY6EYSEE4&th=1&psc=1&linkCode=ll2&tag=valdio-21&linkId=f79207f921348111a6bc0b13605c87c2&ref_=as_li_ss_tl",
 
+  "image": "https://m.media-amazon.com/images/I/71qy7qov24L._SY695_.jpg",
+
+  "description": "MOSAC Women's trendy wedge sandals are designed for party wear, weddings, casual outings, and office use. Featuring a stylish and eye-catching design, these slip-on sandals complement both ethnic and western outfits while offering everyday comfort.",
+
+  "features": [
+    "Trendy and fashionable party-wear design",
+    "Comfortable wedge heel for better support",
+    "Slip-on closure for easy wear",
+    "Suitable for ethnic and western outfits",
+    "Ideal for party, wedding, office, and casual wear",
+    "Lightweight and stylish everyday footwear"
+  ],
+
+  "colors": [
+    "Gold",
+    "Black",
+    "Silver"
+  ],
+
+  "sizes": [
+    "3 UK",
+    "4 UK",
+    "5 UK",
+    "6 UK",
+    "7 UK",
+    "8 UK"
+  ],
+
+  "variants": [
+    {
+      "color": "Gold",
+      "price": 575,
+      "mrp": 1299,
+      "discountRate": 56
+    },
+    {
+      "color": "Black",
+      "price": 575,
+      "mrp": 1299,
+      "discountRate": 56
+    },
+    {
+      "color": "Silver",
+      "price": 575,
+      "mrp": 1299,
+      "discountRate": 56
+    }
+  ],
+
+  "productDetails": {
+    "brand": "MOSAC",
+    "materialType": "Faux Leather",
+    "closureType": "Slip On",
+    "heelType": "Wedge Heel",
+    "style": "Casual",
+    "strapType": "Single Strap",
+    "soleMaterial": "Faux Leather",
+    "countryOfOrigin": "India"
+  },
+
+  "deliveryInfo": {
+    "delivery": "Amazon Delivered",
+    "returnPolicy": "10 Days Return & Exchange",
+    "cashOnDelivery": true,
+    "secureTransaction": true,
+    "freeDelivery": true,
+    "badge": "Top Brand"
+  },
+
+  "offers": {
+    "bankOffer": "Up to ₹1,500 discount on select Credit & Debit Cards",
+    "upiOffer": "Earn ₹5.7 rewards on UPI payment (Limited time)",
+    "partnerOffer": "Get GST invoice and save up to 18% on business purchases"
+  },
+
+  "tags": [
+    "Women's Sandals",
+    "Wedge Heel",
+    "Party Wear",
+    "Wedding Footwear",
+    "Slip-On Sandals",
+    "Casual Footwear",
+    "Fashion Sandals"
+  ]
+},
+{
+  "id": "suhaag-chura-red-bridal-bangles-set",
+  "name": "Suhaag Chura Red Bridal Chura Bangles Set for Women & Bride – Pack of 20 with Kada & Pearl Latkan Bangles",
+  "category": "jewellery",
+  "price": 1200,
+  "discountPrice": 514,
+  "discountRate": 57,
+  "rating": null,
+  "reviews": null,
+  "ratingText": "3.7 out of 5 stars",
+  "reviewText": "Based on 1,234 customer ratings on Amazon",
+  "shortLink": "https://amzn.to/405leBa",
+  "fullLink": "https://www.amazon.in/dp/B0FBKGWBLW?social_share=cm_sw_r_ud_dp_JWAR82WBDAWVQDB31MEW&th=1&psc=1&linkCode=ll2&tag=valdio-21&linkId=5d0b7b3f8630f4070d190fcbb659cff8&ref_=as_li_ss_tl",
+  "image": "https://m.media-amazon.com/images/I/81hbR05D1+L._SY625_.jpg",
+  "description": "Suhaag Chura Red Bridal Bangles Set is a beautifully crafted traditional wedding accessory. This long chura set includes 20 bangles with kada and pearl latkan detailing, featuring intricate Meena and Kundan handwork with golden silver chain accents, perfect for brides and festive occasions.",
+  "features": [
+    "Elegant red bridal chura set (Pack of 20)",
+    "Includes kada and pearl latkan bangles",
+    "Intricate Meena and Kundan handwork",
+    "Golden and silver chain decorative detailing",
+    "Perfect for weddings and traditional occasions",
+    "Lightweight and comfortable to wear"
+  ],
+  "styles": [
+    "STYLE-1",
+    "STYLE-2",
+    "STYLE-3",
+    "STYLE-4"
+  ],
+  "sizes": [
+    "2.4",
+    "2.6",
+    "2.8"
+  ],
+  "variants": [
+    {
+      "style": "STYLE-1",
+      "sizeOptions": ["2.4", "2.6", "2.8"],
+      "price": 514,
+      "mrp": 1200,
+      "discountRate": 57
+    },
+    {
+      "style": "STYLE-2",
+      "sizeOptions": ["2.4", "2.6", "2.8"],
+      "price": 514,
+      "mrp": 1200,
+      "discountRate": 57
+    },
+    {
+      "style": "STYLE-3",
+      "sizeOptions": ["2.4", "2.6", "2.8"],
+      "price": 514,
+      "mrp": 1200,
+      "discountRate": 57
+    },
+    {
+      "style": "STYLE-4",
+      "sizeOptions": ["2.4", "2.6", "2.8"],
+      "price": 514,
+      "mrp": 1200,
+      "discountRate": 57
+    }
+  ],
+  "productDetails": {
+    "brand": "Suhaag Chura",
+    "materialType": "Plastic",
+    "metalType": "No Metal Type",
+    "claspType": "Slide",
+    "gemType": "No Gemstone",
+    "occasionType": "Traditional",
+    "setCount": "20 Pieces",
+    "countryOfOrigin": "India"
+  },
+  "deliveryInfo": {
+    "delivery": "Amazon Delivered",
+    "returnPolicy": "10 Days Returnable",
+    "cashOnDelivery": null,
+    "secureTransaction": true,
+    "freeDelivery": true
+  },
+  "offers": {
+    "cashback": "Up to ₹15 cashback as Amazon Pay Balance with Amazon Pay ICICI Credit Card",
+    "bankOffer": "Up to ₹1,000 discount on select Credit & Debit Cards",
+    "partnerOffer": "Get GST invoice and save up to 18% on business purchases"
+  },
+  "tags": [
+    "Bridal Chura",
+    "Red Bangles Set",
+    "Wedding Jewellery",
+    "Traditional Bangles",
+    "Meena Work",
+    "Kundan Work",
+    "Bridal Accessories"
+  ]
+},
+{
+  "id": "faibhi-100pcs-building-block-set-small",
+  "name": "Faibhi 100pcs Building Block Set with Storage Container – Educational & Creative Learning Toy for Kids (3+ Years)",
+  "category": "toys",
+  "price": 898,
+  "discountPrice": 299,
+  "discountRate": 67,
+  "rating": 3.8,
+  "reviews": 320,
+  "ratingText": "3.8 out of 5 stars",
+  "reviewText": "Based on 320 customer ratings on Amazon",
+  "shortLink": "https://amzn.to/4bhtUdP",
+  "fullLink": "https://www.amazon.in/dp/B0DGFBP3GP?social_share=cm_sw_r_cso_wa_apan_dp_ACJFAQPFG39RXAE3A0X1&th=1&linkCode=ll2&tag=valdio-21&linkId=3d4cea902c04f271e22c11df48ecaa31&ref_=as_li_ss_tl",
+  "image": "https://m.media-amazon.com/images/I/516Mv9KwuqL._SL1000_.jpg",
+  "description": "Faibhi 100-piece building block set is a fun and educational DIY toy designed for kids aged 3+ years. This multicolored block set includes a convenient storage container and versatile pieces like bricks, wheels, and connectors, encouraging creativity, imagination, and early learning development.",
+  "features": [
+    "100 multicolored building blocks",
+    "Includes durable storage container for easy organization",
+    "Promotes creativity, imagination, and problem-solving skills",
+    "Supports fine motor skills and hand-eye coordination development",
+    "Compatible with leading building block brands",
+    "Made from high-quality, durable plastic",
+    "Encourages open-ended and hands-on learning play"
+  ],
+  "styles": [
+    "Small Block",
+    "Mega Block"
+  ],
+  "unitOptions": [
+    "40",
+    "85",
+    "100",
+    "125",
+    "200",
+    "250"
+  ],
+  "variants": [
+    {
+      "style": "Small Block",
+      "unitCount": 100,
+      "price": 299,
+      "mrp": 898,
+      "discountRate": 67
+    }
+  ],
+  "productDetails": {
+    "brand": "Faibhi",
+    "material": "High-quality durable plastic",
+    "recommendedAge": "3+ Years",
+    "educationalObjective": "Fine motor skills, creativity, imagination, logic development",
+    "containerIncluded": true,
+    "color": "Multicolored",
+    "countryOfOrigin": "India"
+  },
+  "deliveryInfo": {
+    "delivery": "Amazon Delivered",
+    "returnPolicy": "10 Days Replacement",
+    "cashOnDelivery": null,
+    "secureTransaction": true,
+    "freeDelivery": true,
+    "badge": "Top Brand"
+  },
+  "offers": {
+    "coupon": "4% coupon available (Terms apply)",
+    "cashback": "Up to ₹8 cashback with Amazon Pay ICICI Credit Card",
+    "bankOffer": "Up to ₹1,500 discount on select Credit & Debit Cards",
+    "upiOffer": "Earn ₹2.9 rewards on UPI payment (Limited time)",
+    "partnerOffer": "Get GST invoice and save up to 18% on business purchases"
+  },
+  "tags": [
+    "Building Blocks",
+    "Educational Toy",
+    "Creative Toy",
+    "STEM Toy",
+    "Kids Learning Toy",
+    "DIY Toy Set",
+    "Storage Container Toy"
+  ]
+},
+{
+  "id": "ugaoo-sansevieria-golden-hahnii-snake-plant",
+  "name": "UGAOO Sansevieria Golden Hahnii Snake Plant With Self Watering Pot",
+  "category": "home-garden",
+  "price": 595,
+  "discountPrice": 299,
+  "discountRate": 50,
+  "rating": 3.9,
+  "reviews": 2120,
+  "ratingText": "3.9 out of 5 stars",
+  "reviewText": "Based on 2,120 customer ratings on Amazon",
+  "shortLink": "https://amzn.to/4aYA0OT",
+  "fullLink": "https://www.amazon.in/Ugaoo-Sansevieria-Golden-Hahnii-Snake/dp/B071NMHPSY?crid=K8T15D4FXY8A&dib=eyJ2IjoiMSJ9.5VW-60R06_qA2HRTReqtevaMGQhrKSH2dkRikrgI07yuSp_2u_pmkaJd6ERr0pdNRicjTj8JiDmyFAt1cFHWV3j8B9-kotiEnZTWJHnWziv1liUW6_peB0UwWcwpKXaPAV30Jf4JYUcUnjcL7li_Bxm9aghYHm5rk7f6KNbxiRLyeF1o7D6PR6wnOXL2gATKwZkvgrxrqVQUG-vyItuawoYMx0-8SQa5TvOBBn0vG_KDh3QPbbGW__AL56Y96QGG-Bs_drSwXi2Jrzt_QeZa5XGxyKbpIws0w5CO8VKsElo.Xlk5pHEvnxnSir77a4lUUU8MRPRUr9S6WlWbKhSpAVs&dib_tag=se&keywords=snake%2B%5Blant&qid=1772268048&sprefix=snake%2Bla%2Caps%2C459&sr=8-3-spons&aref=vweWDC3kZr&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1&linkCode=ll2&tag=valdio-21&linkId=daf9eb46e6b4d06150774f41df2effa1&ref_=as_li_ss_tl",
+  "image": "https://m.media-amazon.com/images/I/71U9opHef-L._SL1500_.jpg",
+  "description": "UGAOO Sansevieria Golden Hahnii (Snake Plant) is a low-maintenance indoor air-purifying plant that comes with a self-watering pot. Ideal for living rooms, corridors, and office corners, this drought-tolerant plant thrives in partial shade and requires watering only once a week.",
+  "features": [
+    "Air-purifying indoor plant",
+    "Low maintenance and drought tolerant",
+    "Comes with self-watering pot",
+    "Suitable for indoor spaces like corridors and living rooms",
+    "Watering required once a week",
+    "Compact size ideal for desks and tabletops"
+  ],
+  "styles": [
+    "Small",
+    "Combo of 4 Plants",
+    "Extra Large (XL)",
+    "Gifting + Greeting Card"
+  ],
+  "sizes": [
+    "1 Count"
+  ],
+  "variants": [
+    {
+      "style": "Small",
+      "size": "1 Count",
+      "price": 299,
+      "mrp": 595,
+      "discountRate": 50
+    },
+    {
+      "style": "Combo of 4 Plants",
+      "size": "4 Count",
+      "price": 1099,
+      "mrp": 1499,
+      "discountRate": 27,
+      "pricePerCount": 274.75
+    }
+  ],
+  "productDetails": {
+    "brand": "UGAOO",
+    "plantName": "Sansevieria Golden Hahnii (Snake Plant)",
+    "plantType": "Indoor Air Purifier Plant",
+    "materialFeature": "Natural",
+    "colour": "Yellow-Green",
+    "specialFeature": "Drought Tolerant",
+    "itemWeight": "390 grams",
+    "sunlightExposure": "Partial Shade",
+    "netQuantity": "1 Count",
+    "usdaHardinessZone": "3",
+    "plantHeight": "6–12 inches",
+    "potDiameter": "4–5 inches",
+    "wateringSchedule": "Once a week",
+    "productCareInstructions": "Easy to care; avoid overwatering",
+    "countryOfOrigin": "India"
+  },
+  "deliveryInfo": {
+    "delivery": "Amazon Delivered",
+    "returnPolicy": "Non-Returnable",
+    "cashOnDelivery": true,
+    "secureTransaction": true,
+    "freeDelivery": true,
+    "badge": "Top Brand"
+  },
+  "offers": {
+    "cashback": "Up to ₹8 cashback with Amazon Pay ICICI Credit Card",
+    "bankOffer": "Up to ₹1,500 discount on select Credit & Debit Cards",
+    "upiOffer": "Earn ₹2.9 rewards on UPI payment (Limited time)",
+    "partnerOffer": "Buy any 2 get extra 2% off; Buy any 3 get extra 4% off on select categories"
+  },
+  "tags": [
+    "Snake Plant",
+    "Sansevieria",
+    "Indoor Plant",
+    "Air Purifier Plant",
+    "Low Maintenance Plant",
+    "Self Watering Pot",
+    "Office Desk Plant"
+  ]
+},
+{
+  "id": "signamio-premium-pizza-cutter-pink",
+  "name": "SIGNAMIO® Premium Pizza Cutter and Sandwich Slicer - Pink, Stainless Steel Pizza Wheel",
+  "category": "kitchen-tools",
+  "price": 299,
+  "discountPrice": 190,
+  "discountRate": 36,
+  "rating": 4.2,
+  "reviews": 1763,
+  "ratingText": "4.2 out of 5 stars",
+  "reviewText": "Based on 1,763 customer ratings on Amazon",
+  "shortLink": "https://amzn.to/4rOCO8L",
+  "fullLink": "https://www.amazon.in/dp/B08LDMZ9PY?_encoding=UTF8&aref=uuYks9K9ra&pd_rd_i=B08LDMZ9PY&qid=1772267891&pd_rd_w=Tqzj8&content-id=amzn1.sym.6dfd6df7-44a2-4792-8c83-3ac8a4ba533a%3Aamzn1.sym.6dfd6df7-44a2-4792-8c83-3ac8a4ba533a&pf_rd_p=6dfd6df7-44a2-4792-8c83-3ac8a4ba533a&pf_rd_r=TAE461Q6RHA29PCPV4S2&pd_rd_wg=Kv3Dv&pd_rd_r=f6f745d0-142e-44a8-9ef9-0dd5f84a702c&pd_rd_plhdr=t&th=1&linkCode=ll2&tag=valdio-21&linkId=1342de5af6d0211e63b8e3c5559aa918&ref_=as_li_ss_tl",
+  "image": "https://m.media-amazon.com/images/I/61m1vLMK1NL._SX679_.jpg",
+  "description": "SIGNAMIO Premium Pizza Cutter features a sharp stainless steel rotating blade and ergonomic non-slip handle for effortless slicing. Ideal for cutting pizza, roti, paratha, chapati, brownies, and sandwiches, this durable kitchen tool ensures clean and precise cuts every time.",
+  "features": [
+    "Made with food-grade 18/8 stainless steel",
+    "Sharp, smooth rotating pizza wheel blade",
+    "Ergonomic non-slip handle for secure grip",
+    "Multi-purpose slicer for pizza, roti, paratha, chapati, brownies & sandwiches",
+    "Compact and easy to store",
+    "Rust-resistant and durable construction"
+  ],
+  "colors": [
+    "Pink",
+    "Red (Bicycle Cutter)",
+    "Yellow (Bicycle Cutter)"
+  ],
+  "variants": [
+    {
+      "variantName": "Pizza Cutter - Pink",
+      "price": 190,
+      "mrp": 299,
+      "discountRate": 36
+    },
+    {
+      "variantName": "Grater - Sky Blue",
+      "price": 189,
+      "mrp": 299,
+      "discountRate": 37
+    },
+    {
+      "variantName": "5 in 1 Slicer",
+      "price": 284,
+      "mrp": 999,
+      "discountRate": 72
+    },
+    {
+      "variantName": "7 in 1 Slicer",
+      "price": 379,
+      "mrp": 999,
+      "discountRate": 62
+    },
+    {
+      "variantName": "Bicycle Pizza Cutter - Red",
+      "price": 248,
+      "mrp": 499,
+      "discountRate": 50
+    },
+    {
+      "variantName": "Bicycle Pizza Cutter - Yellow",
+      "price": 248,
+      "mrp": 499,
+      "discountRate": 50
+    }
+  ],
+  "productDetails": {
+    "brand": "SIGNAMIO",
+    "productDimensions": "19.5L x 8W cm",
+    "itemWeight": "199 grams",
+    "bladeMaterial": "Stainless Steel (18/8 Food Grade)",
+    "handleMaterial": "Stainless Steel, Steel",
+    "manufacturer": "SIGNAMIO",
+    "rustResistant": true,
+    "countryOfOrigin": "India"
+  },
+  "deliveryInfo": {
+    "delivery": "Amazon Delivered",
+    "returnPolicy": "10 Days Returnable",
+    "cashOnDelivery": true,
+    "secureTransaction": true,
+    "freeDelivery": true,
+    "badge": "Top Brand"
+  },
+  "offers": {
+    "cashback": "Up to ₹5 cashback with Amazon Pay ICICI Credit Card",
+    "bankOffer": "Up to ₹1,500 discount on select Credit & Debit Cards",
+    "upiOffer": "Earn ₹1.9 rewards on UPI payment (Limited time)",
+    "partnerOffer": "Buy 2 or more and get 3% off on qualifying items"
+  },
+  "tags": [
+    "Pizza Cutter",
+    "Sandwich Slicer",
+    "Roti Cutter",
+    "Paratha Cutter",
+    "Chapati Cutter",
+    "Brownie Cutter",
+    "Kitchen Tool"
+  ]
+},
+{
+  "id": "qutz-toddler-talking-flash-cards-224-words",
+  "name": "QuTZ Toddler Toys Sight Words Talking Flash Cards – 224 Sight Words Learning Toy for Ages 2-6",
+  "category": "toys",
+  "price": 999,
+  "discountPrice": 299,
+  "discountRate": 70,
+  "rating": 4.5,
+  "reviews": 3584,
+  "ratingText": "4.5 out of 5 stars",
+  "reviewText": "Based on 3,584 customer ratings on Amazon",
+  "shortLink": "https://amzn.to/4rQjJ60",
+  "fullLink": "https://www.amazon.in/QuTZ-Autistic-Children-Learning-Montessori/dp/B09B7YT5H9?crid=2IE5MT0UKMV24&dib=eyJ2IjoiMSJ9.uN3KoAz2eRokF1jsFxG0FoHBM5OM2DoOpmTwLwSBesbahVc1vx7vAm5tuudZArMNF6hVibwree4Jz5y8JTD_Ihu2VYHIqqpg2c_BBBdy-KtO1UO6uQ9gL0bgkUDOwfqHkzRMVFsPB09iZmJXCbEuYesn8SSVa4C6-gQfAy56E_Vgbrd6iloH4aXiTXryXuSha_KWLJTDpyAOLHrwpol8vhB2d-ICAXviuX1z1sEusomeLDJ1Sv3CpwmAm1590k5i_zC-fuwvxAJjkFoLmLbWWoPQsBF-Gi4Xc6FEvMWGA24.NozZIeqlZF-OW498xlJ-06P-dYaZgJYD4HRU6okZ0fQ&dib_tag=se&keywords=gift+items+for+2+year+old+boy&qid=1772267471&sprefix=gift+items+for+2%2Caps%2C545&sr=8-4-spons&aref=8rapgJrLiq&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1&linkCode=ll2&tag=valdio-21&linkId=b20996761d6cad860f21de06d0ee9b41&ref_=as_li_ss_tl",
+  "image": "https://m.media-amazon.com/images/I/81TRDVflmWL._SL1500_.jpg",
+  "description": "QuTZ Talking Flash Cards is an interactive Montessori learning toy designed for toddlers aged 2-6 years. The set includes 112 double-sided cards covering 224 sight words across 12 subjects. It helps enhance language skills, vocabulary, cognitive development, and speech therapy, making it ideal for both regular and autistic children.",
+  "features": [
+    "Includes card reader and 112 double-sided flash cards (224 sight words)",
+    "Covers 12 subjects including animals, colors, shapes, food, transport, and more",
+    "Pronounces words and plays real animal/transport sounds",
+    "Supports speech therapy and language development",
+    "Rechargeable battery with up to 4.5 hours usage",
+    "Adjustable volume and lightweight design (71g)",
+    "Helps reduce screen time",
+    "Portable storage bag included"
+  ],
+  "subjectsCovered": [
+    "Shapes",
+    "Colors",
+    "Animals",
+    "Daily Necessities",
+    "Transport",
+    "Food",
+    "Fruits",
+    "Vegetables",
+    "Costumes",
+    "Nature",
+    "Persons & Jobs"
+  ],
+  "sizes": [
+    "One Size"
+  ],
+  "variants": [
+    {
+      "variantName": "Standard Pack - 224 Sight Words",
+      "cardCount": 112,
+      "wordCount": 224,
+      "price": 299,
+      "mrp": 999,
+      "discountRate": 70
+    }
+  ],
+  "productDetails": {
+    "brand": "QuTZ",
+    "ageRange": "2-6 Years",
+    "educationalObjective": "Language Skills, Cognitive Development, Vocabulary Building",
+    "theme": "Children",
+    "batteryType": "Built-in Rechargeable Battery",
+    "batteryLife": "Up to 4.5 hours",
+    "cardReaderWeight": "71 grams",
+    "dimensions": "4 x 3.5 x 0.5 inches",
+    "volumeControl": true,
+    "recommendedUse": "Home & Classroom",
+    "specialFeature": "Autism-friendly speech therapy support",
+    "countryOfOrigin": "India"
+  },
+  "deliveryInfo": {
+    "delivery": "Amazon Delivered",
+    "returnPolicy": "10 Days Replacement",
+    "cashOnDelivery": null,
+    "secureTransaction": true,
+    "freeDelivery": true
+  },
+  "offers": {
+    "cashback": "Up to ₹8 cashback with Amazon Pay ICICI Credit Card",
+    "bankOffer": "Up to ₹1,500 discount on select Credit & Debit Cards",
+    "upiOffer": "Earn ₹2.9 rewards on UPI payment (Limited time)",
+    "partnerOffer": "Get GST invoice and save up to 18% on business purchases"
+  },
+  "tags": [
+    "Toddler Learning Toy",
+    "Talking Flash Cards",
+    "Montessori Toy",
+    "Speech Therapy Toy",
+    "Autism Sensory Toy",
+    "Educational Toy",
+    "Sight Words Learning"
+  ]
+},
+{
+  "id": "wembley-rechargeable-hover-football-blue",
+  "name": "Wembley Rechargeable Hover Football for Kids – Indoor Floating Air Soccer Ball (Blue)",
+  "category": "toys",
+  "price": 999,
+  "discountPrice": 499,
+  "discountRate": 50,
+  "rating": 3.8,
+  "reviews": 5419,
+  "ratingText": "3.8 out of 5 stars",
+  "reviewText": "Based on 5,419 customer ratings on Amazon",
+  "badge": "#1 Best Seller in Kids' Football Toys",
+  "shortLink": "https://amzn.to/4sk9wP4",
+  "fullLink": "https://www.amazon.in/Wembley-Rechargeable-Football-Hoverball-BIS-Approved/dp/B0BBGWG5K9?crid=3JBRZL4G8Q0L&dib=eyJ2IjoiMSJ9.lpkS5MObP3r-DkYMfyJplvDBQZ1aV1PwiI9lNJtkmyyj9vYZMh60yes1cb6ArgEegNisR4LOG6_OQ9DaGI1N903htstFMz7WhRDH4HULJo8Xa7Z2vBhhBbjpnJbpFbfpRKtWpOhnJvGECIVJFLLc9FZGMpmPOkpDGZcKoaNEE8aF1SD0J5hnWptqU4l1UGEgUk1e6S7Ht6VbkcHhQKFkES0HGh5ErfbON68qEVLNqA9nhpqBuePJ6T2bOOC3TGHbvqWn0mKJJ_N4HzWFHPw2ADEI3lMaTavtUzhyP-NKWoA.WANuXWiHNuv1k7lQySKfxSqjUk0ewfvozNuZo1zxsdA&dib_tag=se&keywords=toys%2Bfor%2B2%2Byear%2Bold%2Bboy&qid=1772245960&sprefix=toys%2Bfor%2B2%2Byear%2Caps%2C447&sr=8-73&xpid=B_JhqNVDFKoh3&th=1&linkCode=ll2&tag=valdio-21&linkId=492f1f14cc719645fe89eee19f15bdd3&ref_=as_li_ss_tl",
+  "image": "https://m.media-amazon.com/images/I/51oS0wbARzL._SX679_.jpg",
+  "description": "Wembley Rechargeable Hover Football is an indoor floating air soccer ball designed for kids aged 2–10 years. Powered by a 1200mAh rechargeable battery with C-Type charging, it glides smoothly on flat surfaces and features a protective foam bumper for safe and fun indoor play.",
+  "features": [
+    "Rechargeable 1200mAh battery with C-Type USB charging",
+    "Glides smoothly on tiles, hardwood, laminate, and pavement",
+    "Soft non-marking foam bumper for wall and furniture protection",
+    "Air-powered bottom fan for smooth floating movement",
+    "Encourages screen-free active indoor play",
+    "Improves balance, coordination, and motor skills",
+    "Made from non-toxic, durable plastic material"
+  ],
+  "colors": [
+    "Blue",
+    "Green",
+    "Red",
+    "Red & Gold",
+    "Grey",
+    "Yellow"
+  ],
+  "variants": [
+    {
+      "color": "Blue",
+      "price": 499,
+      "mrp": 999,
+      "discountRate": 50
+    },
+    {
+      "color": "Red",
+      "price": 499,
+      "mrp": 999,
+      "discountRate": 50
+    },
+    {
+      "color": "Green",
+      "price": 578,
+      "mrp": 999,
+      "discountRate": 42
+    },
+    {
+      "color": "Red & Gold",
+      "price": 529,
+      "mrp": 999,
+      "discountRate": 47
+    },
+    {
+      "color": "Grey",
+      "price": 579,
+      "mrp": 999,
+      "discountRate": 42
+    },
+    {
+      "color": "Yellow",
+      "price": 579,
+      "mrp": 999,
+      "discountRate": 42
+    }
+  ],
+  "productDetails": {
+    "brand": "Wembley",
+    "ageRange": "2–10 Years",
+    "batteryCapacity": "1200mAh",
+    "chargingType": "USB Type-C",
+    "material": "Non-toxic durable plastic with foam bumper",
+    "playSurface": "Smooth indoor and outdoor surfaces",
+    "recommendedUse": "Indoor sports play",
+    "specialFeature": "Floating air cushion design",
+    "countryOfOrigin": "India"
+  },
+  "deliveryInfo": {
+    "delivery": "Amazon Delivered",
+    "returnPolicy": "10 Days Replacement",
+    "cashOnDelivery": true,
+    "secureTransaction": true,
+    "freeDelivery": true,
+    "badge": "Top Brand"
+  },
+  "offers": {
+    "cashback": "Up to ₹14 cashback with Amazon Pay ICICI Credit Card",
+    "bankOffer": "Up to ₹1,500 discount on select Credit & Debit Cards",
+    "upiOffer": "Earn ₹4.9 rewards on UPI payment (Limited time)",
+    "partnerOffer": "3% off any 3, 4% off any 4, 5% off any 5 qualifying items"
+  },
+  "tags": [
+    "Hover Football",
+    "Indoor Soccer Ball",
+    "Rechargeable Toy",
+    "Kids Sports Toy",
+    "Screen Free Toy",
+    "Birthday Gift for Kids",
+    "Active Play Toy"
+  ]
+},
+{
+  "id": "wembley-rc-car-1-24-yellow-lambo",
+  "name": "Wembley RC Car High Speed Racing Remote Control Car for Kids – Rechargeable 1:24 Scale (Yellow - Lambo)",
+  "category": "toys",
+  "price": 1499,
+  "discountPrice": 599,
+  "discountRate": 60,
+  "rating": 3.7,
+  "reviews": 7164,
+  "ratingText": "3.7 out of 5 stars",
+  "reviewText": "Based on 7,164 customer ratings on Amazon",
+  "badge": "Top Brand",
+  "shortLink": "https://amzn.to/4snpTun",
+  "fullLink": "https://www.amazon.in/Wembley-High-Speed-Mini-Rechargeable/dp/B0BN8TB88G?crid=2Y3OKU43DZ96O&dib=eyJ2IjoiMSJ9.jyvCbiQCdJxRHxGM6WKsVlwhd1sfUPIGwZMB8ZSRf0K8DfzSKrh4z5k4gTlEMiyOJ7Zb0N4VfyB8qjwtgDZXEZ5FcXnWdxr-a3WNfFaIR5okNJHKZRhJLuB7lA7lKqLcnfXpE4U4k313PKAIvlZfDc7F80PkyBSOnkwi_rqp-BjW0YNebWf7s8VTIoIZRjfIuihHekn6F-zRT6tu7nv3-F3jwaPPCXdDwxmWXqRpwyBHUMyZGyBQcrN9B2jXRbZw38UXFAfWPwt_rJwaTxfzEtADR-kJymH0Fl8YT4yY5Cc.MKNDOh6WM9ix9ceI5weE-4xpkB_fUbc4YVUU2zH6VOQ&dib_tag=se&keywords=remote%2Bcar%2B2%2Byear%2Bold&qid=1772246812&sprefix=remote%2Bcar%2B2%2Caps%2C576&sr=8-16&th=1&linkCode=ll2&tag=valdio-21&linkId=cd8680b771f4984a3763d4992eb0fae2&ref_=as_li_ss_tl",
+  "image": "https://m.media-amazon.com/images/I/61OPSGhys3L._SL1100_.jpg",
+  "description": "Wembley RC Car is a high-speed 1:24 scale rechargeable remote control racing car designed for kids. BIS approved and built for smooth indoor and outdoor surfaces, this mini RC car delivers exciting racing action with adjustable steering control and stylish Lambo design.",
+  "features": [
+    "High-speed 1:24 scale racing performance",
+    "Rechargeable battery-powered car",
+    "BIS approved for safety standards",
+    "Steering adjustment slider (L/R trim control) underneath",
+    "Lightweight and easy-to-control remote",
+    "Suitable for smooth indoor and outdoor surfaces",
+    "Sporty Lambo-style design"
+  ],
+  "colors": [
+    "Yellow",
+    "Black & Red",
+    "Black & Blue",
+    "Blue & Black",
+    "Grey",
+    "Grey & Red",
+    "Red",
+    "Red & Black",
+    "Yellow & Black"
+  ],
+  "variants": [
+    {
+      "color": "Yellow",
+      "price": 599,
+      "mrp": 1499,
+      "discountRate": 60
+    },
+    {
+      "color": "Black & Red",
+      "price": 597,
+      "mrp": 1499,
+      "discountRate": 60
+    }
+  ],
+  "styles": [
+    "Lambo",
+    "AMG",
+    "Army Truck",
+    "Audi",
+    "Ferrari",
+    "Range Rover",
+    "Ran Rover"
+  ],
+  "productDetails": {
+    "brand": "Wembley",
+    "scale": "1:24",
+    "approval": "BIS Approved",
+    "powerSource": "Rechargeable battery",
+    "material": "Durable plastic",
+    "recommendedUse": "Indoor and outdoor racing play",
+    "specialFeature": "Steering trim adjustment slider",
+    "ageRecommendation": "3+ Years"
+  },
+  "deliveryInfo": {
+    "delivery": "Amazon Delivered",
+    "returnPolicy": "10 Days Replacement",
+    "cashOnDelivery": true,
+    "secureTransaction": true,
+    "freeDelivery": true,
+    "fulfilled": true
+  },
+  "offers": {
+    "cashback": "Up to ₹17 cashback with Amazon Pay ICICI Credit Card",
+    "bankOffer": "Up to ₹1,500 discount on select Credit & Debit Cards",
+    "upiOffer": "Earn ₹5.9 rewards on UPI payment (Limited time)",
+    "partnerOffer": "3% off any 3, 4% off any 4, 5% off any 5 qualifying items"
+  },
+  "additionalInfo": {
+    "boughtInPastMonth": "100+ units",
+    "steeringTip": "Adjust the slider underneath between L and R to correct alignment if the car does not move straight."
+  },
+  "tags": [
+    "RC Car",
+    "Remote Control Car",
+    "Rechargeable Toy",
+    "Kids Racing Car",
+    "Mini RC Car",
+    "Birthday Gift for Kids",
+    "High Speed Toy Car"
+  ]
+},
+{
+  "id": "mirana-hover-football-red",
+  "name": "Mirana C-Type USB Rechargeable Hover Football Indoor Floating Soccer Ball (Red)",
+  "category": "toys",
+  "price": 999,
+  "discountPrice": 679,
+  "discountRate": 32,
+  "rating": 4.0,
+  "reviews": 9336,
+  "ratingText": "4.0 out of 5 stars",
+  "reviewText": "Based on 9,336 customer ratings on Amazon",
+  "badge": "Amazon's Choice",
+  "shortLink": "https://amzn.to/4r1neFp",
+  "fullLink": "https://www.amazon.in/Rechargeable-Football-Floating-Hoverball-Original/dp/B099DVGKMC?aref=NfwRYxuV0P&content-id=amzn1.sym.7f127af2-01e9-4e9a-857b-f7f598682cc6%3Aamzn1.sym.7f127af2-01e9-4e9a-857b-f7f598682cc6&crid=3JBRZL4G8Q0L&cv_ct_cx=toys%2Bfor%2B2%2Byear%2Bold%2Bboy&keywords=toys%2Bfor%2B2%2Byear%2Bold%2Bboy&pd_rd_i=B099DVGKMC&pd_rd_r=4db32bee-e93b-4f11-958b-45236d991c8d&pd_rd_w=rWnD4&pd_rd_wg=bcNkD&pf_rd_p=7f127af2-01e9-4e9a-857b-f7f598682cc6&pf_rd_r=63YENW6SH366661CD7YQ&qid=1772245588&sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&sprefix=toys%2Bfor%2B2%2Byear%2Caps%2C447&sr=1-1-9131241a-a358-4619-a7b8-0f5a65d91d81&th=1&linkCode=ll2&tag=valdio-21&linkId=cc4fca4208e80219081c3943c11519f6&ref_=as_li_ss_tl",
+  "image": "https://m.media-amazon.com/images/I/81hwxFUkXuL._SL1500_.jpg",
+  "description": "Mirana C-Type USB Rechargeable Hover Football is an indoor floating air soccer ball designed for kids aged 2–10 years. Made in India, this rechargeable hover ball glides smoothly on flat surfaces and features padded bumpers for safe and damage-free indoor play.",
+  "features": [
+    "Rechargeable battery with USB Type-C charging",
+    "Air-powered floating design with quiet fan",
+    "Soft foam padded bumper for wall and furniture protection",
+    "Suitable for indoor and outdoor smooth surfaces",
+    "Encourages active and screen-free play",
+    "Easy to use – just switch on and kick softly",
+    "Made in India"
+  ],
+  "colors": [
+    "Red",
+    "Blue-Green",
+    "Blue-Pink",
+    "Glow-Purple",
+    "Glow-Yellow",
+    "Green",
+    "Pink",
+    "RedGolden",
+    "Silver Rainbow",
+    "Transparent",
+    "White",
+    "Yellow",
+    "Glow-Red"
+  ],
+  "variants": [
+    {
+      "color": "Red",
+      "price": 679,
+      "mrp": 999,
+      "discountRate": 32
+    },
+    {
+      "color": "Glow-Purple",
+      "price": 679,
+      "mrp": 949,
+      "discountRate": 28
+    },
+    {
+      "color": "White",
+      "price": 679,
+      "mrp": 949,
+      "discountRate": 28
+    }
+  ],
+  "productDetails": {
+    "brand": "Mirana",
+    "ageRange": "2–10 Years",
+    "powerSource": "Rechargeable battery",
+    "chargingType": "USB Type-C",
+    "material": "Durable plastic with foam bumper",
+    "playSurface": "Smooth indoor and outdoor surfaces",
+    "recommendedUse": "Indoor sports play",
+    "specialFeature": "Floating air cushion design with padded bumpers",
+    "countryOfOrigin": "India"
+  },
+  "deliveryInfo": {
+    "delivery": "Amazon Delivered",
+    "returnPolicy": "10 Days Replacement",
+    "cashOnDelivery": true,
+    "secureTransaction": true,
+    "freeDelivery": true,
+    "warranty": "Warranty Policy Available",
+    "fulfilled": true
+  },
+  "offers": {
+    "cashback": "Up to ₹20 cashback with Amazon Pay ICICI Credit Card",
+    "bankOffer": "Up to ₹1,500 discount on select Credit & Debit Cards",
+    "upiOffer": "Earn ₹6.7 rewards on UPI payment (Limited time)",
+    "partnerOffer": "3% off any 2, 4% off any 3, 5% off any 5 qualifying items"
+  },
+  "additionalInfo": {
+    "boughtInPastMonth": "1K+ units",
+    "usageNote": "Best used on smooth surfaces like tiles, marble, or hardwood floors."
+  },
+  "tags": [
+    "Hover Football",
+    "Indoor Soccer Ball",
+    "Rechargeable Toy",
+    "Kids Sports Toy",
+    "Screen Free Toy",
+    "Birthday Gift for Kids",
+    "Made in India Toy"
+  ]
+}
 
 
 
