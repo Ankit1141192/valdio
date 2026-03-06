@@ -8114,6 +8114,122 @@
     "Kitchen Appliances",
     "Energy Efficient Refrigerator"
   ]
+},
+{
+  "id": "lg-1-5ton-5star-dual-inverter-split-ac-usq19ynze3",
+  "name": "LG 1.5 Ton 5 Star Dual Inverter Split AC (AI Convertible 6-in-1, VIRAAT Mode, Faster Cooling, HD Filter, US-Q19YNZE3, White)",
+  "category": "Home_Kitchen",
+  "price": 41290,
+  "discountPrice": 78990,
+  "discountRate": 48,
+  "rating": 4.0,
+  "reviews": 3516,
+  "ratingText": "4.0 out of 5 stars",
+  "reviewText": "Based on 3,516 customer ratings on Amazon",
+  "shortLink": "https://amzn.to/47t6kbI",
+  "fullLink": "https://www.amazon.in/gp/product/B0G58WMC69?smid=A3K8GDUW67973J&th=1&linkCode=ll2&tag=valdio-21&linkId=447c27fd57b6ab1df854d92ae86736b4&ref_=as_li_ss_tl",
+  "image": "https://m.media-amazon.com/images/I/61bk0A-MpML._SL1500_.jpg",
+  "images": [
+    "https://m.media-amazon.com/images/I/61bk0A-MpML._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/61bk0A-MpML._SL1500_.jpg"
+  ],
+
+  "description": "LG 1.5 Ton 5 Star Dual Inverter Split AC delivers powerful cooling with energy efficiency using advanced inverter technology, AI Convertible 6-in-1 cooling, and VIRAAT mode for faster cooling even at high ambient temperatures.",
+
+  "features": [
+    "DUAL Inverter Compressor for faster and quieter cooling",
+    "AI Convertible 6-in-1 cooling for flexible power usage",
+    "VIRAAT mode for rapid cooling in extreme heat",
+    "4 Way Swing for uniform air distribution",
+    "HD Filter with Anti-Virus protection",
+    "100% copper condenser with Ocean Black protection",
+    "Stabilizer-free operation between 120V-290V"
+  ],
+
+  "colors": [
+    {
+      "name": "White",
+      "image": "https://m.media-amazon.com/images/I/61bk0A-MpML._SL1500_.jpg"
+    }
+  ],
+
+  "sizes": [
+    "1.5 Ton"
+  ],
+
+  "variants": [
+    {
+      "style": "Non Wi-Fi Split AC YNZE3 - 2025",
+      "price": 41290,
+      "mrp": 78990,
+      "discountRate": 48,
+      "image": "https://m.media-amazon.com/images/I/61bk0A-MpML._SL1500_.jpg"
+    },
+    {
+      "style": "Wi-Fi Split AC - 2025",
+      "price": 43490,
+      "mrp": 84990,
+      "discountRate": 49,
+      "image": "https://m.media-amazon.com/images/I/61bk0A-MpML._SL1500_.jpg"
+    }
+  ],
+
+  "productDetails": {
+    "brand": "LG",
+    "capacity": "1.5 Ton",
+    "coolingPower": "5 Kilowatts",
+    "energyRating": "5 Star",
+    "annualEnergyConsumption": "744.75 Units",
+    "iseer": "5.20",
+    "coolingCapacity": "5000 W",
+    "airCirculation": "653/1236 CFM",
+    "recommendedRoomSize": "111–150 sq.ft",
+    "compressorType": "Dual Inverter Compressor",
+    "condenserMaterial": "100% Copper with Ocean Black Protection",
+    "noiseLevel": "Indoor 31 dB, Outdoor 56 dB",
+    "airThrow": "15 meters",
+    "voltageRange": "120V - 290V Stabilizer Free Operation",
+    "productDimensions": "21D x 99.8W x 34.5H cm",
+    "specialFeatures": [
+      "AI Convertible 6-in-1 Cooling",
+      "VIRAAT Mode",
+      "Auto Clean",
+      "Sleep Mode",
+      "Smart Diagnosis System",
+      "Low Gas Detection",
+      "Dehumidifier",
+      "Comfort Air"
+    ],
+    "countryOfOrigin": "India"
+  },
+
+  "deliveryInfo": {
+    "delivery": "Amazon Delivered",
+    "returnPolicy": "10 Days Replacement by Brand",
+    "cashOnDelivery": true,
+    "secureTransaction": true,
+    "freeDelivery": true,
+    "installation": "Paid Installation Available",
+    "warranty": "1 Year Comprehensive, 5 Years on PCB & Motor, 10 Years on Compressor",
+    "badge": "Top Brand"
+  },
+
+  "offers": {
+    "bankOffer": "Up to ₹1,250 discount on HDFC Bank Credit Cards",
+    "cashback": "Up to ₹1,238 Amazon Pay Cashback on ICICI Credit Cards",
+    "emi": "No Cost EMI available starting ₹1,452 per month",
+    "upiOffer": "Earn 600 points worth ₹60 on UPI payments",
+    "businessOffer": "Save up to 18% with Amazon Business account"
+  },
+
+  "tags": [
+    "LG Air Conditioner",
+    "1.5 Ton Split AC",
+    "Dual Inverter AC",
+    "Energy Efficient AC",
+    "Smart Cooling AC",
+    "Home Appliances"
+  ]
 }
 
 ]
