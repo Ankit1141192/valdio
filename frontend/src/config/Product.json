@@ -8374,6 +8374,118 @@
     "Men Hair Color",
     "Women Hair Color"
   ]
+},
+{
+  "id": "usha-ei1602-dry-iron-1000w",
+  "name": "Usha EI 1602 1000-Watt Lightweight Dry Iron (Multi-Colour)",
+  "category": "home appliances",
+  "price": 649,
+  "discountPrice": 1090,
+  "discountRate": 40,
+  "rating": 3.9,
+  "reviews": 50454,
+  "ratingText": "3.9 out of 5 stars",
+  "reviewText": "Based on 50,454 customer ratings on Amazon",
+  "shortLink": "https://amzn.to/4rOSZmk",
+  "fullLink": "https://www.amazon.in/EI-1602-1000-Watt-Lightweight-multi-colour/dp/B008YW3CYM?crid=15715B40C3SBC&dib=eyJ2IjoiMSJ9.fpwrex1qKCoVyFThUW1JpBHHK3OxWc_GwTwragUcTkFdomIOVXYxdaMNTcdodWGAqd7dAeW_STTRvIG4_klXwjSw5jiwobe0Q2Tg4UgydQNaWth_UKuOhWYAivNk8-DGZpuWKtYm-h8iBIIkDBsian7sejTvn893_5hchIu3l6uhy37P8TAy1ijgU8qMFlDSr5wsPyNybkUl-fNhA9q1oKZqWsczLmEfUNiTK99-rzc.3wY45uZuQ5CaBPRKmVvK40yJB5yIgBx30z2k8tz6dfc&dib_tag=se&keywords=usha+iron&nsdOptOutParam=true&qid=1772820135&s=kitchen&sprefix=usha+%2Ckitchen%2C418&sr=1-6%5C&linkCode=ll2&tag=valdio-21&linkId=a3972f64cbe3a436e4972838b012088f&ref_=as_li_ss_tl",
+  "image": "https://m.media-amazon.com/images/I/61S+GSuRHkL._SL1500_.jpg",
+  "images": [
+    "https://m.media-amazon.com/images/I/61S+GSuRHkL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/61S+GSuRHkL._SL1500_.jpg"
+  ],
+
+  "description": "Usha EI 1602 lightweight dry iron delivers efficient and effortless ironing with a powerful 1000W heating element and non-stick PTFE coated soleplate for smooth wrinkle-free results.",
+
+  "features": [
+    "1000W power for quick heating and efficient ironing",
+    "Lightweight design for comfortable use",
+    "Non-stick PTFE coated soleplate for smooth glide",
+    "180° swivel cord for flexible movement",
+    "Shock-proof plastic body for safe use",
+    "5 fabric temperature settings for different clothes"
+  ],
+
+  "colors": [
+    {
+      "name": "Multi-Colour",
+      "image": "https://m.media-amazon.com/images/I/61S+GSuRHkL._SL1500_.jpg"
+    },
+    {
+      "name": "White/Blue",
+      "image": "https://m.media-amazon.com/images/I/61S+GSuRHkL._SL1500_.jpg"
+    }
+  ],
+
+  "sizes": [
+    "1000 Watt"
+  ],
+
+  "variants": [
+    {
+      "color": "Multi-Colour",
+      "size": "1000W",
+      "price": 649,
+      "mrp": 1090,
+      "discountRate": 40,
+      "image": "https://m.media-amazon.com/images/I/61S+GSuRHkL._SL1500_.jpg"
+    },
+    {
+      "color": "White/Blue",
+      "size": "1000W",
+      "price": 999,
+      "mrp": 1560,
+      "discountRate": 36,
+      "image": "https://m.media-amazon.com/images/I/61S+GSuRHkL._SL1500_.jpg"
+    }
+  ],
+
+  "productDetails": {
+    "brand": "USHA",
+    "power": "1000 Watts",
+    "soleplate": "Non-Stick PTFE Coated",
+    "temperatureSettings": "5 Fabric Settings",
+    "cordType": "180° Swivel Cord",
+    "bodyMaterial": "Shock Proof Plastic",
+    "productDimensions": "41L x 20W cm",
+    "specialFeatures": [
+      "Lightweight Design",
+      "Non-Stick Soleplate",
+      "Overheat Protection",
+      "Power Indicator Light",
+      "Temperature Control"
+    ],
+    "recommendedUse": [
+      "Home ironing",
+      "Clothing care",
+      "Daily household use"
+    ],
+    "countryOfOrigin": "India"
+  },
+
+  "deliveryInfo": {
+    "delivery": "Amazon Delivered",
+    "returnPolicy": "10 Days Replacement",
+    "cashOnDelivery": true,
+    "secureTransaction": true,
+    "freeDelivery": true,
+    "warranty": "1 Year Manufacturer Warranty",
+    "badge": "Top Brand"
+  },
+
+  "offers": {
+    "cashback": "Up to ₹32 Amazon Pay Cashback on ICICI Credit Cards",
+    "bankOffer": "Up to ₹750 discount on HDFC Bank Credit Cards",
+    "businessOffer": "Get GST invoice and save up to 18% on business purchases"
+  },
+
+  "tags": [
+    "Dry Iron",
+    "Usha Iron",
+    "1000W Iron",
+    "Lightweight Iron",
+    "Home Appliances",
+    "Clothes Iron"
+  ]
 }
 
 ]
