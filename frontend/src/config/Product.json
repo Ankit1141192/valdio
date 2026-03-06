@@ -7792,8 +7792,215 @@
     "Birthday Gift for Kids",
     "Made in India Toy"
   ]
+},
+
+{
+  "id": "asus-ap1601-laptop-backpack-grey",
+  "name": "ASUS AP1601 Laptop Backpack, 18L Storage Capacity, Suitable for 16-inch Laptop (Grey)",
+  "category": "bags & accessories",
+  "price": 499,
+  "discountPrice": 1499,
+  "discountRate": 67,
+  "rating": 4.2,
+  "reviews": 701,
+  "ratingText": "4.2 out of 5 stars",
+  "reviewText": "Based on 701 customer ratings on Amazon",
+  "shortLink": "https://amzn.to/4d6bM8b",
+  "fullLink": "https://www.amazon.in/gp/product/B0CRDRHHKR?smid=AJ6SIZC8YQDZX&psc=1&linkCode=ll2&tag=valdio-21&linkId=a5926a2b5d08835bc6f73d6dc3459c15&ref_=as_li_ss_tl",
+  "image": "https://m.media-amazon.com/images/I/91X4hbUrxiL._SL1500_.jpg",
+  "images": [
+    "https://m.media-amazon.com/images/I/91X4hbUrxiL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/91X4hbUrxiL._SL1500_.jpg"
+  ],
+  "description": "ASUS AP1601 laptop backpack is a lightweight and durable travel bag designed for daily office, college, and travel use. It features 18L storage capacity, multiple pockets, and a secure laptop compartment suitable for laptops up to 16 inches.",
+
+  "features": [
+    "18L internal storage capacity",
+    "Dedicated laptop compartment for up to 16-inch laptops",
+    "Two front pockets for quick access items",
+    "Dual mesh side pockets for water bottles",
+    "Two internal accessory pockets for small items",
+    "Luggage strap for easy travel attachment",
+    "Durable and lightweight design"
+  ],
+
+  "colors": [
+    {
+      "name": "Charcoal Grey",
+      "image": "https://m.media-amazon.com/images/I/91X4hbUrxiL._SL1500_.jpg"
+    }
+  ],
+
+  "sizes": [
+    "18L"
+  ],
+
+  "variants": [
+    {
+      "color": "Charcoal Grey",
+      "size": "18L",
+      "price": 499,
+      "mrp": 1499,
+      "discountRate": 67,
+      "image": "https://m.media-amazon.com/images/I/91X4hbUrxiL._SL1500_.jpg"
+    }
+  ],
+
+  "productDetails": {
+    "brand": "ASUS",
+    "material": "Polyester",
+    "capacity": "18 Litres",
+    "laptopCompatibility": "Up to 16-inch laptops",
+    "pockets": "2 front pockets, 2 internal accessory pockets",
+    "sidePockets": "Dual mesh bottle pockets",
+    "specialFeatures": [
+      "Luggage strap",
+      "Lightweight design",
+      "Multiple storage compartments"
+    ],
+    "recommendedUse": [
+      "Laptop carrying",
+      "Office use",
+      "College use",
+      "Travel"
+    ],
+    "countryOfOrigin": "India"
+  },
+
+  "deliveryInfo": {
+    "delivery": "Amazon Delivered",
+    "returnPolicy": "10 Days Returnable",
+    "cashOnDelivery": true,
+    "secureTransaction": true,
+    "freeDelivery": true,
+    "warranty": "1 Year Manufacturer Warranty",
+    "badge": "Amazon's Choice"
+  },
+
+  "offers": {
+    "cashback": "Up to ₹24 Amazon Pay Cashback on ICICI Credit Cards",
+    "partnerOffer": "Get GST invoice and save up to 18% on business purchases"
+  },
+
+  "tags": [
+    "Laptop Backpack",
+    "ASUS Laptop Bag",
+    "College Backpack",
+    "Office Backpack",
+    "Travel Laptop Bag",
+    "16 Inch Laptop Bag"
+  ]
+},
+
+{
+  "id": "good-knight-gold-flash-liquid-vapourizer-combo",
+  "name": "Good Knight Gold Flash Liquid Vapourizer Mosquito Repellent Combo Pack (1 Machine + 6 Refills 45ml)",
+  "category": "home & cleaning",
+  "price": 408,
+  "discountPrice": 510,
+  "discountRate": 20,
+  "rating": 4.2,
+  "reviews": 19579,
+  "ratingText": "4.2 out of 5 stars",
+  "reviewText": "Based on 19,579 customer ratings on Amazon",
+  "shortLink": "https://amzn.to/4bdFfKY",
+  "fullLink": "https://www.amazon.in/gp/product/B0CL456DTD?smid=A2AL6IVND0I91F&th=1&linkCode=ll2&tag=valdio-21&linkId=f7c993406e8144bad44ae5239544cbb1&ref_=as_li_ss_tl",
+  "image": "https://m.media-amazon.com/images/I/71BMnjPpH9L._SL1500_.jpg",
+  "images": [
+    "https://m.media-amazon.com/images/I/71BMnjPpH9L._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/71BMnjPpH9L._SL1500_.jpg"
+  ],
+  "description": "Good Knight Gold Flash Liquid Vapourizer provides powerful protection from mosquitoes using advanced dual-mode technology. The combo pack includes an electric machine and multiple refills for long-lasting mosquito protection.",
+
+  "features": [
+    "Includes 1 electric vapourizer machine",
+    "Comes with 6 mosquito repellent refills (45ml each)",
+    "Flash mode for high mosquito situations",
+    "Normal mode for regular protection",
+    "Each refill lasts up to 45 nights",
+    "Advanced mosquito protection formula",
+    "Safe to use around children and family"
+  ],
+
+  "colors": [
+    {
+      "name": "Standard",
+      "image": "https://m.media-amazon.com/images/I/71BMnjPpH9L._SL1500_.jpg"
+    }
+  ],
+
+  "sizes": [
+    "1 Machine + 6 Refills"
+  ],
+
+  "variants": [
+    {
+      "size": "1 Machine + 3 Refills (Pack of 2)",
+      "price": 408,
+      "mrp": 510,
+      "discountRate": 20,
+      "image": "https://m.media-amazon.com/images/I/71BMnjPpH9L._SL1500_.jpg"
+    },
+    {
+      "size": "45ml (Pack of 3)",
+      "price": 204,
+      "mrp": 255,
+      "discountRate": 20,
+      "image": "https://m.media-amazon.com/images/I/71BMnjPpH9L._SL1500_.jpg"
+    },
+    {
+      "size": "22.5ml (Pack of 2)",
+      "price": 105,
+      "mrp": 140,
+      "discountRate": 25,
+      "image": "https://m.media-amazon.com/images/I/71BMnjPpH9L._SL1500_.jpg"
+    }
+  ],
+
+  "productDetails": {
+    "brand": "Good Knight",
+    "itemForm": "Liquid Vapourizer",
+    "scent": "Unscented",
+    "itemVolume": "90 ml",
+    "numberOfItems": 8,
+    "machineIncluded": true,
+    "refillVolume": "45 ml each",
+    "specialFeatures": [
+      "Flash mode for high mosquito activity",
+      "Normal mode for regular protection",
+      "Advanced mosquito repellent formula",
+      "Safe for family use"
+    ],
+    "recommendedUse": [
+      "Bedroom mosquito protection",
+      "Home indoor mosquito control"
+    ],
+    "countryOfOrigin": "India"
+  },
+
+  "deliveryInfo": {
+    "delivery": "Amazon Delivered",
+    "returnPolicy": "Non-Returnable",
+    "cashOnDelivery": true,
+    "secureTransaction": true,
+    "freeDelivery": true,
+    "badge": "Amazon's Choice"
+  },
+
+  "offers": {
+    "cashback": "Up to ₹20 Amazon Pay Cashback on ICICI Credit Cards",
+    "bankOffer": "Up to ₹750 discount on HDFC Bank Credit Cards",
+    "partnerOffer": "Buy 2 get 5% off, Buy 3 get 7% off on select items"
+  },
+
+  "tags": [
+    "Mosquito Repellent",
+    "Good Knight Machine",
+    "Liquid Vapourizer",
+    "Mosquito Killer",
+    "Home Protection",
+    "Bedroom Mosquito Repellent"
+  ]
 }
-
-
 
 ]
