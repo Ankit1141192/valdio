@@ -8230,6 +8230,150 @@
     "Smart Cooling AC",
     "Home Appliances"
   ]
+},
+{
+  "id": "kokila-no-ppd-shampoo-hair-colour-black-400ml",
+  "name": "Kokila NO PPD Shampoo Hair Colour 400ml (Black) | Ammonia Free & Paraben Free",
+  "category": "Beauty-Personal-Care",
+  "price": 756,
+  "discountPrice": 1499,
+  "discountRate": 50,
+  "rating": 4.2,
+  "reviews": 3774,
+  "ratingText": "4.2 out of 5 stars",
+  "reviewText": "Based on 3,774 customer ratings on Amazon",
+  "shortLink": "https://amzn.to/4bbXdgS",
+  "fullLink": "https://www.amazon.in/dp/B0CP5S82ZV?social_share=cm_sw_r_cso_wa_apan_dp_EY2ADQY0HTDGTKE9PSQ9&th=1&linkCode=ll2&tag=valdio-21&linkId=aea6389f71323422a2d1146638bd1e90&ref_=as_li_ss_tl",
+  "image": "https://m.media-amazon.com/images/I/81a8NrQOz5L._SL1500_.jpg",
+  "images": [
+    "https://m.media-amazon.com/images/I/81a8NrQOz5L._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/81a8NrQOz5L._SL1500_.jpg"
+  ],
+
+  "description": "Kokila NO PPD Shampoo Hair Colour is an easy-to-use hair coloring shampoo enriched with natural extracts like Noni, Almond Oil, Argan Oil, and Ginseng. It colors hair in just 10 minutes while conditioning and nourishing hair.",
+
+  "features": [
+    "Hair color shampoo for men and women",
+    "Colors hair in just 10 minutes",
+    "Ammonia-free and paraben-free formula",
+    "Includes 10 pairs of free gloves",
+    "Enriched with Noni extract, Almond oil, Argan oil, and Ginseng extract",
+    "Works as shampoo, hair color, and conditioner"
+  ],
+
+  "colors": [
+    {
+      "name": "Black",
+      "image": "https://m.media-amazon.com/images/I/81a8NrQOz5L._SL1500_.jpg"
+    },
+    {
+      "name": "Burgundy",
+      "image": "https://m.media-amazon.com/images/I/81a8NrQOz5L._SL1500_.jpg"
+    },
+    {
+      "name": "Dark Brown",
+      "image": "https://m.media-amazon.com/images/I/71cXGZ8P3NL._SX679_.jpg"
+    },
+    {
+      "name": "Natural Brown",
+      "image": "https://m.media-amazon.com/images/I/71cXGZ8P3NL._SX679_.jpg"
+    }
+  ],
+
+  "sizes": [
+    "400 ml"
+  ],
+
+  "variants": [
+    {
+      "color": "Black",
+      "size": "400 ml",
+      "price": 756,
+      "mrp": 1499,
+      "discountRate": 50,
+      "image": "https://m.media-amazon.com/images/I/81a8NrQOz5L._SL1500_.jpg"
+    },
+    {
+      "color": "Burgundy",
+      "size": "400 ml",
+      "price": 770,
+      "mrp": 1499,
+      "discountRate": 49,
+      "image": "https://m.media-amazon.com/images/I/81a8NrQOz5L._SL1500_.jpg"
+    },
+    {
+      "color": "Dark Brown",
+      "size": "400 ml",
+      "price": 766,
+      "mrp": 1499,
+      "discountRate": 49,
+      "image": "https://m.media-amazon.com/images/I/81a8NrQOz5L._SL1500_.jpg"
+    },
+    {
+      "color": "Natural Brown",
+      "size": "400 ml",
+      "price": 770,
+      "mrp": 1499,
+      "discountRate": 49,
+      "image": "https://m.media-amazon.com/images/I/81a8NrQOz5L._SL1500_.jpg"
+    }
+  ],
+
+  "productDetails": {
+    "brand": "Kokila",
+    "itemForm": "Gel",
+    "hairType": "All Hair Types",
+    "scent": "Floral",
+    "ageRange": "All",
+    "netQuantity": "400 ml",
+    "materialTypeFree": [
+      "Ammonia Free",
+      "Paraben Free",
+      "PPD Free"
+    ],
+    "keyIngredients": [
+      "Noni Extract",
+      "Almond Oil",
+      "Argan Oil",
+      "Ginseng Extract"
+    ],
+    "productBenefits": [
+      "Hair Coloring",
+      "Hair Conditioning",
+      "Hair Nourishment"
+    ],
+    "recommendedUse": [
+      "Hair Coloring",
+      "Hair Care"
+    ],
+    "useBy": "11 May 2028",
+    "countryOfOrigin": "India"
+  },
+
+  "deliveryInfo": {
+    "delivery": "Amazon Delivered",
+    "returnPolicy": "Non-Returnable",
+    "cashOnDelivery": true,
+    "secureTransaction": true,
+    "freeDelivery": true,
+    "badge": "Amazon's Choice"
+  },
+
+  "offers": {
+    "coupon": "Extra 2% coupon available",
+    "cashback": "Up to ₹22 Amazon Pay Cashback on ICICI Credit Cards",
+    "partnerOffer": "4% off on 2 items, 7% off on 4 items",
+    "upiOffer": "Earn ₹7.5 reward on UPI payments"
+  },
+
+  "tags": [
+    "Hair Color Shampoo",
+    "Kokila Hair Color",
+    "Ammonia Free Hair Color",
+    "Natural Hair Color",
+    "Men Hair Color",
+    "Women Hair Color"
+  ]
 }
 
 ]
