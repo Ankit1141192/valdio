@@ -8001,6 +8001,119 @@
     "Home Protection",
     "Bedroom Mosquito Repellent"
   ]
+},
+
+{
+  "id": "whirlpool-270l-protton-roy-refrigerator",
+  "name": "Whirlpool 270 L Frost Free Triple-Door Refrigerator (FP 313D Protton ROY Alpha Steel)",
+  "category": "home appliances",
+  "price": 28990,
+  "discountPrice": 38300,
+  "discountRate": 24,
+  "rating": 3.8,
+  "reviews": 11580,
+  "ratingText": "3.8 out of 5 stars",
+  "reviewText": "Based on 11,580 customer ratings on Amazon",
+  "shortLink": "https://amzn.to/3PkQidL",
+  "fullLink": "https://www.amazon.in/gp/product/B0CW184WNH?smid=A3K8GDUW67973J&th=1&linkCode=ll2&tag=valdio-21&linkId=539560cfbcbc5c114971d1445467eef2&ref_=as_li_ss_tl",
+  "image": "https://m.media-amazon.com/images/I/51pd+cQ9lzL._SL1348_.jpg",
+  "images": [
+    "https://m.media-amazon.com/images/I/51pd+cQ9lzL._SL1348_.jpg",
+    "https://m.media-amazon.com/images/I/51pd+cQ9lzL._SL1348_.jpg"
+  ],
+
+  "description": "Whirlpool 270L Protton Frost Free Triple-Door Refrigerator offers advanced cooling technology, energy-efficient performance, and organized storage designed for medium-sized families.",
+
+  "features": [
+    "270 litre capacity suitable for medium-sized families",
+    "Frost-free multi-door refrigerator design",
+    "Toughened glass shelves for heavy storage",
+    "Stabilizer-free operation between 160-300V",
+    "Energy efficient Protton world series technology",
+    "Separate compartments for better food organization"
+  ],
+
+  "colors": [
+    {
+      "name": "Alpha Steel",
+      "image": "https://m.media-amazon.com/images/I/51pd+cQ9lzL._SL1348_.jpg"
+    },
+    {
+      "name": "Radiant Steel",
+      "image": "https://m.media-amazon.com/images/I/51pd+cQ9lzL._SL1348_.jpg"
+    },
+    {
+      "name": "Crystal Black",
+      "image": "https://m.media-amazon.com/images/I/51pd+cQ9lzL._SL1348_.jpg"
+    },
+    {
+      "name": "German Steel",
+      "image": "https://m.media-amazon.com/images/I/51pd+cQ9lzL._SL1348_.jpg"
+    }
+  ],
+
+  "sizes": [
+    "270 L"
+  ],
+
+  "variants": [
+    {
+      "color": "Alpha Steel",
+      "size": "270 L",
+      "price": 28990,
+      "mrp": 38300,
+      "discountRate": 24,
+      "image": "https://m.media-amazon.com/images/I/51pd+cQ9lzL._SL1348_.jpg"
+    }
+  ],
+
+  "productDetails": {
+    "brand": "Whirlpool",
+    "capacity": "270 Litres",
+    "configuration": "Freezer-on-Top",
+    "coolingType": "Frost Free",
+    "compressorType": "Reciprocatory Compressor",
+    "shelfMaterial": "Toughened Glass",
+    "displayType": "Thermostat",
+    "energyEfficiency": "High energy efficiency Protton series",
+    "voltageOperation": "160V - 300V Stabilizer Free Operation",
+    "productDimensions": "71.7D x 60.1W x 187.4H cm",
+    "itemWeight": "62 kg",
+    "recommendedUse": [
+      "Home Kitchen",
+      "Medium Family",
+      "Food Storage"
+    ],
+    "countryOfOrigin": "India"
+  },
+
+  "deliveryInfo": {
+    "delivery": "Amazon Delivered",
+    "returnPolicy": "10 Days Replacement by Brand",
+    "cashOnDelivery": true,
+    "secureTransaction": true,
+    "freeDelivery": true,
+    "installation": "Brand Installation Available",
+    "warranty": "1 Year Product Warranty + 10 Years Compressor Warranty",
+    "badge": "Top Brand"
+  },
+
+  "offers": {
+    "coupon": "₹1000 coupon available",
+    "bankOffer": "Up to ₹3,000 discount on HDFC Bank Credit Cards",
+    "cashback": "Up to ₹869 Amazon Pay Cashback on ICICI Credit Cards",
+    "emi": "No Cost EMI available starting ₹1,019 per month",
+    "upiOffer": "Earn 600 points worth ₹60 on UPI payments"
+  },
+
+  "tags": [
+    "Whirlpool Refrigerator",
+    "270L Refrigerator",
+    "Triple Door Fridge",
+    "Frost Free Refrigerator",
+    "Kitchen Appliances",
+    "Energy Efficient Refrigerator"
+  ]
 }
 
 ]
