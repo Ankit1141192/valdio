@@ -8486,6 +8486,84 @@
     "Home Appliances",
     "Clothes Iron"
   ]
+},
+{
+  "id": "pan-40-tablets-strip-15",
+  "name": "Pan 40 - Strip of 15 Tablets (Pantoprazole 40mg)",
+  "category": "health & medicine",
+  "price": 151.26,
+  "discountPrice": 175.30,
+  "discountRate": 14,
+  "rating": null,
+  "reviews": null,
+  "ratingText": "",
+  "reviewText": "",
+  "shortLink": "https://amzn.to/4sy1mTn",
+  "fullLink": "https://www.amazon.in/gp/product/B082MFPGK1?smid=A2785T0G6STJW6&psc=1&s=prime-wardrobe&isTryState=1&linkCode=ll2&tag=valdio-21&linkId=4ea3330771d66cc57f494957960b1235&ref_=as_li_ss_tl",
+  "image": "https://m.media-amazon.com/images/I/91+2ghWgqcL._SL1500_.jpg",
+  "images": [
+    "https://m.media-amazon.com/images/I/91+2ghWgqcL._SL1500_.jpg"
+  ],
+
+  "description": "Pan 40 tablets contain Pantoprazole 40 mg, a proton pump inhibitor used to treat acidity, acid reflux, and stomach ulcers by reducing excess stomach acid production.",
+
+  "features": [
+    "Contains Pantoprazole 40 mg",
+    "Helps reduce stomach acid production",
+    "Used for acidity, GERD, and stomach ulcers",
+    "Enteric coated tablets for better absorption",
+    "Available in strip of 15 tablets"
+  ],
+
+  "sizes": [
+    "Strip of 15 Tablets"
+  ],
+
+  "variants": [
+    {
+      "size": "15 Tablets Strip",
+      "price": 151.26,
+      "mrp": 175.30,
+      "discountRate": 14,
+      "image": "https://m.media-amazon.com/images/I/91+2ghWgqcL._SL1500_.jpg"
+    }
+  ],
+
+  "productDetails": {
+    "brand": "Pan",
+    "composition": "Pantoprazole Sodium IP equivalent to Pantoprazole 40 mg",
+    "itemForm": "Tablet",
+    "dosage": "As directed by the physician",
+    "packaging": "Strip of 15 Tablets",
+    "storageInstructions": "Store protected from moisture at a temperature not exceeding 30°C",
+    "specialFeatures": [
+      "Enteric Coated Tablet",
+      "Reduces stomach acid",
+      "Helps treat acidity and GERD"
+    ],
+    "countryOfOrigin": "India"
+  },
+
+  "deliveryInfo": {
+    "delivery": "Amazon Delivered",
+    "returnPolicy": "Non-Returnable",
+    "cashOnDelivery": true,
+    "secureTransaction": true,
+    "freeDelivery": true,
+    "pharmacy": "Amazon Pharmacy"
+  },
+
+  "offers": {
+    "businessOffer": "Save up to 5% with Amazon Business account"
+  },
+
+  "tags": [
+    "Pantoprazole",
+    "Acidity Medicine",
+    "GERD Treatment",
+    "Stomach Acid Relief",
+    "Pantoprazole 40mg"
+  ]
 }
 
 ]
