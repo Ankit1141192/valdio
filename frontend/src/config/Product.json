@@ -8653,5 +8653,92 @@
     "Made in India Toy",
     "Gift for Kids"
   ]
+},
+
+{
+  "id": "nrip-premium-afghani-anjeer-200g",
+  "name": "NRIP Premium Dried Afghani Anjeer 200g | Healthy Dry Figs Snack",
+  "category": "Grocery_Food",
+  "price": 179,
+  "discountPrice": 1205,
+  "discountRate": 85,
+  "rating": 3.9,
+  "reviews": 2082,
+  "ratingText": "3.9 out of 5 stars",
+  "reviewText": "Based on 2,082 customer ratings on Amazon",
+  "shortLink": "https://amzn.to/4rdTPrF",
+  "fullLink": "https://www.amazon.in/gp/product/B09WDZK4NJ?smid=A15APWRK6P7LBV&psc=1&linkCode=ll2&tag=valdio-21&linkId=19c15a70a9370517795ebc4084550934&ref_=as_li_ss_tl",
+  "image": "https://m.media-amazon.com/images/I/8150ABL+9-L._SL1500_.jpg",
+  "images": [
+    "https://m.media-amazon.com/images/I/8150ABL+9-L._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/8150ABL+9-L._SL1500_.jpg"
+  ],
+
+  "description": "NRIP Premium Dried Afghani Anjeer are high-quality dried figs rich in dietary fiber, vitamins, and natural nutrients. A healthy snack option for daily nutrition and energy.",
+
+  "features": [
+    "Premium quality Afghani dried figs",
+    "Rich source of dietary fiber and vitamins",
+    "Low in fat and naturally nutritious",
+    "Healthy snack for daily consumption",
+    "Carefully packed for freshness"
+  ],
+
+  "sizes": [
+    "200 g"
+  ],
+
+  "variants": [
+    {
+      "size": "200 g",
+      "price": 179,
+      "mrp": 1205,
+      "discountRate": 85,
+      "image": "https://m.media-amazon.com/images/I/8150ABL+9-L._SL1500_.jpg"
+    }
+  ],
+
+  "productDetails": {
+    "brand": "NRIP",
+    "productType": "Dry Fruits",
+    "itemForm": "Dried",
+    "flavour": "Natural",
+    "dietType": "Vegetarian",
+    "netQuantity": "200 g",
+    "specialFeatures": [
+      "Low Fat",
+      "Rich in Dietary Fiber",
+      "Natural Sweet Taste"
+    ],
+    "recommendedUse": [
+      "Healthy snacks",
+      "Desserts",
+      "Breakfast toppings"
+    ],
+    "countryOfOrigin": "India"
+  },
+
+  "deliveryInfo": {
+    "delivery": "Amazon Delivered",
+    "returnPolicy": "Non-Returnable",
+    "cashOnDelivery": true,
+    "secureTransaction": true,
+    "freeDelivery": true
+  },
+
+  "offers": {
+    "coupon": "2% extra coupon available",
+    "cashback": "Up to ₹8 Amazon Pay Cashback on ICICI Credit Cards",
+    "businessOffer": "Save up to 4% with Amazon Business account"
+  },
+
+  "tags": [
+    "Dry Fruits",
+    "Anjeer",
+    "Dried Figs",
+    "Healthy Snacks",
+    "Afghani Anjeer",
+    "Fiber Rich Food"
+  ]
 }
 ]
