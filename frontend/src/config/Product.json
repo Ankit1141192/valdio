@@ -9093,5 +9093,101 @@
     "Aluminum Laptop Stand",
     "Office Desk Accessories"
   ]
+},
+{
+  "id": "portronics-comfipad3-mousepad-grey",
+  "name": "Portronics Comfipad 3 Mouse Pad with Windows Shortcuts Design (Grey)",
+  "category": "computer accessories",
+  "price": 149,
+  "discountPrice": 399,
+  "discountRate": 63,
+  "rating": 4.3,
+  "reviews": 337,
+  "ratingText": "4.3 out of 5 stars",
+  "reviewText": "Based on 337 customer ratings on Amazon",
+  "shortLink": "https://amzn.to/4aW1lCH",
+  "fullLink": "https://www.amazon.in/gp/product/B0DP7L7WDQ?smid=AJ6SIZC8YQDZX&psc=1&linkCode=ll2&tag=valdio-21&linkId=893e72e49d366849e70ba2cc9e9d4c05&ref_=as_li_ss_tl",
+  "image": "https://m.media-amazon.com/images/I/71LOwxKIMcL._SL1500_.jpg",
+  "images": [
+    "https://m.media-amazon.com/images/I/71LOwxKIMcL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/71LOwxKIMcL._SL1500_.jpg"
+  ],
+
+  "description": "Portronics Comfipad 3 extended mouse pad with Windows shortcut design improves productivity while providing a smooth, precise surface for gaming and office work.",
+
+  "features": [
+    "Windows shortcuts design for quick productivity",
+    "Smooth surface for high precision mouse tracking",
+    "Non-slip rubber base for stable grip",
+    "Durable stitched edges to prevent fraying",
+    "Water-resistant surface for protection",
+    "Suitable for gaming, office, and home use"
+  ],
+
+  "colors": [
+    {
+      "name": "Grey",
+      "image": "https://m.media-amazon.com/images/I/71LOwxKIMcL._SL1500_.jpg"
+    }
+  ],
+
+  "sizes": [
+    "Standard"
+  ],
+
+  "variants": [
+    {
+      "color": "Grey",
+      "price": 149,
+      "mrp": 399,
+      "discountRate": 63,
+      "image": "https://m.media-amazon.com/images/I/71LOwxKIMcL._SL1500_.jpg"
+    }
+  ],
+
+  "productDetails": {
+    "brand": "Portronics",
+    "material": {
+      "surface": "Plastic",
+      "base": "Rubber"
+    },
+    "specialFeatures": [
+      "Non-slip base",
+      "Stitched edges",
+      "Windows shortcuts design",
+      "High precision smooth surface"
+    ],
+    "recommendedUse": [
+      "Gaming",
+      "Office work",
+      "Home workspace"
+    ],
+    "countryOfOrigin": "India"
+  },
+
+  "deliveryInfo": {
+    "delivery": "Amazon Delivered",
+    "returnPolicy": "10 Days Replacement",
+    "cashOnDelivery": true,
+    "secureTransaction": true,
+    "freeDelivery": true,
+    "warranty": "3 Month Manufacturer Warranty",
+    "badge": "Top Brand"
+  },
+
+  "offers": {
+    "cashback": "Up to ₹7 Amazon Pay Cashback on ICICI Credit Cards",
+    "bankOffer": "Up to ₹750 discount on HDFC Bank Credit Cards",
+    "businessOffer": "Get GST invoice and save up to 18% on business purchases"
+  },
+
+  "tags": [
+    "Mouse Pad",
+    "Gaming Mouse Pad",
+    "Portronics Mouse Pad",
+    "Office Desk Accessories",
+    "Computer Accessories",
+    "Windows Shortcut Mouse Pad"
+  ]
 }
 ]
