@@ -8740,5 +8740,113 @@
     "Afghani Anjeer",
     "Fiber Rich Food"
   ]
+},
+
+{
+  "id": "happilo-afghani-black-raisins-500g",
+  "name": "Happilo Premium Afghani Seedless Black Raisins 500g | Kali Kishmish Dry Fruits",
+  "category": "grocery & food",
+  "price": 329,
+  "discountPrice": 630,
+  "discountRate": 48,
+  "rating": 4.3,
+  "reviews": 2763,
+  "ratingText": "4.3 out of 5 stars",
+  "reviewText": "Based on 2,763 customer ratings on Amazon",
+  "shortLink": "https://amzn.to/46JERCt",
+  "fullLink": "https://www.amazon.in/gp/product/B08JR78WB7?smid=A15APWRK6P7LBV&th=1&linkCode=ll2&tag=valdio-21&linkId=e23c872482576cfb75187fd1ad9642b0&ref_=as_li_ss_tl",
+  "image": "https://m.media-amazon.com/images/I/71S8FURw33L._SL1500_.jpg",
+  "images": [
+    "https://m.media-amazon.com/images/I/71S8FURw33L._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/71S8FURw33L._SL1500_.jpg"
+  ],
+
+  "description": "Happilo Premium Afghani Seedless Black Raisins are naturally sweet dried grapes packed with antioxidants, fiber, and potassium. A healthy snack perfect for daily nutrition and energy.",
+
+  "features": [
+    "Premium quality Afghani seedless black raisins",
+    "Rich in antioxidants, fiber, and potassium",
+    "Naturally sweet and nutritious snack",
+    "Perfect for daily healthy snacking",
+    "Carefully packed for freshness and quality"
+  ],
+
+  "sizes": [
+    "500 g"
+  ],
+
+  "variants": [
+    {
+      "size": "500 g (Pack of 1)",
+      "price": 329,
+      "mrp": 630,
+      "discountRate": 48,
+      "image": "https://m.media-amazon.com/images/I/71S8FURw33L._SL1500_.jpg"
+    },
+    {
+      "size": "500 g (Pack of 2)",
+      "price": 658,
+      "mrp": 1260,
+      "discountRate": 48,
+      "image": "https://m.media-amazon.com/images/I/71S8FURw33L._SL1500_.jpg"
+    },
+    {
+      "size": "500 g (Pack of 5)",
+      "price": 1645,
+      "mrp": 3150,
+      "discountRate": 48,
+      "image": "https://m.media-amazon.com/images/I/71S8FURw33L._SL1500_.jpg"
+    }
+  ],
+
+  "productDetails": {
+    "brand": "Happilo",
+    "productType": "Dry Fruits",
+    "itemForm": "Dried",
+    "flavour": "Natural",
+    "dietType": "Vegetarian",
+    "netQuantity": "500 g",
+    "keyNutrients": [
+      "Antioxidants",
+      "Dietary Fiber",
+      "Potassium"
+    ],
+    "specialFeatures": [
+      "Seedless",
+      "Naturally Sweet",
+      "High in Nutrients"
+    ],
+    "recommendedUse": [
+      "Healthy snacks",
+      "Desserts",
+      "Breakfast toppings",
+      "Cooking ingredients"
+    ],
+    "useBy": "01 Oct 2026",
+    "countryOfOrigin": "India"
+  },
+
+  "deliveryInfo": {
+    "delivery": "Amazon Delivered",
+    "returnPolicy": "Non-Returnable",
+    "cashOnDelivery": true,
+    "secureTransaction": true,
+    "freeDelivery": true,
+    "badge": "Top Brand"
+  },
+
+  "offers": {
+    "cashback": "Up to ₹16 Amazon Pay Cashback on ICICI Credit Cards",
+    "businessOffer": "Get GST invoice and save up to 18% on business purchases"
+  },
+
+  "tags": [
+    "Black Raisins",
+    "Kali Kishmish",
+    "Dry Fruits",
+    "Healthy Snacks",
+    "Seedless Raisins",
+    "Antioxidant Rich Food"
+  ]
 }
 ]
