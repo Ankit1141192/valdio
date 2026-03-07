@@ -186,6 +186,11 @@ const categories = [
     image:""
 
   },
+  {
+    key:"medicine",
+    name:"medicine",
+    image:""
+  }
 
 ];
 
