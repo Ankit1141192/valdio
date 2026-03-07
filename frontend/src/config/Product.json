@@ -9545,5 +9545,102 @@
     "Cotton Pants",
     "Men Fashion"
   ]
+},
+
+{
+  "id": "art-street-3d-tabletop-photo-frame-4x6-blue-white",
+  "name": "Art Street Premium 3D Table Top Photo Frame for Home Décor (4x6 Inch)",
+  "category": "home decor",
+  "price": 189,
+  "discountPrice": 600,
+  "discountRate": 69,
+  "rating": 4.2,
+  "reviews": 573,
+  "ratingText": "4.2 out of 5 stars",
+  "reviewText": "Based on 573 customer ratings on Amazon",
+  "badge": "Amazon's Choice",
+  "shortLink": "https://amzn.to/4s0DHeu",
+  "fullLink": "https://www.amazon.in/Art-Street-Premium-Picture-Bedroom/dp/B0CP917ZPW?crid=3C4YBN90SZRPR&dib=eyJ2IjoiMSJ9.SGgpfY6Z_352JIrfV6SzUlrX8-bq-iU4dmrPAS12AeJ55us1DO4Svw8g25pt4aYCfn3evmN7KWPxnGhGKOvL1oF3bKVy4yXIp_h2_neKrhZkWpBpHsBf2FrfgXxocjqZqLeRSh6nhHQ0u4fVoFMr4weB-_sYw3IrkDtyWgoNVdT5jaR9PBXGLk0lK94w3DYjDmoXOYEphCBWN0QCZlXPRk6ZZ86sEi1OujnUSkcQbiCw5ABSvVFn1NXcrN0xkmXV4aHnspVYrN5EXeMgDRB2zvN2rMYETMh1nRO61_HIiUk.cqpAKTrcAVv-Cn0yCy7KiVX_p0ebmPbMra8eqZwGoRc&dib_tag=se&keywords=photo%2Bframe&qid=1772907327&sprefix=photo%2Bfra%2Caps%2C429&sr=8-8&th=1&linkCode=ll2&tag=valdio-21&linkId=f8eed63ca4c753b0dc7e668859061fca&ref_=as_li_ss_tl",
+  "image": "https://m.media-amazon.com/images/I/812H5c+apTL._SL1500_.jpg",
+
+  "description": "Art Street Premium 3D tabletop photo frame designed for displaying 4x6 inch photos. A stylish decorative frame perfect for home décor, office desks, bedrooms and living rooms.",
+
+  "features": [
+    "Premium designer 3D table top photo frame",
+    "Supports 4x6 inch photos",
+    "Durable high-quality material construction",
+    "Easy opening tabs at the back for inserting photos",
+    "Suitable for home décor, office desk, living room and bedroom",
+    "Ideal gift for weddings, birthdays, anniversaries and housewarming"
+  ],
+
+  "colors": [
+    "Step Blue White Premium",
+    "Step White Premium",
+    "Step Brown Gold Premium",
+    "Step Pink Premium"
+  ],
+
+  "sizes": [
+    "4x6 Inch",
+    "5x7 Inch",
+    "6x8 Inch",
+    "4x6 + 5x7 + 6x8 Combo"
+  ],
+
+  "variants": [
+    {
+      "color": "Step Blue White Premium",
+      "size": "4x6 Inch",
+      "price": 189,
+      "mrp": 600,
+      "discountRate": 69
+    }
+  ],
+
+  "productDetails": {
+    "brand": "Art Street",
+    "material": "High Quality Durable Material",
+    "shape": "Rectangular",
+    "mountingType": "Tabletop",
+    "photoSize": "4x6 Inch",
+    "productDimensions": "19 x 14 cm",
+    "recommendedUse": [
+      "Home décor",
+      "Office desk decoration",
+      "Bedroom decoration",
+      "Living room decoration"
+    ],
+    "specialFeatures": [
+      "3D designer frame",
+      "Easy back opening tabs",
+      "Decorative tabletop display"
+    ],
+    "countryOfOrigin": "India"
+  },
+
+  "deliveryInfo": {
+    "delivery": "Amazon Delivered",
+    "returnPolicy": "10 Days Returnable",
+    "cashOnDelivery": true,
+    "secureTransaction": true,
+    "freeDelivery": true,
+    "badge": "Top Brand"
+  },
+
+  "offers": {
+    "cashback": "Up to ₹9 Amazon Pay Cashback on ICICI Credit Cards",
+    "bankOffer": "Up to ₹750 discount on HDFC Bank Credit Cards",
+    "partnerOffer": "Buy any 2 get extra 5% off; Buy any 3 get extra 7% off on select products"
+  },
+
+  "tags": [
+    "Photo Frame",
+    "Table Top Frame",
+    "Home Decor Frame",
+    "Picture Frame",
+    "Art Street Frame",
+    "Gift Photo Frame"
+  ]
 }
 ]
