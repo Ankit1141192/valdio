@@ -9734,5 +9734,109 @@
     "Laundry Hanger",
     "Clothing Storage"
   ]
+},
+{
+  "id": "art-street-a4-photo-frame-set5-beige",
+  "name": "Art Street A4 Size Photo Frame for Wall Set of 5 (8x12 Inches)",
+  "category": "home-decor",
+  "price": 655,
+  "discountPrice": 2499,
+  "discountRate": 74,
+  "rating": 4.0,
+  "reviews": 4628,
+  "ratingText": "4.0 out of 5 stars",
+  "reviewText": "Based on 4,628 customer ratings on Amazon",
+  "badge": "#1 Best Seller",
+  "shortLink": "https://amzn.to/3Pp2nyA",
+  "fullLink": "https://www.amazon.in/gp/product/B0FLP98815?smid=A2AL6IVND0I91F&th=1&linkCode=ll2&tag=valdio-21&linkId=dff092beae0419146ac17b30ba46d32b&ref_=as_li_ss_tl",
+  "image": "https://m.media-amazon.com/images/I/81MRw3a-lKL._SL1500_.jpg",
+
+  "description": "Art Street A4 wall photo frame set includes 5 stylish frames made from synthetic wood with plexi glass protection. Perfect for creating a gallery wall in living rooms, bedrooms, offices, and home décor spaces.",
+
+  "features": [
+    "Set of 5 A4 size photo frames for wall display",
+    "High-quality synthetic wood frame construction",
+    "Unbreakable plexi glass front for photo protection",
+    "Easy to assemble and replace photos with back locker",
+    "Suitable for horizontal or vertical wall mounting",
+    "Perfect for gallery wall décor in home or office",
+    "Great gift for weddings, anniversaries and housewarming"
+  ],
+
+  "colors": [
+    "Beige",
+    "Black",
+    "Brown",
+    "White",
+    "Blue",
+    "Gold",
+    "Pink",
+    "Red"
+  ],
+
+  "sizes": [
+    "8x12 Inches (A4)",
+    "6x8 Inches",
+    "12x16 Inches"
+  ],
+
+  "variants": [
+    {
+      "color": "Beige",
+      "size": "8x12 Inches",
+      "price": 655,
+      "mrp": 2499,
+      "discountRate": 74
+    }
+  ],
+
+  "productDetails": {
+    "brand": "Art Street",
+    "material": "Synthetic Wood",
+    "frontMaterial": "Unbreakable Plexi Glass",
+    "backMaterial": "MDF",
+    "shape": "Rectangle",
+    "mountingType": "Wall Mount",
+    "productDimensions": "20 x 30 cm",
+    "numberOfFrames": 5,
+    "recommendedUse": [
+      "Wall photo gallery",
+      "Home décor",
+      "Office decoration",
+      "Bedroom decoration",
+      "Living room decoration"
+    ],
+    "specialFeatures": [
+      "Easy photo replacement",
+      "Clear plexi glass protection",
+      "Horizontal and vertical hanging",
+      "Durable synthetic wood frame"
+    ],
+    "countryOfOrigin": "India"
+  },
+
+  "deliveryInfo": {
+    "delivery": "Amazon Delivered",
+    "returnPolicy": "10 Days Returnable",
+    "cashOnDelivery": true,
+    "secureTransaction": true,
+    "freeDelivery": true,
+    "badge": "Top Brand"
+  },
+
+  "offers": {
+    "cashback": "Up to ₹32 Amazon Pay Cashback on ICICI Credit Cards",
+    "bankOffer": "Up to ₹750 discount on HDFC Bank Credit Cards",
+    "businessOffer": "Get GST invoice and save up to 18% on business purchases"
+  },
+
+  "tags": [
+    "Photo Frame",
+    "Wall Photo Frame",
+    "Gallery Wall Frame",
+    "Art Street Frame",
+    "Home Decor Frame",
+    "Picture Frame Set"
+  ]
 }
 ]
