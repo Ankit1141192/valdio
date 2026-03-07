@@ -9189,5 +9189,134 @@
     "Computer Accessories",
     "Windows Shortcut Mouse Pad"
   ]
+},
+{
+  "id": "skybags-lumous-3compartment-laptop-backpack-16l",
+  "name": "Skybags Lumous 3 Compartment Laptop Backpack 16L",
+  "category": "bags & accessories",
+  "price": 649,
+  "discountPrice": 2400,
+  "discountRate": 73,
+  "rating": 4.3,
+  "reviews": 1060,
+  "ratingText": "4.3 out of 5 stars",
+  "reviewText": "Based on 1,060 customer ratings on Amazon",
+  "shortLink": "https://amzn.to/4dexfvA",
+  "fullLink": "https://www.amazon.in/gp/product/B0CJ3TCKYD?smid=AXOGFIT0PZZ7G&th=1&linkCode=ll2&tag=valdio-21&linkId=f1a445ca35772f9bd226fee4d078ae23&ref_=as_li_ss_tl",
+  "image": "https://m.media-amazon.com/images/I/71bguGWvhZL._SL1500_.jpg",
+  "images": [
+    "https://m.media-amazon.com/images/I/71bguGWvhZL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/71bguGWvhZL._SL1500_.jpg"
+  ],
+
+  "description": "Skybags Lumous 16L laptop backpack features multiple compartments and smart storage pockets, making it perfect for daily office, college, and travel use.",
+
+  "features": [
+    "3 spacious compartments for organized storage",
+    "Dedicated laptop compatible compartment",
+    "Multiple quick access pockets",
+    "Side zippered pockets for extra storage",
+    "Secret pocket for valuables",
+    "Trolley sleeve for easy travel attachment"
+  ],
+
+  "colors": [
+    {
+      "name": "Black & Blue",
+      "image": "https://m.media-amazon.com/images/I/71bguGWvhZL._SL1500_.jpg"
+    },
+    {
+      "name": "Black",
+      "image": "https://m.media-amazon.com/images/I/71bguGWvhZL._SL1500_.jpg"
+    },
+    {
+      "name": "Blue",
+      "image": "https://m.media-amazon.com/images/I/71bguGWvhZL._SL1500_.jpg"
+    },
+    {
+      "name": "Olive Green",
+      "image": "https://m.media-amazon.com/images/I/71bguGWvhZL._SL1500_.jpg"
+    }
+  ],
+
+  "sizes": [
+    "16 L"
+  ],
+
+  "variants": [
+    {
+      "color": "Black & Blue",
+      "price": 649,
+      "mrp": 2400,
+      "discountRate": 73,
+      "image": "https://m.media-amazon.com/images/I/71bguGWvhZL._SL1500_.jpg"
+    },
+    {
+      "color": "Black",
+      "price": 999,
+      "mrp": 3498,
+      "discountRate": 71,
+      "image": "https://m.media-amazon.com/images/I/71bguGWvhZL._SL1500_.jpg"
+    },
+    {
+      "color": "Blue",
+      "price": 999,
+      "mrp": 2400,
+      "discountRate": 58,
+      "image": "https://m.media-amazon.com/images/I/71bguGWvhZL._SL1500_.jpg"
+    },
+    {
+      "color": "Olive Green",
+      "price": 999,
+      "mrp": 3498,
+      "discountRate": 71,
+      "image": "https://m.media-amazon.com/images/I/71bguGWvhZL._SL1500_.jpg"
+    }
+  ],
+
+  "productDetails": {
+    "brand": "Skybags",
+    "capacity": "16 Litres",
+    "material": "Polyester",
+    "numberOfCompartments": 3,
+    "laptopCompatibility": "Suitable for laptops up to 15.6 inches",
+    "specialFeatures": [
+      "Multiple compartments",
+      "Secret pocket",
+      "Side zippered pockets",
+      "Trolley sleeve"
+    ],
+    "recommendedUse": [
+      "College",
+      "Office",
+      "Travel",
+      "Daily use"
+    ],
+    "countryOfOrigin": "India"
+  },
+
+  "deliveryInfo": {
+    "delivery": "Amazon Delivered",
+    "returnPolicy": "10 Days Returnable",
+    "cashOnDelivery": true,
+    "secureTransaction": true,
+    "freeDelivery": true,
+    "warranty": "1 Year Manufacturer Warranty"
+  },
+
+  "offers": {
+    "cashback": "Up to ₹32 Amazon Pay Cashback on ICICI Credit Cards",
+    "bankOffer": "Up to ₹750 discount on HDFC Bank Credit Cards",
+    "businessOffer": "Get GST invoice and save up to 18% on business purchases"
+  },
+
+  "tags": [
+    "Laptop Backpack",
+    "Skybags Backpack",
+    "College Bag",
+    "Office Backpack",
+    "Travel Backpack",
+    "Laptop Bag"
+  ]
 }
 ]
