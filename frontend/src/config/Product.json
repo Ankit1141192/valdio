@@ -9642,5 +9642,97 @@
     "Art Street Frame",
     "Gift Photo Frame"
   ]
+},
+{
+  "id": "happy-to-hang-teeser-polypropylene-hangers-pack10",
+  "name": "Happy To Hang Teeser 10 Piece Polypropylene Hanger (Yellow & Green)",
+  "category": "Home & Kitchen",
+  "price": 209,
+  "discountPrice": 249,
+  "discountRate": 16,
+  "rating": 4.2,
+  "reviews": 14736,
+  "ratingText": "4.2 out of 5 stars",
+  "reviewText": "Based on 14,736 customer ratings on Amazon",
+  "badge": "Amazon Choice",
+  "shortLink": "https://amzn.to/4bh2Bzl",
+  "fullLink": "https://www.amazon.in/gp/product/B079TZHKZM?smid=A2AL6IVND0I91F&th=1&linkCode=ll2&tag=valdio-21&linkId=da343c19014da538c0ba30cf746c8bed&ref_=as_li_ss_tl",
+  "image": "https://m.media-amazon.com/images/I/51q0kzZzkeL._SL1500_.jpg",
+
+  "description": "Happy To Hang Teeser hangers are stylish Italian design polypropylene hangers designed for everyday wardrobe organization. These lightweight yet sturdy hangers are ideal for hanging t-shirts, shirts, sweaters, trousers, and casual clothing.",
+
+  "features": [
+    "Pack of 10 durable plastic hangers",
+    "Made from strong polypropylene material",
+    "Lightweight yet sturdy construction",
+    "Suitable for drying and wardrobe storage",
+    "Stylish Italian design for casual clothing",
+    "Water and color resistant hangers",
+    "Ideal for shirts, t-shirts, sweaters and trousers"
+  ],
+
+  "colors": [
+    "Yellow",
+    "Green"
+  ],
+
+  "sizes": [
+    "Pack of 10"
+  ],
+
+  "variants": [
+    {
+      "color": "Yellow & Green",
+      "size": "Pack of 10",
+      "price": 209,
+      "mrp": 249,
+      "discountRate": 16
+    }
+  ],
+
+  "productDetails": {
+    "brand": "Happy To Hang",
+    "model": "Teeser",
+    "material": "Polypropylene (PP)",
+    "shape": "Oval",
+    "finishType": "Polypropylene Finish",
+    "numberOfPieces": 10,
+    "productDimensions": "41.5W x 18.5H cm",
+    "itemWeight": "430 g",
+    "recommendedUse": [
+      "T-Shirt",
+      "Shirt",
+      "Tank Top",
+      "Sweater",
+      "Blouse",
+      "Trouser",
+      "Casual Wear"
+    ],
+    "countryOfOrigin": "India"
+  },
+
+  "deliveryInfo": {
+    "delivery": "Amazon Delivered",
+    "returnPolicy": "10 Days Returnable",
+    "cashOnDelivery": true,
+    "secureTransaction": true,
+    "freeDelivery": true
+  },
+
+  "offers": {
+    "cashback": "Up to ₹32 Amazon Pay Cashback on ICICI Credit Cards",
+    "bankOffer": "Up to ₹750 discount on HDFC Bank Credit Cards",
+    "businessOffer": "Get GST invoice and save up to 18% on business purchases"
+  },
+
+  "tags": [
+    "Clothes Hanger",
+    "Plastic Hangers",
+    "Wardrobe Organizer",
+    "Closet Storage",
+    "Happy To Hang",
+    "Laundry Hanger",
+    "Clothing Storage"
+  ]
 }
 ]
