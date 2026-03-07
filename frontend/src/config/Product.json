@@ -7691,8 +7691,8 @@
     "id": "asus-ap1601-laptop-backpack-grey",
     "name": "ASUS AP1601 Laptop Backpack, 18L Storage Capacity, Suitable for 16-inch Laptop (Grey)",
     "category": "bags & accessories",
-    "price": 499,
-    "discountPrice": 1499,
+    "price": 1499,
+    "discountPrice": 499,
     "discountRate": 67,
     "rating": 4.2,
     "reviews": 701,
@@ -7780,8 +7780,8 @@
     "id": "good-knight-gold-flash-liquid-vapourizer-combo",
     "name": "Good Knight Gold Flash Liquid Vapourizer Mosquito Repellent Combo Pack (1 Machine + 6 Refills 45ml)",
     "category": "home & cleaning",
-    "price": 408,
-    "discountPrice": 510,
+    "price": 510,
+    "discountPrice": 408,
     "discountRate": 20,
     "rating": 4.2,
     "reviews": 19579,
@@ -7882,8 +7882,8 @@
     "id": "whirlpool-270l-protton-roy-refrigerator",
     "name": "Whirlpool 270 L Frost Free Triple-Door Refrigerator (FP 313D Protton ROY Alpha Steel)",
     "category": "Home_Kitchen",
-    "price": 28990,
-    "discountPrice": 38300,
+    "discountPrice": 28990,
+    "price": 38300,
     "discountRate": 24,
     "rating": 3.8,
     "reviews": 11580,
@@ -7985,8 +7985,8 @@
     "id": "lg-1-5ton-5star-dual-inverter-split-ac-usq19ynze3",
     "name": "LG 1.5 Ton 5 Star Dual Inverter Split AC (AI Convertible 6-in-1, VIRAAT Mode, Faster Cooling, HD Filter, US-Q19YNZE3, White)",
     "category": "Home_Kitchen",
-    "price": 41290,
-    "discountPrice": 78990,
+    "price": 78990,
+    "discountPrice": 41290,
     "discountRate": 48,
     "rating": 4.0,
     "reviews": 3516,
@@ -8092,8 +8092,8 @@
     "id": "kokila-no-ppd-shampoo-hair-colour-black-400ml",
     "name": "Kokila NO PPD Shampoo Hair Colour 400ml (Black) | Ammonia Free & Paraben Free",
     "category": "Beauty-Personal-Care",
-    "price": 756,
-    "discountPrice": 1499,
+    "price": 1499,
+    "discountPrice": 756,
     "discountRate": 50,
     "rating": 4.2,
     "reviews": 3774,
@@ -8227,8 +8227,8 @@
     "id": "usha-ei1602-dry-iron-1000w",
     "name": "Usha EI 1602 1000-Watt Lightweight Dry Iron (Multi-Colour)",
     "category": "home appliances",
-    "price": 649,
-    "discountPrice": 1090,
+    "discountPrice": 649,
+    "price": 1090,
     "discountRate": 40,
     "rating": 3.9,
     "reviews": 50454,
@@ -8330,8 +8330,8 @@
     "id": "veltam-0-4-strip-15-tablets",
     "name": "Veltam 0.4 Strip (15 Tablets) | For Fever, Body Pain, Headache, Cold & Flu",
     "category": "medicine",
-    "price": 150,
-    "discountPrice": 300,
+    "discountPrice": 150,
+    "price": 300,
     "discountRate": 50,
     "rating": 3.9,
     "reviews": 50454,
@@ -8379,5 +8379,90 @@
     },
     "storage": "Store protected from moisture at a temperature not exceeding 30°C",
     "dosage": "As directed by the Physician"
-  }
+  },
+  {
+  "id": "upyog-herbal-food-wrapping-paper-roll-100m",
+  "name": "Herbal 100 Meter Food Wrapping Paper Roll | Premium Non-Stick Butter & Parchment Paper",
+  "category": "Home_Kitchen",
+  "discountPrice": 199,
+  "price": 899,
+  "discountRate": 78,
+  "rating": 4.1,
+  "reviews": 1909,
+  "ratingText": "4.1 out of 5 stars",
+  "reviewText": "Based on 1,909 customer ratings on Amazon",
+  "shortLink": "https://amzn.to/40h9c7O",
+  "fullLink": "https://www.amazon.in/HERBA-Meters-Food-Wrapping-Paper/dp/B0DJBFR9GZ?crid=4EX5GRTLB3P2&dib=eyJ2IjoiMSJ9.3MrOi5dUd6DRvzvr7M8_tyr7zPKkZroMNyP9CNdCSDTypWUJn0HFmbNjHADrsXbcnn5vIuVkbPLisv2ZkolKqt0C57XPgV_jPEyJF-5vDJV1HH-AGzEq9Gpvz216jzFbEu7ELpCQxNWJl-JbwU8R--IA9Vcb3b6blUdfwZdR2_FhE46NdFbKcFSwLKA0XFYKZdGw0FXZB1X8kDDdk51h_QmykjZUVlf7yWYst5aa7hrppuuyrq8spHrblxeKcKXtZ4rubFeOGdbX9kYYLi67nKWVm--W65Ao6dBzCKECqLs.kAR8QUWx2aLko-yzYEL3pCVioIr8Q4ONExk00W9w-TE&dib_tag=se&keywords=kitchen+paper&qid=1772886386&sprefix=kitchen+pap%2Caps%2C406&sr=8-6&linkCode=ll2&tag=valdio-21&linkId=6030598e6dfb3bcf8280ebfd725f3db0&ref_=as_li_ss_tl",
+  "image": "https://m.media-amazon.com/images/I/61Va+pM+mQL._SL1080_.jpg",
+  "images": [
+    "https://m.media-amazon.com/images/I/61Va+pM+mQL._SL1080_.jpg",
+    "https://m.media-amazon.com/images/I/61Va+pM+mQL._SL1080_.jpg"
+  ],
+  "description": "Upyog Herbal Food Wrapping Paper Roll is a premium non-stick parchment paper designed for baking, food wrapping, and storing leftovers. It helps maintain freshness by locking moisture, aroma, and flavors while keeping food bacteria-free.",
+  "features": [
+    "Premium non-stick parchment paper for baking and food wrapping",
+    "100 meter long roll suitable for multiple kitchen uses",
+    "Microwave safe and reheatable food wrapping paper",
+    "Helps lock moisture to keep fruits, vegetables, and meat fresh",
+    "Ideal for baking, storing leftovers, and covering food"
+  ],
+  "colors": [
+    {
+      "name": "Natural Paper",
+      "image": "https://m.media-amazon.com/images/I/61Va+pM+mQL._SL1080_.jpg"
+    }
+  ],
+  "sizes": [
+    "100 Meter Roll"
+  ],
+  "variants": [
+    {
+      "color": "Natural Paper",
+      "size": "100 Meter",
+      "price": 199,
+      "mrp": 899,
+      "discountRate": 78,
+      "image": "https://m.media-amazon.com/images/I/61Va+pM+mQL._SL1080_.jpg"
+    }
+  ],
+  "productDetails": {
+    "brand": "upyog",
+    "material": "Paper",
+    "size": "100 Meter Roll",
+    "microwaveSafe": true,
+    "recommendedUses": [
+      "Baking",
+      "Food Wrapping",
+      "Covering Leftovers",
+      "Storing Food"
+    ],
+    "productBenefits": [
+      "Maintains food freshness",
+      "Locks moisture and aroma",
+      "Keeps food bacteria-free"
+    ],
+    "countryOfOrigin": "India"
+  },
+  "deliveryInfo": {
+    "delivery": "Amazon Delivered",
+    "returnPolicy": "10 Days Returnable",
+    "cashOnDelivery": true,
+    "secureTransaction": true,
+    "freeDelivery": true,
+    "badge": "#1 Best Seller"
+  },
+  "offers": {
+    "cashback": "5% cashback with Amazon Pay ICICI Credit Card for Prime members",
+    "partnerOffer": "Save up to 18% with GST invoice for business purchases",
+    "upiOffer": "Earn ₹1.9 reward on UPI payments"
+  },
+  "tags": [
+    "Food Wrapping Paper",
+    "Parchment Paper",
+    "Baking Paper",
+    "Non Stick Paper",
+    "Butter Paper",
+    "Kitchen Wrapping Paper"
+  ]
+}
 ]
