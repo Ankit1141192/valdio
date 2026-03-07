@@ -9318,5 +9318,120 @@
     "Travel Backpack",
     "Laptop Bag"
   ]
+},
+
+{
+  "id": "arrow-mens-slim-casual-pants-dark-blue",
+  "name": "Arrow Men's Slim Casual Pants",
+  "category": "men fashion",
+  "price": 1079,
+  "discountPrice": 2699,
+  "discountRate": 60,
+  "rating": 4.0,
+  "reviews": 0,
+  "ratingText": "4.0 out of 5 stars",
+  "reviewText": "Based on customer ratings on Amazon",
+  "shortLink": "https://amzn.to/3N5IOLa",
+  "fullLink": "https://www.amazon.in/gp/product/B0CCDKF2VL?smid=A1WYWER0W24N8S&th=1&psc=1&linkCode=ll2&tag=valdio-21&linkId=2cad14812bb46611de50fff628056071&ref_=as_li_ss_tl",
+  "image": "https://m.media-amazon.com/images/I/61xTCM2CEXL._SX569_.jpg",
+  "images": [
+    "https://m.media-amazon.com/images/I/61xTCM2CEXL._SX569_.jpg"
+  ],
+
+  "description": "Arrow Men's Slim Casual Pants designed with a modern slim fit and comfortable cotton fabric. Perfect for casual and semi-formal wear with stylish geometric print pattern and flat front design.",
+
+  "features": [
+    "Slim fit casual chinos for a modern look",
+    "Comfortable cotton fabric material",
+    "Low rise waist design",
+    "Button and zip fly closure",
+    "Four pocket styling",
+    "Geometric printed pattern",
+    "Flat front design for a clean appearance"
+  ],
+
+  "colors": [
+    {
+      "name": "Dark Blue",
+      "image": "https://m.media-amazon.com/images/I/61xTCM2CEXL._SX569_.jpg"
+    }
+  ],
+
+  "sizes": [
+    "30",
+    "32",
+    "34",
+    "38"
+  ],
+
+  "variants": [
+    {
+      "color": "Dark Blue",
+      "size": "30",
+      "price": 1079,
+      "mrp": 2699,
+      "discountRate": 60
+    },
+    {
+      "color": "Dark Blue",
+      "size": "32",
+      "price": 1079,
+      "mrp": 2699,
+      "discountRate": 60
+    },
+    {
+      "color": "Dark Blue",
+      "size": "34",
+      "price": 1705,
+      "mrp": 2699,
+      "discountRate": 37
+    },
+    {
+      "color": "Dark Blue",
+      "size": "38",
+      "price": 1079,
+      "mrp": 2699,
+      "discountRate": 60
+    }
+  ],
+
+  "productDetails": {
+    "brand": "Arrow",
+    "material": "Cotton",
+    "style": "Chinos",
+    "fitType": "Slim",
+    "length": "Standard Length",
+    "closureType": "Button and Zip Fly",
+    "pockets": "Four Pockets",
+    "pattern": "Geometric Printed Pattern",
+    "waistStyle": "Low Rise Waist",
+    "careInstructions": "Machine Wash",
+    "itemWeight": "300 g",
+    "countryOfOrigin": "India"
+  },
+
+  "deliveryInfo": {
+    "delivery": "Amazon Delivered",
+    "returnPolicy": "10 Days Return & Exchange",
+    "cashOnDelivery": true,
+    "secureTransaction": true,
+    "freeDelivery": true,
+    "badge": "Top Brand"
+  },
+
+  "offers": {
+    "cashback": "Up to ₹53 Amazon Pay Cashback on ICICI Credit Cards",
+    "bankOffer": "Up to ₹750 discount on HDFC Bank Credit Cards",
+    "businessOffer": "Get GST invoice and save up to 18% on business purchases"
+  },
+
+  "tags": [
+    "Men Casual Pants",
+    "Slim Fit Pants",
+    "Arrow Pants",
+    "Men Chinos",
+    "Men Fashion",
+    "Cotton Pants"
+  ]
 }
 ]
