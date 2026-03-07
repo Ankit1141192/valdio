@@ -8969,5 +8969,129 @@
     "Tea Coffee Mug Set",
     "Gift Mug Set"
   ]
+},
+{
+  "id": "dyazo-adjustable-aluminum-laptop-stand-silver",
+  "name": "Dyazo 6 Angles Adjustable Aluminum Ergonomic Foldable Laptop/Desktop Stand (Silver)",
+  "category": "computer accessories",
+  "price": 348,
+  "discountPrice": 1999,
+  "discountRate": 83,
+  "rating": 4.3,
+  "reviews": 19221,
+  "ratingText": "4.3 out of 5 stars",
+  "reviewText": "Based on 19,221 customer ratings on Amazon",
+  "shortLink": "https://amzn.to/4b9yaei",
+  "fullLink": "https://www.amazon.in/gp/product/B08LHTJTBB?smid=AJ6SIZC8YQDZX&th=1&linkCode=ll2&tag=valdio-21&linkId=a30b7c9980f03bb1f5813ae16f676a16&ref_=as_li_ss_tl",
+  "image": "https://m.media-amazon.com/images/I/61kBmC8NfGL._SL1080_.jpg",
+  "images": [
+    "https://m.media-amazon.com/images/I/61kBmC8NfGL._SL1080_.jpg",
+    "https://m.media-amazon.com/images/I/61kBmC8NfGL._SL1080_.jpg"
+  ],
+
+  "description": "Dyazo aluminum adjustable laptop stand provides ergonomic support for laptops and tablets with 6 adjustable angles. Lightweight and foldable design improves posture and enhances laptop cooling.",
+
+  "features": [
+    "6 adjustable viewing angles for ergonomic posture",
+    "Foldable and lightweight aluminum design",
+    "Improves airflow to keep laptop cool",
+    "Non-slip silicone pads for stability and device protection",
+    "Portable and easy to carry in backpack or briefcase",
+    "Compatible with laptops, tablets, and notebooks"
+  ],
+
+  "colors": [
+    {
+      "name": "Silver",
+      "image": "https://m.media-amazon.com/images/I/61kBmC8NfGL._SL1080_.jpg"
+    },
+    {
+      "name": "Black",
+      "image": "https://m.media-amazon.com/images/I/61kBmC8NfGL._SL1080_.jpg"
+    },
+    {
+      "name": "Space Grey",
+      "image": "https://m.media-amazon.com/images/I/61kBmC8NfGL._SL1080_.jpg"
+    }
+  ],
+
+  "sizes": [
+    "Standard"
+  ],
+
+  "variants": [
+    {
+      "style": "N3",
+      "color": "Silver",
+      "price": 348,
+      "mrp": 1999,
+      "discountRate": 83,
+      "image": "https://m.media-amazon.com/images/I/61kBmC8NfGL._SL1080_.jpg"
+    },
+    {
+      "style": "2XL",
+      "color": "Silver",
+      "price": 656,
+      "mrp": 1499,
+      "discountRate": 56,
+      "image": "https://m.media-amazon.com/images/I/61kBmC8NfGL._SL1080_.jpg"
+    }
+  ],
+
+  "productDetails": {
+    "brand": "Dyazo",
+    "material": "Aluminum Alloy",
+    "formFactor": "Table Stand",
+    "weight": "260 g",
+    "adjustableAngles": "6 Levels",
+    "compatibleDevices": [
+      "MacBook",
+      "HP",
+      "Dell",
+      "Lenovo",
+      "Asus",
+      "Acer",
+      "Tablets"
+    ],
+    "supportedScreenSize": "10 - 15.6 Inches",
+    "specialFeatures": [
+      "Ergonomic Design",
+      "Foldable Portable Stand",
+      "Non-slip Silicone Pads",
+      "Improves Airflow and Cooling",
+      "Posture Improvement"
+    ],
+    "recommendedUse": [
+      "Office Work",
+      "Study Desk",
+      "Home Office",
+      "Laptop Cooling"
+    ],
+    "countryOfOrigin": "India"
+  },
+
+  "deliveryInfo": {
+    "delivery": "Amazon Delivered",
+    "returnPolicy": "10 Days Service Centre Replacement",
+    "cashOnDelivery": true,
+    "secureTransaction": true,
+    "freeDelivery": true,
+    "warranty": "1 Year Manufacturer Warranty",
+    "badge": "Amazon's Choice"
+  },
+
+  "offers": {
+    "cashback": "Up to ₹17 Amazon Pay Cashback on ICICI Credit Cards",
+    "businessOffer": "Get GST invoice and save up to 18% on business purchases"
+  },
+
+  "tags": [
+    "Laptop Stand",
+    "Ergonomic Laptop Stand",
+    "Adjustable Laptop Stand",
+    "Portable Laptop Stand",
+    "Aluminum Laptop Stand",
+    "Office Desk Accessories"
+  ]
 }
 ]
