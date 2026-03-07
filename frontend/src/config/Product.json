@@ -8848,5 +8848,126 @@
     "Seedless Raisins",
     "Antioxidant Rich Food"
   ]
+},
+{
+  "id": "earth-store-grey-fizz-mugs-set-6",
+  "name": "The Earth Store Grey Fizz Coffee Mugs Set of 6 Ceramic Tea Cups (280ml)",
+  "category": "Kitchen-Dining",
+  "price": 419,
+  "discountPrice": 2099,
+  "discountRate": 80,
+  "rating": 3.8,
+  "reviews": 3144,
+  "ratingText": "3.8 out of 5 stars",
+  "reviewText": "Based on 3,144 customer ratings on Amazon",
+  "shortLink": "https://amzn.to/4s42KNQ",
+  "fullLink": "https://www.amazon.in/gp/product/B0B3RPC54W?smid=AXOGFIT0PZZ7G&th=1&linkCode=ll2&tag=valdio-21&linkId=f7ef5de32b30a8a0d37c68eaeb9412d4&ref_=as_li_ss_tl",
+  "image": "https://m.media-amazon.com/images/I/81oO2bd-yDL._SL1500_.jpg",
+  "images": [
+    "https://m.media-amazon.com/images/I/81oO2bd-yDL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/81oO2bd-yDL._SL1500_.jpg"
+  ],
+
+  "description": "The Earth Store Grey Fizz ceramic coffee mug set includes 6 stylish mugs perfect for tea, coffee, hot chocolate, or herbal drinks. Durable ceramic construction with microwave-safe design makes it ideal for everyday use.",
+
+  "features": [
+    "Set of 6 ceramic coffee mugs",
+    "280 ml capacity per mug",
+    "Microwave safe for easy reheating",
+    "Dishwasher safe for convenient cleaning",
+    "Durable ceramic material for long-lasting use",
+    "Stylish grey fizz design suitable for home use or gifting"
+  ],
+
+  "colors": [
+    {
+      "name": "Grey",
+      "image": "https://m.media-amazon.com/images/I/81oO2bd-yDL._SL1500_.jpg"
+    }
+  ],
+
+  "sizes": [
+    "6 Count",
+    "4 Count",
+    "2 Count",
+    "1 Count"
+  ],
+
+  "variants": [
+    {
+      "size": "1 Count (Pack of 1)",
+      "price": 149,
+      "mrp": 699,
+      "discountRate": 79,
+      "image": "https://m.media-amazon.com/images/I/81oO2bd-yDL._SL1500_.jpg"
+    },
+    {
+      "size": "2 Count (Pack of 1)",
+      "price": 275,
+      "mrp": 849,
+      "discountRate": 68,
+      "image": "https://m.media-amazon.com/images/I/81oO2bd-yDL._SL1500_.jpg"
+    },
+    {
+      "size": "4 Count (Pack of 1)",
+      "price": 475,
+      "mrp": 1599,
+      "discountRate": 70,
+      "image": "https://m.media-amazon.com/images/I/81oO2bd-yDL._SL1500_.jpg"
+    },
+    {
+      "size": "6 Count (Pack of 1)",
+      "price": 419,
+      "mrp": 2099,
+      "discountRate": 80,
+      "image": "https://m.media-amazon.com/images/I/81oO2bd-yDL._SL1500_.jpg"
+    }
+  ],
+
+  "productDetails": {
+    "brand": "The Earth Store",
+    "material": "Ceramic",
+    "capacity": "280 ml",
+    "colour": "Grey",
+    "style": "Fizz Grey",
+    "theme": "Ocean",
+    "includedComponents": "6 Coffee Mugs",
+    "specialFeatures": [
+      "Microwave Safe",
+      "Dishwasher Safe",
+      "Durable Ceramic Build"
+    ],
+    "recommendedUse": [
+      "Coffee",
+      "Tea",
+      "Hot Chocolate",
+      "Herbal Drinks"
+    ],
+    "countryOfOrigin": "India"
+  },
+
+  "deliveryInfo": {
+    "delivery": "Amazon Delivered",
+    "returnPolicy": "10 Days Returnable",
+    "cashOnDelivery": true,
+    "secureTransaction": true,
+    "freeDelivery": true,
+    "badge": "Top Brand"
+  },
+
+  "offers": {
+    "cashback": "Up to ₹20 Amazon Pay Cashback on ICICI Credit Cards",
+    "bankOffer": "Up to ₹750 discount on HDFC Bank Credit Cards",
+    "partnerOffer": "Prime Savings: Buy 2 get 5% off, Buy 3 get 7% off"
+  },
+
+  "tags": [
+    "Coffee Mugs",
+    "Ceramic Tea Cups",
+    "Microwave Safe Mugs",
+    "Kitchen Dining Set",
+    "Tea Coffee Mug Set",
+    "Gift Mug Set"
+  ]
 }
 ]
