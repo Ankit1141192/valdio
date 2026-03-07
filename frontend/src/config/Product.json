@@ -9433,5 +9433,117 @@
     "Men Fashion",
     "Cotton Pants"
   ]
+},
+{
+  "id": "benetton-mens-straight-fit-mid-rise-pants",
+  "name": "United Colors of Benetton Men's Straight Fit Mid Rise Pants",
+  "category": "men fashion",
+  "price": 1284.20,
+  "discountPrice": 2999,
+  "discountRate": 57,
+  "rating": 3.6,
+  "reviews": 90,
+  "ratingText": "3.6 out of 5 stars",
+  "reviewText": "Based on 90 customer ratings on Amazon",
+  "shortLink": "https://amzn.to/40Q4gqF",
+  "fullLink": "https://www.amazon.in/gp/product/B08MV6XN73?smid=A1WYWER0W24N8S&th=1&psc=1&linkCode=ll2&tag=valdio-21&linkId=ef9869cf4ec1901e3601c45bf2a29b5b&ref_=as_li_ss_tl",
+  "image": "https://m.media-amazon.com/images/I/61rSE0xckAL._SX569_.jpg",
+  "images": [
+    "https://m.media-amazon.com/images/I/61rSE0xckAL._SX569_.jpg"
+  ],
+
+  "description": "United Colors of Benetton men's casual pants made with comfortable cotton fabric featuring a straight fit mid-rise design suitable for everyday casual wear.",
+
+  "features": [
+    "Straight fit casual pants for men",
+    "Comfortable cotton material",
+    "Mid rise waist design",
+    "Button closure for secure fit",
+    "Suitable for casual occasions",
+    "Machine washable for easy care"
+  ],
+
+  "colors": [
+    {
+      "name": "Beige",
+      "price": 1284.20,
+      "mrp": 2999,
+      "discountRate": 57
+    },
+    {
+      "name": "Blue",
+      "price": 1799,
+      "mrp": 2999,
+      "discountRate": 40
+    },
+    {
+      "name": "Green",
+      "price": 1799,
+      "mrp": 2999,
+      "discountRate": 40
+    },
+    {
+      "name": "Brown",
+      "price": 1290,
+      "mrp": 2999,
+      "discountRate": 57
+    }
+  ],
+
+  "sizes": [
+    "28",
+    "30",
+    "32",
+    "34",
+    "36",
+    "38",
+    "40"
+  ],
+
+  "variants": [
+    {
+      "color": "Beige",
+      "size": "32",
+      "price": 1284.20,
+      "mrp": 2999,
+      "discountRate": 57
+    }
+  ],
+
+  "productDetails": {
+    "brand": "United Colors of Benetton",
+    "material": "Cotton",
+    "fitType": "Straight Fit",
+    "rise": "Mid Rise",
+    "style": "Boyfriend",
+    "closureType": "Button",
+    "occasion": "Casual",
+    "careInstructions": "Machine Wash",
+    "countryOfOrigin": "India"
+  },
+
+  "deliveryInfo": {
+    "delivery": "Amazon Delivered",
+    "returnPolicy": "10 Days Return & Exchange",
+    "cashOnDelivery": true,
+    "secureTransaction": true,
+    "freeDelivery": true,
+    "badge": "Top Brand"
+  },
+
+  "offers": {
+    "cashback": "Up to ₹64 Amazon Pay Cashback on ICICI Credit Cards",
+    "bankOffer": "Up to ₹750 discount on HDFC Bank Credit Cards",
+    "businessOffer": "Get GST invoice and save up to 18% on business purchases"
+  },
+
+  "tags": [
+    "Men Pants",
+    "Benetton Pants",
+    "Straight Fit Pants",
+    "Casual Pants",
+    "Cotton Pants",
+    "Men Fashion"
+  ]
 }
 ]
