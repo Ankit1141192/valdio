@@ -9838,5 +9838,98 @@
     "Home Decor Frame",
     "Picture Frame Set"
   ]
+},
+{
+  "id": "whirlpool-270l-triple-door-refrigerator-protton-roy-alpha-steel",
+  "name": "Whirlpool 270 L Frost Free Triple-Door Refrigerator (FP 313D PROTTON ROY Alpha Steel)",
+  "category": "home appliances",
+  "price": 28990,
+  "discountPrice": 38300,
+  "discountRate": 24,
+  "rating": 3.8,
+  "reviews": 11587,
+  "ratingText": "3.8 out of 5 stars",
+  "reviewText": "Based on 11,587 customer ratings on Amazon",
+  "badge": "Top Brand",
+  "shortLink": "https://amzn.to/4lfZQCO",
+  "fullLink": "https://www.amazon.in/gp/product/B0CW184WNH?smid=A3K8GDUW67973J&th=1&linkCode=ll2&tag=valdio-21&linkId=32e4fa675af58e0acabbcb41e1cd9653&ref_=as_li_ss_tl",
+  "image": "https://m.media-amazon.com/images/I/51pd+cQ9lzL._SL1348_.jpg",
+
+  "description": "Whirlpool Protton Roy 270L triple-door frost-free refrigerator designed for medium-sized families. It offers energy-efficient cooling, toughened glass shelves and stabilizer-free operation for reliable performance.",
+
+  "features": [
+    "Triple door frost free refrigerator",
+    "270 litre capacity suitable for medium families",
+    "Energy efficient Protton series cooling",
+    "Toughened glass shelves for durability",
+    "Stabilizer free operation between 160V–300V",
+    "Reciprocatory compressor technology",
+    "Thermostat display type"
+  ],
+
+  "colors": [
+    "Alpha Steel",
+    "Radiant Steel",
+    "Crystal Black",
+    "German Steel"
+  ],
+
+  "variants": [
+    {
+      "color": "Alpha Steel",
+      "style": "2024",
+      "price": 28990,
+      "mrp": 38300,
+      "discountRate": 24
+    }
+  ],
+
+  "productDetails": {
+    "brand": "Whirlpool",
+    "capacity": "270 Litres",
+    "grossCapacity": "300 Litres",
+    "configuration": "Freezer-on-Top",
+    "coolingType": "Frost Free",
+    "compressorType": "Reciprocatory",
+    "shelfMaterial": "Toughened Glass",
+    "displayType": "Thermostat",
+    "stabilizerFreeOperation": "160V - 300V",
+    "productDimensions": "71.7 x 60.1 x 187.4 cm",
+    "weight": "62 kg",
+    "recommendedUse": [
+      "Home kitchen",
+      "Family refrigerator",
+      "Food storage",
+      "Beverage storage"
+    ],
+    "countryOfOrigin": "India"
+  },
+
+  "deliveryInfo": {
+    "delivery": "Amazon Delivered",
+    "installation": "Brand Installation Available",
+    "returnPolicy": "10 Days Replacement by Brand",
+    "cashOnDelivery": true,
+    "secureTransaction": true,
+    "freeDelivery": true,
+    "warranty": "1 Year Product Warranty, 10 Years Compressor Warranty"
+  },
+
+  "offers": {
+    "cashback": "Up to ₹869 Amazon Pay Cashback on ICICI Credit Cards",
+    "bankOffer": "Up to ₹3000 discount on HDFC Bank Credit Cards",
+    "emiOffer": "No Cost EMI available",
+    "coupon": "₹1000 coupon available",
+    "upiOffer": "Earn ₹60 reward on UPI payment"
+  },
+
+  "tags": [
+    "Refrigerator",
+    "Whirlpool Refrigerator",
+    "Triple Door Fridge",
+    "Frost Free Refrigerator",
+    "Kitchen Appliances",
+    "Home Appliances"
+  ]
 }
 ]
