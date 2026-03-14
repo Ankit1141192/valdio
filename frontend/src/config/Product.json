@@ -8469,8 +8469,8 @@
   "id": "pan-40-tablets-strip-15",
   "name": "Pan 40 - Strip of 15 Tablets (Pantoprazole 40mg)",
   "category": "Health_Nutrition",
-  "discountPrice": 151.26,
-  "price": 175.30,
+  "price": 151.26,
+  "discountPrice": 175.30,
   "discountRate": 14,
   "rating": null,
   "reviews": null,
@@ -8548,8 +8548,8 @@
   "id": "mirana-hover-football-blue-green",
   "name": "Mirana C-Type USB Rechargeable Hover Football Indoor Floating Soccer Ball (Blue-Green)",
   "category": "toys",
-  "discountPrice": 679,
-  "price": 999,
+  "price": 679,
+  "discountPrice": 999,
   "discountRate": 32,
   "rating": 4.0,
   "reviews": 9359,
@@ -8659,8 +8659,8 @@
   "id": "nrip-premium-afghani-anjeer-200g",
   "name": "NRIP Premium Dried Afghani Anjeer 200g | Healthy Dry Figs Snack",
   "category": "Grocery_Food",
-  "discountPrice": 179,
-  "price": 1205,
+  "price": 179,
+  "discountPrice": 1205,
   "discountRate": 85,
   "rating": 3.9,
   "reviews": 2082,
@@ -8746,8 +8746,8 @@
   "id": "happilo-afghani-black-raisins-500g",
   "name": "Happilo Premium Afghani Seedless Black Raisins 500g | Kali Kishmish Dry Fruits",
   "category": "grocery & food",
-  "discountPrice": 329,
-  "price": 630,
+  "price": 329,
+  "discountPrice": 630,
   "discountRate": 48,
   "rating": 4.3,
   "reviews": 2763,
@@ -8853,8 +8853,8 @@
   "id": "earth-store-grey-fizz-mugs-set-6",
   "name": "The Earth Store Grey Fizz Coffee Mugs Set of 6 Ceramic Tea Cups (280ml)",
   "category": "Kitchen-Dining",
-  "discountPrice": 419,
-  "price": 2099,
+  "price": 419,
+  "discountPrice": 2099,
   "discountRate": 80,
   "rating": 3.8,
   "reviews": 3144,
@@ -8974,8 +8974,8 @@
   "id": "dyazo-adjustable-aluminum-laptop-stand-silver",
   "name": "Dyazo 6 Angles Adjustable Aluminum Ergonomic Foldable Laptop/Desktop Stand (Silver)",
   "category": "computer accessories",
-  "discountPrice": 348,
-  "price": 1999,
+  "price": 348,
+  "discountPrice": 1999,
   "discountRate": 83,
   "rating": 4.3,
   "reviews": 19221,
@@ -9098,8 +9098,8 @@
   "id": "portronics-comfipad3-mousepad-grey",
   "name": "Portronics Comfipad 3 Mouse Pad with Windows Shortcuts Design (Grey)",
   "category": "computer accessories",
-  "discountPrice": 149,
-  "price": 399,
+  "price": 149,
+  "discountPrice": 399,
   "discountRate": 63,
   "rating": 4.3,
   "reviews": 337,
@@ -9194,8 +9194,8 @@
   "id": "skybags-lumous-3compartment-laptop-backpack-16l",
   "name": "Skybags Lumous 3 Compartment Laptop Backpack 16L",
   "category": "bags & accessories",
-  "discountPrice": 649,
-  "price": 2400,
+  "price": 649,
+  "discountPrice": 2400,
   "discountRate": 73,
   "rating": 4.3,
   "reviews": 1060,
@@ -9324,8 +9324,8 @@
   "id": "arrow-mens-slim-casual-pants-dark-blue",
   "name": "Arrow Men's Slim Casual Pants",
   "category": "men fashion",
-  "discountPrice": 1079,
-  "price": 2699,
+  "price": 1079,
+  "discountPrice": 2699,
   "discountRate": 60,
   "rating": 4.0,
   "reviews": 0,
@@ -9438,8 +9438,8 @@
   "id": "benetton-mens-straight-fit-mid-rise-pants",
   "name": "United Colors of Benetton Men's Straight Fit Mid Rise Pants",
   "category": "men fashion",
-  "discountPrice": 1284.20,
-  "price": 2999,
+  "price": 1284.20,
+  "discountPrice": 2999,
   "discountRate": 57,
   "rating": 3.6,
   "reviews": 90,
@@ -9551,8 +9551,8 @@
   "id": "art-street-3d-tabletop-photo-frame-4x6-blue-white",
   "name": "Art Street Premium 3D Table Top Photo Frame for Home Décor (4x6 Inch)",
   "category": "home decor",
-  "price": 600,
-  "discountPrice": 189,
+  "price": 189,
+  "discountPrice": 600,
   "discountRate": 69,
   "rating": 4.2,
   "reviews": 573,
@@ -9647,8 +9647,8 @@
   "id": "happy-to-hang-teeser-polypropylene-hangers-pack10",
   "name": "Happy To Hang Teeser 10 Piece Polypropylene Hanger (Yellow & Green)",
   "category": "Home & Kitchen",
-  "price": 249,
-  "discountPrice": 209,
+  "price": 209,
+  "discountPrice": 249,
   "discountRate": 16,
   "rating": 4.2,
   "reviews": 14736,
@@ -9839,13 +9839,205 @@
     "Picture Frame Set"
   ]
 },
-
+{
+  "id": "tide-matic-liquid-detergent-3-2l-top-load",
+  "name": "Tide Matic Liquid Detergent 3.2L for Top Load Washing Machines | Tough Stain Removal",
+  "category": "home-cleaning",
+  "price": 449,
+  "discountPrice": 365,
+  "discountRate": 19,
+  "rating": 4.4,
+  "reviews": 3678,
+  "ratingText": "4.4 out of 5 stars",
+  "reviewText": "Based on 3,678 customer ratings on Amazon",
+  "shortLink": "https://amzn.to/3MSawLr",
+  "fullLink": "https://www.amazon.in/gp/product/B0CTH95F6M?smid=A15APWRK6P7LBV&th=1&linkCode=ll2&tag=valdio-21&linkId=280613303a5eab39334aa8e866a8720f&ref_=as_li_ss_tl",
+  "image": "https://m.media-amazon.com/images/I/718GaB5lYOL._SL1500_.jpg",
+  "images": [
+    "https://m.media-amazon.com/images/I/718GaB5lYOL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/718GaB5lYOL._SL1500_.jpg"
+  ],
+  "description": "Tide Matic Liquid Detergent is specially designed for fully automatic top load washing machines. It removes tough stains while protecting the color of clothes. With advanced Lift and Lock Technology, it lifts stains from fabrics and prevents them from redepositing on clothes.",
+  "features": [
+    "Specially designed for fully automatic top load washing machines",
+    "Lift and Lock Technology removes tough stains easily",
+    "Prevents stains from redepositing on clothes",
+    "Keeps clothes fresh with superior fragrance",
+    "Maintains color and fabric quality"
+  ],
+  "colors": [
+    {
+      "name": "Blue Bottle",
+      "image": "https://m.media-amazon.com/images/I/718GaB5lYOL._SL1500_.jpg"
+    }
+  ],
+  "sizes": [
+    "3.2 L"
+  ],
+  "variants": [
+    {
+      "color": "Blue Bottle",
+      "size": "3.2 L (Pack of 1)",
+      "price": 365,
+      "mrp": 449,
+      "discountRate": 19,
+      "image": "https://m.media-amazon.com/images/I/718GaB5lYOL._SL1500_.jpg"
+    },
+    {
+      "color": "Blue Bottle",
+      "size": "3.2 L (Pack of 2)",
+      "price": 730,
+      "mrp": 898,
+      "discountRate": 19,
+      "image": "https://m.media-amazon.com/images/I/718GaB5lYOL._SL1500_.jpg"
+    }
+  ],
+  "productDetails": {
+    "brand": "Tide",
+    "itemForm": "Liquid",
+    "scent": "Fresh",
+    "netQuantity": "3200 ml",
+    "liquidVolume": "3200 ml",
+    "materialFeature": "Stain Removal",
+    "specificUses": [
+      "Cleaning",
+      "Stain Removal",
+      "Laundry"
+    ],
+    "itemWeight": "3372 g",
+    "dimensions": "28 x 6.5 x 34 cm",
+    "useBy": "01 August 2026",
+    "countryOfOrigin": "India"
+  },
+  "deliveryInfo": {
+    "delivery": "Amazon Delivered",
+    "returnPolicy": "Non-Returnable",
+    "cashOnDelivery": true,
+    "secureTransaction": true,
+    "freeDelivery": true,
+    "badge": "Top Brand"
+  },
+  "offers": {
+    "cashback": "5% cashback with Amazon Pay ICICI Credit Card for Prime members",
+    "partnerOffer": "Save up to 18% with GST invoice for business purchases",
+    "upiOffer": "Earn ₹3.6 reward on UPI payments"
+  },
+  "tags": [
+    "Liquid Detergent",
+    "Tide Detergent",
+    "Laundry Liquid",
+    "Top Load Washing Machine Detergent",
+    "Clothes Cleaning Liquid",
+    "Stain Removal Detergent"
+  ]
+},
+{
+  "id": "happilo-premium-dried-afghani-anjeer-200g",
+  "name": "Happilo Premium Dried Afghani Anjeer 200g | Low Fat Dry Figs | Healthy Snack Rich in Fiber & Vitamins",
+  "category": "Grocery_Food",
+  "price": 365,
+  "discountPrice": 298,
+  "discountRate": 18,
+  "rating": 4.0,
+  "reviews": 15545,
+  "ratingText": "4.0 out of 5 stars",
+  "reviewText": "Based on 15,545 customer ratings on Amazon",
+  "shortLink": "https://amzn.to/4lhgBxv",
+  "fullLink": "https://www.amazon.in/gp/product/B0758D65V3?smid=A15APWRK6P7LBV&th=1&linkCode=ll2&tag=valdio-21&linkId=09a1bec700cab17a7c1f9dd0af81ae48&ref_=as_li_ss_tl",
+  "image": "https://m.media-amazon.com/images/I/711ZYkWNDmL._SL1500_.jpg",
+  "images": [
+    "https://m.media-amazon.com/images/I/711ZYkWNDmL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/711ZYkWNDmL._SL1500_.jpg"
+  ],
+  "description": "Happilo Premium Dried Afghani Anjeer is a high-quality dry fruit packed with natural sweetness and nutrition. These dried figs are rich in dietary fiber, vitamins, and minerals, making them a healthy snack option for everyday consumption.",
+  "features": [
+    "Premium quality Afghani dried figs",
+    "Rich source of dietary fiber and vitamins",
+    "Low fat healthy snack option",
+    "Naturally sweet and nutritious dry fruit",
+    "Ideal for daily snacking and energy boost"
+  ],
+  "colors": [
+    {
+      "name": "Natural Brown",
+      "image": "https://m.media-amazon.com/images/I/711ZYkWNDmL._SL1500_.jpg"
+    }
+  ],
+  "sizes": [
+    "200 g"
+  ],
+  "variants": [
+    {
+      "color": "Natural Brown",
+      "size": "200 g (Pack of 1)",
+      "price": 298,
+      "mrp": 365,
+      "discountRate": 18,
+      "image": "https://m.media-amazon.com/images/I/711ZYkWNDmL._SL1500_.jpg"
+    },
+    {
+      "color": "Natural Brown",
+      "size": "200 g (Pack of 2)",
+      "price": 596,
+      "mrp": 730,
+      "discountRate": 18,
+      "image": "https://m.media-amazon.com/images/I/711ZYkWNDmL._SL1500_.jpg"
+    },
+    {
+      "color": "Natural Brown",
+      "size": "200 g (Pack of 5)",
+      "price": 1490,
+      "mrp": 1825,
+      "discountRate": 18,
+      "image": "https://m.media-amazon.com/images/I/711ZYkWNDmL._SL1500_.jpg"
+    }
+  ],
+  "productDetails": {
+    "brand": "Happilo",
+    "itemForm": "Whole",
+    "flavor": "Natural Fig",
+    "netQuantity": "200 g",
+    "dietType": "Vegetarian",
+    "materialFeature": [
+      "Low Fat",
+      "Rich in Dietary Fiber",
+      "Vitamin Rich"
+    ],
+    "productBenefits": [
+      "Healthy snacking",
+      "Improves digestion",
+      "Natural energy source"
+    ],
+    "useBy": "26 September 2026",
+    "countryOfOrigin": "Afghanistan"
+  },
+  "deliveryInfo": {
+    "delivery": "Amazon Delivered",
+    "returnPolicy": "Non-Returnable",
+    "cashOnDelivery": true,
+    "secureTransaction": true,
+    "freeDelivery": true,
+    "badge": "Amazon's Choice"
+  },
+  "offers": {
+    "cashback": "Up to ₹8 Amazon Pay cashback with ICICI Credit Card",
+    "partnerOffer": "Save up to 18% with GST invoice for business purchases"
+  },
+  "tags": [
+    "Dry Fruits",
+    "Afghani Anjeer",
+    "Dried Figs",
+    "Healthy Snacks",
+    "Happilo Dry Fruits",
+    "Fiber Rich Foods"
+  ]
+},
 {
   "id": "whirlpool-270l-triple-door-refrigerator-protton-roy-alpha-steel",
   "name": "Whirlpool 270 L Frost Free Triple-Door Refrigerator (FP 313D PROTTON ROY Alpha Steel)",
-  "category": "home appliances",
-  "price": 28990,
-  "discountPrice": 38300,
+  "category": "home_appliances",
+  "price": 38300,
+  "discountPrice": 28990,
   "discountRate": 24,
   "rating": 3.8,
   "reviews": 11587,
@@ -9932,5 +10124,109 @@
     "Kitchen Appliances",
     "Home Appliances"
   ]
+},
+{
+  "id": "amazon-solimo-checkered-jar-container-set-24-blue",
+  "name": "Amazon Brand - Solimo Checkered Jar Container Set of 24 | 2000ML, 1000ML, 500ML, 250ML | Plastic | Transparent, Blue",
+  "category": "Home_Kitchen",
+  "price": 1999,
+  "discountPrice": 417.29,
+  "discountRate": 79,
+  "rating": 4.2,
+  "reviews": 2119,
+  "ratingText": "4.2 out of 5 stars",
+  "reviewText": "Based on 2,119 customer ratings on Amazon",
+  "badge": "Top Brand",
+  "shortLink": "https://amzn.to/4dkOkUI",
+  "fullLink": "https://www.amazon.in/dp/B0BVYYYBY5?social_share=cm_sw_r_ud_dp_TH28HMQ6J4VWQ57BJ6TF&th=1&linkCode=ll2&tag=valdio-21&linkId=af68529d7b36deeb83a5f67ab18f0e92&ref_=as_li_ss_tl",
+  "image": "https://m.media-amazon.com/images/I/71JWLJbqQFL._SL1500_.jpg",
+
+  "description": "Amazon Brand - Solimo Checkered Jar Container Set of 24 made from BPA-free food grade PET plastic. Designed with air-tight lids and stackable structure, ideal for storing dry fruits, pulses, spices and kitchen essentials.",
+
+  "features": [
+    "Set of 24 checkered storage jars",
+    "Includes 6 x 250ml, 6 x 500ml, 6 x 1000ml, 6 x 2000ml containers",
+    "Made of 100% food-grade PET plastic",
+    "BPA free and FDA approved material",
+    "Air-tight seal lids for freshness",
+    "Easy to open lids",
+    "Stackable space-saving design",
+    "Retains taste and nutritive value",
+    "Transparent body with blue caps"
+  ],
+
+  "colors": [
+    "Blue",
+    "Choco",
+    "Brown"
+  ],
+
+  "variants": [
+    {
+      "size": "Set of 24",
+      "color": "Blue",
+      "price": 417.29,
+      "mrp": 1999,
+      "discountRate": 79
+    },
+    {
+      "size": "Set of 12",
+      "color": "Blue",
+      "price": null,
+      "mrp": null,
+      "discountRate": null
+    }
+  ],
+
+  "productDetails": {
+    "brand": "Amazon Brand - Solimo",
+    "material": "Plastic (PET Container, PP Cap)",
+    "materialFeature": "BPA Free, FDA Approved",
+    "capacity": "2000 Milliliters (Largest Jar)",
+    "totalItems": 24,
+    "containerBreakup": {
+      "250ml": 6,
+      "500ml": 6,
+      "1000ml": 6,
+      "2000ml": 6
+    },
+    "design": "Checkered",
+    "stackable": true,
+    "airtight": true,
+    "recommendedUse": [
+      "Dry fruits storage",
+      "Pulses storage",
+      "Spices storage",
+      "Kitchen organization"
+    ],
+    "countryOfOrigin": "India"
+  },
+
+  "deliveryInfo": {
+    "delivery": "Amazon Delivered",
+    "shipsFrom": "Amazon",
+    "soldBy": "RetailEZ Pvt Ltd",
+    "returnPolicy": "10 Days Returnable",
+    "cashOnDelivery": true,
+    "secureTransaction": true,
+    "freeDelivery": true,
+    "giftOptionsAvailable": true
+  },
+
+  "offers": {
+    "cashback": "Upto ₹12 cashback with Amazon Pay ICICI Bank Credit Cards",
+    "bankOffer": "Upto ₹1,000 discount on select Credit Cards",
+    "partnerOffer": "Buy 2 get 2% off, Buy 3 get 4% off on select categories",
+    "upiOffer": "Earn ₹4.1 reward on UPI payment"
+  },
+
+  "tags": [
+    "Storage Containers",
+    "Kitchen Containers",
+    "Solimo Jars",
+    "Plastic Storage Set",
+    "Airtight Containers",
+    "Home Organization"
+    ]
 }
 ]

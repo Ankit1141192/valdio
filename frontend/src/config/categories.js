@@ -190,6 +190,10 @@ const categories = [
     key:"medicine",
     name:"medicine",
     image:""
+  },{
+    key:"home_appliances",
+    name:"home_appliances",
+    image:""
   }
 
 ];
