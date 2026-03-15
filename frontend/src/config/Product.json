@@ -10228,5 +10228,93 @@
     "Airtight Containers",
     "Home Organization"
     ]
+},
+{
+  "id": "customized-name-pencil-set-20pcs-kids",
+  "name": "20 Piece Customized Name Pencil Set for Kids with Free Eraser & Sharpener",
+  "category": "office-stationery",
+  "price": 499,
+  "discountPrice": 220,
+  "discountRate": 56,
+  "rating":3.9,
+  "reviews": 120,
+  "ratingText": " 3.9 out of 5 stars",
+  "reviewText": " Based on 120 customer ratings on Amazon",
+  "badge": "",
+  "shortLink": "https://amzn.to/4seTB54",
+  "fullLink": "https://www.amazon.in/dp/B0GL9DXN84?social_share=cm_sw_r_apin_dp_MTDF23SRY75T8JWSXT3W&linkCode=ll2&tag=valdio-21&linkId=68efc902ca37b922d066fce43f36a8cb&ref_=as_li_ss_tl",
+  "image": "https://m.media-amazon.com/images/I/71+43FWhB+L._SX522_.jpg",
+
+  "description": "20 piece personalised pencil set for kids with custom name printing on each pencil. Comes with free eraser and sharpener. Ideal for school use, return gifts, birthday gifts and daily writing needs.",
+
+  "features": [
+    "20 customised pencils with child's name printed",
+    "Includes free eraser and sharpener",
+    "Prevents pencil loss in school",
+    "Perfect for birthday return gifts",
+    "Suitable for writing, homework and exams",
+    "Great for sketching and art projects",
+    "Ambidextrous design for all children"
+  ],
+
+  "colors": [
+    "Silver"
+  ],
+
+  "variants": [
+    {
+      "color": "Silver",
+      "style": "20 Pieces Set",
+      "price": 220,
+      "mrp": 499,
+      "discountRate": 56
+    }
+  ],
+
+  "productDetails": {
+    "brand": "Generic",
+    "writingInstrumentForm": "Pencil",
+    "inkColor": "Graphite Grey",
+    "ageRange": "Kids",
+    "material": "Wood Pencil",
+    "setIncludes": "20 Custom Pencils, 1 Eraser, 1 Sharpener",
+    "personalization": "Custom Name Printing",
+    "recommendedUse": [
+      "School writing",
+      "Homework",
+      "Exams",
+      "Sketching",
+      "Return gifts",
+      "Birthday gifts"
+    ],
+    "countryOfOrigin": "India"
+  },
+
+  "deliveryInfo": {
+    "delivery": "Amazon Delivered",
+    "installation": "Not Required",
+    "returnPolicy": "Non-Returnable",
+    "cashOnDelivery": true,
+    "secureTransaction": true,
+    "freeDelivery": true,
+    "warranty": "No Warranty"
+  },
+
+  "offers": {
+    "cashback": "5% cashback with Amazon Pay ICICI Bank Credit Card (Prime), 3% for others",
+    "bankOffer": "7.5% Instant Discount up to ₹1250 on Axis Bank Credit Card EMI",
+    "emiOffer": "Available on select cards",
+    "coupon": "",
+    "upiOffer": "Earn ₹2.2 reward on UPI payment"
+  },
+
+  "tags": [
+    "Custom Pencils",
+    "Personalized Stationery",
+    "Kids Pencil Set",
+    "Birthday Return Gifts",
+    "School Supplies",
+    "Writing Kit"
+  ]
 }
 ]

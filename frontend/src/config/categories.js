@@ -194,6 +194,11 @@ const categories = [
     key:"home_appliances",
     name:"home_appliances",
     image:""
+  },
+  {
+    key:"office-stationery",
+    name:"office stationery",
+    image:""
   }
 
 ];
