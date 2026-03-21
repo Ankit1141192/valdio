@@ -10124,5 +10124,106 @@
     "Kitchen Appliances",
     "Home Appliances"
   ]
+},
+{
+  "id": "neem-loofah-handmade-bath-soap-100g",
+  "name": "Neem Loofah Handmade Bath Soap 100 g | Skin Purifying & Deep Cleansing",
+  "category": "Beauty-Personal-Care",
+  "price": 138.57,
+  "discountPrice": 399,
+  "discountRate": 65,
+  "rating": 4.2,
+  "reviews": 2,
+  "ratingText": "4.2 out of 5 stars",
+  "reviewText": "Based on 2 customer ratings on Amazon",
+  "shortLink": "https://amzn.to/4bDos3V",
+  "fullLink": "https://www.amazon.in/Handmade-Purifying-Cleansing-Exfoliating-Removal/dp/B0G4RKX2FF?crid=21RUEQ7IW7LQC&dib=eyJ2IjoiMSJ9.NyNUWyiGvGaMrHMnU5XuZE4rjeeJtSTgxVIHkj-azYQnYxLQFNgW-LtSmimsMebKBuIfRjRdIHC-Uu5tqyPIOZerWZFqeQ1v5PVBj_lWBDY1yQfYmWLB7fputsmE9f9MrjIWlvyyMWMmRQusuyPpQe52bGesvXyJy6V9jNi62kwD6Y3E7GT6es4SKrQNRrQONQ83XyUf0d2OAQ_qNSubgn-2AbwrnWx07kHsQhS7FQrbnSH1bg-kb23w4h5jVo2KcWtzH8YdRO5riq8q521Rt5gqbABqGOcJQsIIzdpjeNI.B57kTJ8Cpz8n7TpmLewBkV-I8o4sj87rui0vMzJpDIE&dib_tag=se&keywords=loofah%2Bsoap&qid=1774109638&sprefix=loofah%2Bso%2Caps%2C496&sr=8-6&th=1&linkCode=ll2&tag=valdio-21&linkId=cf59cde47d304a10bb839c41f71545f6&ref_=as_li_ss_tl",
+  "image": "https://m.media-amazon.com/images/I/61e+ZOQ9k6L._SL1024_.jpg",
+
+  "description": "Neem loofah handmade bath soap enriched with herbal ingredients for deep cleansing, exfoliation and skin purification. Suitable for daily use for both men and women.",
+
+  "features": [
+    "Deep cleansing removes dirt, oil and impurities",
+    "Loofah-based exfoliation helps remove tan and dead skin",
+    "Maintains natural skin moisture and softness",
+    "Provides long-lasting fresh fragrance",
+    "Suitable for all skin types including sensitive skin",
+    "Handmade with herbal and natural ingredients",
+    "Creates rich creamy lather for a spa-like bathing experience"
+  ],
+
+  "scents": [
+    "Neem loofah",
+    "Coffee",
+    "Lavender loofah",
+    "Multani Mitti",
+    "Neem",
+    "Rose",
+    "Ubtan"
+  ],
+
+  "sizes": [
+    "100 g"
+  ],
+
+  "variants": [
+    {
+      "scent": "Neem loofah",
+      "size": "100 g",
+      "price": 138.57,
+      "mrp": 399,
+      "discountRate": 65
+    }
+  ],
+
+  "productDetails": {
+    "brand": "Generic",
+    "itemForm": "Bar",
+    "itemWeight": "100 g",
+    "dimensions": "8.5 x 6 x 3 cm",
+    "skinType": "All Skin Types",
+    "ageRange": "Adult",
+    "packageQuantity": 1,
+    "productBenefits": [
+      "Moisturizing",
+      "Deep Cleansing",
+      "Exfoliation",
+      "Tan Removal",
+      "Skin Brightening"
+    ],
+    "recommendedUse": [
+      "Daily bathing",
+      "Skin cleansing",
+      "Exfoliation",
+      "Body care"
+    ],
+    "countryOfOrigin": "India"
+  },
+
+  "deliveryInfo": {
+    "delivery": "Amazon Delivered",
+    "returnPolicy": "Non-Returnable",
+    "cashOnDelivery": false,
+    "secureTransaction": true,
+    "freeDelivery": true
+  },
+
+  "offers": {
+    "coupon": "3% coupon available",
+    "bankOffer": "Up to ₹1000 discount on Punjab National Bank Credit Cards",
+    "partnerOffer": "Buy 2 or more and get 5% off on qualifying items"
+  },
+
+  "tags": [
+    "Neem Soap",
+    "Handmade Soap",
+    "Herbal Soap",
+    "Loofah Soap",
+    "Exfoliating Soap",
+    "Bath Soap",
+    "Skin Care"
+  ]
 }
+
+
 ]
