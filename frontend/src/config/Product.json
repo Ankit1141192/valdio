@@ -10223,6 +10223,129 @@
     "Bath Soap",
     "Skin Care"
   ]
+},
+{
+  "id": "anvie-abeer-magnetic-building-tiles-30pcs",
+  "name": "ANVIE & ABEER Set of 30 Big Magnetic Building Tiles for Kids (75mm)",
+  "category": "toys",
+  "price": 1099,
+  "discountPrice": 2999,
+  "discountRate": 63,
+  "rating": 4.6,
+  "reviews": 325,
+  "ratingText": "4.6 out of 5 stars",
+  "reviewText": "Based on 325 customer ratings on Amazon",
+  "badge": "Top Brand",
+  "shortLink": "https://amzn.to/4lJC2aR",
+  "fullLink": "https://www.amazon.in/dp/B0CLKFZ2LC?social_share=cm_sw_r_ud_dp_98A9FBE13QJR4RTM18E8&th=1&linkCode=ll2&tag=valdio-21&linkId=361f783c0afe052a2c77831398bc9c86&ref_=as_li_ss_tl",
+  "image": "https://m.media-amazon.com/images/I/81NXYyDLJML._SL1440_.jpg",
+
+  "description": "ANVIE & ABEER magnetic building tiles set includes 30 large pieces designed for STEM learning, creativity and fun. Ideal for kids to build 2D and 3D structures while developing problem-solving and spatial skills.",
+
+  "features": [
+    "30 large magnetic tiles (75mm size)",
+    "Safe BPA-free ABS plastic construction",
+    "Strong magnets sealed with ultrasonic welding",
+    "Encourages creativity and imagination",
+    "Supports STEM learning and early education",
+    "Helps develop geometry and spatial reasoning skills",
+    "Suitable for classroom, home and daycare use",
+    "Perfect gift for kids"
+  ],
+
+  "styles": [
+    "BIG TILES SET OF 30 PCS",
+    "BIG TILES SET OF 21",
+    "BIG TILES SET OF 40 PCS",
+    "BIG TILES SET OF 50 PCS",
+    "BIG TILES SET OF 60 PCS",
+    "BIG TILES SET OF 80 PCS",
+    "20 TILES + 2 CAR CHASSIS",
+    "40 TILES + 2 CAR CHASSIS"
+  ],
+
+  "sizes": [
+    "30 Pieces",
+    "21 Pieces",
+    "40 Pieces",
+    "50 Pieces",
+    "60 Pieces",
+    "80 Pieces"
+  ],
+
+  "variants": [
+    {
+      "style": "BIG TILES SET OF 30 PCS",
+      "size": "30 Pieces",
+      "price": 1099,
+      "mrp": 2999,
+      "discountRate": 63
+    },
+    {
+      "style": "BIG TILES SET OF 21",
+      "price": 799,
+      "mrp": 1599,
+      "discountRate": 50
+    },
+    {
+      "style": "BIG TILES SET OF 40 PCS",
+      "price": 1499,
+      "mrp": 3299,
+      "discountRate": 55
+    }
+  ],
+
+  "productDetails": {
+    "brand": "ANVIE & ABEER",
+    "material": "ABS Plastic",
+    "tileSize": "75 mm",
+    "numberOfPieces": 30,
+    "ageRange": "3+ Years",
+    "safety": [
+      "BPA Free",
+      "CPC Certified",
+      "Ultrasonic sealed magnets"
+    ],
+    "educationalBenefits": [
+      "STEM learning",
+      "Geometry understanding",
+      "Shape and color recognition",
+      "3D spatial reasoning",
+      "Problem-solving skills"
+    ],
+    "recommendedUse": [
+      "Kids play",
+      "STEM education",
+      "Classroom learning",
+      "Home learning"
+    ],
+    "countryOfOrigin": "India"
+  },
+
+  "deliveryInfo": {
+    "delivery": "Amazon Delivered",
+    "returnPolicy": "10 Days Replacement",
+    "cashOnDelivery": true,
+    "secureTransaction": true,
+    "freeDelivery": true
+  },
+
+  "offers": {
+    "cashback": "Up to ₹32 Amazon Pay Cashback on ICICI Credit Cards",
+    "bankOffer": "Up to ₹1000 discount on select Credit Cards",
+    "businessOffer": "Get GST invoice and save up to 18% on business purchases",
+    "upiOffer": "Earn ₹10.9 rewards on UPI payment"
+  },
+
+  "tags": [
+    "Magnetic Tiles",
+    "STEM Toys",
+    "Building Blocks",
+    "Kids Educational Toys",
+    "Creative Toys",
+    "Construction Toys",
+    "3D Learning Toys"
+  ]
 }
 
 
