@@ -10541,6 +10541,111 @@
     "Baking Tools",
     "Kitchen Tools"
   ]
+},
+{
+  "id": "trustbasket-organic-potting-soil-5kg",
+  "name": "TrustBasket Enriched Organic Earth Magic Potting Soil Fertilizer for Plants (5 Kg)",
+  "category": "home-garden",
+  "price": 240,
+  "discountPrice": 599,
+  "discountRate": 60,
+  "rating": 4.2,
+  "reviews": 24957,
+  "ratingText": "4.2 out of 5 stars",
+  "reviewText": "Based on 24,957 customer ratings on Amazon",
+  "badge": "Top Brand",
+  "shortLink": "https://amzn.to/40TqoAv",
+  "fullLink": "https://www.amazon.in/TrustBasket-Potting-Nutrient-Rich-Retention-Anti-Fungal/dp/B07L68TK8D?crid=N22O1ZGPTUBF&dib=eyJ2IjoiMSJ9.iUx6UGFNabrQNVURwSsrj1LC7X_iChxLUDdr56OW0RtPu4P-9FuyU5d4VwckUCRbLouwaLtalSMDcJCoNZxJUr0v4jOYp8Qm4SLeQl52G1NYAUB8vMRm6rNti_BunspPXy-3gCelhcKpcyY_F0vRQ2H3w-2U2TV6k65ee_bcyOH_YcTcm-jMKSl7j4sVAk7Y0wWrAWsEsHqZnueY8ajktPESNqkFFnth_2ODmOFAXgrskW6LaBTGFowzgMrBiEDj-6Z8cVpJM379oUTgV4JomkGiQVOPOKLawu9Zysbhhn8.jHh-1q2ZPaKj7IGTxjQoz-PxJFpbxsoSJVv_dwQXKDs&dib_tag=se&keywords=plant%2Bpot%2Bsoil&qid=1774375251&sprefix=plant%2Bpot%2Bsoi%2Caps%2C430&sr=8-5&th=1&linkCode=ll2&tag=valdio-21&linkId=0c8d29b3a93f9bde41263d1c2a13f29a&ref_=as_li_ss_tl",
+  "image": "https://m.media-amazon.com/images/I/71fZ+yyQZGL._SL1500_.jpg",
+
+  "description": "TrustBasket organic potting soil is a nutrient-rich, ready-to-use gardening mix designed for healthy plant growth. Suitable for indoor and outdoor plants, it ensures proper aeration, drainage, and moisture retention.",
+
+  "features": [
+    "100% natural and organic potting soil",
+    "Pre-enriched with essential nutrients and minerals",
+    "Ready to use without mixing",
+    "Excellent water retention and drainage balance",
+    "Anti-fungal and disease-resistant properties",
+    "Improves soil aeration and root growth",
+    "Contains organic matter and rice husk for better structure",
+    "Suitable for indoor and outdoor plants"
+  ],
+
+  "sizes": [
+    "1 kg",
+    "5 kg",
+    "10 kg"
+  ],
+
+  "variants": [
+    {
+      "size": "5 kg",
+      "price": 240,
+      "mrp": 599,
+      "discountRate": 60
+    },
+    {
+      "size": "1 kg",
+      "price": 175,
+      "mrp": 349,
+      "discountRate": 50
+    }
+  ],
+
+  "productDetails": {
+    "brand": "TrustBasket",
+    "materialType": "Organic Soil Mix",
+    "itemWeight": "5 kg",
+    "composition": [
+      "Black soil",
+      "Sand",
+      "Organic matter",
+      "Rice husk",
+      "Nutrient-rich additives"
+    ],
+    "specialFeatures": [
+      "Ready-to-use mix",
+      "High water retention",
+      "Improved aeration",
+      "Disease resistant",
+      "Chemical-free"
+    ],
+    "recommendedUse": [
+      "Indoor plants",
+      "Outdoor gardening",
+      "Vegetables",
+      "Flowering plants",
+      "Succulents",
+      "Orchids"
+    ],
+    "countryOfOrigin": "India"
+  },
+
+  "deliveryInfo": {
+    "delivery": "Amazon Delivered",
+    "returnPolicy": "Non-Returnable",
+    "cashOnDelivery": true,
+    "secureTransaction": true,
+    "freeDelivery": true,
+    "warranty": "Warranty Policy Available"
+  },
+
+  "offers": {
+    "cashback": "Up to ₹7 Amazon Pay Cashback on ICICI Credit Cards",
+    "bankOffer": "Up to ₹1000 discount on select Credit Cards",
+    "partnerOffer": "Buy any 2 get 2% off; Buy any 3 get 4% off",
+    "upiOffer": "Earn ₹2.4 reward on UPI payment"
+  },
+
+  "tags": [
+    "Potting Soil",
+    "Organic Soil",
+    "Garden Soil",
+    "Plant Fertilizer",
+    "Indoor Plants",
+    "Outdoor Gardening",
+    "Soil Mix"
+  ]
 }
 
 
