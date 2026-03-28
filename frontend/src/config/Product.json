@@ -10872,6 +10872,122 @@
     "Skin Brightening",
     "Cosmetic Raw Material"
   ]
+},
+
+{
+  "id": "aaal-menthol-crystals-100g",
+  "name": "AAAL 100% Pure Menthol Crystals Food Grade Edible (100g Jar)",
+  "category": "health & personal care",
+  "price": 699,
+  "discountPrice": 359,
+  "discountRate": 49,
+  "rating": 4.4,
+  "reviews": 190,
+  "ratingText": "4.4 out of 5 stars",
+  "reviewText": "Based on 190 customer ratings on Amazon",
+  "badge": "Top Brand",
+  "shortLink": "https://amzn.to/3Nv7Qnh",
+  "fullLink": "https://www.amazon.in/Menthol-Crystals-Edible-Freshness-Sealed/dp/B0CN3T1JHR?crid=2SNBPTGO0Y9T7&dib=eyJ2IjoiMSJ9.QOJrZBXZBKez22-SzdUs0P_SZTSV5-Tutm2vHykt7N1jVQyc_Wo3Znl4KsCf54xkoMF8tIuTuQuvV_jVHiQzKGKBo5CaYYKfUsKfnx9FYEoN7sIqlZqKNfkB72RjaYEbROcXpt0aUk4_SE7gz18WHaOfPiYThQKzV-uT8TscB3_faaN4Hhs3C5BJXmSUtpFSm4GTtSf3RJmHblBsJQpDXRhYTAaxvz4lb5jYMTsAkWD_wo3QdYUPHDLTG28dW2dpxMhwATtBtFZKTpxLX-MNgj4330-eSHgElKDXR__N8Mg.zYlB60p-wX30d9kcKR9fhmziPYmwFuvYKoqJsJnb9Cc&dib_tag=se&keywords=menthol%2Bcrystal%2Bfor%2Bsoap%2Bmaking&qid=1774702468&sprefix=menthol%2Bcrystal%2Bfor%2Bsoap%2Bmaki%2Caps%2C395&sr=8-8&th=1&linkCode=ll2&tag=valdio-21&linkId=db0a075b6fdf778449e26203cf637d47&ref_=as_li_ss_tl",
+  "image": "https://m.media-amazon.com/images/I/81p+ZFpcL5L._SL1500_.jpg",
+
+  "description": "AAAL Menthol Crystals are 100% pure, food-grade crystals with a strong minty aroma. They are widely used in aromatherapy, skincare, cosmetics, and can be used in small quantities for edible purposes to provide a cooling and refreshing effect.",
+
+  "features": [
+    "100% pure menthol crystals",
+    "Food-grade and edible quality",
+    "Strong cooling and minty fragrance",
+    "Used in aromatherapy and relaxation",
+    "Helps soothe skin irritation and itching",
+    "Commonly used in DIY cosmetics and skincare",
+    "Multipurpose use in perfumes, creams, and balms",
+    "Sealed jar packaging for freshness"
+  ],
+
+  "sizes": [
+    "100 g",
+    "250 g",
+    "1 kg"
+  ],
+
+  "variants": [
+    {
+      "size": "100 g",
+      "price": 359,
+      "mrp": 699,
+      "discountRate": 49
+    },
+    {
+      "size": "250 g",
+      "price": 729,
+      "mrp": 1999,
+      "discountRate": 64
+    },
+    {
+      "size": "1 kg",
+      "price": 2270,
+      "mrp": 3999,
+      "discountRate": 43
+    }
+  ],
+
+  "productDetails": {
+    "brand": "ARSHI A ALCAMY LIFE",
+    "itemForm": "Crystals",
+    "netQuantity": "100 grams",
+    "packageType": "Jar",
+    "manufacturer": "AAAL LTD",
+    "specialFeatures": [
+      "Food grade quality",
+      "Strong cooling effect",
+      "Natural mint aroma",
+      "Multipurpose usage"
+    ],
+    "productBenefits": [
+      "Provides cooling sensation",
+      "Helps reduce stress and anxiety (aromatherapy)",
+      "Soothes itchy and irritated skin",
+      "Refreshing and revitalizing effect"
+    ],
+    "recommendedUse": [
+      "Aromatherapy",
+      "DIY skincare products",
+      "Balms and ointments",
+      "Perfumes and creams",
+      "Limited edible use (very small quantity)"
+    ],
+    "expiry": "31 July 2027",
+    "countryOfOrigin": "India"
+  },
+
+  "deliveryInfo": {
+    "delivery": "Amazon Delivered",
+    "returnPolicy": "Non-Returnable",
+    "cashOnDelivery": true,
+    "secureTransaction": true,
+    "freeDelivery": true,
+    "warranty": "No Warranty"
+  },
+
+  "offers": {
+    "cashback": "5% cashback with Amazon Pay ICICI Credit Card (Prime)",
+    "partnerOffer": "Buy 2 or more get 5% off",
+    "coupon": "2% off coupon available"
+  },
+
+  "additionalInfo": {
+    "boughtInPastMonth": "100+ units",
+    "usageNote": "Use in very small quantity; excessive use may cause irritation"
+  },
+
+  "tags": [
+    "Menthol Crystals",
+    "Food Grade Menthol",
+    "DIY Skincare",
+    "Aromatherapy",
+    "Cooling Agent",
+    "Soap Making Ingredient",
+    "Herbal Ingredient"
+  ]
 }
 
 
