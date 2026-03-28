@@ -10762,6 +10762,116 @@
     "Dark Spot Removal",
     "Natural Skincare"
   ]
+},
+
+{
+  "id": "urbaano-herbal-niacinamide-powder-100g",
+  "name": "Urbaano Herbal Niacinamide Powder (Vitamin B3) for DIY Serum, Cream & Skincare (100g)",
+  "category": "beauty & personal care",
+  "price": 390,
+  "discountPrice": 279,
+  "discountRate": 28,
+  "rating": 4.0,
+  "reviews": 112,
+  "ratingText": "4.0 out of 5 stars",
+  "reviewText": "Based on 112 customer ratings on Amazon",
+  "badge": "Amazon's Choice",
+  "shortLink": "https://amzn.to/4sjIsiJ",
+  "fullLink": "https://www.amazon.in/Urbaano-Herbal-Niacinamide-Minimize-Production/dp/B0CLM17TD9?source=ps-sl-shoppingads-lpcontext&smid=A33XCYWGLYBMEK&utm_source=chatgpt.com&th=1&linkCode=ll2&tag=valdio-21&linkId=ec3d69b7d2e0f592e62d2fa34245d493&ref_=as_li_ss_tl",
+  "image": "https://m.media-amazon.com/images/I/51-Vyw605hL._SL1080_.jpg",
+
+  "description": "Urbaano Herbal Niacinamide (Vitamin B3) Powder is a cosmetic-grade ingredient used in DIY skincare products like serums, creams, lotions, and masks. It helps reduce pores, control oil, improve skin texture, and brighten skin tone.",
+
+  "features": [
+    "Cosmetic-grade Niacinamide (Vitamin B3) powder",
+    "Helps minimize pores and control excess oil",
+    "Improves skin elasticity and reduces wrinkles",
+    "Supports collagen production",
+    "Helps reduce acne and unclog pores",
+    "Can be mixed with serums, creams, lotions, and masks",
+    "Compatible with retinol, hyaluronic acid, and peptides",
+    "Fine texture and easy to mix"
+  ],
+
+  "sizes": [
+    "100 g (Pack of 1)",
+    "100 g (Pack of 2)"
+  ],
+
+  "variants": [
+    {
+      "size": "100 g (Pack of 1)",
+      "price": 279,
+      "mrp": 390,
+      "discountRate": 28
+    },
+    {
+      "size": "100 g (Pack of 2)",
+      "price": 450,
+      "mrp": 780,
+      "discountRate": 42
+    }
+  ],
+
+  "productDetails": {
+    "brand": "Urbaano Herbal",
+    "itemForm": "Powder",
+    "netQuantity": "100 grams",
+    "dietType": "Vegetarian",
+    "skinType": "All Skin Types",
+    "specialIngredients": "Niacinamide (Vitamin B3)",
+    "productBenefits": [
+      "Minimizes pores",
+      "Balances oil production",
+      "Reduces wrinkles and fine lines",
+      "Improves skin elasticity",
+      "Helps reduce acne and dark spots",
+      "Boosts collagen production"
+    ],
+    "recommendedUse": [
+      "DIY face serum",
+      "Face cream",
+      "Body lotion",
+      "Face masks",
+      "Scrubs",
+      "Soap and shampoo making",
+      "Cosmetic formulations"
+    ],
+    "ageRange": "Adult",
+    "countryOfOrigin": "India"
+  },
+
+  "deliveryInfo": {
+    "delivery": "Amazon Delivered",
+    "returnPolicy": "Non-Returnable",
+    "cashOnDelivery": true,
+    "secureTransaction": true,
+    "freeDelivery": true,
+    "warranty": "No Warranty"
+  },
+
+  "offers": {
+    "cashback": "Up to ₹8 cashback with Amazon Pay ICICI Credit Card",
+    "partnerOffer": "GST invoice available for business purchases",
+    "upiOffer": "Earn ₹2.7 reward on UPI payment"
+  },
+
+  "additionalInfo": {
+    "boughtInPastMonth": "100+ units",
+    "expiry": "19 June 2028",
+    "usageNote": "Use in recommended concentration and mix properly with base formulations before applying to skin"
+  },
+
+  "tags": [
+    "Niacinamide",
+    "Vitamin B3",
+    "DIY Skincare",
+    "Face Serum Ingredient",
+    "Acne Control",
+    "Oil Control",
+    "Skin Brightening",
+    "Cosmetic Raw Material"
+  ]
 }
 
 
