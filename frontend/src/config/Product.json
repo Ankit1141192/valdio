@@ -10646,6 +10646,122 @@
     "Outdoor Gardening",
     "Soil Mix"
   ]
+},
+{
+  "id": "urbaano-herbal-kojic-acid-powder-50g",
+  "name": "Urbaano Herbal Pure Kojic Acid Powder For DIY Soap, Serum, Cream & Face Wash (50g)",
+  "category": "Beauty-Personal-Care",
+  "price": 699,
+  "discountPrice": 299,
+  "discountRate": 57,
+  "rating": 4.1,
+  "reviews": 118,
+  "ratingText": "4.1 out of 5 stars",
+  "reviewText": "Based on 118 customer ratings on Amazon",
+  "badge": "Amazon's Choice",
+  "shortLink": "https://amzn.to/48fVyGe",
+  "fullLink": "https://www.amazon.in/Urbaano-Herbal%C2%AE-Powder-Making-Facewash/dp/B0D76QDWD5?crid=1EZEVWQOLGHZT&dib=eyJ2IjoiMSJ9.VSSNF8mXeUKXv2X4VvEy6ugWZJGM0CqZ1qPNYlqSai7ePkiZ5-PSpXhmphqCr5zbtqnFCSlxeCRcmpKVMll-azsqTgGL4z65iNrBTAVy1Tw0SZ5TSApzIhcKsKPZjr2b-mWzWNk7bXzutVkX50qs14z5V0FPlnRSB4HBILuSekivmzPyjwBwIQbxXD4E1E2p5DX6mUdwku7uqUUpdjCEuFJ_uSAPNqeCtSbA8daID7G3YDjxe1gG_ahcC2JULu7Mle41cTCwnXXOBoVncVKeiXwv-Mu_1zv6kCeADWP2OF4.a3lZ_lHYzOWudIsRiENMEewC6sVeMzd5Dk_GH3uD67M&dib_tag=se&keywords=Kojic%2BAcid%2BPowder&qid=1774625090&s=beauty&sprefix=%2Cbeauty%2C685&sr=1-7&th=1&linkCode=ll2&tag=valdio-21&linkId=9bb79cfba7098fffe1704738b3f77015&ref_=as_li_ss_tl",
+  "image": "https://m.media-amazon.com/images/I/51xTyDl9ixL._SL1080_.jpg",
+
+  "description": "Urbaano Herbal Kojic Acid Powder is a natural skin-brightening ingredient used in DIY skincare products like soaps, serums, creams, and lotions. It helps reduce dark spots, pigmentation, and uneven skin tone for a brighter complexion.",
+
+  "features": [
+    "100% pure kojic acid powder for skincare",
+    "Helps reduce dark spots and pigmentation",
+    "Brightens skin and evens tone",
+    "Can be used in DIY soap, cream, serum, and face wash",
+    "Non-abrasive and gentle on skin",
+    "Inhibits melanin production",
+    "Suitable for all skin types",
+    "Comes in resealable packaging"
+  ],
+
+  "sizes": [
+    "25 g",
+    "50 g",
+    "100 g"
+  ],
+
+  "variants": [
+    {
+      "size": "50 g",
+      "price": 299,
+      "mrp": 699,
+      "discountRate": 57
+    },
+    {
+      "size": "25 g",
+      "price": 191,
+      "mrp": 399,
+      "discountRate": 52
+    },
+    {
+      "size": "100 g",
+      "price": 495,
+      "mrp": 1299,
+      "discountRate": 62
+    }
+  ],
+
+  "productDetails": {
+    "brand": "Urbaano Herbal",
+    "itemForm": "Powder",
+    "netQuantity": "50 grams",
+    "skinType": "All Skin Types",
+    "scent": "Unscented",
+    "materialTypeFree": "Sulphate Free",
+    "specialFeatures": [
+      "Natural ingredients",
+      "Cruelty-free",
+      "Skin brightening",
+      "Hyperpigmentation treatment"
+    ],
+    "productBenefits": [
+      "Skin brightening",
+      "Dark spot reduction",
+      "Anti-aging support",
+      "Blemish treatment",
+      "Hyperpigmentation control"
+    ],
+    "recommendedUse": [
+      "DIY soap making",
+      "Face serums",
+      "Face creams",
+      "Body lotions",
+      "Face masks"
+    ],
+    "countryOfOrigin": "India"
+  },
+
+  "deliveryInfo": {
+    "delivery": "Amazon Delivered",
+    "returnPolicy": "Non-Returnable",
+    "cashOnDelivery": false,
+    "secureTransaction": true,
+    "freeDelivery": true,
+    "warranty": "No Warranty"
+  },
+
+  "offers": {
+    "cashback": "Up to ₹14 cashback with Amazon Pay ICICI Credit Card",
+    "bankOffer": "Available on select credit cards",
+    "partnerOffer": "GST invoice available for business purchases"
+  },
+
+  "additionalInfo": {
+    "boughtInPastMonth": "Amazon's Choice Product",
+    "usageNote": "Always dilute with base ingredients before applying directly to skin"
+  },
+
+  "tags": [
+    "Kojic Acid",
+    "Skin Whitening",
+    "DIY Skincare",
+    "Soap Making Ingredient",
+    "Hyperpigmentation Treatment",
+    "Dark Spot Removal",
+    "Natural Skincare"
+  ]
 }
 
 
