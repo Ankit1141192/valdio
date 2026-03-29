@@ -10989,6 +10989,101 @@
     "Soap Making Ingredient",
     "Herbal Ingredient"
   ]
+},
+
+{
+  "id": "moldberry-silicone-soap-mould-6-cavity-square",
+  "name": "MoldBerry Silicone Soap Mould 6 Cavity Square (100g Each) for Soap, Candle & Resin",
+  "category": "Home & Kitchen",
+  "price": 699,
+  "discountPrice": 285,
+  "discountRate": 59,
+  "rating": 4.5,
+  "reviews": 2,
+  "ratingText": "4.5 out of 5 stars",
+  "reviewText": "Based on 2 customer ratings on Amazon",
+  "badge": "Top Brand",
+  "shortLink": "https://amzn.to/3PzaKIg",
+  "fullLink": "https://www.amazon.in/MoldBerry-Silicone-Making-Reusable-Handmade/dp/B0FVSGG8C1?crid=2Y5LODTP509QT&dib=eyJ2IjoiMSJ9.P6nxukYkV1oMu5wWaanoxJ3eFcwU0kCveWs74MDrBBJN8YOwO_aKa2Q2tfgedE24_WtVsT0VVCLqY66FZZkgyH_PWL9cWvwGAn7G-C75ZAmeYo3Ev6Kkn9lsTsXAmKM00SLXG1606jZ-HSVEI13qxy2Z3oWwis_0gaEla8xZg1bIjv_x6g3Rukb7kcYfqm-lvQ6da4TDc6cmlfCTNp8U76RLAHG6gfWIeedlfQSFWZ_uYuytzOnSd5LhyUoCVrYkvaXV3Q_IwQDR6PmiwrAy7Lqomf5P6teW0w3PhPIsp2M.XfTB82n0lnQhdUCOeSVYqSTSGcb6iK-mtLjeLGQ3weM&dib_tag=se&keywords=100+gram+soap+mold&qid=1774709157&sprefix=100+gram+soap+mo%2Caps%2C429&sr=8-50-spons&xpid=_nePiAnLzpKBS&aref=rGEOPSzn0V&sp_csd=d2lkZ2V0TmFtZT1zcF9tdGY&psc=1&linkCode=ll2&tag=valdio-21&linkId=85f0a3249ed76f0f63fbc8e7b95a15a9&ref_=as_li_ss_tl",
+  "image": "https://m.media-amazon.com/images/I/61sSZjm91UL._SL1500_.jpg",
+
+  "description": "MoldBerry silicone soap mould is a high-quality, reusable mold designed for making handmade soaps, candles, chocolates, and resin crafts. It features 6 square cavities, each capable of holding approximately 100g, making it ideal for home and small business use.",
+
+  "features": [
+    "Made from premium food-grade silicone",
+    "6 square cavities (100g each)",
+    "Flexible and non-stick for easy demoulding",
+    "Heat resistant from -40°C to 230°C",
+    "Reusable and durable design",
+    "Multi-purpose use for soap, candles, resin, chocolate",
+    "Odour-free and stain-resistant",
+    "Easy to clean and store"
+  ],
+
+  "sizes": [
+    "6 Cavity (100g each)"
+  ],
+
+  "variants": [
+    {
+      "type": "6 Cavity Square",
+      "price": 285,
+      "mrp": 699,
+      "discountRate": 59
+    }
+  ],
+
+  "productDetails": {
+    "brand": "MoldBerry",
+    "material": "Silicone",
+    "color": "Multicolor",
+    "itemWeight": "120 grams",
+    "dimensions": "24.1 x 16.5 x 2.4 cm",
+    "capacityPerCavity": "100 grams",
+    "numberOfCavities": 6,
+    "temperatureRange": "-40°C to 230°C",
+    "specialFeatures": [
+      "Food-grade material",
+      "Non-stick surface",
+      "Flexible and durable",
+      "Heat resistant",
+      "Reusable mould"
+    ],
+    "recommendedUse": [
+      "Soap making",
+      "Candle making",
+      "Resin art",
+      "Chocolate making",
+      "DIY crafts"
+    ],
+    "countryOfOrigin": "India"
+  },
+
+  "deliveryInfo": {
+    "delivery": "Amazon Delivered",
+    "returnPolicy": "10 Days Replacement",
+    "cashOnDelivery": true,
+    "secureTransaction": true,
+    "freeDelivery": true,
+    "warranty": "No Warranty"
+  },
+
+  "offers": {
+    "cashback": "Up to ₹8 cashback with Amazon Pay ICICI Credit Card",
+    "bankOffer": "Up to ₹1000 discount on select Credit Cards",
+    "partnerOffer": "Buy 2 or more get 10% off",
+    "upiOffer": "Earn ₹2.8 reward on UPI payment"
+  },
+
+  "tags": [
+    "Soap Mould",
+    "Silicone Mold",
+    "DIY Soap Making",
+    "Candle Mold",
+    "Resin Mold",
+    "Handmade Soap",
+    "Craft Supplies"
+  ]
 }
 
 
