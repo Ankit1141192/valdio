@@ -11084,6 +11084,104 @@
     "Handmade Soap",
     "Craft Supplies"
   ]
+},
+
+{
+  "id": "undy-coffee-bean-silicone-mould-6-cavity",
+  "name": "Undy 3D Coffee Bean Shape Silicone Mould 6 Cavities for Soap, Candle, Chocolate & DIY Crafts",
+  "category": "Home & Kitchen",
+  "price": 799,
+  "discountPrice": 374.98,
+  "discountRate": 53,
+  "rating": 5.0,
+  "reviews": 2,
+  "ratingText": "5.0 out of 5 stars",
+  "reviewText": "Based on 2 customer ratings on Amazon",
+  "badge": "Limited Time Deal",
+  "shortLink": "https://amzn.to/4dgJ7NW",
+  "fullLink": "https://www.amazon.in/Undy-Cavities-Silicone-Decorating-Chocolate/dp/B0F34DFYS2?crid=2Y5LODTP509QT&dib=eyJ2IjoiMSJ9.FMWiOH8DwYxrueXNyI1_Oar8LRGYjUuH-bXDKRUzaMTcdPLrTJyICOfBTOevlW5oO2aWZivRC8KSWYyuv0Q98L2aAAH4JcMhivhqvs1td94QcpbohSpBWKYYUPEr4hvRIR2LHZUVAUyu7uS7svFkjvVsIz_L5fmOvZJFLu9VBpBqVy1iGHNGz1yjzhv-EFkWZXSuclgX35WzJMRQB3raKf1IKH56FpDirHgUFb5qBnRgoTiEFckf9sGMACP9ySbPfyK3j1r1HaQuoWOhWyxNPStkY8Ax22bOL-zjGxF46gU.sed8wVRoQ1skZRcZF_iH03rBf24jYmoQiJvAK-nYtjU&dib_tag=se&keywords=100+gram+soap+mold&qid=1774708894&sprefix=100+gram+soap+mo%2Caps%2C429&sr=8-55&linkCode=ll2&tag=valdio-21&linkId=c85c9a22ab52fd1a64dacf9570e3aca8&ref_=as_li_ss_tl",
+  "image": "https://m.media-amazon.com/images/I/61Pkz+-JPhL._SL1500_.jpg",
+
+  "description": "Undy 3D coffee bean silicone mould is made from high-quality food-grade silicone, ideal for creating unique soaps, chocolates, candles, and DIY crafts. Its non-stick and flexible design ensures easy release and perfect shapes every time.",
+
+  "features": [
+    "100% food-grade BPA-free silicone material",
+    "6 cavity coffee bean shape design",
+    "Flexible and non-stick for easy demoulding",
+    "Heat resistant from -40°C to 230°C",
+    "Safe for microwave, oven, freezer, and dishwasher",
+    "Durable and reusable for long-term use",
+    "Easy to clean and maintain",
+    "Perfect for both beginners and professionals"
+  ],
+
+  "sizes": [
+    "6 Cavity (Coffee Bean Shape)"
+  ],
+
+  "variants": [
+    {
+      "type": "6 Cavity Coffee Bean",
+      "price": 374.98,
+      "mrp": 799,
+      "discountRate": 53
+    }
+  ],
+
+  "productDetails": {
+    "brand": "Undy",
+    "material": "Silicone",
+    "color": "White",
+    "itemWeight": "200 grams",
+    "dimensions": "28.3 x 17 x 3 cm",
+    "cavitySize": "7 x 4.5 x 3 cm",
+    "numberOfCavities": 6,
+    "temperatureRange": "-40°C to 230°C",
+    "specialFeatures": [
+      "Food-grade silicone",
+      "Non-stick surface",
+      "Flexible and durable",
+      "Heat resistant",
+      "Reusable mould"
+    ],
+    "recommendedUse": [
+      "Soap making",
+      "Chocolate making",
+      "Candle making",
+      "Bath bombs",
+      "Jelly and mousse",
+      "Cake decoration",
+      "DIY crafts"
+    ],
+    "countryOfOrigin": "India"
+  },
+
+  "deliveryInfo": {
+    "delivery": "Amazon Delivered",
+    "returnPolicy": "10 Days Returnable",
+    "cashOnDelivery": true,
+    "secureTransaction": true,
+    "freeDelivery": true,
+    "warranty": "No Warranty"
+  },
+
+  "offers": {
+    "cashback": "Up to ₹11 cashback with Amazon Pay ICICI Credit Card",
+    "bankOffer": "Up to ₹1000 discount on select Credit Cards",
+    "partnerOffer": "Buy 2 or more get 10% off",
+    "coupon": "5% coupon available",
+    "upiOffer": "Earn ₹3.7 reward on UPI payment"
+  },
+
+  "tags": [
+    "Silicone Mold",
+    "Coffee Bean Mold",
+    "Soap Making Mold",
+    "Chocolate Mold",
+    "Candle Mold",
+    "DIY Crafts",
+    "Bakeware"
+  ]
 }
 
 
