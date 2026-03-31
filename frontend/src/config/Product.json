@@ -11282,6 +11282,106 @@
     "DIY Skincare",
     "Lotion Making"
   ]
+},
+
+{
+  "id": "themisto-digital-bbq-thermometer",
+  "name": "Themisto Digital LCD Cooking Food Meat Probe Kitchen BBQ Thermometer Instant Read",
+  "category": "home & kitchen",
+  "price": 499,
+  "discountPrice": 154,
+  "discountRate": 69,
+  "rating": 4.0,
+  "reviews": 3724,
+  "ratingText": "4.0 out of 5 stars",
+  "reviewText": "Based on 3,724 customer ratings on Amazon",
+  "badge": "Amazon's Choice",
+  "shortLink": "https://amzn.to/4v36FMB",
+  "fullLink": "https://www.amazon.in/Themisto-Digital-Cooking-Thermometer-Temperature/dp/B07RCVKQRD?crid=3AGTT4RAMCZQ8&dib=eyJ2IjoiMSJ9.pTqE2wzX6Tam4ZAZP4hSoUPFCNSdfjg0KSIWRS9Gs5JJgsIDrB35wu7SppChxpnykjRyraShbUGrIa9iiDtrLZmmOrRDcOEgmhGCXOC39Rd0CUI266vaxwUMZzFLLsUPirYEKKzkooj702f5b5ljZdCzUX9h2NnbBwnIiIX6-b9PNABnFnjfwozRYLz4-M2ioPJuVqI8c4LDS_CLniUQzJZttNue-nUv-NH_hm-YPYeV6iw32erZd0ZywJMZ8Lk70Y4wvHMDW9mXzqwWs7xVGuI-4kZqrgkfNrTY-EJXTt8.n9CkjcpZtiI_Szxh2Z_9GoFka2d9oVcH2JwoC_L3UOU&dib_tag=se&keywords=thermometer&qid=1774948963&sprefix=thermameter%2B%2Caps%2C1249&sr=8-17&th=1&linkCode=ll2&tag=valdio-21&linkId=6d7ff734dc5b2d932c7c590df13c4a6b&ref_=as_li_ss_tl",
+  "image": "https://m.media-amazon.com/images/I/61xbF3c6SRL._SL1500_.jpg",
+
+  "description": "Themisto Digital LCD Thermometer is a fast and accurate temperature measuring device designed for cooking, BBQ, baking, and food testing. It features an instant-read system with a stainless steel probe and a clear LCD display.",
+
+  "features": [
+    "Instant temperature reading system",
+    "Wide temperature range from -50°C to 300°C",
+    "Ultra-clear LCD display for easy reading",
+    "Stainless steel probe for accurate measurement",
+    "Supports both Celsius and Fahrenheit",
+    "Compact and lightweight design",
+    "Ideal for cooking, BBQ, baking, and food testing",
+    "Easy to use and portable"
+  ],
+
+  "colors": [
+    "Black"
+  ],
+
+  "variants": [
+    {
+      "color": "Black",
+      "price": 154,
+      "mrp": 499,
+      "discountRate": 69
+    }
+  ],
+
+  "productDetails": {
+    "brand": "THEMISTO",
+    "color": "Black",
+    "displayType": "LCD",
+    "powerSource": "1.5V (LR44) battery",
+    "temperatureRange": "-50°C to 300°C / -58°F to 572°F",
+    "resolution": "0.1°C / °F",
+    "probeMaterial": "Stainless Steel",
+    "specialFeatures": [
+      "Fast reading system",
+      "High accuracy",
+      "Portable design",
+      "Dual temperature units"
+    ],
+    "recommendedUse": [
+      "Cooking",
+      "BBQ grilling",
+      "Baking",
+      "Food temperature testing",
+      "Kitchen use"
+    ],
+    "includedComponents": [
+      "1 x Digital Thermometer"
+    ],
+    "countryOfOrigin": "India"
+  },
+
+  "deliveryInfo": {
+    "delivery": "Amazon Delivered",
+    "returnPolicy": "10 Days Replacement",
+    "cashOnDelivery": true,
+    "secureTransaction": true,
+    "freeDelivery": true,
+    "warranty": "No Warranty"
+  },
+
+  "offers": {
+    "cashback": "Up to ₹7 cashback with Amazon Pay ICICI Credit Card",
+    "bankOffer": "Up to ₹1000 discount on select Credit Cards",
+    "partnerOffer": "GST invoice available for business purchases"
+  },
+
+  "additionalInfo": {
+    "boughtInPastMonth": "1K+ units",
+    "usageNote": "Do not immerse the display unit in water; clean probe after use"
+  },
+
+  "tags": [
+    "Digital Thermometer",
+    "BBQ Thermometer",
+    "Kitchen Tool",
+    "Food Thermometer",
+    "Cooking Gadget",
+    "Baking Tool",
+    "Temperature Sensor"
+  ]
 }
 
 
