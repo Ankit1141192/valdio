@@ -11382,6 +11382,108 @@
     "Baking Tool",
     "Temperature Sensor"
   ]
+},
+{
+  "id": "bepure-distilled-water-2l",
+  "name": "BePURE Distilled Water 2L Ultra Pure Zero TDS for Battery, Humidifier & Cosmetics",
+  "category": "home & kitchen",
+  "price": 799,
+  "discountPrice": 249,
+  "discountRate": 69,
+  "rating": 4.4,
+  "reviews": 589,
+  "ratingText": "4.4 out of 5 stars",
+  "reviewText": "Based on 589 customer ratings on Amazon",
+  "badge": "Limited Time Deal",
+  "shortLink": "https://amzn.to/3NYbA0x",
+  "fullLink": "https://www.amazon.in/Distilled-Ultrapure-Humidifiers-Cosmetics-Concentrators/dp/B0GFNF51RY?crid=2F9TWMGKGPLYC&dib=eyJ2IjoiMSJ9.hkueU3iHSjEkTGT1rImzTYvdSGSzHPJfJHnK60kOx5qfMjXg6B5d_ynmdTQTmMSRZWiDUaAgFqOrOPRa01V3URd-nmZ-g6LWHsUOZ3XaRyTIffgbuveNs5gn6usTKXBw4flx9K-jS_whzI64zt3m20haak-cUGHrrSnnBEBaCJGPrTMD4OtM0XKtn5-eURXYcaLswe7qXCITr8YN6l2l_RV3Qa1JdxSC8VrsT6ch0kh-x_CcPuAOb0qIoiSHSGCGeAsUKDofAbIoPbP9v0UM0IS3hnl__yQ05TPbbO6zHxU.XVF3NMoFhCs9TKjfdk73EXeXUSNmWw37ItUC7I0oHDg&dib_tag=se&keywords=distilled%2Bwater%2Bfor%2Bcosmetics&qid=1774949545&sprefix=disttled%2Bwater%2Caps%2C711&sr=8-8&th=1&linkCode=ll2&tag=valdio-21&linkId=7813ea16caeb25e96d7d7d1077d4acfd&ref_=as_li_ss_tl",
+  "image": "https://m.media-amazon.com/images/I/61DpHGsqHlL._SL1500_.jpg",
+
+  "description": "BePURE Distilled Water is ultra-pure water with 0 TDS, suitable for batteries, humidifiers, cosmetics, oxygen concentrators, and other applications requiring mineral-free water. It ensures safe and efficient performance of equipment.",
+
+  "features": [
+    "Ultra pure distilled water with 0 TDS",
+    "Free from minerals and impurities",
+    "Ideal for inverter batteries and automotive batteries",
+    "Suitable for humidifiers and oxygen concentrators",
+    "Safe for cosmetic and laboratory use",
+    "Prevents scaling and residue build-up",
+    "Ensures longer life of appliances",
+    "High-quality sealed packaging"
+  ],
+
+  "sizes": [
+    "2 Litre (Pack of 1)",
+    "2 Litre (Pack of 5)"
+  ],
+
+  "variants": [
+    {
+      "size": "2 Litre (Pack of 1)",
+      "price": 249,
+      "mrp": 799,
+      "discountRate": 69
+    },
+    {
+      "size": "2 Litre (Pack of 5)",
+      "price": 456,
+      "mrp": 1499,
+      "discountRate": 70
+    }
+  ],
+
+  "productDetails": {
+    "brand": "BePURE",
+    "itemForm": "Liquid",
+    "netQuantity": "2 litres",
+    "tdsLevel": "0 TDS",
+    "purityLevel": "Ultra Pure",
+    "specialFeatures": [
+      "Zero mineral content",
+      "Prevents scaling",
+      "Safe for sensitive devices",
+      "Multi-purpose usage"
+    ],
+    "recommendedUse": [
+      "Inverter batteries",
+      "Car batteries",
+      "Humidifiers",
+      "Oxygen concentrators",
+      "Cosmetic formulations",
+      "Laboratory use"
+    ],
+    "countryOfOrigin": "India"
+  },
+
+  "deliveryInfo": {
+    "delivery": "Amazon Delivered",
+    "returnPolicy": "Non-Returnable",
+    "cashOnDelivery": true,
+    "secureTransaction": true,
+    "freeDelivery": true,
+    "warranty": "No Warranty"
+  },
+
+  "offers": {
+    "cashback": "Up to ₹12 cashback with Amazon Pay ICICI Credit Card",
+    "bankOffer": "Up to ₹1000 discount on select Credit Cards",
+    "partnerOffer": "GST invoice available for business purchases"
+  },
+
+  "additionalInfo": {
+    "boughtInPastMonth": "200+ units",
+    "usageNote": "Not for drinking; use only for technical or cosmetic purposes"
+  },
+
+  "tags": [
+    "Distilled Water",
+    "Battery Water",
+    "Zero TDS Water",
+    "Humidifier Water",
+    "Cosmetic Raw Material",
+    "Inverter Battery Water",
+    "Ultra Pure Water"
+  ]
 }
 
 
