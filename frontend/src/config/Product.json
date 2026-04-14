@@ -11598,6 +11598,416 @@
     "Skin Care",
     "Hygiene Product"
   ]
+},
+
+{
+  "id": "veda-oils-peppermint-essential-oil-100ml",
+  "name": "VedaOils Peppermint Essential Oil 100ml | 100% Pure & Natural Therapeutic Grade",
+  "category": "beauty & personal care",
+  "price": 730,
+  "discountPrice": 349,
+  "discountRate": 52,
+  "rating": 4.2,
+  "reviews": 10,
+  "ratingText": "4.2 out of 5 stars",
+  "reviewText": "Based on 10 customer ratings on Amazon",
+  "shortLink": "https://amzn.to/4tL8iNx",
+  "fullLink": "https://www.amazon.in/gp/product/B0G2C52ZQS?smid=A3BU6XGLG7UKUM&th=1&linkCode=ll2&tag=valdio-21&linkId=e0ecc275f2fbd1bedab6a0068759ba29&ref_=as_li_ss_tl",
+  "image": "https://m.media-amazon.com/images/I/71XllvkpZWL._SL1500_.jpg",
+
+  "description": "VedaOils Peppermint Essential Oil is a 100% pure, natural, and undiluted therapeutic-grade oil designed for hair care, skin care, aromatherapy, and DIY beauty products. It helps promote hair growth, soothe skin, and relieve stress with its refreshing minty aroma.",
+
+  "features": [
+    "100% pure and natural peppermint essential oil",
+    "Undiluted and free from synthetic additives",
+    "Promotes hair growth and reduces hair fall",
+    "Soothes and cools irritated skin",
+    "Refreshing aroma for stress relief and relaxation",
+    "Ideal for aromatherapy, massage, and DIY skincare",
+    "Multipurpose use for hair, skin, and diffuser"
+  ],
+
+  "scents": [
+    "Peppermint",
+    "Ajwain",
+    "Bergamot",
+    "Eucalyptus",
+    "Lavender",
+    "Rose",
+    "Lemongrass",
+    "Orange",
+    "Tea Tree"
+  ],
+
+  "variants": [
+    {
+      "scent": "Peppermint",
+      "price": 349,
+      "mrp": 730,
+      "discountRate": 52,
+      "size": "100 ml"
+    }
+  ],
+
+  "productDetails": {
+    "brand": "Veda Oils",
+    "itemForm": "Oil",
+    "scent": "Peppermint",
+    "netQuantity": "100 ml",
+    "specialFeatures": [
+      "Antibacterial",
+      "Aromatic",
+      "Skin Safe",
+      "Undiluted",
+      "Therapeutic Grade"
+    ],
+    "productBenefits": [
+      "Hair growth",
+      "Hair fall control",
+      "Scalp care",
+      "Skin soothing",
+      "Stress relief",
+      "Aromatherapy"
+    ],
+    "recommendedUse": [
+      "Hair oil blending",
+      "Skin care",
+      "Massage oil",
+      "Diffuser/aromatherapy",
+      "DIY soap and skincare"
+    ],
+    "seasons": "All Seasons",
+    "countryOfOrigin": "India"
+  },
+
+  "deliveryInfo": {
+    "delivery": "Amazon Delivered",
+    "returnPolicy": "Non-Returnable",
+    "cashOnDelivery": false,
+    "secureTransaction": true,
+    "freeDelivery": true,
+    "warranty": "No Warranty"
+  },
+
+  "offers": {
+    "cashback": "5% cashback with Amazon Pay ICICI Credit Card (Prime), 3% for others",
+    "partnerOffer": "GST invoice available for business purchases"
+  },
+
+  "additionalInfo": {
+    "boughtInPastMonth": "50+ units",
+    "pricePerUnit": "₹3.49 per ml",
+    "usageNote": "Always dilute with carrier oil before applying on skin"
+  },
+
+  "tags": [
+    "Peppermint Oil",
+    "Essential Oil",
+    "Hair Growth Oil",
+    "Aromatherapy Oil",
+    "Skin Care Oil",
+    "DIY Beauty Ingredient",
+    "Natural Oil"
+  ]
+},
+
+{
+  "id": "rich-fox-caustic-soda-450g",
+  "name": "RICH FOX Caustic Soda for Soap Making, Drain & Chimney Cleaning (450g)",
+  "category": "cleaning & industrial chemicals",
+  "price": 400,
+  "discountPrice": 199,
+  "discountRate": 50,
+  "rating": 4.2,
+  "reviews": 1392,
+  "ratingText": "4.2 out of 5 stars",
+  "reviewText": "Based on 1,392 customer ratings on Amazon",
+  "badge": "Amazon's Choice",
+  "shortLink": "https://amzn.to/47VLLoU",
+  "fullLink": "https://www.amazon.in/gp/product/B0C2KPTSZ5?smid=A11C3WNEYLEDP4&psc=1&linkCode=ll2&tag=valdio-21&linkId=e90f44c805ab6fb530a81a298b82a12c&ref_=as_li_ss_tl",
+  "image": "https://m.media-amazon.com/images/I/81zXXGUDHCL._SL1500_.jpg",
+
+  "description": "RICH FOX Caustic Soda flakes are a powerful multipurpose solution used for soap making, drain cleaning, and chimney grease removal. Its fast-acting formula helps clear tough blockages and is widely used in DIY cleaning and detergent formulations.",
+
+  "features": [
+    "Fast-acting formula for instant drain unclogging",
+    "Effective grease remover for chimneys and ovens",
+    "Ideal for soap making and detergent production",
+    "Multipurpose usage for home and industrial cleaning",
+    "Strong chemical for removing stubborn blockages",
+    "Solid flakes form for easy usage and storage"
+  ],
+
+  "variants": [
+    {
+      "size": "450 g",
+      "price": 199,
+      "mrp": 400,
+      "discountRate": 50
+    }
+  ],
+
+  "productDetails": {
+    "brand": "Rich Fox",
+    "itemForm": "Solid (Flakes)",
+    "scent": "Unscented",
+    "netQuantity": "450 grams",
+    "weight": "460 grams",
+    "stateOfMatter": "Solid",
+    "productBenefits": [
+      "Soap making",
+      "Drain cleaning",
+      "Chimney cleaning",
+      "Grease removal",
+      "Detergent making"
+    ],
+    "recommendedUse": [
+      "Drain pipe cleaning",
+      "Sink blockage removal",
+      "Chimney grease cleaning",
+      "Soap and detergent preparation"
+    ],
+    "safetyInfo": [
+      "Handle with gloves and protective gear",
+      "Avoid direct skin and eye contact",
+      "Keep away from children",
+      "Do not ingest",
+      "Store in a dry place"
+    ],
+    "countryOfOrigin": "India"
+  },
+
+  "deliveryInfo": {
+    "delivery": "Amazon Delivered",
+    "returnPolicy": "Non-Returnable",
+    "cashOnDelivery": false,
+    "secureTransaction": true,
+    "freeDelivery": true,
+    "warranty": "No Warranty"
+  },
+
+  "offers": {
+    "cashback": "5% cashback with Amazon Pay ICICI Credit Card (Prime), 3% for others",
+    "partnerOffer": "GST invoice available for business purchases",
+    "upiOffer": "Earn ₹1.9 rewards on UPI payment (Limited time)"
+  },
+
+  "additionalInfo": {
+    "boughtInPastMonth": "600+ units",
+    "usageNote": "Always dilute properly before use, especially for soap making",
+    "warning": "Highly corrosive chemical - use with extreme caution"
+  },
+
+  "tags": [
+    "Caustic Soda",
+    "Sodium Hydroxide",
+    "Soap Making Raw Material",
+    "Drain Cleaner",
+    "Chimney Cleaner",
+    "Industrial Chemical",
+    "DIY Soap Ingredient"
+  ]
+},
+
+{
+  "id": "arshi-propylene-glycol-250ml",
+  "name": "ARSHI A ALCAMY LIFE Propylene Glycol Liquid PG 250ml (Food Grade)",
+  "category": "chemical & cosmetic raw materials",
+  "price": 699,
+  "discountPrice": 292,
+  "discountRate": 58,
+  "rating": 4.2,
+  "reviews": 79,
+  "ratingText": "4.2 out of 5 stars",
+  "reviewText": "Based on 79 customer ratings on Amazon",
+  "shortLink": "https://amzn.to/4ta6LAx",
+  "fullLink": "https://www.amazon.in/gp/product/B0B3VNDX3Y?smid=A3UFCDDV8EHORG&th=1&linkCode=ll2&tag=valdio-21&linkId=c5c8d05fc17cadae68b578c9a6ecb860&ref_=as_li_ss_tl",
+  "image": "https://m.media-amazon.com/images/I/71zH9wOuyML._SL1500_.jpg",
+
+  "description": "ARSHI A ALCAMY LIFE Propylene Glycol (PG) is a food-grade liquid widely used as a solvent, humectant, and preservative in cosmetics, food, and pharmaceutical applications. It helps retain moisture and improve texture in DIY skincare and soap making formulations.",
+
+  "features": [
+    "Food-grade propylene glycol liquid",
+    "Excellent solvent for cosmetic and food formulations",
+    "Acts as a humectant to retain moisture",
+    "Used as preservative in cosmetics and pharmaceuticals",
+    "Ideal for DIY soap, lotion, cream, and serum making",
+    "Clear liquid for easy mixing and blending"
+  ],
+
+  "variants": [
+    {
+      "size": "250 ml",
+      "price": 292,
+      "mrp": 699,
+      "discountRate": 58
+    }
+  ],
+
+  "productDetails": {
+    "brand": "ARSHI A ALCAMY LIFE",
+    "itemForm": "Liquid",
+    "netQuantity": "250 ml",
+    "weight": "250 grams",
+    "manufacturer": "AAAL LTD",
+    "grade": "Food Grade",
+    "productBenefits": [
+      "Moisture retention",
+      "Improves texture of formulations",
+      "Acts as solvent",
+      "Preservative support"
+    ],
+    "recommendedUse": [
+      "Soap making",
+      "Cosmetic formulations (cream, lotion, serum)",
+      "Food additive applications",
+      "Pharmaceutical usage"
+    ],
+    "specialFeatures": [
+      "Multi-purpose chemical",
+      "High purity",
+      "Easy to blend",
+      "Stable formulation ingredient"
+    ],
+    "countryOfOrigin": "India"
+  },
+
+  "deliveryInfo": {
+    "delivery": "Amazon Delivered",
+    "returnPolicy": "10 Days Replacement",
+    "cashOnDelivery": true,
+    "secureTransaction": true,
+    "freeDelivery": true,
+    "warranty": "No Warranty"
+  },
+
+  "offers": {
+    "cashback": "Up to ₹8 cashback with Amazon Pay ICICI Credit Card",
+    "bankOffer": "Up to ₹2,500 discount on select Credit Cards",
+    "partnerOffer": "Buy 2 or more and get 5% off",
+    "upiOffer": "Earn ₹2.9 rewards on UPI payment (Limited time)"
+  },
+
+  "additionalInfo": {
+    "boughtInPastMonth": "50+ units",
+    "pricePerUnit": "₹116.80 per 100 ml",
+    "usageNote": "Use in recommended percentage while making skincare or food formulations"
+  },
+
+  "tags": [
+    "Propylene Glycol",
+    "PG Liquid",
+    "Cosmetic Raw Material",
+    "Food Grade Chemical",
+    "Humectant",
+    "Soap Making Ingredient",
+    "DIY Skincare Ingredient"
+  ]
+},
+
+{
+  "id": "ourherb-orange-peel-powder-200g",
+  "name": "OurHerb Pure & Natural Orange Peel Powder for Face Pack (200g)",
+  "category": "beauty & skincare",
+  "price": 399,
+  "discountPrice": 227,
+  "discountRate": 43,
+  "rating": 4.1,
+  "reviews": 1420,
+  "ratingText": "4.1 out of 5 stars",
+  "reviewText": "Based on 1,420 customer ratings on Amazon",
+  "badge": "Amazon's Choice",
+  "shortLink": "https://amzn.to/4swKFaw",
+  "fullLink": "https://www.amazon.in/gp/product/B09XF4YQHR?smid=A2R7D57TNZ1GAS&th=1&linkCode=ll2&tag=valdio-21&linkId=2731da7cbf3696e7edccf2d91ca311e2&ref_=as_li_ss_tl",
+  "image": "https://m.media-amazon.com/images/I/81co0hftuQL._SL1500_.jpg",
+
+  "description": "OurHerb Orange Peel Powder is a natural skincare ingredient enriched with Vitamin C and antioxidants. It helps brighten skin, reduce acne, and remove tan. This cruelty-free and vegan formula is ideal for DIY face packs and herbal skincare routines.",
+
+  "features": [
+    "100% pure and natural orange peel powder",
+    "Rich in Vitamin C and antioxidants",
+    "Helps reduce acne, dark spots, and pigmentation",
+    "Improves skin glow and brightness",
+    "Cruelty-free and vegan formulation",
+    "Chemical-free and safe for all skin types",
+    "Comes with wooden spoon for easy usage"
+  ],
+
+  "variants": [
+    {
+      "size": "200 g",
+      "price": 227,
+      "mrp": 399,
+      "discountRate": 43
+    },
+    {
+      "size": "100 g",
+      "price": 180,
+      "mrp": 299,
+      "discountRate": 40
+    }
+  ],
+
+  "productDetails": {
+    "brand": "OurHerb",
+    "itemForm": "Powder",
+    "scent": "Orange",
+    "netQuantity": "200 grams",
+    "materialTypeFree": "Chemical Free",
+    "skinType": "All Skin Types",
+    "specialFeatures": [
+      "Natural Ingredients",
+      "Organic",
+      "Vegan",
+      "Cruelty-Free"
+    ],
+    "productBenefits": [
+      "Anti-acne",
+      "Skin brightening",
+      "Tan removal",
+      "Dark spot reduction",
+      "Oil control"
+    ],
+    "recommendedUse": [
+      "Face pack",
+      "Scrub",
+      "DIY skincare",
+      "Soap making"
+    ],
+    "countryOfOrigin": "India"
+  },
+
+  "deliveryInfo": {
+    "delivery": "Amazon Delivered",
+    "returnPolicy": "Non-Returnable",
+    "cashOnDelivery": true,
+    "secureTransaction": true,
+    "freeDelivery": true,
+    "warranty": "No Warranty"
+  },
+
+  "offers": {
+    "cashback": "Up to ₹6 cashback with Amazon Pay ICICI Credit Card",
+    "bankOffer": "Up to ₹50 discount on select Credit Cards",
+    "partnerOffer": "GST invoice available for business purchases",
+    "upiOffer": "Earn ₹2.2 rewards on UPI payment (Limited time)"
+  },
+
+  "additionalInfo": {
+    "boughtInPastMonth": "100+ units",
+    "pricePerUnit": "₹113.50 per 100 g",
+    "usageNote": "Mix with rose water, milk, or yogurt for best results"
+  },
+
+  "tags": [
+    "Orange Peel Powder",
+    "Face Pack Powder",
+    "Vitamin C Skincare",
+    "Natural Skincare",
+    "DIY Face Pack",
+    "Anti Acne Powder",
+    "Herbal Skincare"
+  ]
 }
 
 
