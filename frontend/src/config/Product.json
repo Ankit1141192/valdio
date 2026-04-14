@@ -11484,6 +11484,120 @@
     "Inverter Battery Water",
     "Ultra Pure Water"
   ]
+},
+{
+  "id": "mumta-wet-wipes-pack-of-3",
+  "name": "Mumta Essential Wet Wipes with Lid Alcohol & Paraben Free for Babies/Kids (Pack of 3)",
+  "category": "baby care",
+  "price": 597,
+  "discountPrice": 200,
+  "discountRate": 66,
+  "rating": 4.2,
+  "reviews": 498,
+  "ratingText": "4.2 out of 5 stars",
+  "reviewText": "Based on 498 customer ratings on Amazon",
+  "badge": "Amazon's Choice",
+  "shortLink": "https://amzn.to/48y2oXP",
+  "fullLink": "https://www.amazon.in/gp/product/B0CZXQK4SW?smid=A15APWRK6P7LBV&th=1&linkCode=ll2&tag=valdio-21&linkId=7f18e190b5c6fd4513f00edcf4a15e1a&ref_=as_li_ss_tl",
+  "image": "https://m.media-amazon.com/images/I/71LKKxQ+fjL._SL1500_.jpg",
+
+  "description": "Mumta Essential Wet Wipes are soft, gentle, and safe wipes designed for babies and kids. These alcohol-free and paraben-free wipes help clean and moisturize delicate skin while preventing irritation.",
+
+  "features": [
+    "Alcohol-free and paraben-free formula",
+    "Safe for baby and sensitive skin",
+    "Soft and gentle wipes for daily use",
+    "Moisturizing and skin-friendly",
+    "Comes with lid for easy storage",
+    "Suitable for cleaning hands, face, and body",
+    "Dermatologically safe for all skin types"
+  ],
+
+  "sizes": [
+    "Pack of 3",
+    "Pack of 4",
+    "Pack of 8",
+    "Pack of 10"
+  ],
+
+  "variants": [
+    {
+      "size": "Pack of 3",
+      "price": 200,
+      "mrp": 597,
+      "discountRate": 66
+    },
+    {
+      "size": "Pack of 4",
+      "price": 276,
+      "mrp": 796,
+      "discountRate": 65
+    },
+    {
+      "size": "Pack of 8",
+      "price": 543,
+      "mrp": 1592,
+      "discountRate": 66
+    },
+    {
+      "size": "Pack of 10",
+      "price": 619,
+      "mrp": 1990,
+      "discountRate": 69
+    }
+  ],
+
+  "productDetails": {
+    "brand": "Mumta",
+    "itemForm": "Wipes",
+    "skinType": "All Skin Types",
+    "materialFeature": "Alcohol Free, Paraben Free",
+    "netQuantity": "240 wipes",
+    "specialFeatures": [
+      "Gentle on skin",
+      "Moisturizing formula",
+      "Safe for babies",
+      "Convenient lid packaging"
+    ],
+    "recommendedUse": [
+      "Baby care",
+      "Cleaning hands and face",
+      "Diaper changing",
+      "Daily hygiene"
+    ],
+    "countryOfOrigin": "India"
+  },
+
+  "deliveryInfo": {
+    "delivery": "Amazon Delivered",
+    "returnPolicy": "Non-Returnable",
+    "cashOnDelivery": true,
+    "secureTransaction": true,
+    "freeDelivery": true,
+    "warranty": "No Warranty"
+  },
+
+  "offers": {
+    "cashback": "Up to ₹10 cashback with Amazon Pay ICICI Credit Card",
+    "partnerOffer": "GST invoice available for business purchases",
+    "coupon": "3% Prime discount available"
+  },
+
+  "additionalInfo": {
+    "boughtInPastMonth": "100+ units",
+    "pricePerUnit": "₹0.83 per wipe",
+    "usageNote": "Close lid after use to retain moisture"
+  },
+
+  "tags": [
+    "Baby Wipes",
+    "Wet Wipes",
+    "Alcohol Free Wipes",
+    "Paraben Free",
+    "Baby Care",
+    "Skin Care",
+    "Hygiene Product"
+  ]
 }
 
 
