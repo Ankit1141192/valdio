@@ -12008,6 +12008,98 @@
     "Anti Acne Powder",
     "Herbal Skincare"
   ]
+},
+{
+  "id": "sun-grow-banarasi-red-chilli-pickle-850g",
+  "name": "Sun Grow Organic Homemade Stuffed Banarasi Red Chilli Pickle (850g)",
+  "category": "food & grocery",
+  "price": 599,
+  "discountPrice": 398,
+  "discountRate": 34,
+  "rating": 4.1,
+  "reviews": 3358,
+  "ratingText": "4.1 out of 5 stars",
+  "reviewText": "Based on 3,358 customer ratings on Amazon",
+  "badge": "Amazon's Choice",
+  "shortLink": "https://amzn.to/4dYgh5g",
+  "fullLink": "https://www.amazon.in/Sun-Grow-Organic-Homemade-Banarasi/dp/B07PWM266Y?content-id=amzn1.sym.7e2c8ac4-9f12-4bcd-9497-a8ae54bc8764%3Aamzn1.sym.7e2c8ac4-9f12-4bcd-9497-a8ae54bc8764&crid=2XMZ2KVM171YK&cv_ct_cx=red%2Bchili%2Bpickle&keywords=red%2Bchili%2Bpickle&pd_rd_i=B07PWM266Y&pd_rd_r=ec0aad65-6fd6-4f33-8bef-9ae73d075380&pd_rd_w=593zn&pd_rd_wg=LZeSy&pf_rd_p=7e2c8ac4-9f12-4bcd-9497-a8ae54bc8764&pf_rd_r=DVPD79SJJ3W1HRVV66EV&qid=1776879631&sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&sprefix=red%2Bchili%2B%2Caps%2C476&sr=1-4-66673dcf-083f-43ba-b782-d4a436cc5cfb-spons&aref=pM6RfBxLst&sp_csd=d2lkZ2V0TmFtZT1zcF9zZWFyY2hfdGhlbWF0aWM&smid=A3MV8G09L4VGHC&th=1&linkCode=ll2&tag=valdio-21&linkId=c41ae65f027b16d06152ae0f6f26d8e6&ref_=as_li_ss_tl",
+  "image": "https://m.media-amazon.com/images/I/81OabtTm5RL._SL1500_.jpg",
+
+  "description": "Sun Grow Banarasi Red Chilli Pickle is a traditional homemade-style stuffed achaar made with authentic spices and red chillies. Prepared using classic Banarasi recipes, this flavorful pickle adds a spicy and tangy taste to your meals.",
+
+  "features": [
+    "Authentic Banarasi style stuffed red chilli pickle",
+    "Homemade / mother-made traditional recipe",
+    "Rich in flavor with spicy and tangy taste",
+    "Prepared using quality ingredients and spices",
+    "Perfect accompaniment for Indian meals",
+    "No artificial preservatives (as claimed by brand)",
+    "Ready to eat and long shelf life"
+  ],
+
+  "variants": [
+    {
+      "size": "850 g",
+      "price": 398,
+      "mrp": 599,
+      "discountRate": 34
+    }
+  ],
+
+  "productDetails": {
+    "brand": "Sun Grow",
+    "itemForm": "Pickle",
+    "flavour": "Spicy & Tangy",
+    "netQuantity": "850 grams",
+    "dietType": "Vegetarian",
+    "specialFeatures": [
+      "Homemade style",
+      "Traditional recipe",
+      "Organic ingredients (as claimed)"
+    ],
+    "ingredients": [
+      "Red chilli",
+      "Mustard oil",
+      "Spices",
+      "Salt",
+      "Natural preservatives"
+    ],
+    "recommendedUse": [
+      "Serve with roti, paratha, rice",
+      "Side dish with Indian meals"
+    ],
+    "countryOfOrigin": "India"
+  },
+
+  "deliveryInfo": {
+    "delivery": "Amazon Delivered",
+    "returnPolicy": "Non-Returnable",
+    "cashOnDelivery": false,
+    "secureTransaction": true,
+    "freeDelivery": true,
+    "warranty": "No Warranty"
+  },
+
+  "offers": {
+    "cashback": "Up to ₹11 cashback with Amazon Pay ICICI Credit Card",
+    "partnerOffer": "GST invoice available for business purchases"
+  },
+
+  "additionalInfo": {
+    "boughtInPastMonth": "100+ units",
+    "pricePerUnit": "₹39.80 per 100 g",
+    "usageNote": "Store in a cool and dry place. Use a dry spoon to maintain freshness"
+  },
+
+  "tags": [
+    "Red Chilli Pickle",
+    "Banarasi Achaar",
+    "Homemade Pickle",
+    "Indian Pickle",
+    "Spicy Pickle",
+    "Traditional Food",
+    "Vegetarian Pickle"
+  ]
 }
 
 
