@@ -12191,6 +12191,95 @@
     "Calcium Deficiency",
     "Health Supplement"
   ]
+},
+
+{
+  "id": "cleft-10-strip-10-tablets",
+  "name": "Cleft-10 Leflunomide 10mg Tablets (Strip of 10)",
+  "category": "health & medicine",
+  "price": 116.63,
+  "discountPrice": 100.29,
+  "discountRate": 14,
+  "rating": null,
+  "reviews": null,
+  "ratingText": "",
+  "reviewText": "",
+  "badge": "Rx (Prescription Required)",
+  "shortLink": "https://amzn.to/4t6dsmI",
+  "fullLink": "https://www.amazon.in/gp/product/B09ZPLWQLN?smid=A2785T0G6STJW6&psc=1&brandId=berry&linkCode=ll2&tag=valdio-21&linkId=9c0c0bbc125af09bdd9cee0d41e6df5b&ref_=as_li_ss_tl",
+  "image": "https://m.media-amazon.com/images/I/514nfRLj6kL._SL1500_.jpg",
+
+  "description": "Cleft-10 contains Leflunomide 10mg, a prescription medication commonly used in the management of rheumatoid arthritis and autoimmune conditions. It helps reduce inflammation, pain, and joint damage by suppressing overactive immune responses.",
+
+  "features": [
+    "Contains Leflunomide 10 mg",
+    "Used in treatment of rheumatoid arthritis",
+    "Helps reduce joint inflammation and pain",
+    "Slows progression of joint damage",
+    "Prescription-only medicine (Rx)"
+  ],
+
+  "variants": [
+    {
+      "pack": "Strip of 10 Tablets",
+      "price": 100.29,
+      "mrp": 116.63,
+      "discountRate": 14
+    }
+  ],
+
+  "productDetails": {
+    "brand": "Cleft",
+    "itemForm": "Tablet",
+    "netQuantity": "10 tablets",
+    "composition": {
+      "activeIngredient": "Leflunomide 10 mg"
+    },
+    "productBenefits": [
+      "Reduces inflammation",
+      "Relieves joint pain",
+      "Slows autoimmune disease progression"
+    ],
+    "recommendedUse": [
+      "As directed by physician"
+    ],
+    "expiryDate": "31 December 2026",
+    "storageInstructions": "Store at 10°C to 25°C in a cool, dry place away from sunlight",
+    "safetyInfo": [
+      "Prescription required (Rx product)",
+      "Do not self-medicate",
+      "Keep out of reach of children",
+      "Use under medical supervision only"
+    ],
+    "countryOfOrigin": "India"
+  },
+
+  "deliveryInfo": {
+    "delivery": "Amazon Delivered",
+    "returnPolicy": "Non-Returnable",
+    "cashOnDelivery": true,
+    "secureTransaction": true,
+    "freeDelivery": true,
+    "warranty": "Not Applicable"
+  },
+
+  "offers": {
+    "partnerOffer": "GST invoice available for business purchases"
+  },
+
+  "additionalInfo": {
+    "pricePerUnit": "₹10.03 per tablet",
+    "usageNote": "Follow doctor’s dosage instructions strictly"
+  },
+
+  "tags": [
+    "Leflunomide Tablets",
+    "Rheumatoid Arthritis Medicine",
+    "Prescription Drug",
+    "Autoimmune Treatment",
+    "Anti-inflammatory Medicine",
+    "Rx Medicine"
+  ]
 }
 
 
