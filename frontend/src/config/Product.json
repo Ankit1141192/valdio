@@ -12100,6 +12100,97 @@
     "Traditional Food",
     "Vegetarian Pickle"
   ]
+},
+
+{
+  "id": "shelcal-hd-strip-15-tablets",
+  "name": "Shelcal-HD Calcium & Vitamin D3 Tablets (Strip of 15)",
+  "category": "health & medicine",
+  "price": 155.50,
+  "discountPrice": 133.73,
+  "discountRate": 14,
+  "rating": null,
+  "reviews": null,
+  "ratingText": "",
+  "reviewText": "",
+  "badge": "Rx (Prescription Required)",
+  "shortLink": "https://amzn.to/4sVYmA4",
+  "fullLink": "https://www.amazon.in/gp/product/B085YQCKR8?smid=A2785T0G6STJW6&psc=1&brandId=berry&linkCode=ll2&tag=valdio-21&linkId=bcab100c3ac76e567bc8c8993586ed24&ref_=as_li_ss_tl",
+  "image": "https://m.media-amazon.com/images/I/81iQd-qp-XL._SL1500_.jpg",
+
+  "description": "Shelcal-HD tablets are a calcium and vitamin D3 supplement used to support bone health, improve calcium absorption, and help prevent calcium deficiency. It contains calcium carbonate derived from an organic source along with Vitamin D3.",
+
+  "features": [
+    "Calcium supplement with Vitamin D3",
+    "Supports bone strength and density",
+    "Helps in calcium absorption",
+    "Useful in calcium deficiency and osteoporosis",
+    "Derived from organic source (oyster shell)",
+    "Doctor-prescribed supplement"
+  ],
+
+  "variants": [
+    {
+      "pack": "Strip of 15 Tablets",
+      "price": 133.73,
+      "mrp": 155.50,
+      "discountRate": 14
+    }
+  ],
+
+  "productDetails": {
+    "brand": "Shelcal",
+    "itemForm": "Tablet",
+    "netQuantity": "15 tablets",
+    "composition": {
+      "calciumCarbonate": "1250 mg (equivalent to 500 mg elemental calcium)",
+      "vitaminD3": "500 IU"
+    },
+    "productBenefits": [
+      "Strengthens bones and teeth",
+      "Prevents calcium deficiency",
+      "Supports bone density",
+      "Improves calcium absorption"
+    ],
+    "recommendedUse": [
+      "As directed by physician"
+    ],
+    "expiryDate": "02 July 2027",
+    "storageInstructions": "Store in a cool, dry place away from moisture and sunlight",
+    "safetyInfo": [
+      "Prescription required (Rx product)",
+      "Do not self-medicate",
+      "Keep out of reach of children"
+    ],
+    "countryOfOrigin": "India"
+  },
+
+  "deliveryInfo": {
+    "delivery": "Amazon Delivered",
+    "returnPolicy": "Non-Returnable",
+    "cashOnDelivery": true,
+    "secureTransaction": true,
+    "freeDelivery": true,
+    "warranty": "Not Applicable"
+  },
+
+  "offers": {
+    "partnerOffer": "GST invoice available for business purchases"
+  },
+
+  "additionalInfo": {
+    "pricePerUnit": "₹8.92 per tablet",
+    "usageNote": "Take only under medical supervision"
+  },
+
+  "tags": [
+    "Calcium Tablets",
+    "Vitamin D3 Supplement",
+    "Bone Health",
+    "Prescription Medicine",
+    "Calcium Deficiency",
+    "Health Supplement"
+  ]
 }
 
 
