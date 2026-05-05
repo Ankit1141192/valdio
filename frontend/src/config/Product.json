@@ -12982,6 +12982,127 @@
     "Soap Making Ingredients",
     "Cosmetic Raw Materials"
   ]
+},
+
+{
+  "id": "hennahub-tea-tree-essential-oil-1000ml",
+  "name": "Hennahub Pure Tea Tree Essential Oil 1000ml (Therapeutic Grade)",
+  "category": "Beauty-Personal-Care",
+  "price": 3000,
+  "discountPrice": 2200,
+  "discountRate": 27,
+  "rating": 4.8,
+  "reviews": 6,
+  "ratingText": "4.8 out of 5 stars",
+  "reviewText": "Based on 6 customer ratings on Amazon",
+  "badge": "Top Rated",
+  "shortLink": "https://amzn.to/3P5e3XI",
+  "fullLink": "https://www.amazon.in/gp/product/B0DXKJB83B?smid=AVL1RKCWL3MT6&th=1&linkCode=ll2&tag=valdio-21&linkId=6557a08a35d8a91e2dafe9361d69f622&ref_=as_li_ss_tl",
+  "image": "https://m.media-amazon.com/images/I/51vZUAxM+PL._SL1080_.jpg",
+
+  "description": "Hennahub Pure Tea Tree Essential Oil is a 100% natural and therapeutic-grade oil extracted from Melaleuca alternifolia leaves. Known for its antibacterial and antifungal properties, it is ideal for skincare, hair care, dandruff control, acne treatment, and aromatherapy.",
+
+  "features": [
+    "100% pure and natural tea tree essential oil",
+    "Steam-distilled from premium Melaleuca alternifolia leaves",
+    "Free from additives, chemicals, and fillers",
+    "Effective for acne, dandruff, and skin irritations",
+    "Suitable for aromatherapy and diffuser use",
+    "Multipurpose oil for skin, hair, and home cleaning",
+    "Comes in UV-protective leak-proof aluminium bottle"
+  ],
+
+  "variants": [
+    {
+      "flavour": "Tea Tree Oil",
+      "size": "1000ml",
+      "price": 2200,
+      "mrp": 3000,
+      "discountRate": 27
+    },
+    {
+      "flavour": "Eucalyptus Oil",
+      "price": 2199,
+      "mrp": 3000,
+      "discountRate": 27
+    },
+    {
+      "flavour": "Lavender Oil",
+      "price": 2250,
+      "mrp": 3000,
+      "discountRate": 25
+    },
+    {
+      "flavour": "Clove Oil",
+      "price": 2300,
+      "mrp": 3000,
+      "discountRate": 23
+    },
+    {
+      "flavour": "Cajeput Oil",
+      "price": 2350,
+      "mrp": 3000,
+      "discountRate": 22
+    }
+  ],
+
+  "productDetails": {
+    "brand": "Hennahub",
+    "itemForm": "Liquid",
+    "scent": "Tea Tree",
+    "netQuantity": "1000 Millilitres",
+    "specialFeatures": [
+      "Therapeutic grade",
+      "Pure essential oil",
+      "UV-protected packaging"
+    ],
+    "keyIngredient": "Melaleuca alternifolia (Tea Tree)",
+    "productBenefits": [
+      "Acne treatment",
+      "Dandruff control",
+      "Antibacterial & antifungal protection",
+      "Skin soothing",
+      "Aromatherapy relaxation"
+    ],
+    "recommendedUse": [
+      "Face care (acne treatment)",
+      "Hair care (dandruff control)",
+      "Aromatherapy diffuser",
+      "Massage oil blending",
+      "DIY skincare formulations"
+    ],
+    "packaging": "Leak-proof aluminium bottle"
+  },
+
+  "deliveryInfo": {
+    "delivery": "Amazon Delivered",
+    "returnPolicy": "Non-Returnable",
+    "cashOnDelivery": true,
+    "secureTransaction": true,
+    "freeDelivery": true,
+    "warranty": "Not Applicable"
+  },
+
+  "offers": {
+    "cashback": "Up to 5% cashback with Amazon Pay ICICI Credit Card",
+    "emi": "No Cost EMI available on select cards",
+    "upiOffer": "Earn ₹22 rewards on UPI payment"
+  },
+
+  "additionalInfo": {
+    "usageNote": "Dilute with carrier oil before applying directly to skin",
+    "targetUsers": "Henna artists, skincare enthusiasts, DIY users"
+  },
+
+  "tags": [
+    "Tea Tree Oil",
+    "Essential Oil",
+    "Aromatherapy Oil",
+    "Acne Treatment",
+    "Hair Care Oil",
+    "Dandruff Control",
+    "DIY Skincare"
+  ]
 }
 
 
