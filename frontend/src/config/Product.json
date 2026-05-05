@@ -13224,6 +13224,118 @@
     "DIY Skincare",
     "Natural Oil"
   ]
+},
+
+{
+  "id": "healthsense-chefmate-kitchen-scale-5kg",
+  "name": "HealthSense Kitchen Weighing Machine Chef-Mate (5kg Capacity, 1g Accuracy)",
+  "category": "Home & Kitchen",
+  "price": 1400,
+  "discountPrice": 799,
+  "discountRate": 43,
+  "rating": 4.1,
+  "reviews": 8960,
+  "ratingText": "4.1 out of 5 stars",
+  "reviewText": "Based on 8,960 customer ratings on Amazon",
+  "badge": "Top Brand",
+  "shortLink": "https://amzn.to/4f1F34Q",
+  "fullLink": "https://www.amazon.in/gp/product/B0GJDNDPND?smid=A2GTG1HPYW8M2P&th=1&linkCode=ll2&tag=valdio-21&linkId=a4e5afd2fe3dc3832fe426d03c92bebb&ref_=as_li_ss_tl",
+  "image": "https://m.media-amazon.com/images/I/61cdNftXkaL._SL1080_.jpg",
+
+  "description": "HealthSense Chef-Mate Kitchen Weighing Scale is a high-precision digital scale designed for accurate food measurements. With 1g accuracy and 5kg capacity, it is ideal for baking, meal prep, calorie tracking, and everyday cooking.",
+
+  "features": [
+    "High precision sensors with 1g accuracy",
+    "Maximum capacity of 5kg",
+    "Touch tare function for easy multi-ingredient measurement",
+    "Premium tempered glass surface",
+    "Bright LED display for clear readings",
+    "Auto-off feature to save battery",
+    "Overload and low battery indicators",
+    "Slim and modern design"
+  ],
+
+  "variants": [
+    {
+      "color": "Grey",
+      "price": 799,
+      "mrp": 1400,
+      "discountRate": 43
+    },
+    {
+      "color": "Leaf Green",
+      "price": 499,
+      "mrp": 1200,
+      "discountRate": 58
+    },
+    {
+      "color": "Silver",
+      "price": 699,
+      "mrp": 1200,
+      "discountRate": 42
+    },
+    {
+      "color": "White & Black",
+      "price": 699,
+      "mrp": 1700,
+      "discountRate": 59
+    }
+  ],
+
+  "productDetails": {
+    "brand": "HealthSense",
+    "displayType": "LED",
+    "maxCapacity": "5 kg",
+    "accuracy": "1 gram",
+    "material": "Tempered Glass",
+    "dimensions": "18 x 18 cm",
+    "powerSource": "2 x AAA Batteries (included)",
+    "specialFeatures": [
+      "Touch Tare Function",
+      "Auto-Off (120 seconds)",
+      "Overload Indicator",
+      "Low Battery Indicator",
+      "High Precision Sensors"
+    ],
+    "recommendedUse": [
+      "Baking",
+      "Cooking",
+      "Meal prep",
+      "Calorie tracking",
+      "Kitchen measurements"
+    ]
+  },
+
+  "deliveryInfo": {
+    "delivery": "Amazon Delivered",
+    "returnPolicy": "10 Days Replacement",
+    "cashOnDelivery": true,
+    "secureTransaction": true,
+    "freeDelivery": true,
+    "warranty": "1 Year Warranty"
+  },
+
+  "offers": {
+    "cashback": "Up to ₹23 cashback with Amazon Pay ICICI Credit Card",
+    "bankOffer": "Up to ₹1,000 discount on select Credit Cards",
+    "partnerOffer": "Get GST invoice and save up to 18% on business purchases",
+    "upiOffer": "Earn ₹7.9 rewards on UPI payment"
+  },
+
+  "additionalInfo": {
+    "boughtInPastMonth": "500+ units",
+    "usageNote": "Place on a flat surface for accurate readings"
+  },
+
+  "tags": [
+    "Kitchen Scale",
+    "Food Weighing Machine",
+    "Digital Scale",
+    "Baking Tool",
+    "Meal Prep Tool",
+    "HealthSense Scale",
+    "Chef Mate Scale"
+  ]
 }
 
 
