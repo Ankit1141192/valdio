@@ -12280,6 +12280,97 @@
     "Anti-inflammatory Medicine",
     "Rx Medicine"
   ]
+},
+
+{
+  "id": "natural-soapmaking-book-beginners",
+  "name": "The Natural Soapmaking Book for Beginners (Paperback)",
+  "category": "books",
+  "price": 1164,
+  "discountPrice": 1164,
+  "discountRate": 0,
+  "rating": 4.7,
+  "reviews": 6788,
+  "ratingText": "4.7 out of 5 stars",
+  "reviewText": "Based on 6,788 customer ratings on Amazon",
+  "badge": "",
+  "shortLink": "https://amzn.to/4eoy3il",
+  "fullLink": "https://www.amazon.in/Natural-SoapMaking-Book-Beginners-Yourself/dp/1939754038?_encoding=UTF8&dib_tag=se&dib=eyJ2IjoiMSJ9.1lUtYaE3TGxQpyofhk8rONXjWHtIQPJ0sxBXwtPqwy8dxmPCVPpgOievmg45t0V4-O3OwSLxJ-_erI58H6eGLrlLzdFzbOnHAYbP35ocvgECbZHpXFEXdLvUrS78_6SpvUFhIxU0sQ4uSF64GqmfCnr1Isu-cUnOse8JV3zJqnn6GFGkUn8EJZImAUcl_5O00NZOgOdHAiJ2yzbe6KsbohW9MJkszwiWR33XWiB4tOc.rd9-EX1KZHhpCFd8isjW-nWgE5DNjBQhS1Q6PtExwT4&qid=1777457843&sr=8-4&linkCode=ll2&tag=valdio-21&linkId=7d8b9ca94c9b07c4c532f65cfe968548&ref_=as_li_ss_tl",
+  "image": "https://m.media-amazon.com/images/I/81mfW1+SX7L._SL1500_.jpg",
+
+  "description": "The Natural Soapmaking Book for Beginners by Kelly Cable is a comprehensive guide for learning how to make handmade soaps using natural ingredients. It covers step-by-step instructions, recipes, and essential techniques for beginners.",
+
+  "features": [
+    "Beginner-friendly soap making guide",
+    "Includes step-by-step instructions and tutorials",
+    "Covers natural and organic soap recipes",
+    "Helpful tips for safe and effective soap making",
+    "Illustrated with helpful photography",
+    "Suitable for DIY enthusiasts and small business starters"
+  ],
+
+  "variants": [
+    {
+      "format": "Paperback",
+      "price": 1164,
+      "mrp": 1164,
+      "discountRate": 0
+    },
+    {
+      "format": "Kindle Edition",
+      "price": 449,
+      "mrp": 449,
+      "discountRate": 0
+    }
+  ],
+
+  "productDetails": {
+    "title": "The Natural Soapmaking Book for Beginners",
+    "authors": [
+      "Kelly Cable"
+    ],
+    "contributors": [
+      "Paige Green (Photographer)"
+    ],
+    "publicationDate": "8 August 2017",
+    "language": "English",
+    "format": "Paperback / Kindle",
+    "genre": "DIY, Craft, Soap Making",
+    "recommendedUse": [
+      "Learning soap making",
+      "DIY skincare product creation",
+      "Small business setup guidance"
+    ],
+    "countryOfOrigin": "International"
+  },
+
+  "deliveryInfo": {
+    "delivery": "Amazon Fulfilled",
+    "returnPolicy": "Standard Return Policy",
+    "cashOnDelivery": false,
+    "secureTransaction": true,
+    "freeDelivery": true,
+    "estimatedDelivery": "5 - 14 May",
+    "warranty": "Not Applicable"
+  },
+
+  "offers": {
+    "note": "Other used and new options available from ₹1,164"
+  },
+
+  "additionalInfo": {
+    "availability": "In Stock",
+    "usageNote": "Ideal for beginners starting handmade soap business or hobby"
+  },
+
+  "tags": [
+    "Soap Making Book",
+    "DIY Soap Guide",
+    "Natural Soap Recipes",
+    "Beginner Craft Book",
+    "Handmade Soap Learning",
+    "Skincare DIY Book"
+  ]
 }
 
 
