@@ -12880,6 +12880,108 @@
     "Skin Brightening",
     "Hair Care Powder"
   ]
+},
+
+{
+  "id": "urbaano-herbal-kojic-niacinamide-combo-150g",
+  "name": "Urbaano Herbal Kojic Acid & Niacinamide Powder Combo (50g Kojic + 100g Niacinamide)",
+  "category": "beauty & skincare raw materials",
+  "price": 1089,
+  "discountPrice": 500,
+  "discountRate": 54,
+  "rating": 4.3,
+  "reviews": 10,
+  "ratingText": "4.3 out of 5 stars",
+  "reviewText": "Based on 10 customer ratings on Amazon",
+  "badge": "Amazon's Choice",
+  "shortLink": "https://amzn.to/4n7HPaZ",
+  "fullLink": "https://www.amazon.in/Kojic-Niacinamide-Powder-Making-Lotion/dp/B0D3559W2M?crid=22TAZRHOIKHI2&dib=eyJ2IjoiMSJ9.I1tn8rCn3NQBzxGTPBsxRE1v3lGiv8kDBvD9l6vz8w1hrwcjUnVpcuQNNzFyA8N3u7IT8wsAQboVvPuC8mR-wkaNwS_geBqUUR6B6bTJfWQqk_n8EkBWUkuRJ_-F6ElCq2KWH5s7_HKPWOo52reofr2MogYswrN3yNvy5_8AQjIbULnENqiSTg5tj0zmh2Xgq2tDV3YyKXuCJc41o-uwoMTRN0_fcJ5UTNAzz3a4wWj7qjONApShxgG4PjSIFryU43WQ4O0QtiD72L0oSBmA6D6QZfBrGgn6hzY66gHY6bY.rgndqJDAisUU-Z1T7sBwgc4BcWSr5FmaS4IRrp_bit8&dib_tag=se&keywords=kojic+acid+for+soap+making&qid=1777914995&sprefix=kojic+acid+for+soap%2Caps%2C434&sr=8-13&linkCode=ll2&tag=valdio-21&linkId=124f6b75a2a78cc524c5987cc55c4388&ref_=as_li_ss_tl",
+  "image": "https://m.media-amazon.com/images/I/6122tQreZIL._SL1080_.jpg",
+
+  "description": "Urbaano Herbal Kojic Acid & Niacinamide Powder Combo is a powerful DIY skincare solution designed for making face serums, soaps, creams, and lotions. This combination helps brighten skin, reduce pigmentation, minimize pores, and improve overall skin texture.",
+
+  "features": [
+    "Combo of Kojic Acid (50g) and Niacinamide (100g)",
+    "Helps reduce hyperpigmentation and dark spots",
+    "Brightens and evens skin tone",
+    "Minimizes pores and controls oil production",
+    "Water-soluble and easy to mix in DIY formulations",
+    "Non-irritant and gentle on skin",
+    "Ideal for DIY skincare products like soap, serum, and cream"
+  ],
+
+  "variants": [
+    {
+      "size": "150g (50g Kojic + 100g Niacinamide)",
+      "price": 500,
+      "mrp": 1089,
+      "discountRate": 54
+    }
+  ],
+
+  "productDetails": {
+    "brand": "Urbaano Herbal",
+    "itemForm": "Powder",
+    "scent": "Unscented",
+    "skinType": "All",
+    "netQuantity": "150 Grams",
+    "ageRange": "Adult",
+    "dimensions": "9 x 5 x 12 cm",
+    "keyIngredients": [
+      "Kojic Acid",
+      "Niacinamide (Vitamin B3)"
+    ],
+    "productBenefits": [
+      "Skin brightening",
+      "Dark spot reduction",
+      "Hyperpigmentation treatment",
+      "Pore minimization",
+      "Oil control"
+    ],
+    "recommendedUse": [
+      "DIY face serum",
+      "Soap making",
+      "Face cream & lotion",
+      "Face wash",
+      "Face masks"
+    ],
+    "specialFeatures": [
+      "Water soluble",
+      "Non-irritant",
+      "DIY friendly",
+      "Resealable packaging"
+    ]
+  },
+
+  "deliveryInfo": {
+    "delivery": "Amazon Delivered",
+    "returnPolicy": "Non-Returnable",
+    "cashOnDelivery": true,
+    "secureTransaction": true,
+    "freeDelivery": true,
+    "warranty": "Not Applicable"
+  },
+
+  "offers": {
+    "cashback": "Up to ₹25 cashback with Amazon Pay ICICI Credit Card",
+    "bankOffer": "Up to ₹75 discount on select Credit Cards",
+    "partnerOffer": "Get GST invoice and save up to 18% on business purchases"
+  },
+
+  "additionalInfo": {
+    "boughtInPastMonth": "Limited data",
+    "usageNote": "Always use recommended percentage (1–3% Kojic, 2–5% Niacinamide) in formulations to avoid skin irritation"
+  },
+
+  "tags": [
+    "Kojic Acid Powder",
+    "Niacinamide Powder",
+    "DIY Skincare",
+    "Skin Brightening",
+    "Hyperpigmentation Treatment",
+    "Soap Making Ingredients",
+    "Cosmetic Raw Materials"
+  ]
 }
 
 
