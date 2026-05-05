@@ -12602,6 +12602,103 @@
     "Makeup Remover",
     "Dabur Gulabari"
   ]
+},
+
+{
+  "id": "swiss-beauty-face-eye-brush-set-6pcs",
+  "name": "Swiss Beauty Professional Face & Eye Brush Set (6-Piece)",
+  "category": "beauty-makeup",
+  "price": 999,
+  "discountPrice": 599,
+  "discountRate": 40,
+  "rating": 4.5,
+  "reviews": 4837,
+  "ratingText": "4.5 out of 5 stars",
+  "reviewText": "Based on 4,837 customer ratings on Amazon",
+  "badge": "Amazon's Choice",
+  "shortLink": "https://amzn.to/4dnXfnY",
+  "fullLink": "https://www.amazon.in/gp/product/B08MQKXPQT?smid=A15APWRK6P7LBV&th=1&linkCode=ll2&tag=valdio-21&linkId=785750f91607c15c5c5557ac042df982&ref_=as_li_ss_tl",
+  "image": "https://m.media-amazon.com/images/I/81r6KIx6YyL._SL1500_.jpg",
+
+  "description": "Swiss Beauty Professional Face & Eye Brush Set includes 6 high-quality brushes designed for flawless makeup application. Made with soft synthetic bristles, it ensures smooth blending and precision for creams, liquids, and powders.",
+
+  "features": [
+    "6-piece professional makeup brush set",
+    "Soft synthetic bristles for smooth application",
+    "Suitable for cream, liquid, and powder formulations",
+    "Ensures easy blending and flawless finish",
+    "Comfortable grip for better control",
+    "Brush names printed on handles for easy identification",
+    "Compact and travel-friendly design"
+  ],
+
+  "variants": [
+    {
+      "pattern": "EyeBrush",
+      "price": 599,
+      "mrp": 999,
+      "discountRate": 40
+    }
+  ],
+
+  "productDetails": {
+    "brand": "Swiss Beauty",
+    "material": "Acrylic",
+    "bristleMaterial": "Synthetic Fiber",
+    "color": "Silver",
+    "numberOfPieces": 6,
+    "recommendedUse": [
+      "Foundation application",
+      "Concealer blending",
+      "Eyeshadow application",
+      "Highlighting",
+      "Powder application"
+    ],
+    "includedBrushTypes": [
+      "Compact Brush",
+      "Concealer Brush",
+      "Eyeshadow Brush",
+      "Eyeshadow Applicator",
+      "Foundation Blender",
+      "Highlighter & Lash Brush"
+    ],
+    "specialFeatures": [
+      "Soft bristles",
+      "Easy blending",
+      "Professional finish",
+      "Comfortable grip"
+    ]
+  },
+
+  "deliveryInfo": {
+    "delivery": "Amazon Delivered",
+    "returnPolicy": "Non-Returnable",
+    "cashOnDelivery": true,
+    "secureTransaction": true,
+    "freeDelivery": true,
+    "warranty": "Not Applicable"
+  },
+
+  "offers": {
+    "cashback": "Up to ₹17 cashback with Amazon Pay ICICI Credit Card",
+    "bankOffer": "Up to ₹89.85 discount on select Credit Cards",
+    "partnerOffer": "Buy 3 get 5% off, Buy 4 get 7% off, Buy 5 get 10% off"
+  },
+
+  "additionalInfo": {
+    "boughtInPastMonth": "1K+ units",
+    "usageNote": "Clean brushes regularly to maintain hygiene and performance"
+  },
+
+  "tags": [
+    "Makeup Brushes",
+    "Face Brush Set",
+    "Eye Brush Set",
+    "Beauty Tools",
+    "Professional Makeup Kit",
+    "Blending Brushes",
+    "Swiss Beauty Brushes"
+  ]
 }
 
 
