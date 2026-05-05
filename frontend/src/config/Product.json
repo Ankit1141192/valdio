@@ -12785,6 +12785,101 @@
     "Vegetarian Product",
     "Urban Platter"
   ]
+},
+
+{
+  "id": "myherb-orange-peel-powder-227g",
+  "name": "MYHERB 100% Pure Natural Organic Orange Peel Powder (227g)",
+  "category": "beauty & skincare",
+  "price": 599,
+  "discountPrice": 129,
+  "discountRate": 78,
+  "rating": 4.3,
+  "reviews": 326,
+  "ratingText": "4.3 out of 5 stars",
+  "reviewText": "Based on 326 customer ratings on Amazon",
+  "badge": "Amazon's Choice",
+  "shortLink": "https://amzn.to/48CBH4y",
+  "fullLink": "https://www.amazon.in/gp/product/B08HHBCCHY?smid=A15APWRK6P7LBV&psc=1&linkCode=ll2&tag=valdio-21&linkId=313795ee3cd145985297674984c231c6&ref_=as_li_ss_tl",
+  "image": "https://m.media-amazon.com/images/I/71ZdltDWm1L._SL1500_.jpg",
+
+  "description": "MYHERB Orange Peel Powder is a 100% natural and organic skincare ingredient enriched with Vitamin C and antioxidants. It helps brighten skin, reduce pigmentation, control oil, and improve overall skin texture. Suitable for face packs and hair care treatments.",
+
+  "features": [
+    "100% pure and natural orange peel powder",
+    "Rich in Vitamin C and antioxidants",
+    "Helps brighten skin and reduce dark spots",
+    "Controls excess oil and sebum",
+    "Supports anti-aging and improves skin texture",
+    "Suitable for both skin and hair care",
+    "Chemical-free, vegan and safe for all skin types"
+  ],
+
+  "variants": [
+    {
+      "size": "227g",
+      "price": 129,
+      "mrp": 599,
+      "discountRate": 78
+    }
+  ],
+
+  "productDetails": {
+    "brand": "MYHERB",
+    "itemForm": "Powder",
+    "scent": "Orange",
+    "skinType": "All",
+    "netQuantity": "227 Grams",
+    "materialTypeFree": [
+      "Chemical Free",
+      "Oil Free"
+    ],
+    "specialFeatures": [
+      "Natural ingredients",
+      "Vegan",
+      "Rich in antioxidants"
+    ],
+    "recommendedUse": [
+      "Face packs",
+      "Skin brightening masks",
+      "Hair packs",
+      "Oil control treatments"
+    ],
+    "keyIngredients": [
+      "Citrus Aurantium (Orange Peel Powder)"
+    ]
+  },
+
+  "deliveryInfo": {
+    "delivery": "Amazon Delivered",
+    "returnPolicy": "Non-Returnable",
+    "cashOnDelivery": true,
+    "secureTransaction": true,
+    "freeDelivery": true,
+    "warranty": "Not Applicable"
+  },
+
+  "offers": {
+    "cashback": "Up to ₹6 cashback with Amazon Pay ICICI Credit Card",
+    "bankOffer": "Up to ₹50 discount on select Credit Cards",
+    "partnerOffer": "Buy 3 get 3% off, Buy 4 get 4% off, Buy 5 get 5% off"
+  },
+
+  "additionalInfo": {
+    "boughtInPastMonth": "200+ units",
+    "expiry": "02 April 2027",
+    "usageNote": "Mix with water, rose water, or milk to create face or hair packs"
+  },
+
+  "tags": [
+    "Orange Peel Powder",
+    "Vitamin C Skincare",
+    "Face Pack Powder",
+    "Natural Skincare",
+    "Ayurvedic Beauty",
+    "Skin Brightening",
+    "Hair Care Powder"
+  ]
 }
 
 
