@@ -13336,6 +13336,100 @@
     "HealthSense Scale",
     "Chef Mate Scale"
   ]
+},
+
+{
+  "id": "pilea-peperomioides-live-plant-indoor",
+  "name": "Live Chinese Money Plant (Pilea Peperomioides) Indoor Decorative Plant with Nursery Pot",
+  "category": "home-garden",
+  "price": 799,
+  "discountPrice": 139,
+  "discountRate": 83,
+  "rating": 3.5,
+  "reviews": 32,
+  "ratingText": "3.5 out of 5 stars",
+  "reviewText": "Based on 32 customer ratings on Amazon",
+  "badge": "Deal",
+  "shortLink": "https://amzn.to/42j0k2v",
+  "fullLink": "https://www.amazon.in/gp/product/B0FHH6YRF5?smid=A29PV9QP6O6PHC&th=1&linkCode=ll2&tag=valdio-21&linkId=6b0bacf68a848c84b7e722fad4d8d31a&ref_=as_li_ss_tl",
+  "image": "https://m.media-amazon.com/images/I/616mBS9rJdL._SL1077_.jpg",
+
+  "description": "Pilea Peperomioides, also known as the Chinese Money Plant, is a popular indoor plant known for its round coin-shaped leaves and Feng Shui benefits. It enhances home decor while helping purify indoor air and promoting positive energy.",
+
+  "features": [
+    "Unique coin-shaped leaves with modern aesthetic appeal",
+    "Air-purifying indoor plant for home and office",
+    "Compact size suitable for small spaces",
+    "Low maintenance and beginner-friendly",
+    "Feng Shui plant believed to attract prosperity and positivity",
+    "Produces baby plants for easy propagation",
+    "Comes with nursery pot"
+  ],
+
+  "variants": [
+    {
+      "color": "Green",
+      "price": 139,
+      "mrp": 799,
+      "discountRate": 83
+    }
+  ],
+
+  "productDetails": {
+    "plantName": "Pilea Peperomioides",
+    "commonName": "Chinese Money Plant",
+    "plantType": "Indoor Plant",
+    "netQuantity": "1 Plant",
+    "materialFeature": "Natural Plant",
+    "plantHeight": "20-30 cm (mature size)",
+    "growthPattern": "Compact, bushy",
+    "sunlightExposure": "Bright indirect light",
+    "wateringSchedule": "Once a week",
+    "soilType": "Well-draining potting mix",
+    "bloomingPeriod": "Spring to Summer",
+    "specialFeatures": [
+      "Air purification",
+      "Feng Shui plant",
+      "Easy propagation",
+      "Decorative foliage"
+    ],
+    "recommendedUse": [
+      "Home decoration",
+      "Office desk plant",
+      "Indoor gardening",
+      "Gifting"
+    ]
+  },
+
+  "deliveryInfo": {
+    "delivery": "Amazon Delivered",
+    "returnPolicy": "Non-Returnable",
+    "cashOnDelivery": false,
+    "secureTransaction": true,
+    "freeDelivery": true,
+    "warranty": "Not Applicable"
+  },
+
+  "offers": {
+    "cashback": "Up to ₹6 cashback with Amazon Pay ICICI Credit Card",
+    "bankOffer": "Up to ₹2,500 discount on select Credit Cards",
+    "partnerOffer": "Get GST invoice and save up to 18% on business purchases"
+  },
+
+  "additionalInfo": {
+    "usageNote": "Avoid direct sunlight and overwatering to maintain plant health",
+    "idealPlacement": "Living room, office desk, bedroom"
+  },
+
+  "tags": [
+    "Chinese Money Plant",
+    "Pilea Peperomioides",
+    "Indoor Plant",
+    "Air Purifying Plant",
+    "Feng Shui Plant",
+    "Home Decor Plant",
+    "Live Plant"
+  ]
 }
 
 
