@@ -12699,6 +12699,92 @@
     "Blending Brushes",
     "Swiss Beauty Brushes"
   ]
+},
+
+{
+  "id": "urban-platter-dehydrated-lemon-powder-150g",
+  "name": "Urban Platter Dehydrated Lemon Powder, 150g",
+  "category": "grocery & food",
+  "price": 190,
+  "discountPrice": 185,
+  "discountRate": 3,
+  "rating": 4.2,
+  "reviews": 78,
+  "ratingText": "4.2 out of 5 stars",
+  "reviewText": "Based on 78 customer ratings on Amazon",
+  "badge": "Amazon's Choice",
+  "shortLink": "https://amzn.to/4n7HvsN",
+  "fullLink": "https://www.amazon.in/gp/product/B01MY2Z887?smid=A3CJIYO6X9DIRJ&psc=1&linkCode=ll2&tag=valdio-21&linkId=0de8feea82b31521922806327fa3ffb4&ref_=as_li_ss_tl",
+  "image": "https://m.media-amazon.com/images/I/71h0zOFhmTL._SL1500_.jpg",
+
+  "description": "Urban Platter Dehydrated Lemon Powder is a convenient and versatile citrus ingredient made from dried lemons. It delivers a fresh, tangy flavor and can be easily used in drinks, cooking, baking, marinades, and spice blends.",
+
+  "features": [
+    "Made from dehydrated lemons for natural citrus flavor",
+    "Convenient powder form for easy use",
+    "Adds tangy and zesty taste to dishes",
+    "Suitable for drinks, baking, marinades, and spice rubs",
+    "Long shelf life compared to fresh lemons",
+    "Comes in a handy jar for storage",
+    "Vegetarian product"
+  ],
+
+  "variants": [
+    {
+      "size": "150g",
+      "price": 185,
+      "mrp": 190,
+      "discountRate": 3
+    }
+  ],
+
+  "productDetails": {
+    "brand": "Urban Platter",
+    "itemForm": "Powder",
+    "flavour": "Lemon",
+    "dietType": "Vegetarian",
+    "netQuantity": "150 Grams",
+    "packageType": "Jar",
+    "speciality": "Convenient lemon powder form",
+    "recommendedUse": [
+      "Drinks & beverages",
+      "Cooking & seasoning",
+      "Baking",
+      "Marinades & dips",
+      "Spice rubs"
+    ],
+    "storageInstructions": "Store in a cool and dry place. Avoid using a wet spoon."
+  },
+
+  "deliveryInfo": {
+    "delivery": "Amazon Delivered",
+    "returnPolicy": "Non-Returnable",
+    "cashOnDelivery": true,
+    "secureTransaction": true,
+    "freeDelivery": true,
+    "warranty": "Not Applicable"
+  },
+
+  "offers": {
+    "cashback": "Up to ₹9 cashback with Amazon Pay ICICI Credit Card",
+    "partnerOffer": "Buy 2 or more and get 5% off on qualifying items"
+  },
+
+  "additionalInfo": {
+    "boughtInPastMonth": "200+ units",
+    "expiry": "18 March 2027",
+    "usageNote": "Use small quantities to enhance flavor due to strong citrus concentration"
+  },
+
+  "tags": [
+    "Lemon Powder",
+    "Dehydrated Lemon",
+    "Cooking Ingredient",
+    "Baking Ingredient",
+    "Citrus Powder",
+    "Vegetarian Product",
+    "Urban Platter"
+  ]
 }
 
 
