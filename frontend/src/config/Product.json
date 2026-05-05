@@ -12478,6 +12478,130 @@
     "Office Plant",
     "Lucky Plant"
   ]
+},
+
+{
+  "id": "dabur-gulabari-rose-water-400ml",
+  "name": "Dabur Gulabari Premium Rose Water Face Toner (400ml)",
+  "category": "beauty & skincare",
+  "price": 110,
+  "discountPrice": 86,
+  "discountRate": 22,
+  "rating": 4.4,
+  "reviews": 28391,
+  "ratingText": "4.4 out of 5 stars",
+  "reviewText": "Based on 28,391 customer ratings on Amazon",
+  "badge": "Amazon's Choice",
+  "shortLink": "https://amzn.to/4tTAcHG",
+  "fullLink": "https://www.amazon.in/gp/product/B085QMJ3TS?smid=A15APWRK6P7LBV&th=1&linkCode=ll2&tag=valdio-21&linkId=00490133edf4ae05bb97ee18ab5b39d0&ref_=as_li_ss_tl",
+  "image": "https://m.media-amazon.com/images/I/61g-TQQZ4qL._SL1500_.jpg",
+
+  "description": "Dabur Gulabari Rose Water is a natural face toner and cleanser that hydrates, refreshes, and balances the skin’s pH. It helps cleanse dirt, tighten pores, and give a glowing, refreshed look suitable for all skin types.",
+
+  "features": [
+    "100% pure and natural rose water",
+    "Alcohol-free and paraben-free formula",
+    "Works as toner, cleanser, and mild moisturizer",
+    "Hydrates and refreshes dull skin instantly",
+    "Helps balance skin pH levels",
+    "Tightens pores and improves skin texture",
+    "Suitable for all skin types"
+  ],
+
+  "variants": [
+    {
+      "size": "400 ml",
+      "price": 86,
+      "mrp": 110,
+      "discountRate": 22
+    },
+    {
+      "size": "120 ml",
+      "price": 47,
+      "mrp": 54,
+      "discountRate": 13
+    },
+    {
+      "size": "250 ml",
+      "price": 78,
+      "mrp": 100,
+      "discountRate": 22
+    },
+    {
+      "size": "400 ml (Pack of 3)",
+      "price": 243,
+      "mrp": 405,
+      "discountRate": 40
+    }
+  ],
+
+  "productDetails": {
+    "brand": "Dabur",
+    "itemForm": "Liquid",
+    "scent": "Rose",
+    "netQuantity": "400 ml",
+    "skinType": "All Skin Types",
+    "ageRange": "Adult",
+    "dimensions": "22.3 x 6.5 x 5.5 cm",
+    "weight": "0.4 kg",
+    "materialTypeFree": [
+      "Alcohol Free",
+      "Paraben Free"
+    ],
+    "specialFeatures": [
+      "Dermatologist Tested",
+      "Multipurpose Use"
+    ],
+    "productBenefits": [
+      "Cleansing",
+      "Hydrating",
+      "Moisturizing",
+      "pH balancing",
+      "Pore tightening",
+      "Anti-acne",
+      "Makeup removal",
+      "Skin refreshing"
+    ],
+    "recommendedUse": [
+      "Face toner",
+      "Makeup remover",
+      "Skin cleanser",
+      "Daily skincare routine"
+    ],
+    "expiryDate": "19 March 2027",
+    "countryOfOrigin": "India"
+  },
+
+  "deliveryInfo": {
+    "delivery": "Amazon Delivered",
+    "returnPolicy": "Non-Returnable",
+    "cashOnDelivery": true,
+    "secureTransaction": true,
+    "freeDelivery": true,
+    "warranty": "Not Applicable"
+  },
+
+  "offers": {
+    "cashback": "Up to ₹4 cashback with Amazon Pay ICICI Credit Card",
+    "bankOffer": "Up to ₹50 discount on select Credit Cards",
+    "partnerOffer": "GST invoice available for business purchases"
+  },
+
+  "additionalInfo": {
+    "boughtInPastMonth": "10K+ units",
+    "pricePerUnit": "₹21.50 per 100 ml",
+    "usageNote": "Use twice daily with cotton pad or spray directly on face"
+  },
+
+  "tags": [
+    "Rose Water",
+    "Face Toner",
+    "Natural Toner",
+    "Skin Cleanser",
+    "Hydrating Toner",
+    "Makeup Remover",
+    "Dabur Gulabari"
+  ]
 }
 
 
