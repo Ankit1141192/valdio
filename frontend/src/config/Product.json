@@ -12371,6 +12371,113 @@
     "Handmade Soap Learning",
     "Skincare DIY Book"
   ]
+},
+
+{
+  "id": "kyari-zz-plant-blue-aira-pot",
+  "name": "KYARI ZZ Plant (Zamioculcas zamiifolia) with Self Watering Aira Pot - Blue",
+  "category": "home-garden",
+  "price": 699,
+  "discountPrice": 289,
+  "discountRate": 59,
+  "rating": 5.0,
+  "reviews": 1,
+  "ratingText": "5.0 out of 5 stars",
+  "reviewText": "Based on 1 customer rating on Amazon",
+  "badge": "",
+  "shortLink": "https://amzn.to/4t8wlVP",
+  "fullLink": "https://www.amazon.in/ZZ-Plant-with-Aira-Pot/dp/B0GKG9W4VB?crid=4HCYM75NJI1K&dib=eyJ2IjoiMSJ9.CsuR566KLpiuK5l9ObVgn5VpUhggHo12TqQsf6Wkp6q8yYo8jDOMlse5171IS26ehGeDkqAYbXPncm4HHpL5vLbXvIdFXduV4zc9Y3tdLUQSAG_kJ5Tr-P6xtNK9Bi-mZx-e5bDSoGy--v3rkVcCdUhzfoKzXilIoL2rM_3aGCAaS5oJv03yxk94i4PJnF_DbJ5m340Dw41JoSxqU7IT5hXvJ-mlnz-6b6Ur2HUaS7RrEsurB0SK_uyw-h42YIhAqxlGPVcUE9dpnWjldZqVYuKEwpZcPgRNiPL8j4f-594.tU3uXOIyOrXTz4JbSftL1631eIOVGEvDwSa9hiVNHKc&dib_tag=se&keywords=zz%2Bplant&qid=1777141616&sprefix=zz%2Bpla%2Caps%2C445&sr=8-10&th=1&linkCode=ll2&tag=valdio-21&linkId=e8ea0f6fe0ff93ceec04f4973c657cd3&ref_=as_li_ss_tl",
+  "image": "https://m.media-amazon.com/images/I/713GTk0c82L._SL1500_.jpg",
+
+  "description": "KYARI ZZ Plant (Zamioculcas zamiifolia) is a low-maintenance indoor plant known for its glossy green leaves and air-purifying properties. It comes with a stylish self-watering Aira pot, making it perfect for modern homes and offices.",
+
+  "features": [
+    "Air-purifying indoor plant with glossy foliage",
+    "Low maintenance and easy to care for",
+    "Comes with self-watering Aira pot",
+    "Requires watering only once a week",
+    "Thrives in low to medium sunlight",
+    "Perfect for home, office, and gifting",
+    "Symbol of prosperity and good luck"
+  ],
+
+  "variants": [
+    {
+      "style": "ZZ - Blue Aira Pot",
+      "price": 289,
+      "mrp": 699,
+      "discountRate": 59
+    },
+    {
+      "style": "Snake Plant - Blue Aira Pot",
+      "price": 269,
+      "mrp": 699,
+      "discountRate": 62
+    }
+  ],
+
+  "productDetails": {
+    "brand": "KYARI",
+    "plantName": "Zamioculcas zamiifolia (ZZ Plant)",
+    "itemType": "Live Indoor Plant",
+    "potType": "Self Watering Aira Pot",
+    "potMaterial": "Plastic",
+    "potColor": "Blue",
+    "dimensions": {
+      "diameter": "10 cm",
+      "height": "10 cm",
+      "length": "10 cm",
+      "breadth": "10 cm"
+    },
+    "weight": "450 grams",
+    "soilType": "Cocopeat Soil",
+    "sunlightExposure": "Low to Medium Sunlight",
+    "wateringFrequency": "Once a week",
+    "specialFeatures": [
+      "Air Purifying",
+      "Self Watering System",
+      "Low Maintenance",
+      "Indoor Friendly"
+    ],
+    "recommendedUse": [
+      "Home decor",
+      "Office desk plant",
+      "Gifting",
+      "Indoor gardening"
+    ],
+    "countryOfOrigin": "India"
+  },
+
+  "deliveryInfo": {
+    "delivery": "Amazon Delivered",
+    "returnPolicy": "Non-Returnable",
+    "cashOnDelivery": true,
+    "secureTransaction": true,
+    "freeDelivery": true,
+    "warranty": "Not Applicable"
+  },
+
+  "offers": {
+    "cashback": "Up to ₹8 cashback with Amazon Pay ICICI Credit Card",
+    "bankOffer": "Up to ₹2,500 discount on select Credit Cards",
+    "partnerOffer": "GST invoice available for business purchases",
+    "upiOffer": "Earn ₹2.8 rewards on UPI payment"
+  },
+
+  "additionalInfo": {
+    "careNote": "Avoid overwatering and direct harsh sunlight",
+    "idealFor": "Beginners and indoor plant lovers"
+  },
+
+  "tags": [
+    "ZZ Plant",
+    "Indoor Plant",
+    "Air Purifying Plant",
+    "Low Maintenance Plant",
+    "Home Decor Plant",
+    "Office Plant",
+    "Lucky Plant"
+  ]
 }
 
 
