@@ -13103,6 +13103,127 @@
     "Dandruff Control",
     "DIY Skincare"
   ]
+},
+
+{
+  "id": "ivy-lane-orange-essential-oil-1l",
+  "name": "Ivy & Lane Orange Essential Oil 100% Pure Natural Undiluted Organic Therapeutic Grade (1 Litre)",
+  "category": "beauty & personal care",
+  "price": 5500,
+  "discountPrice": 1413,
+  "discountRate": 74,
+  "rating": 1.0,
+  "reviews": 1,
+  "ratingText": "1.0 out of 5 stars",
+  "reviewText": "Based on 1 customer rating on Amazon",
+  "badge": "Deal",
+  "shortLink": "https://amzn.to/4dl9XUB",
+  "fullLink": "https://www.amazon.in/gp/product/B0CMDC4P4T?smid=A9LOSC6EEF7F8&th=1&linkCode=ll2&tag=valdio-21&linkId=a8ee8cdc1cef66f1c19abae9a628a7a6&ref_=as_li_ss_tl",
+  "image": "https://m.media-amazon.com/images/I/61T7bWClWBL._SL1500_.jpg",
+
+  "description": "Ivy & Lane Orange Essential Oil is a 100% pure, natural, and undiluted therapeutic-grade oil extracted from Citrus sinensis peels. Known for its refreshing citrus aroma, it helps uplift mood, reduce stress, nourish skin and hair, and is ideal for aromatherapy and DIY formulations.",
+
+  "features": [
+    "100% pure, natural and undiluted orange essential oil",
+    "Cold-pressed extraction from Citrus sinensis peel",
+    "Bright citrus fragrance for mood uplift and relaxation",
+    "Supports acne-prone skin and skin hydration",
+    "Helps nourish hair and improve scalp health",
+    "Multipurpose use for aromatherapy, massage, and DIY products",
+    "Comes with dropper for easy application"
+  ],
+
+  "variants": [
+    {
+      "scent": "Orange",
+      "size": "1 Litre",
+      "price": 1413,
+      "mrp": 5500,
+      "discountRate": 74
+    },
+    {
+      "scent": "Lavender"
+    },
+    {
+      "scent": "Lemon"
+    },
+    {
+      "scent": "Lemongrass"
+    },
+    {
+      "scent": "Peppermint"
+    },
+    {
+      "scent": "Rosemary"
+    },
+    {
+      "scent": "Tea Tree"
+    }
+  ],
+
+  "productDetails": {
+    "brand": "Ivy & Lane",
+    "itemForm": "Liquid",
+    "scent": "Orange",
+    "netQuantity": "1000 Millilitres",
+    "specialFeatures": [
+      "Pure",
+      "Aromatic",
+      "Therapeutic grade"
+    ],
+    "extractionMethod": "Cold Pressed",
+    "keyIngredients": [
+      "Citrus sinensis (Orange Peel Oil)"
+    ],
+    "mainComponents": [
+      "Limonene",
+      "Myrcene",
+      "Alpha-pinene"
+    ],
+    "productBenefits": [
+      "Skin hydration",
+      "Acne care",
+      "Hair nourishment",
+      "Stress relief",
+      "Mood uplifting"
+    ],
+    "recommendedUse": [
+      "Aromatherapy diffuser",
+      "Massage with carrier oil",
+      "DIY skincare & haircare",
+      "Natural cleaning products"
+    ]
+  },
+
+  "deliveryInfo": {
+    "delivery": "Standard Delivery",
+    "returnPolicy": "Non-Returnable",
+    "cashOnDelivery": false,
+    "secureTransaction": true,
+    "freeDelivery": true,
+    "warranty": "Not Applicable"
+  },
+
+  "offers": {
+    "cashback": "Up to 5% cashback with Amazon Pay ICICI Credit Card",
+    "emi": "EMI starts at ₹129/month",
+    "upiOffer": "Earn ₹14.1 rewards on UPI payment"
+  },
+
+  "additionalInfo": {
+    "usageNote": "Always dilute with carrier oil before applying to skin",
+    "caution": "For external use only. Avoid direct undiluted application on sensitive skin"
+  },
+
+  "tags": [
+    "Orange Essential Oil",
+    "Essential Oil",
+    "Aromatherapy Oil",
+    "Skin Care Oil",
+    "Hair Care Oil",
+    "DIY Skincare",
+    "Natural Oil"
+  ]
 }
 
 
