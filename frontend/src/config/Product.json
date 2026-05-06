@@ -13430,6 +13430,170 @@
     "Home Decor Plant",
     "Live Plant"
   ]
+},
+
+{
+  "id": "d-rise-60k-capsules-strip-4",
+  "name": "D-Rise 60K Capsules (Strip of 4)",
+  "category": "health & pharmacy",
+  "price": 113.13,
+  "discountPrice": 113.13,
+  "discountRate": 0,
+  "rating": null,
+  "reviews": null,
+  "ratingText": "",
+  "reviewText": "",
+  "badge": "Rx Product",
+  "shortLink": "https://amzn.to/3PnZYok",
+  "fullLink": "https://www.amazon.in/gp/product/B084BDSSH8?smid=A2785T0G6STJW6&psc=1&s=prime-wardrobe&isTryState=1&linkCode=ll2&tag=valdio-21&linkId=79dadacc9ded527a5e21103cb0a93e47&ref_=as_li_ss_tl",
+  "image": "https://m.media-amazon.com/images/I/91akoxu9tsL._SL1500_.jpg",
+
+  "description": "D-Rise 60K Capsules are a Vitamin D3 supplement used to treat or prevent Vitamin D deficiency. It helps improve calcium absorption, supports bone health, and boosts immunity when taken as prescribed by a physician.",
+
+  "features": [
+    "Contains high-dose Vitamin D3 (Cholecalciferol 60,000 IU)",
+    "Supports bone strength and calcium absorption",
+    "Helps treat Vitamin D deficiency",
+    "Aids in improving immunity",
+    "Convenient capsule form for easy consumption"
+  ],
+
+  "variants": [
+    {
+      "pack": "Strip of 4 Capsules",
+      "price": 113.13,
+      "mrp": 113.13,
+      "discountRate": 0
+    }
+  ],
+
+  "productDetails": {
+    "brand": "D-Rise",
+    "itemForm": "Capsule",
+    "composition": "Vitamin D3 (Cholecalciferol 60,000 IU)",
+    "netQuantity": "4 Capsules",
+    "dosage": "As directed by physician",
+    "recommendedUse": [
+      "Vitamin D deficiency treatment",
+      "Bone health support",
+      "Calcium absorption improvement"
+    ],
+    "specialFeatures": [
+      "High potency Vitamin D3",
+      "Supports immunity",
+      "Doctor prescribed supplement"
+    ]
+  },
+
+  "deliveryInfo": {
+    "delivery": "Amazon Pharmacy (Next Day Delivery)",
+    "returnPolicy": "Non-Returnable",
+    "cashOnDelivery": true,
+    "secureTransaction": true,
+    "freeDelivery": "Free delivery on eligible pharmacy orders above ₹199",
+    "warranty": "Not Applicable"
+  },
+
+  "offers": {
+    "cashback": "Applicable offers via Amazon Pay ICICI Credit Card",
+    "partnerOffer": "Pharmacy order discounts may apply"
+  },
+
+  "additionalInfo": {
+    "pricePerUnit": "₹28.28 per capsule",
+    "usageNote": "Take only under medical supervision; avoid overdose"
+  },
+
+  "tags": [
+    "Vitamin D3",
+    "Calcium Support",
+    "Bone Health",
+    "Immunity Booster",
+    "Pharmacy Product",
+    "Supplement Capsules"
+  ]
+},
+
+{
+  "id": "desosoft-cream-10g",
+  "name": "DESOSOFT Cream 10g Tube",
+  "category": "health & pharmacy",
+  "price": 120.94,
+  "discountPrice": 120.94,
+  "discountRate": 0,
+  "rating": null,
+  "reviews": null,
+  "ratingText": "",
+  "reviewText": "",
+  "badge": "Rx Product",
+  "shortLink": "https://amzn.to/3QUYh28",
+  "fullLink": "https://www.amazon.in/gp/product/B09SQM7TDT?smid=A2785T0G6STJW6&psc=1&s=prime-wardrobe&isTryState=1&linkCode=ll2&tag=valdio-21&linkId=598bc38b5a44be8d227ca7f15402d891&ref_=as_li_ss_tl",
+  "image": "https://m.media-amazon.com/images/I/61VLbccB9lL._SL1500_.jpg",
+
+  "description": "Desosoft Cream is a topical corticosteroid used to treat various skin conditions such as eczema, dermatitis, allergies, redness, and inflammation. It helps reduce swelling, itching, and irritation when used as prescribed by a doctor.",
+
+  "features": [
+    "Topical cream for skin inflammation and irritation",
+    "Helps relieve itching, redness, and swelling",
+    "Commonly used for eczema and dermatitis",
+    "Fast-acting relief for allergic skin reactions",
+    "Easy-to-apply smooth cream texture"
+  ],
+
+  "variants": [
+    {
+      "size": "10g Tube",
+      "price": 120.94,
+      "mrp": 120.94,
+      "discountRate": 0
+    }
+  ],
+
+  "productDetails": {
+    "brand": "Desosoft",
+    "itemForm": "Cream",
+    "netQuantity": "10 Grams",
+    "composition": "Desonide (Topical Corticosteroid)",
+    "dosage": "Apply as directed by physician",
+    "recommendedUse": [
+      "Eczema treatment",
+      "Dermatitis relief",
+      "Skin allergy treatment",
+      "Inflammation reduction"
+    ],
+    "specialFeatures": [
+      "Anti-inflammatory",
+      "Anti-itching",
+      "Doctor prescribed medication"
+    ]
+  },
+
+  "deliveryInfo": {
+    "delivery": "Amazon Delivered",
+    "returnPolicy": "Non-Returnable",
+    "cashOnDelivery": false,
+    "secureTransaction": true,
+    "freeDelivery": "Free delivery (limited period offer)",
+    "warranty": "Not Applicable"
+  },
+
+  "offers": {
+    "note": "Pharmacy-related offers may apply"
+  },
+
+  "additionalInfo": {
+    "usageNote": "Use only on affected area as prescribed; avoid long-term use without medical advice",
+    "storage": "Store in a cool, dry place away from direct sunlight"
+  },
+
+  "tags": [
+    "Skin Cream",
+    "Eczema Treatment",
+    "Dermatitis Cream",
+    "Anti Inflammatory",
+    "Prescription Cream",
+    "Topical Medication"
+  ]
 }
 
 
