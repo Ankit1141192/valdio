@@ -13705,9 +13705,100 @@
     "Date Printing Machine",
     "Small Business Tool"
   ]
+},
+
+{
+  "id": "whirlpool-270l-protton-roy-alpha-steel",
+  "name": "Whirlpool 270L Frost Free Triple-Door Refrigerator (FP 313D Protton Roy Alpha Steel)",
+  "category": "home appliances",
+  "price": 38300,
+  "discountPrice": 29990,
+  "discountRate": 22,
+  "rating": 3.9,
+  "reviews": 11742,
+  "ratingText": "3.9 out of 5 stars",
+  "reviewText": "Based on 11,742 customer ratings on Amazon",
+  "badge": "Top Brand",
+
+  "shortLink": "https://amzn.to/4nhA1U6",
+  "fullLink": "https://www.amazon.in/gp/product/B0CW184WNH?smid=A3K8GDUW67973J&th=1&linkCode=ll2&tag=valdio-21&linkId=9bc482550634816afff75cd939a9180e&ref_=as_li_ss_tl",
+
+  "image": "https://m.media-amazon.com/images/I/51pd+cQ9lzL._SL1348_.jpg",
+
+  "description": "Whirlpool Protton Roy 270L triple-door refrigerator offers frost-free cooling, energy-efficient performance, and advanced storage compartments. Designed for medium-sized families, it ensures longer freshness with intelligent moisture control and stabilizer-free operation.",
+
+  "features": [
+    "Frost Free Multi-Door Refrigerator",
+    "270L capacity ideal for medium families",
+    "Triple-door design for better organization",
+    "Energy efficient (consumes less than a CFL)",
+    "Stabilizer-free operation (160–300V)",
+    "Toughened glass shelves",
+    "Advanced moisture retention technology"
+  ],
+
+  "variants": [
+    {
+      "model": "2024",
+      "price": 29990,
+      "mrp": 38300,
+      "discountRate": 22
+    },
+    {
+      "model": "2022",
+      "available": true
+    }
+  ],
+
+  "productDetails": {
+    "brand": "Whirlpool",
+    "capacity": "270 Litres (Gross 300L)",
+    "coolingType": "Frost Free",
+    "displayType": "Thermostat",
+    "compressorType": "Reciprocatory",
+    "configuration": "Freezer-on-Top",
+    "shelfMaterial": "Toughened Glass",
+    "dimensions": "71.7 x 60.1 x 187.4 cm",
+    "weight": "62 kg",
+    "voltageRange": "160–300V",
+    "specialFeatures": [
+      "Triple door storage",
+      "Energy efficient cooling",
+      "Stabilizer free operation",
+      "Moisture retention system"
+    ]
+  },
+
+  "deliveryInfo": {
+    "delivery": "Scheduled Delivery",
+    "returnPolicy": "10 Days Replacement by Brand",
+    "cashOnDelivery": false,
+    "secureTransaction": true,
+    "freeDelivery": true,
+    "warranty": "1 Year on product, 10 Years on compressor"
+  },
+
+  "offers": {
+    "cashback": "Up to ₹1,499 cashback with Amazon Pay ICICI Credit Card",
+    "bankOffer": "Up to ₹5,000 discount on HDFC Bank Credit Cards",
+    "emi": "No Cost EMI available (₹9,997/month for 3 months)",
+    "emiSavings": "Up to ₹1,674.51 interest savings"
+  },
+
+  "additionalInfo": {
+    "idealFor": "Medium sized families",
+    "energyNote": "Consumes less energy than a 60W CFL",
+    "usageNote": "Maintain proper spacing around fridge for optimal cooling performance"
+  },
+
+  "tags": [
+    "Whirlpool Refrigerator",
+    "Triple Door Fridge",
+    "270L Refrigerator",
+    "Frost Free Fridge",
+    "Energy Efficient Appliance",
+    "Home Appliance"
+  ]
 }
-
-
-
 
 ]
