@@ -13988,6 +13988,113 @@
     "Home Cleaning",
     "Fabric Care"
   ]
+},
+
+{
+  "id": "ambrane-aerosync-snap-10000mah-powerbank",
+  "name": "Ambrane Magsafe Wireless 10000mAh Fast Charging Power Bank (Aerosync Snap, Purple)",
+  "category": "electronics",
+  "price": 2999,
+  "discountPrice": 1299,
+  "discountRate": 57,
+  "rating": 4.0,
+  "reviews": 7495,
+  "ratingText": "4.0 out of 5 stars",
+  "reviewText": "Based on 7,495 customer ratings on Amazon",
+  "badge": "Amazon's Choice",
+
+  "shortLink": "https://amzn.to/4njtckS",
+  "fullLink": "https://www.amazon.in/Ambrane-Wireless-10000mAh-Charging-Magnetic/dp/B0D9S9TV5Q?crid=1E7ZEV0W9H8BJ&dib=eyJ2IjoiMSJ9.OMjk-qLtP_ZoN0Fhwtz55mUWeNiok_CLR3ut9IbBkKYNatiYaLBUDIRTH3ax_cO7Qj15Ag2cZ1NO7EmOfx-zzTtW9ZsSz0VnkzG7LLK7-I11OohTLuEk9VFbc397lnYiKOstUOb21qmcOz2oln8_ooQzLlR-F2Jifdq2lOOxgqlfS83aciyTlzzfMNF6l7q8t0eqTTOcg_SZPyPqCRdmqLLOlWq9WTKXWzc402jkopU.oNeH3tsKggW6rsCTRcgNnuRnrdOk8ArmxZUpjW18Fq4&dib_tag=se&keywords=ambrane&nsdOptOutParam=true&qid=1778180972&sprefix=ambra%2Caps%2C655&sr=8-1-spons&aref=6CARV6U5i3&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1&linkCode=ll2&tag=valdio-21&linkId=e0caeac69ca3e8308c1a50485ebe513b&ref_=as_li_ss_tl",
+
+  "image": "https://m.media-amazon.com/images/I/6199hEwNH6L._SL1500_.jpg",
+
+  "description": "Ambrane Aerosync Snap 10000mAh MagSafe wireless power bank offers fast charging with strong magnetic attachment. Designed for iPhone 12 and above and Qi-enabled devices, it supports multiple charging protocols and ensures safe, efficient charging on the go.",
+
+  "features": [
+    "10000mAh high-capacity battery for all-day usage",
+    "MagSafe wireless charging with strong magnetic hold",
+    "22.5W fast wired output and 15W wireless output",
+    "Supports PD 3.0, QC 3.0, VOOC, and PPS protocols",
+    "Compact and premium rubberized design",
+    "Fast recharging in approx. 3.5 hours with 20W PD charger",
+    "Multi-layer protection for safe charging"
+  ],
+
+  "variants": [
+    {
+      "color": "Purple",
+      "price": 1299,
+      "mrp": 2999,
+      "discountRate": 57
+    },
+    {
+      "color": "Blue",
+      "price": 1299,
+      "mrp": 2999,
+      "discountRate": 57
+    },
+    {
+      "color": "Silver",
+      "price": 1299,
+      "mrp": 2999,
+      "discountRate": 57
+    }
+  ],
+
+  "productDetails": {
+    "brand": "Ambrane",
+    "batteryCapacity": "10000 mAh",
+    "output": {
+      "typeC": "22W",
+      "usbA": "22.5W",
+      "wireless": "15W"
+    },
+    "input": "Micro USB / Type-C",
+    "compatibility": [
+      "iPhone 12 and above (MagSafe)",
+      "iPhone 8 and above",
+      "Android devices (Qi enabled)",
+      "Other USB powered devices"
+    ],
+    "specialFeatures": [
+      "MagSafe magnetic attachment",
+      "Fast charging support",
+      "Compact & portable design",
+      "Multi-protection safety system",
+      "Auto-connect charging"
+    ]
+  },
+
+  "deliveryInfo": {
+    "delivery": "Amazon Delivered",
+    "returnPolicy": "10 Days Service Centre Replacement",
+    "cashOnDelivery": true,
+    "secureTransaction": true,
+    "freeDelivery": true,
+    "warranty": "6 Months Warranty"
+  },
+
+  "offers": {
+    "cashback": "Up to ₹64 cashback with Amazon Pay ICICI Credit Card",
+    "bankOffer": "Up to ₹1,000 discount on select Credit Cards",
+    "emi": "EMI starts at ₹118/month"
+  },
+
+  "additionalInfo": {
+    "idealFor": "Travel, daily use, backup charging",
+    "buildQuality": "Rubberized premium finish",
+    "usageNote": "Use certified cable and adapter for optimal fast charging performance"
+  },
+
+  "tags": [
+    "Power Bank",
+    "MagSafe Power Bank",
+    "Wireless Power Bank",
+    "10000mAh Power Bank",
+    "Fast Charging Power Bank",
+    "Ambrane",
+    "Mobile Accessories"
+  ]
 }
 
 ]
