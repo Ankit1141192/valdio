@@ -13720,10 +13720,10 @@
   "reviewText": "Based on 11,742 customer ratings on Amazon",
   "badge": "Top Brand",
 
-  "shortLink": "https://amzn.to/4nhA1U6",
-  "fullLink": "https://www.amazon.in/gp/product/B0CW184WNH?smid=A3K8GDUW67973J&th=1&linkCode=ll2&tag=valdio-21&linkId=9bc482550634816afff75cd939a9180e&ref_=as_li_ss_tl",
+  "shortLink": "https://amzn.to/3OOM3HR",
+  "fullLink": "https://www.amazon.in/Jivo-Cold-Pressed-oil-Groundnut/dp/B0CKFFGC31?crid=VZ18HZI243Q3&dib=eyJ2IjoiMSJ9.TkZRjMvXgjVYRsgilQ6e-zfsxtW8GS9YNrfXxk01ftC8XtNGFDsJAjHbrPUGxpamOUtZ5V8YV8dU1PZ3w7W8xtFqtpjB47qDqQnmj2MW73sKN7fzfWoG8RxL-txf2lh09GniZfG3zo0fO0lknUhhJ5MoRugKEtps9bS-gGYeEFKJGo_M_CJ0jU2TY_T0PF_uXIh_r_3VusBfUq4i81EWd2S3_b1t18BjIZO6KQNYfFIHoLr0YXxxwWQDvESlrypU529SSdpmiluVSk2j5I3bk93iFBxPaAwK57qkHi_gP6U.OM1j6NOfSdQ5ZmjOyCllniTCEwA6HTxzXqt920NBm-I&dib_tag=se&keywords=jivo&nsdOptOutParam=true&qid=1778180072&sprefix=ji%2Caps%2C449&sr=8-7&th=1&linkCode=ll2&tag=valdio-21&linkId=afbd46afc78b7fefeae0227d5df527ed&ref_=as_li_ss_tl",
 
-  "image": "https://m.media-amazon.com/images/I/51pd+cQ9lzL._SL1348_.jpg",
+  "image": "https://m.media-amazon.com/images/I/71ohxqRTikL._SL1500_.jpg",
 
   "description": "Whirlpool Protton Roy 270L triple-door refrigerator offers frost-free cooling, energy-efficient performance, and advanced storage compartments. Designed for medium-sized families, it ensures longer freshness with intelligent moisture control and stabilizer-free operation.",
 
@@ -13798,6 +13798,91 @@
     "Frost Free Fridge",
     "Energy Efficient Appliance",
     "Home Appliance"
+  ]
+},
+
+{
+  "id": "jivo-groundnut-oil-5l",
+  "name": "Jivo Groundnut Oil 5 Litre | Cold Pressed, Unrefined Peanut Oil",
+  "category": "grocery & food",
+  "price": 2800,
+  "discountPrice": 999,
+  "discountRate": 64,
+  "rating": 4.1,
+  "reviews": 1038,
+  "ratingText": "4.1 out of 5 stars",
+  "reviewText": "Based on 1,038 customer ratings on Amazon",
+  "badge": "Top Brand",
+
+  "shortLink": "",
+  "fullLink": "",
+
+  "image": "https://m.media-amazon.com/images/I/71JivoOil._SL1500_.jpg",
+
+  "description": "Jivo Cold Pressed Groundnut Oil is a premium unrefined peanut oil enriched with Vitamins A & D. It is chemical-free and ideal for everyday cooking, offering natural flavor, nutrition, and health benefits.",
+
+  "features": [
+    "Cold pressed & unrefined oil",
+    "Rich in Vitamin A & D",
+    "Chemical-free and natural extraction",
+    "Ideal for cooking, frying, and sautéing",
+    "Retains natural flavor and nutrients",
+    "High smoke point suitable for Indian cooking"
+  ],
+
+  "variants": [
+    {
+      "size": "5 Litre",
+      "price": 999,
+      "mrp": 2800,
+      "discountRate": 64
+    }
+  ],
+
+  "productDetails": {
+    "brand": "Jivo",
+    "type": "Groundnut Oil",
+    "form": "Liquid",
+    "processing": "Cold Pressed, Unrefined",
+    "fortification": "Vitamin A & D",
+    "quantity": "5 Litres",
+    "dietType": "Vegetarian",
+    "specialFeatures": [
+      "Chemical-free processing",
+      "Natural extraction method",
+      "Retains nutrients and flavor",
+      "Healthy cooking oil"
+    ]
+  },
+
+  "deliveryInfo": {
+    "delivery": "Amazon Delivered",
+    "returnPolicy": "Non-Returnable",
+    "cashOnDelivery": true,
+    "secureTransaction": true,
+    "freeDelivery": true
+  },
+
+  "offers": {
+    "cashback": "Up to ₹49 cashback with Amazon Pay ICICI Credit Card",
+    "bankOffer": "Up to ₹99.90 discount on select Credit Cards",
+    "partnerOffer": "Buy 2 get 2% off"
+  },
+
+  "additionalInfo": {
+    "idealFor": "Daily cooking and frying",
+    "healthBenefit": "Supports heart health and provides essential nutrients",
+    "storageNote": "Store in a cool and dry place away from direct sunlight"
+  },
+
+  "tags": [
+    "Groundnut Oil",
+    "Peanut Oil",
+    "Cold Pressed Oil",
+    "Cooking Oil",
+    "Healthy Oil",
+    "Jivo Oil",
+    "Grocery Product"
   ]
 }
 
