@@ -13594,6 +13594,117 @@
     "Prescription Cream",
     "Topical Medication"
   ]
+},
+
+{
+  "id": "acgl-aefc-2mm-batch-coding-machine",
+  "name": "AEFC 2MM Manual Batch Coding Machine (MRP, Date & Batch Printer)",
+  "category": "industrial & business tools",
+  "price": 4999,
+  "discountPrice": 1999,
+  "discountRate": 60,
+  "rating": 4.6,
+  "reviews": 118,
+  "ratingText": "4.6 out of 5 stars",
+  "reviewText": "Based on 118 customer ratings on Amazon",
+  "badge": "Top Brand",
+  "shortLink": "https://amzn.to/4tnA2XV",
+  "fullLink": "https://www.amazon.in/gp/product/B0D9TRPHFV?smid=A20MNVLN4JI6UP&th=1&linkCode=ll2&tag=valdio-21&linkId=cf5b32c713b872dc89c59868a15318f8&ref_=as_li_ss_tl",
+  "image": "https://m.media-amazon.com/images/I/71xFZy5VKpL._SL1500_.jpg",
+
+  "description": "ACGL AEFC 2MM Manual Batch Coding Machine is a heavy-duty industrial printer designed for printing MRP, manufacturing date, expiry date, and batch numbers on various packaging materials. It features a durable steel body, manual operation, and high-quality rubber fonts for sharp and clear impressions.",
+
+  "features": [
+    "2MM sharp print output for clear MRP, date and batch marking",
+    "Heavy-duty steel body for long-lasting durability",
+    "Manual operation – no electricity required",
+    "Fast and smooth pressing mechanism",
+    "Compatible with 50–500 gram packaging",
+    "Hard rubber fonts for long-term usage",
+    "Multi-surface printing capability (plastic, paper, carton, labels)"
+  ],
+
+  "variants": [
+    {
+      "model": "AEFC-2MM",
+      "price": 1999,
+      "mrp": 4999,
+      "discountRate": 60
+    },
+    {
+      "model": "AEFC-3MM",
+      "price": 1999,
+      "mrp": 4999,
+      "discountRate": 60
+    },
+    {
+      "model": "AXCP-4MM",
+      "price": 2499,
+      "mrp": 4999,
+      "discountRate": 50
+    }
+  ],
+
+  "productDetails": {
+    "brand": "ACGL",
+    "machineType": "Manual Batch Coding Machine",
+    "printingSize": "2MM",
+    "material": "Heavy-duty Steel",
+    "operation": "Manual (No electricity required)",
+    "compatiblePackaging": "50–500 gram pouches",
+    "printingSurface": [
+      "Plastic pouches",
+      "Laminated labels",
+      "Cardboard cartons",
+      "Paper packs"
+    ],
+    "includedItems": [
+      "1 Batch Coding Machine",
+      "1 Letter Box",
+      "100 ml Black Ink",
+      "100 ml Ink Solvent",
+      "1 Scissor",
+      "1 Tweezers",
+      "Extra Ink Pad"
+    ],
+    "specialFeatures": [
+      "Durable rubber fonts",
+      "Industrial-grade build",
+      "Portable and easy to use",
+      "Clear and consistent print quality"
+    ]
+  },
+
+  "deliveryInfo": {
+    "delivery": "Amazon Delivered",
+    "returnPolicy": "10 Days Returnable",
+    "cashOnDelivery": false,
+    "secureTransaction": true,
+    "freeDelivery": true,
+    "warranty": "1 Year Warranty"
+  },
+
+  "offers": {
+    "cashback": "Up to ₹99 cashback with Amazon Pay ICICI Credit Card",
+    "bankOffer": "Up to ₹2,500 discount on select Credit Cards",
+    "emi": "No Cost EMI available",
+    "partnerOffer": "Get GST invoice and save up to 18% on business purchases"
+  },
+
+  "additionalInfo": {
+    "usageNote": "Ensure proper ink application and surface cleaning before printing for best results",
+    "targetUsers": "Small businesses, FMCG packaging units, home-based manufacturers"
+  },
+
+  "tags": [
+    "Batch Coding Machine",
+    "MRP Printing Machine",
+    "Manual Printer",
+    "Packaging Tool",
+    "Industrial Equipment",
+    "Date Printing Machine",
+    "Small Business Tool"
+  ]
 }
 
 
