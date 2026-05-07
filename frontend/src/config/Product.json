@@ -13884,6 +13884,110 @@
     "Jivo Oil",
     "Grocery Product"
   ]
+},
+
+{
+  "id": "godrej-fab-liquid-detergent-4l",
+  "name": "Godrej Fab Liquid Detergent Refill Pouch for Machine - 4 L",
+  "category": "home care & cleaning",
+  "price": 425,
+  "discountPrice": 343,
+  "discountRate": 19,
+  "rating": 4.3,
+  "reviews": 11248,
+  "ratingText": "4.3 out of 5 stars",
+  "reviewText": "Based on 11,248 customer ratings on Amazon",
+  "badge": "Amazon's Choice",
+
+  "shortLink": "https://amzn.to/4nfnksX",
+  "fullLink": "https://www.amazon.in/Godrej-Fab-Liquid-Detergent-Machine/dp/B0DW43GXSH?crid=4B05OPVHB560&dib=eyJ2IjoiMSJ9.xc7SpboCSuCRaRpRmX95AbCDBqeMSHlTHt4E05tiF1kfaLagdS4qFijVjXm7CnpoThfvyxYE8FKVas6tGUnhyngLZdDIhgfOEHlweL4kEumbTlrcnki5YdG-xjM7uJYF_Vxxzk9MapdVpuFZYETWr-DiFMMcGrFRLlTfq3vo9ZNtZha4OAGmO2cVzw9XeVB0f2_PGvYrKwiHNS-pJdKJ6EmxkZfBefrvVxAEW5Y9NZOuCpZJEc1W42E7HNgS30V_dXdeuZlRHeeqmuluLvdqUm-G3Ckn8yK-2kwzuX7Ws7Y.8cf1N7TpntayXkjrwhfu71SSJoUVCqLJ_MGcyuKnkQ8&dib_tag=se&keywords=washing%2Bmachine%2Bliquid&qid=1778180542&sprefix=waching%2Bmachine%2Bliqu%2Caps%2C426&sr=8-6&th=1&linkCode=ll2&tag=valdio-21&linkId=e3d8cf5fa52d9d4fe4a0a7d26aa4c8c6&ref_=as_li_ss_tl",
+
+  "image": "https://m.media-amazon.com/images/I/71VBwNaWwGL._SL1500_.jpg",
+
+  "description": "Godrej Fab Liquid Detergent is a powerful laundry cleaning solution specially designed for washing machines. It removes tough stains, maintains fabric softness, and leaves a refreshing floral fragrance after every wash.",
+
+  "features": [
+    "Suitable for both front load and top load washing machines",
+    "Effective stain removal formula",
+    "Leaves long-lasting floral fragrance",
+    "Maintains fabric softness and color",
+    "Low foam formula ideal for machines",
+    "Easy to dissolve liquid detergent"
+  ],
+
+  "variants": [
+    {
+      "size": "4 L (Pack of 1)",
+      "price": 343,
+      "mrp": 425,
+      "discountRate": 19
+    },
+    {
+      "size": "2 L (Pack of 1)",
+      "price": 213,
+      "mrp": 225,
+      "discountRate": 5
+    },
+    {
+      "size": "4 L (Pack of 2)",
+      "price": 686,
+      "mrp": 850,
+      "discountRate": 19
+    },
+    {
+      "size": "850 ml (Pack of 1)",
+      "price": 86,
+      "mrp": 99,
+      "discountRate": 13
+    }
+  ],
+
+  "productDetails": {
+    "brand": "Godrej Fab",
+    "form": "Liquid",
+    "scent": "Floral",
+    "netQuantity": "4000 ml",
+    "usage": [
+      "Machine Wash",
+      "Hand Wash",
+      "Clothes Cleaning"
+    ],
+    "specialFeatures": [
+      "Low foam technology",
+      "Machine-friendly formula",
+      "Color protection",
+      "Fabric care protection"
+    ]
+  },
+
+  "deliveryInfo": {
+    "delivery": "Amazon Delivered",
+    "returnPolicy": "Non-Returnable",
+    "cashOnDelivery": true,
+    "secureTransaction": true,
+    "freeDelivery": true
+  },
+
+  "offers": {
+    "cashback": "Up to ₹17 cashback with Amazon Pay ICICI Credit Card",
+    "bankOffer": "Up to ₹34.30 discount on select Credit Cards",
+    "partnerOffer": "Get GST invoice and save up to 18% on business purchases"
+  },
+
+  "additionalInfo": {
+    "idealFor": "Daily laundry cleaning",
+    "usageNote": "Use recommended quantity based on load size for best results",
+    "storageNote": "Store in a cool and dry place away from direct sunlight"
+  },
+
+  "tags": [
+    "Liquid Detergent",
+    "Washing Machine Liquid",
+    "Laundry Detergent",
+    "Godrej Fab",
+    "Home Cleaning",
+    "Fabric Care"
+  ]
 }
 
 ]
