@@ -14766,6 +14766,113 @@
     "Crunchy Spread",
     "Fitness Nutrition"
   ]
+},
+
+{
+  "id": "jivo-groundnut-oil-1-litre",
+  "name": "Jivo Groundnut Oil 1 Litre (Cold Pressed, Unrefined, Chemical-Free)",
+  "category": "food & grocery",
+  "price": 560,
+  "discountPrice": 199,
+  "discountRate": 64,
+  "rating": 4.1,
+  "reviews": 1047,
+  "ratingText": "4.1 out of 5 stars",
+  "reviewText": "Based on 1,047 customer ratings on Amazon",
+  "badge": "Amazon's Choice",
+
+  "shortLink": "https://amzn.to/4wmNjCN",
+  "fullLink": "https://www.amazon.in/gp/product/B0CKFFW9B6?smid=A15APWRK6P7LBV&th=1&linkCode=ll2&tag=valdio-21&linkId=8a5c1e339558179e35f4d91c867ebfad&ref_=as_li_ss_tl",
+
+  "image": "https://m.media-amazon.com/images/I/619gDp5giuL._SL1500_.jpg",
+
+  "description": "Jivo Groundnut Oil is a cold-pressed, unrefined cooking oil made from high-quality peanuts. It is rich in healthy fats and fortified with Vitamin A & D, making it a healthier choice for everyday cooking. Free from chemicals and additives, it preserves natural taste and nutrition.",
+
+  "features": [
+    "Cold pressed and unrefined oil",
+    "Made from high-quality peanuts",
+    "Rich in healthy fats",
+    "Fortified with Vitamin A & D",
+    "No added chemicals or preservatives",
+    "Retains natural flavor and aroma",
+    "Suitable for daily cooking and frying"
+  ],
+
+  "variants": [
+    {
+      "size": "1 Litre (Pack of 1)",
+      "price": 199,
+      "mrp": 560,
+      "discountRate": 64
+    },
+    {
+      "size": "5 Litre (Pack of 1)",
+      "price": 999,
+      "mrp": 2800,
+      "discountRate": 64
+    },
+    {
+      "size": "1 Litre (Pack of 2)",
+      "price": 620,
+      "mrp": 800,
+      "discountRate": 23
+    },
+    {
+      "size": "6 Litre (Pack of 2)",
+      "price": 1685,
+      "mrp": 3200,
+      "discountRate": 47
+    }
+  ],
+
+  "productDetails": {
+    "brand": "JIVO",
+    "itemForm": "Liquid",
+    "flavour": "Groundnut (Peanut)",
+    "dietType": "Vegetarian",
+    "netQuantity": "1 Litre",
+    "processingType": "Cold Pressed",
+    "fortification": [
+      "Vitamin A",
+      "Vitamin D"
+    ],
+    "specialFeatures": [
+      "Unrefined oil",
+      "Chemical-free",
+      "Natural aroma",
+      "Nutrient-rich"
+    ]
+  },
+
+  "deliveryInfo": {
+    "delivery": "Amazon Delivered",
+    "returnPolicy": "Non-Returnable",
+    "cashOnDelivery": true,
+    "secureTransaction": true,
+    "freeDelivery": true
+  },
+
+  "offers": {
+    "cashback": "Up to ₹5 cashback with Amazon Pay ICICI Credit Card",
+    "bankOffer": "Up to ₹19.90 discount on HDFC Bank Credit Cards",
+    "partnerOffer": "Buy 2 and get 2% off"
+  },
+
+  "additionalInfo": {
+    "idealFor": "Daily cooking, frying and sautéing",
+    "usageNote": "Store in a cool and dry place away from sunlight",
+    "healthBenefit": "Supports heart health with healthy fats"
+  },
+
+  "tags": [
+    "Groundnut Oil",
+    "Cold Pressed Oil",
+    "Healthy Cooking Oil",
+    "Peanut Oil",
+    "Unrefined Oil",
+    "Chemical Free Oil",
+    "Kitchen Essentials"
+  ]
 }
 
 ]
