@@ -15391,6 +15391,112 @@
     "Band Collar T-Shirt",
     "Regular Fit T-Shirt"
   ]
+},
+
+{
+  "id": "peter-england-mens-regular-fit-polo-tshirt",
+  "name": "Peter England Men's Regular Fit Insignia Half Sleeve Polo T-Shirt | Cotton Rich Pique",
+  "category": "fashion & clothing",
+  "price": 1099,
+  "discountPrice": 483,
+  "discountRate": 56,
+  "rating": 4.0,
+  "reviews": 3494,
+  "ratingText": "4.0 out of 5 stars",
+  "reviewText": "Based on 3,494 customer ratings on Amazon",
+  "badge": "Top Brand",
+
+  "shortLink": "https://amzn.to/4u3BeAM",
+  "fullLink": "https://www.amazon.in/dp/B09XMTQL9W?social_share=cm_sw_r_apan_dp_4235RV46GYJQZNMQERMG&th=1&psc=1&linkCode=ll2&tag=valdio-21&linkId=9558d949eed6c09d9f8a0313bb520d29&ref_=as_li_ss_tl",
+
+  "image": "https://m.media-amazon.com/images/I/81V9Cw7P4tL._SX569_.jpg",
+
+  "description": "Peter England Men’s Regular Fit Polo T-Shirt is crafted with a cotton-rich fabric and premium pique weave, offering superior comfort and durability. Designed with a classic polo collar and half sleeves, it delivers a smart casual look perfect for everyday wear.",
+
+  "features": [
+    "Cotton-rich fabric with breathable comfort",
+    "Premium pique weave for durability and texture",
+    "Classic polo collar design",
+    "Regular fit suitable for all body types",
+    "Half sleeve design for casual styling",
+    "Soft, lightweight and skin-friendly material",
+    "Ideal for casual wear, office and outings"
+  ],
+
+  "variants": [
+    {
+      "color": "Forest Green",
+      "price": 483,
+      "mrp": 1099,
+      "discountRate": 56
+    },
+    {
+      "color": "Cyber Yellow",
+      "price": 461,
+      "mrp": 1099,
+      "discountRate": 58
+    },
+    {
+      "color": "Black",
+      "price": 579,
+      "mrp": 899,
+      "discountRate": 36
+    },
+    {
+      "color": "White / Grey / Maroon / Olive",
+      "price": 599,
+      "mrp": 1099,
+      "discountRate": 45
+    }
+  ],
+
+  "productDetails": {
+    "brand": "Peter England",
+    "materialComposition": "60% Polyester, 40% Cotton",
+    "fabricType": "Pique",
+    "fitType": "Regular Fit",
+    "pattern": "Solid",
+    "sleeveType": "Half Sleeve",
+    "collarStyle": "Polo Collar",
+    "length": "Standard Length",
+    "idealFor": "Men",
+    "occasion": [
+      "Casual Wear",
+      "Office Wear",
+      "Daily Use"
+    ]
+  },
+
+  "deliveryInfo": {
+    "delivery": "Amazon Delivered",
+    "returnPolicy": "10 Days Return & Exchange",
+    "cashOnDelivery": true,
+    "secureTransaction": true,
+    "freeDelivery": true
+  },
+
+  "offers": {
+    "cashback": "Up to ₹14 cashback with Amazon Pay ICICI Credit Card",
+    "bankOffer": "Up to ₹1,000 discount on HDFC Bank Credit Cards",
+    "partnerOffer": "Get GST invoice and save up to 18% on business purchases",
+    "upiReward": "Earn ₹4.8 on UPI payments"
+  },
+
+  "additionalInfo": {
+    "styleNote": "Pairs well with jeans, chinos and sneakers for a smart casual look",
+    "careInstructions": "Machine wash, avoid bleach, wash with similar colors",
+    "targetUsers": "Men looking for affordable premium casual wear"
+  },
+
+  "tags": [
+    "Polo T-Shirt",
+    "Peter England",
+    "Men Clothing",
+    "Casual Wear",
+    "Cotton Rich T-Shirt",
+    "Pique Polo",
+    "Regular Fit T-Shirt"
+  ]
 }
 
 ]
