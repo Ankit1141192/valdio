@@ -15806,6 +15806,102 @@
     "Color Protection",
     "Washing Machine Liquid"
   ]
+},
+
+{
+  "id": "saffola-honey-gold-100-pure-1kg",
+  "name": "Saffola Honey Gold, 100% Pure Honey, Made with Kashmir Honey, 1Kg",
+  "category": "grocery & food",
+  "price": 500,
+  "discountPrice": 500,
+  "discountRate": 0,
+  "rating": 4.2,
+  "reviews": 876,
+  "ratingText": "4.2 out of 5 stars",
+  "reviewText": "Based on 876 customer ratings on Amazon",
+  "badge": "Amazon's Choice",
+
+  "shortLink": "https://amzn.to/4dlBh45",
+  "fullLink": "https://www.amazon.in/dp/B0B9ZQHGBT?social_share=cm_sw_r_cso_tg_apan_dp_4QG4MQ0020BVKREB4283&linkCode=ll2&tag=valdio-21&linkId=10180e768c8f7a4b0beaadc7a2a44dd6&ref_=as_li_ss_tl",
+
+  "image": "https://m.media-amazon.com/images/I/71iHdrSTMYL._SL1500_.jpg",
+
+  "description": "Saffola Honey Gold is a 100% pure and natural honey made with premium Kashmir honey. It offers natural sweetness, rich taste, and multiple health benefits, making it ideal for daily consumption in beverages, cooking, and wellness routines.",
+
+  "features": [
+    "100% pure and natural honey",
+    "Made with premium Kashmir honey",
+    "Rich taste and smooth texture",
+    "Natural energy booster",
+    "No added sugar or artificial preservatives",
+    "Suitable for daily consumption",
+    "Ideal for beverages, cooking and health use"
+  ],
+
+  "variants": [
+    {
+      "size": "1 kg",
+      "price": 500,
+      "mrp": 500,
+      "discountRate": 0
+    },
+    {
+      "size": "500 g",
+      "price": 260,
+      "mrp": 300,
+      "discountRate": 13
+    }
+  ],
+
+  "productDetails": {
+    "brand": "Saffola",
+    "itemForm": "Liquid",
+    "flavour": "Natural Honey",
+    "netQuantity": "1 kg",
+    "origin": "Kashmir Honey",
+    "specialFeatures": [
+      "No added sugar",
+      "No artificial preservatives",
+      "Rich in antioxidants",
+      "Natural immunity support"
+    ],
+    "recommendedUse": [
+      "Tea & beverages",
+      "Cooking & baking",
+      "Health & wellness",
+      "Daily consumption"
+    ]
+  },
+
+  "deliveryInfo": {
+    "delivery": "Amazon Delivered",
+    "returnPolicy": "Non-Returnable",
+    "cashOnDelivery": true,
+    "secureTransaction": true,
+    "freeDelivery": true
+  },
+
+  "offers": {
+    "cashback": "Up to ₹15 cashback with Amazon Pay ICICI Credit Card",
+    "bankOffer": "Up to ₹50 discount on HDFC Bank Credit Cards",
+    "partnerOffer": "Get GST invoice and save up to 18% on business purchases"
+  },
+
+  "additionalInfo": {
+    "storage": "Store in a cool and dry place, away from direct sunlight",
+    "usageNote": "Crystallization is natural and does not affect quality",
+    "targetUsers": "Health-conscious individuals, families, and daily users"
+  },
+
+  "tags": [
+    "Honey",
+    "Saffola",
+    "Natural Honey",
+    "Kashmir Honey",
+    "Healthy Food",
+    "Immunity Booster",
+    "Organic Sweetener"
+  ]
 }
 
 ]
