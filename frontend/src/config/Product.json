@@ -14655,6 +14655,117 @@
     "Electric Repellent",
     "Safe for Family"
   ]
+},
+
+{
+  "id": "alpino-high-protein-peanut-butter-crunch-1kg",
+  "name": "Alpino High Protein Natural Peanut Butter Crunch 1kg (Unsweetened, 100% Roasted Peanuts)",
+  "category": "food & nutrition",
+  "price": 449,
+  "discountPrice": 351,
+  "discountRate": 22,
+  "rating": 4.3,
+  "reviews": 21689,
+  "ratingText": "4.3 out of 5 stars",
+  "reviewText": "Based on 21,689 customer ratings on Amazon",
+  "badge": "Top Brand",
+
+  "shortLink": "https://amzn.to/4fcasla",
+  "fullLink": "https://www.amazon.in/Alpino-Natural-Peanut-Butter-Unsweetened/dp/B077S4V3V9?crid=1T57A1UKF9SCI&dib=eyJ2IjoiMSJ9.41fvN9t5lAQV06416y9hPY8B1iU9LDYN21-QS7zuIDc2i4ACOaZNfgrqUfRePiBKog2QR8cXE1-tjlX0oNhAr3sjdFTv_7vkkCpt8xf-CDZ-gRKmxAxMMa8o_gLYNTGrRLfhOnBR_Yclx0D5XKy6jcfL8NPkz7bFlBbn4Q5Zd0sWCgjj1c5bkhO7q9DpQPi8HHgA6jS4e-F_VfLA5g4IYsmRaizLP8a70OuZnyvUhtLCFww-sB8JuZTOR-V7HHruYU7p1U0z4vUFFpVf4EZPuWwRwvNrDlSM7eHF3wjzTy8.5kTiZEoryPbZcx7zx8XctAmSMxqEyDGcb8GTFfwqA7A&dib_tag=se&keywords=peanut%2Bbutter&qid=1778384951&rdc=1&sprefix=peanut%2Bbutt%2Caps%2C446&sr=8-7&th=1&linkCode=ll2&tag=valdio-21&linkId=eb451abe398086ea5000e487c5918064&ref_=as_li_ss_tl",
+
+  "image": "https://m.media-amazon.com/images/I/71zRgmoMoqL._SL1500_.jpg",
+
+  "description": "Alpino High Protein Natural Peanut Butter Crunch is made from 100% roasted peanuts, offering a rich source of protein and healthy fats. It is unsweetened, with no added sugar or salt, making it a perfect choice for fitness enthusiasts and healthy lifestyles.",
+
+  "features": [
+    "Made from 100% roasted peanuts",
+    "High protein content for muscle support",
+    "Rich source of healthy fats",
+    "No added sugar or salt",
+    "Crunchy texture for better taste",
+    "Suitable for fitness diets and weight management",
+    "Natural and preservative-free"
+  ],
+
+  "variants": [
+    {
+      "size": "1 kg (Pack of 1)",
+      "price": 351,
+      "mrp": 449,
+      "discountRate": 22
+    },
+    {
+      "size": "400 g (Pack of 2)",
+      "price": 328,
+      "mrp": 438,
+      "discountRate": 25
+    },
+    {
+      "size": "400 g (Pack of 1)",
+      "price": 126,
+      "mrp": 219,
+      "discountRate": 42
+    },
+    {
+      "size": "1 kg (Pack of 2)",
+      "price": 639,
+      "mrp": 898,
+      "discountRate": 29
+    }
+  ],
+
+  "productDetails": {
+    "brand": "Alpino",
+    "itemForm": "Paste",
+    "flavour": "Crunchy Peanut Butter",
+    "dietType": "Vegetarian",
+    "netQuantity": "1 kg",
+    "ingredients": [
+      "100% Roasted Peanuts"
+    ],
+    "specialFeatures": [
+      "High protein",
+      "No added sugar",
+      "No added salt",
+      "Natural ingredients",
+      "Fitness-friendly"
+    ],
+    "nutritionHighlights": [
+      "Protein rich",
+      "Healthy fats",
+      "Energy boosting"
+    ]
+  },
+
+  "deliveryInfo": {
+    "delivery": "Amazon Delivered",
+    "returnPolicy": "Non-Returnable",
+    "cashOnDelivery": true,
+    "secureTransaction": true,
+    "freeDelivery": true
+  },
+
+  "offers": {
+    "cashback": "Up to ₹10 cashback with Amazon Pay ICICI Credit Card",
+    "bankOffer": "Up to ₹35.10 discount on HDFC Bank Credit Cards",
+    "partnerOffer": "Buy 4 units and get extra 5% off"
+  },
+
+  "additionalInfo": {
+    "idealFor": "Gym, fitness, weight management and healthy diet",
+    "usageNote": "Stir well before use as natural oil separation may occur",
+    "storage": "Store in a cool and dry place"
+  },
+
+  "tags": [
+    "Peanut Butter",
+    "High Protein",
+    "Healthy Food",
+    "Gym Diet",
+    "Natural Peanut Butter",
+    "Crunchy Spread",
+    "Fitness Nutrition"
+  ]
 }
 
 ]
