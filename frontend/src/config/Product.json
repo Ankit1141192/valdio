@@ -14873,6 +14873,118 @@
     "Chemical Free Oil",
     "Kitchen Essentials"
   ]
+},
+
+{
+  "id": "jam-honey-3in1-baby-ride-on-rocker-blue-grey",
+  "name": "Amazon Brand - Jam & Honey 3-in-1 Baby Push Ride-On Rocker with Balancing Board (Blue & Grey)",
+  "category": "Baby toys & activity",
+  "price": 3499,
+  "discountPrice": 999,
+  "discountRate": 71,
+  "rating": 4.1,
+  "reviews": 216,
+  "ratingText": "4.1 out of 5 stars",
+  "reviewText": "Based on 216 customer ratings on Amazon",
+  "badge": "Great Summer Deal",
+
+  "shortLink": "https://amzn.to/430y1WM",
+  "fullLink": "https://www.amazon.in/dp/B0DTVMWPNB?social_share=cm_sw_r_cso_tg_apin_dp_1CKK9VM5A7Q6YAWNHQA2&th=1&linkCode=ll2&tag=valdio-21&linkId=854b248da74ddf1526bfa6701de40bb4&ref_=as_li_ss_tl",
+
+  "image": "https://m.media-amazon.com/images/I/81mcZrIZSbL._SL1500_.jpg",
+
+  "description": "Jam & Honey 3-in-1 Baby Ride-On Rocker is a versatile toy that transforms into a ride-on, rocker, and balancing board. Designed with a cute pony theme, it helps toddlers develop balance, coordination, and motor skills while ensuring safe and fun playtime.",
+
+  "features": [
+    "3-in-1 convertible design: ride-on, rocker, and balancing board",
+    "Cute pony animal theme to engage kids",
+    "Lightweight and easy to move",
+    "Made from non-toxic, child-safe materials",
+    "Supports balance and motor skill development",
+    "Sturdy wheels and wide base for stability",
+    "Easy-grip handles for better control"
+  ],
+
+  "variants": [
+    {
+      "color": "Pony - Dark Blue",
+      "price": 999,
+      "mrp": 3499,
+      "discountRate": 71
+    },
+    {
+      "color": "Pony - Red",
+      "price": 1099,
+      "mrp": 3499,
+      "discountRate": 69
+    },
+    {
+      "color": "Puppy - Green",
+      "price": 1299,
+      "mrp": 3999,
+      "discountRate": 68
+    },
+    {
+      "color": "Puppy - Orange",
+      "price": 1199,
+      "mrp": 3999,
+      "discountRate": 70
+    }
+  ],
+
+  "productDetails": {
+    "brand": "Jam & Honey",
+    "type": "Ride-On & Rocker Toy",
+    "ageGroup": "12 Months+",
+    "material": "Non-toxic Plastic",
+    "color": "Blue & Grey",
+    "specialFeatures": [
+      "3-in-1 functionality",
+      "Lightweight and portable",
+      "Stable design",
+      "Child-safe materials",
+      "Interactive play"
+    ],
+    "includedItems": [
+      "Ride-On Body Assembly",
+      "Rocker Base",
+      "Handle Set",
+      "Eye Label Set",
+      "Nut",
+      "Instruction Manual"
+    ]
+  },
+
+  "deliveryInfo": {
+    "delivery": "Amazon Delivered",
+    "returnPolicy": "10 Days Replacement",
+    "cashOnDelivery": true,
+    "secureTransaction": true,
+    "freeDelivery": true
+  },
+
+  "offers": {
+    "cashback": "Up to ₹29 cashback with Amazon Pay ICICI Credit Card",
+    "bankOffer": "Up to ₹1,000 discount on HDFC Bank Credit Cards",
+    "partnerOffer": "Buy 2 and get 5% off",
+    "upiReward": "Earn ₹9.9 on UPI payments"
+  },
+
+  "additionalInfo": {
+    "idealFor": "Toddlers learning balance and coordination",
+    "usageNote": "Adult supervision recommended during use",
+    "playBenefit": "Improves motor skills, balance, and coordination"
+  },
+
+  "tags": [
+    "Ride On Toy",
+    "Baby Rocker",
+    "Kids Toy",
+    "3 in 1 Toy",
+    "Toddler Activity Toy",
+    "Balancing Board",
+    "Indoor Outdoor Toy"
+  ]
 }
 
 ]
