@@ -14435,6 +14435,122 @@
     "Herbal Baby Powder",
     "Hypoallergenic Powder"
   ]
+},
+
+{
+  "id": "himalaya-baby-powder-400g-pack-of-2",
+  "name": "Himalaya Baby Powder 400g (Pack of 2) with Yashad Bhasma & Vetiver",
+  "category": "Baby-Products",
+  "price": 700,
+  "discountPrice": 349,
+  "discountRate": 50,
+  "rating": 4.4,
+  "reviews": 52977,
+  "ratingText": "4.4 out of 5 stars",
+  "reviewText": "Based on 52,977 customer ratings on Amazon",
+  "badge": "#1 Best Seller",
+
+  "shortLink": "https://amzn.to/4d2p6dw",
+  "fullLink": "https://www.amazon.in/Himalaya-Doctor-Prescribed-Sweat-Free-Refreshing-Newborns/dp/B0GMQXGZ4S?crid=NBWRW3CSPOZI&dib=eyJ2IjoiMSJ9.o3FQzC6aoHvq2SrvkXb2pgVvXgb6yuDSmx6c1CH-9EjIuhAHBV9eWyofwTxmrubOMZ1oIxKfibT00_6aopggIwgSKd9368yGBw2MGrVxsH_hrMIPwWzRDpro1uhU3zeuB_-Tb3URVom5tWiYXJFgHDWm0RcM4owj9nn4OYHwy5UACxHwnKxkxT9_Q4y0Vv4K0GPfnPZhm9l-t8lN44pN681oSFBVbi7K2LmDgZXz3PBWxi4LBuLqh3Hgy_8KU_JeUFYEuhetcyKytVKUHAWUYI7XZdP4JAszXh4J2iuqzcM.Sybe1IUnjhHre5laO59RDEU8w56R8NiUUzOM5iWCeRk&dib_tag=se&keywords=baby%2Bpowder&qid=1778350358&s=baby&sprefix=baby%2Bpowder%2Cbaby%2C422&sr=1-7&th=1&linkCode=ll2&tag=valdio-21&linkId=9c0052d1d7d04acd8ab1f7c073f0b1fe&ref_=as_li_ss_tl",
+
+  "image": "https://m.media-amazon.com/images/I/71spNcjfPFL._SL1500_.jpg",
+
+  "description": "Himalaya Baby Powder 400g (Pack of 2) is a gentle, herbal formulation enriched with Yashad Bhasma and Vetiver to protect delicate baby skin. It helps keep skin dry, sweat-free, and refreshed while preventing irritation and rashes. Ideal for daily use on newborns and babies.",
+
+  "features": [
+    "Enriched with Yashad Bhasma for skin protection",
+    "Contains Vetiver for cooling and soothing effect",
+    "Keeps baby's skin sweat-free and fresh",
+    "Dermatologically tested and hypoallergenic",
+    "Safe for newborns and daily use",
+    "Free from parabens, phthalates, and synthetic colors",
+    "Helps prevent irritation and diaper rash"
+  ],
+
+  "variants": [
+    {
+      "size": "400 g (Pack of 2)",
+      "price": 349,
+      "mrp": 700,
+      "discountRate": 50
+    },
+    {
+      "size": "400 g (Pack of 1)",
+      "price": 199,
+      "mrp": 350,
+      "discountRate": 43
+    },
+    {
+      "size": "200 g (Pack of 1)",
+      "price": 153,
+      "mrp": 215,
+      "discountRate": 29
+    },
+    {
+      "size": "100 g (Pack of 1)",
+      "price": 106,
+      "mrp": 111,
+      "discountRate": 5
+    },
+    {
+      "size": "700 g (Pack of 1)",
+      "price": 500,
+      "mrp": 540,
+      "discountRate": 7
+    }
+  ],
+
+  "productDetails": {
+    "brand": "Himalaya",
+    "form": "Powder",
+    "skinType": "All Skin Types",
+    "ageGroup": "Newborn & Baby",
+    "scent": "Gentle Baby Powder",
+    "netQuantity": "800 g (2 x 400 g)",
+    "keyIngredients": [
+      "Yashad Bhasma",
+      "Vetiver"
+    ],
+    "specialFeatures": [
+      "Hypoallergenic",
+      "Dermatologically tested",
+      "Cooling and soothing",
+      "Sweat absorption",
+      "Chemical-free formulation"
+    ]
+  },
+
+  "deliveryInfo": {
+    "delivery": "Amazon Delivered",
+    "returnPolicy": "Non-Returnable",
+    "cashOnDelivery": true,
+    "secureTransaction": true,
+    "freeDelivery": true
+  },
+
+  "offers": {
+    "cashback": "Up to ₹10 cashback with Amazon Pay ICICI Credit Card",
+    "bankOffer": "Up to ₹34.90 discount on HDFC Bank Credit Cards",
+    "coupon": "5% coupon available",
+    "partnerOffer": "Get GST invoice and save up to 18%",
+    "upiReward": "Earn ₹3.4 on UPI payments"
+  },
+
+  "additionalInfo": {
+    "idealFor": "Daily baby care, sweat control and rash prevention",
+    "usageNote": "Apply gently on baby's skin after bath or diaper change",
+    "keyBenefit": "Keeps baby skin dry, cool, and irritation-free"
+  },
+
+  "tags": [
+    "Baby Powder",
+    "Himalaya Baby Care",
+    "Newborn Care",
+    "Sweat Control",
+    "Rash Prevention",
+    "Herbal Baby Powder",
+    "Hypoallergenic Powder"
+  ]
 }
 
 ]
