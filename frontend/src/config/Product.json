@@ -14551,6 +14551,110 @@
     "Herbal Baby Powder",
     "Hypoallergenic Powder"
   ]
+},
+
+{
+  "id": "good-knight-power-activ-plus-liquid-vaporiser-pack-of-6",
+  "name": "Good Knight Power Activ+ Liquid Vaporiser Pack of 6 (45ml Each)",
+  "category": "home care & cleaning",
+  "price": 495,
+  "discountPrice": 361,
+  "discountRate": 27,
+  "rating": 4.3,
+  "reviews": 57011,
+  "ratingText": "4.3 out of 5 stars",
+  "reviewText": "Based on 57,011 customer ratings on Amazon",
+  "badge": "Amazon's Choice",
+
+  "shortLink": "https://amzn.to/4nsz1ww",
+  "fullLink": "https://www.amazon.in/Good-knight-Vapourizer-Mosquito-Repellent/dp/B07N7NK48S?crid=6VIT5ILJHW4X&dib=eyJ2IjoiMSJ9.6MENouefRelVu2ljz2EDbtplGEJCWPfyyOPj-mFMhil8U6koKRb_0Hr6YxhrGjApRR3o4GWVSzorQVN7WsPeZcM0_Gye4LySwxxPFRDgQVLw-kXwWBAsWhT1GkvKlF-hJSuUPLiasA8zCBUJMUSy3APA0W5lj1FBAjNg_3XA6IU1gpKRP4sCvWIoAvDW6t36TLocl_u2BpfwgTQT4dtdiLBmZ35aygAXKptmyPRqCVfxJR4PFMh8JKLV6rst1_yptlUSLK1svxBA0SI9OQqi2KrJIfTlHJHRpl83lFl2hAk.omsEkRjJ6IiKn_TVYCTRN0RciTUVICn3WJNZvNgzdDY&dib_tag=se&keywords=good%2Bnight&qid=1778382066&sprefix=good%2Bnig%2Caps%2C484&sr=8-5&th=1&linkCode=ll2&tag=valdio-21&linkId=9cf8706be3d964c34825cb98b4d06dbe&ref_=as_li_ss_tl",
+
+  "image": "https://m.media-amazon.com/images/I/714k7aOFerL._SL1500_.jpg",
+
+  "description": "Good Knight Power Activ+ Liquid Vaporiser is a powerful mosquito repellent solution designed for fast and long-lasting protection. This pack of 6 refills (45ml each) provides effective mosquito control, ensuring a safe and comfortable environment for your family.",
+
+  "features": [
+    "2X faster mosquito repellent action",
+    "Provides protection even after switching off",
+    "Each refill lasts up to 45 days (8 hours daily use)",
+    "Safe for use around children and family",
+    "Advanced liquid vaporiser technology",
+    "Works effectively with Good Knight machines",
+    "Non-toxic formulation"
+  ],
+
+  "variants": [
+    {
+      "pack": "Pack of 6 (45ml each)",
+      "price": 361,
+      "mrp": 495,
+      "discountRate": 27
+    },
+    {
+      "pack": "Pack of 4",
+      "price": 260,
+      "mrp": 340,
+      "discountRate": 24
+    },
+    {
+      "pack": "Pack of 2",
+      "price": 144,
+      "mrp": 180,
+      "discountRate": 20
+    },
+    {
+      "pack": "Pack of 1",
+      "price": 72,
+      "mrp": 90,
+      "discountRate": 20
+    }
+  ],
+
+  "productDetails": {
+    "brand": "Good Knight",
+    "form": "Liquid",
+    "scent": "Unscented",
+    "netQuantity": "270 ml (6 x 45 ml)",
+    "usageType": "Electric Vaporiser Refill",
+    "safety": "Safe for children and family",
+    "specialFeatures": [
+      "2X faster action",
+      "Long-lasting protection",
+      "2-hour continuous action after switch off",
+      "Non-toxic formula"
+    ]
+  },
+
+  "deliveryInfo": {
+    "delivery": "Amazon Delivered",
+    "returnPolicy": "Non-Returnable",
+    "cashOnDelivery": true,
+    "secureTransaction": true,
+    "freeDelivery": true
+  },
+
+  "offers": {
+    "cashback": "Up to 5% cashback with Amazon Pay ICICI Credit Card",
+    "bankOffer": "Up to 10% discount on HDFC Credit Cards",
+    "partnerOffer": "GST invoice available",
+    "upiReward": "Earn ₹3.6 on UPI payments"
+  },
+
+  "additionalInfo": {
+    "idealFor": "Home mosquito protection",
+    "usageNote": "Use only with Good Knight electric vaporiser machine for best results",
+    "lastingDuration": "Up to 45 days per refill (8 hours/day usage)"
+  },
+
+  "tags": [
+    "Mosquito Repellent",
+    "Liquid Vaporiser",
+    "Good Knight Refill",
+    "Home Protection",
+    "Anti Mosquito",
+    "Electric Repellent",
+    "Safe for Family"
+  ]
 }
 
 ]
