@@ -15998,6 +15998,117 @@
     "Chocolate Mould",
     "DIY Craft Tool"
   ]
+},
+
+{
+  "id": "turcy-orange-essential-oil-100ml",
+  "name": "TURCY Orange Essential Oil – 100ml | Pure Herbal Oil for Hair Growth & Focus",
+  "category": "essential oils & wellness",
+  "price": 530,
+  "discountPrice": 266,
+  "discountRate": 50,
+  "rating": 4.0,
+  "reviews": 27,
+  "ratingText": "4.0 out of 5 stars",
+  "reviewText": "Based on 27 customer ratings on Amazon",
+  "badge": "Great Summer Deal",
+
+  "shortLink": "https://amzn.to/4ufIqdi",
+  "fullLink": "https://www.amazon.in/gp/product/B0FF4M9HG3?smid=A3R9XL7J7C7VFA&th=1&linkCode=ll2&tag=valdio-21&linkId=0bd9f1bea3e0d2d2ba5195bda192bdd5&ref_=as_li_ss_tl",
+
+  "image": "https://m.media-amazon.com/images/I/51isxx99z-L._SL1500_.jpg",
+
+  "description": "TURCY Orange Essential Oil is a pure and natural cold-pressed citrus oil extracted from orange peels. It provides an uplifting aroma and is suitable for hair care, skincare, aromatherapy, massage, and DIY beauty products.",
+
+  "features": [
+    "100% pure and natural orange essential oil",
+    "Cold-pressed extraction from orange peels",
+    "Refreshing citrus fragrance for aromatherapy",
+    "Supports glowing skin and helps reduce dark spots",
+    "Useful for hair nourishment and scalp care",
+    "Can be used in diffusers, massage oils and DIY products",
+    "Suitable for all skin types when diluted properly"
+  ],
+
+  "variants": [
+    {
+      "size": "15 ml",
+      "price": 154,
+      "mrp": 280,
+      "discountRate": 45
+    },
+    {
+      "size": "30 ml",
+      "price": 174,
+      "mrp": 320,
+      "discountRate": 46
+    },
+    {
+      "size": "50 ml",
+      "price": 209,
+      "mrp": 400,
+      "discountRate": 48
+    },
+    {
+      "size": "100 ml",
+      "price": 266,
+      "mrp": 530,
+      "discountRate": 50
+    }
+  ],
+
+  "productDetails": {
+    "brand": "TURCY",
+    "itemForm": "Oil",
+    "scent": "Orange",
+    "netQuantity": "100 ml",
+    "color": "Natural",
+    "extractionMethod": "Cold Pressed",
+    "recommendedUses": [
+      "Hair Care",
+      "Skin Care",
+      "Diffuser",
+      "Massage",
+      "DIY Soap Making",
+      "Bath & Aromatherapy"
+    ],
+    "specialFeatures": [
+      "Pure herbal oil",
+      "Chemical free",
+      "Mood uplifting aroma",
+      "Multipurpose use"
+    ]
+  },
+
+  "deliveryInfo": {
+    "delivery": "Amazon Delivered",
+    "returnPolicy": "Non-Returnable",
+    "cashOnDelivery": false,
+    "secureTransaction": true,
+    "freeDelivery": true
+  },
+
+  "offers": {
+    "cashback": "Up to 5% cashback with Amazon Pay ICICI Credit Card",
+    "bankOffer": "10% instant discount on HDFC Bank Credit Cards",
+    "upiReward": "Earn ₹2.6 on UPI payments"
+  },
+
+  "additionalInfo": {
+    "usageNote": "Always dilute with a carrier oil before applying directly on skin or scalp",
+    "storageInstructions": "Store in a cool, dry place away from direct sunlight",
+    "targetUsers": "DIY skincare makers, soap makers, aromatherapy users and hair care enthusiasts"
+  },
+
+  "tags": [
+    "Orange Essential Oil",
+    "Essential Oil",
+    "Aromatherapy Oil",
+    "Hair Care Oil",
+    "DIY Soap Making",
+    "Skincare Oil",
+    "TURCY Oil"
+  ]
 }
 
 ]
