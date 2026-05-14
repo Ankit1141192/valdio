@@ -15902,6 +15902,102 @@
     "Immunity Booster",
     "Organic Sweetener"
   ]
+},
+
+{
+  "id": "generic-12-cavity-silicone-soap-mould-red",
+  "name": "12-Cavity Silicone Mould for Soap Making, Loaf & Muffins - Pack of 1",
+  "category": "soap making & baking tools",
+  "price": 599,
+  "discountPrice": 189,
+  "discountRate": 68,
+  "rating": 3.7,
+  "reviews": 34,
+  "ratingText": "3.7 out of 5 stars",
+  "reviewText": "Based on 34 customer ratings on Amazon",
+  "badge": "Popular Choice",
+
+  "shortLink": "https://amzn.to/4wLEy5F",
+  "fullLink": "https://www.amazon.in/dp/B0F24VRKMT?social_share=cm_sw_r_cso_wa_apan_dp_SF4KRGAJN6E8E4V1HG3E&linkCode=ll2&tag=valdio-21&linkId=2c9361883d732a9549e558c6b1f0ae37&ref_=as_li_ss_tl",
+
+  "image": "https://m.media-amazon.com/images/I/41hnlnzL4lL.jpg",
+
+  "description": "12-Cavity Silicone Mould is a versatile mould designed for soap making, muffins, chocolates, resin crafts, and baked items. Made with premium food-grade silicone, it offers non-stick flexibility for easy demoulding and long-lasting durability.",
+
+  "features": [
+    "12 rectangular cavities for uniform soap or baking shapes",
+    "Made from premium food-grade silicone",
+    "Flexible and non-stick surface for easy release",
+    "Suitable for soap, muffins, chocolates, resin and crafts",
+    "Heat and cold resistant material",
+    "Easy to clean and dishwasher safe",
+    "Reusable and durable design"
+  ],
+
+  "variants": [
+    {
+      "color": "Red",
+      "price": 189,
+      "mrp": 599,
+      "discountRate": 68
+    }
+  ],
+
+  "productDetails": {
+    "brand": "Generic",
+    "material": "Silicone",
+    "color": "Red",
+    "numberOfCavities": 12,
+    "cavityShape": "Rectangular",
+    "itemWeight": "450 grams",
+    "dimensions": "40 x 150 x 25 mm",
+    "temperatureResistance": "-40°C to 230°C",
+    "compatibleUses": [
+      "Soap Making",
+      "Muffins",
+      "Loaf Cakes",
+      "Chocolate",
+      "Resin Craft",
+      "Wax Melts"
+    ],
+    "specialFeatures": [
+      "Food-grade silicone",
+      "Flexible",
+      "Non-stick",
+      "Dishwasher safe"
+    ]
+  },
+
+  "deliveryInfo": {
+    "delivery": "Amazon Delivered",
+    "returnPolicy": "10 Days Returnable",
+    "cashOnDelivery": true,
+    "secureTransaction": true,
+    "freeDelivery": true
+  },
+
+  "offers": {
+    "cashback": "Up to ₹5 cashback with Amazon Pay ICICI Credit Card",
+    "bankOffer": "Up to ₹1,000 discount on HDFC Bank Credit Cards",
+    "partnerOffer": "Buy 2 or more and get 10% off on qualifying items",
+    "upiReward": "Earn ₹1.8 on UPI payments"
+  },
+
+  "additionalInfo": {
+    "usageNote": "Lightly spray alcohol or oil before pouring for smoother demoulding",
+    "careInstructions": "Wash with mild soap and avoid sharp objects",
+    "targetUsers": "DIY soap makers, bakers, resin artists and small businesses"
+  },
+
+  "tags": [
+    "Soap Mould",
+    "Silicone Mould",
+    "12 Cavity Mould",
+    "Soap Making Tool",
+    "Baking Mould",
+    "Chocolate Mould",
+    "DIY Craft Tool"
+  ]
 }
 
 ]
