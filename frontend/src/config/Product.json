@@ -16228,6 +16228,104 @@
     "DIY Skincare",
     "Organic Skin Care"
   ]
+},
+
+{
+  "id": "wagh-bakri-premium-spiced-tea-250g",
+  "name": "Wagh Bakri Premium Spiced Tea with 7 Refreshing Spices - 250g",
+  "category": "tea & beverages",
+  "price": 165,
+  "discountPrice": 164,
+  "discountRate": 1,
+  "rating": 4.3,
+  "reviews": 8909,
+  "ratingText": "4.3 out of 5 stars",
+  "reviewText": "Based on 8,909 customer ratings on Amazon",
+  "badge": "Amazon's Choice",
+
+  "shortLink": "https://amzn.to/4txZ0DS",
+  "fullLink": "https://www.amazon.in/Wagh-Bakri-Spiced-Tea-250g/dp/B00N8J3W1E?crid=2K99TMSTYM2L9&dib=eyJ2IjoiMSJ9.5c8mXPpCUDpplsNeb8Uu8Dup_mtBhYEOMhQAWQe_qZjoiHn-6TMlAyNV00CfL5yBN2-UqfBMGinrS-R1Y3CYsZ5rttkUxa29dGyC9QcYENg-MSaxrrdWIvmUkPt8nL5zpFLzfLpGlVdAvZKRXCculVly0efYI16mEDjqHTJ28L19GhAuZewbUVNDBRNU-8Bg6LIFyjrB9C-x_QsK31tpAaKnMsVysSWtYzp99hSngBHmk1NsRKFUH9nA7Agm4AkGTdXiz3_Umfp5LG8xNDLA6VemMLzPDopFdZEmeb1VfTY.32Kf2lD470T080rz31CH1RlA2mM9M5qRTiEbpMP07oI&dib_tag=se&keywords=tea%2Bmasala&qid=1778772542&sprefix=tea%2Bma%2Caps%2C457&sr=8-8&th=1&linkCode=ll2&tag=valdio-21&linkId=947bf6199173d8df16f6b74388d92919&ref_=as_li_ss_tl",
+
+  "image": "https://m.media-amazon.com/images/I/71SElhULanL._SL1500_.jpg",
+
+  "description": "Wagh Bakri Premium Spiced Tea is a flavorful black tea blend infused with 7 aromatic Indian spices that provide a rich taste and refreshing aroma. Perfect for making authentic masala chai at home with a balanced strong flavor and refreshing experience.",
+
+  "features": [
+    "Premium black tea blended with 7 spices",
+    "Strong and refreshing masala chai flavor",
+    "Rich aroma with authentic Indian taste",
+    "Ideal for daily tea consumption",
+    "Smooth taste with spicy notes",
+    "Suitable for hot milk tea preparation",
+    "Popular household tea brand in India"
+  ],
+
+  "variants": [
+    {
+      "variant": "250g Pack of 1",
+      "price": 164,
+      "mrp": 165,
+      "discountRate": 1
+    },
+    {
+      "variant": "250g Pack of 2",
+      "price": 384,
+      "mrp": 440,
+      "discountRate": 13
+    }
+  ],
+
+  "productDetails": {
+    "brand": "Wagh Bakri",
+    "teaType": "Black Tea",
+    "flavour": "Spiced Masala Tea",
+    "netQuantity": "250 grams",
+    "specialIngredients": [
+      "7 blended spices"
+    ],
+    "itemForm": "Tea Granules",
+    "recommendedUses": [
+      "Masala Chai",
+      "Milk Tea",
+      "Daily Beverage"
+    ],
+    "specialFeatures": [
+      "Refreshing aroma",
+      "Rich flavor",
+      "Traditional Indian chai taste"
+    ],
+    "useBy": "27 January 2027"
+  },
+
+  "deliveryInfo": {
+    "delivery": "Amazon Delivered",
+    "returnPolicy": "Non-Returnable",
+    "cashOnDelivery": true,
+    "secureTransaction": true,
+    "freeDelivery": true
+  },
+
+  "offers": {
+    "cashback": "Up to ₹4 cashback with Amazon Pay ICICI Credit Card",
+    "bankOffer": "Up to ₹16.40 discount on HDFC Bank Credit Cards",
+    "partnerOffer": "GST invoice available for business purchases"
+  },
+
+  "additionalInfo": {
+    "storageInstructions": "Store in a cool, dry and airtight container after opening",
+    "preparationTip": "Boil with milk, water and sugar for authentic masala chai taste",
+    "targetUsers": "Tea lovers and daily chai drinkers"
+  },
+
+  "tags": [
+    "Wagh Bakri Tea",
+    "Masala Tea",
+    "Spiced Tea",
+    "Black Tea",
+    "Indian Chai",
+    "Tea Beverage",
+    "Premium Tea"
+  ]
 }
 
 ]
