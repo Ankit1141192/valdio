@@ -16109,6 +16109,125 @@
     "Skincare Oil",
     "TURCY Oil"
   ]
+},
+
+{
+  "id": "brijbooti-natural-lemon-peel-powder-200g",
+  "name": "BrijBooti Natural Lemon Peel Powder for Face Care & Skin Glowing - 200g",
+  "category": "skincare & herbal powders",
+  "price": 499,
+  "discountPrice": 201,
+  "discountRate": 60,
+  "rating": 4.2,
+  "reviews": 278,
+  "ratingText": "4.2 out of 5 stars",
+  "reviewText": "Based on 278 customer ratings on Amazon",
+  "badge": "Amazon's Choice",
+
+  "shortLink": "https://amzn.to/3Ro9uIF",
+  "fullLink": "https://www.amazon.in/Brijbooti-Natural-Lemon-Powder-Glowing/dp/B0C6KYPGZS?crid=1BWDBX9YJB3FC&dib=eyJ2IjoiMSJ9.NUpWJXzBNfgxdyWoBv7OE-eiRM-lNFfMZKK9x39M0hFJuqLLQzJIXj1AoxRrSAd0zics8uc4JWlPKyOpQ42vm8l9Ta6-kIEN_LVv3e-GZ0-5GDz6NcNx-gZVvWEW-ZVCSwIN7I8F_i-k5xrxF6uc7PCfZ2__f6YpYp4zbPmpl6453oX7l9j-WeCLzAYfcI691qGGy1v5azOQTY3UcX7oYlPFN8z2svfxhAw1RNOGugNAOwMubL4OGpDeerHu_f91tCWunNHCDaKVgPM803k-0qn1_-YUqasyGjYSOp7oCnY._E4GG0GN5_yr2v3GUg8kp-ndILkor_DGcUnXF6KljhA&dib_tag=se&keywords=lemon%2Bpowder%2Bfor%2Bface&qid=1778760243&sprefix=lemon%2Bpowder%2Bfor%2Bfa%2Caps%2C424&sr=8-10&th=1&linkCode=ll2&tag=valdio-21&linkId=da8e0b9b0be6cd0c4b7302bc4432b9f1&ref_=as_li_ss_tl",
+
+  "image": "https://m.media-amazon.com/images/I/61brijbootilemonpowder._SL1500_.jpg",
+
+  "description": "BrijBooti Natural Lemon Peel Powder is a 100% organic and chemical-free skincare powder enriched with Vitamin C. It helps cleanse, exfoliate, brighten and refresh the skin naturally while supporting oil balance and healthy glowing skin.",
+
+  "features": [
+    "100% natural and organic lemon peel powder",
+    "Rich in Vitamin C for glowing skin",
+    "Helps remove dirt, oil and impurities",
+    "Provides gentle exfoliation for smoother skin",
+    "Supports oil balancing and skin clarification",
+    "Can be used in face packs and DIY skincare",
+    "Suitable for dry, oily and sensitive skin"
+  ],
+
+  "variants": [
+    {
+      "variant": "Lemon Peel Powder 200g",
+      "price": 201,
+      "mrp": 499,
+      "discountRate": 60
+    },
+    {
+      "variant": "Orange Peel Powder 200g",
+      "price": 149,
+      "mrp": 299,
+      "discountRate": 50
+    },
+    {
+      "variant": "Neem Powder 200g",
+      "price": 149,
+      "mrp": 299,
+      "discountRate": 50
+    },
+    {
+      "variant": "Kasturi Haldi Powder 200g",
+      "price": 202,
+      "mrp": 499,
+      "discountRate": 60
+    }
+  ],
+
+  "productDetails": {
+    "brand": "BrijBooti",
+    "itemForm": "Powder",
+    "scent": "Lemon",
+    "netQuantity": "200 grams",
+    "skinType": [
+      "Dry",
+      "Oily",
+      "Sensitive"
+    ],
+    "materialFeature": [
+      "Natural",
+      "Organic",
+      "Chemical-Free"
+    ],
+    "recommendedUses": [
+      "Face Pack",
+      "Skin Cleansing",
+      "Oil Control",
+      "DIY Soap Making",
+      "Skin Brightening"
+    ],
+    "specialFeatures": [
+      "Vitamin C rich",
+      "Gentle exfoliation",
+      "Skin brightening",
+      "Natural cleanser"
+    ]
+  },
+
+  "deliveryInfo": {
+    "delivery": "Amazon Delivered",
+    "returnPolicy": "Non-Returnable",
+    "cashOnDelivery": true,
+    "secureTransaction": true,
+    "freeDelivery": true
+  },
+
+  "offers": {
+    "cashback": "Up to ₹6 cashback with Amazon Pay ICICI Credit Card",
+    "bankOffer": "Up to ₹1,000 discount on HDFC Bank Credit Cards",
+    "partnerOffer": "Buy 2 or more and get 5% off on qualifying items",
+    "upiReward": "Earn ₹2 on UPI payments"
+  },
+
+  "additionalInfo": {
+    "usageNote": "Mix with rose water, yogurt, aloe vera gel or multani mitti for face packs",
+    "storageInstructions": "Store in a cool and dry place away from moisture",
+    "targetUsers": "DIY skincare users, herbal beauty enthusiasts and soap makers"
+  },
+
+  "tags": [
+    "Lemon Peel Powder",
+    "BrijBooti",
+    "Herbal Powder",
+    "Face Pack",
+    "Skin Brightening",
+    "DIY Skincare",
+    "Organic Skin Care"
+  ]
 }
 
 ]
