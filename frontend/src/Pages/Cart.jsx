@@ -1,12 +1,213 @@
-import React, { useMemo } from "react";
+import React, { useMemo, useState } from "react";
 import { Link } from "react-router-dom";
-import { Trash2, ShoppingCart } from "lucide-react";
+import { Trash2, ShoppingCart, ArrowRight, Sparkles, Tag } from "lucide-react";
 import products from "../config/Product.json";
 import { useCart } from "../context/CartContext.jsx";
 import BrowseProductsButton from "../components/BrowseProductsButton";
 
+/* ─── Inline style block ─────────────────────────────────────── */
+const STYLES = `
+  @import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;700;900&family=DM+Sans:wght@300;400;500;600&display=swap');
+
+  .cart-root {
+    --cream: #faf7f2;
+    --ink: #1a1614;
+    --accent: #c8622a;
+    --accent-light: #f5ede6;
+    --muted: #8a7f78;
+    --border: #e8e0d8;
+    --card-bg: #ffffff;
+    --danger: #d94040;
+    font-family: 'DM Sans', sans-serif;
+    background: var(--cream);
+    min-height: 100vh;
+  }
+
+  .cart-header-title {
+    font-family: 'Playfair Display', serif;
+    font-weight: 900;
+    letter-spacing: -0.02em;
+    line-height: 1;
+  }
+
+  .cart-item-card {
+    background: var(--card-bg);
+    border: 1px solid var(--border);
+    border-radius: 20px;
+    transition: box-shadow 0.25s ease, transform 0.25s ease;
+    animation: slideUp 0.4s ease both;
+  }
+  .cart-item-card:hover {
+    box-shadow: 0 12px 40px rgba(26,22,20,0.10);
+    transform: translateY(-2px);
+  }
+
+  @keyframes slideUp {
+    from { opacity: 0; transform: translateY(18px); }
+    to   { opacity: 1; transform: translateY(0); }
+  }
+
+  .qty-btn {
+    width: 32px; height: 32px;
+    display: flex; align-items: center; justify-content: center;
+    font-weight: 700; font-size: 1.1rem;
+    border-radius: 8px;
+    color: var(--muted);
+    transition: background 0.15s, color 0.15s;
+    cursor: pointer;
+    border: none; background: transparent;
+  }
+  .qty-btn:hover { background: var(--accent-light); color: var(--accent); }
+
+  .remove-btn {
+    border: none; background: transparent; cursor: pointer;
+    padding: 10px; border-radius: 50%;
+    color: var(--border);
+    transition: background 0.2s, color 0.2s, transform 0.2s;
+  }
+  .remove-btn:hover { background: #fff0f0; color: var(--danger); transform: scale(1.15); }
+
+  .checkout-btn {
+    width: 100%;
+    padding: 18px;
+    border-radius: 16px;
+    border: none;
+    background: var(--ink);
+    color: white;
+    font-family: 'DM Sans', sans-serif;
+    font-weight: 700;
+    font-size: 0.9rem;
+    letter-spacing: 0.12em;
+    text-transform: uppercase;
+    cursor: pointer;
+    display: flex; align-items: center; justify-content: center; gap: 10px;
+    transition: background 0.2s, transform 0.15s, box-shadow 0.2s;
+    box-shadow: 0 4px 20px rgba(26,22,20,0.25);
+  }
+  .checkout-btn:hover { background: var(--accent); box-shadow: 0 8px 30px rgba(200,98,42,0.35); }
+  .checkout-btn:active { transform: scale(0.98); }
+
+  .clear-btn {
+    background: none; border: none; cursor: pointer;
+    font-size: 0.72rem; font-weight: 700; letter-spacing: 0.15em;
+    text-transform: uppercase; color: var(--danger);
+    opacity: 0.7; transition: opacity 0.2s;
+    font-family: 'DM Sans', sans-serif;
+    padding: 6px 0;
+  }
+  .clear-btn:hover { opacity: 1; }
+
+  .summary-card {
+    background: var(--card-bg);
+    border: 1px solid var(--border);
+    border-radius: 24px;
+    position: sticky;
+    top: 24px;
+    overflow: hidden;
+  }
+  .summary-card-accent {
+    height: 5px;
+    background: linear-gradient(90deg, var(--accent), #e8943a);
+  }
+
+  .promo-input {
+    flex: 1;
+    background: var(--cream);
+    border: 1px solid var(--border);
+    border-radius: 10px;
+    padding: 10px 14px;
+    font-family: 'DM Sans', sans-serif;
+    font-size: 0.875rem;
+    color: var(--ink);
+    outline: none;
+    transition: border-color 0.2s;
+  }
+  .promo-input:focus { border-color: var(--accent); }
+
+  .promo-btn {
+    background: var(--accent-light);
+    border: none;
+    border-radius: 10px;
+    padding: 10px 16px;
+    font-family: 'DM Sans', sans-serif;
+    font-size: 0.8rem;
+    font-weight: 700;
+    color: var(--accent);
+    cursor: pointer;
+    transition: background 0.2s;
+    text-transform: uppercase;
+    letter-spacing: 0.08em;
+  }
+  .promo-btn:hover { background: var(--accent); color: white; }
+
+  .empty-state {
+    background: var(--card-bg);
+    border: 1px solid var(--border);
+    border-radius: 32px;
+    text-align: center;
+    padding: 80px 40px;
+    animation: slideUp 0.5s ease;
+  }
+  .empty-icon-ring {
+    width: 100px; height: 100px;
+    border-radius: 50%;
+    background: var(--cream);
+    border: 2px dashed var(--border);
+    display: flex; align-items: center; justify-content: center;
+    margin: 0 auto 28px;
+    color: var(--border);
+  }
+
+  .badge-count {
+    background: var(--accent);
+    color: white;
+    border-radius: 20px;
+    padding: 2px 10px;
+    font-size: 0.75rem;
+    font-weight: 700;
+    font-family: 'DM Sans', sans-serif;
+    letter-spacing: 0.04em;
+    margin-left: 10px;
+  }
+
+  .product-img-wrap {
+    width: 88px; height: 88px;
+    flex-shrink: 0;
+    background: var(--cream);
+    border-radius: 16px;
+    overflow: hidden;
+    padding: 10px;
+    border: 1px solid var(--border);
+  }
+
+  .divider-ornament {
+    display: flex; align-items: center; gap: 12px;
+    color: var(--border);
+    font-size: 0.7rem; letter-spacing: 0.2em;
+    text-transform: uppercase; font-weight: 700;
+    margin: 4px 0;
+  }
+  .divider-ornament::before, .divider-ornament::after {
+    content: ''; flex: 1; height: 1px; background: var(--border);
+  }
+
+  /* Responsive */
+  @media (max-width: 900px) {
+    .cart-grid { display: flex !important; flex-direction: column !important; }
+    .summary-card { position: static !important; }
+  }
+  @media (max-width: 600px) {
+    .cart-item-inner { flex-direction: column !important; align-items: flex-start !important; gap: 14px !important; }
+    .cart-item-right { width: 100% !important; justify-content: space-between !important; }
+    .cart-item-price { display: none !important; }
+    .product-img-wrap { width: 72px !important; height: 72px !important; }
+  }
+`;
+
+/* ─── Component ──────────────────────────────────────────────── */
 const Cart = () => {
   const { items, setQty, removeFromCart, clearCart } = useCart();
+  const [promoCode, setPromoCode] = useState("");
 
   const rows = useMemo(() => {
     return Object.entries(items || {})
@@ -20,136 +221,231 @@ const Cart = () => {
   }, [items]);
 
   const subtotal = rows.reduce((sum, r) => sum + r.price * r.qty, 0);
+  const itemCount = rows.reduce((n, r) => n + r.qty, 0);
 
   return (
-    <div className="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
-      <div className="flex items-end justify-between gap-4 mb-10">
-        <div>
-          <h1 className="text-4xl font-black text-slate-900 tracking-tight">Your Cart</h1>
-          <p className="text-slate-500 mt-2 font-medium">Manage your premium selections.</p>
-        </div>
-        {rows.length ? (
-          <button
-            onClick={clearCart}
-            className="text-xs font-black uppercase tracking-widest text-rose-500 hover:text-rose-700 transition-colors"
-          >
-            Clear cart
-          </button>
-        ) : null}
-      </div>
+    <div className="cart-root" style={{ padding: "0 16px" }}>
+      <style>{STYLES}</style>
 
-      {!rows.length ? (
-        <div className="bg-white border border-slate-100 rounded-[2.5rem] p-20 text-center shadow-sm">
-          <div className="mb-8 flex justify-center">
-            <div className="w-24 h-24 bg-slate-50 rounded-full flex items-center justify-center text-slate-300">
-              <ShoppingCart size={48} />
-            </div>
+      <div style={{ maxWidth: 1100, margin: "0 auto", paddingTop: 48, paddingBottom: 80 }}>
+
+        {/* ── Header ── */}
+        <div style={{ display: "flex", alignItems: "flex-end", justifyContent: "space-between", flexWrap: "wrap", gap: 16, marginBottom: 40 }}>
+          <div>
+            <p style={{ fontSize: "0.7rem", fontWeight: 700, letterSpacing: "0.2em", textTransform: "uppercase", color: "var(--muted)", marginBottom: 8 }}>
+              ✦ Shopping Bag
+            </p>
+            <h1 className="cart-header-title" style={{ fontSize: "clamp(2.4rem, 6vw, 3.8rem)", color: "var(--ink)" }}>
+              Your Cart
+              {rows.length > 0 && <span className="badge-count">{itemCount}</span>}
+            </h1>
           </div>
-          <h2 className="text-2xl font-black text-slate-900 mb-4">Your cart is feeling light</h2>
-          <p className="text-slate-500 mb-10 max-w-sm mx-auto font-medium">
-            Explore our curated collections and discover something extraordinary for your space.
-          </p>
-          <div className="flex justify-center">
-            <BrowseProductsButton text="Discover Products" />
-          </div>
-        </div>
-      ) : (
-        <div className="grid lg:grid-cols-3 gap-8">
-          <div className="lg:col-span-2 space-y-4">
-            {rows.map(({ product, qty, price }) => (
-              <div
-                key={product.id}
-                className="bg-white border border-slate-100 rounded-[1.5rem] p-6 flex gap-6 items-center hover:shadow-md transition-shadow"
-              >
-                <div className="w-24 h-24 flex-shrink-0 bg-slate-50 rounded-2xl overflow-hidden p-2">
-                  <img
-                    src={product.image}
-                    alt={product.name}
-                    className="w-full h-full object-contain"
-                  />
-                </div>
-                <div className="flex-1 min-w-0">
-                  <Link
-                    to={`/products/${product.id}`}
-                    className="text-lg font-bold text-slate-900 hover:text-primary transition-colors line-clamp-1"
-                  >
-                    {product.name}
-                  </Link>
-                  <div className="text-sm text-slate-400 mt-1 font-bold tracking-wider uppercase">
-                    {product.category}
-                  </div>
-                  <div className="text-base font-black text-slate-900 mt-2">
-                    ₹{price.toLocaleString()}
-                  </div>
-                </div>
-
-                <div className="flex items-center gap-6">
-                  <div className="flex items-center bg-slate-50 rounded-xl p-1 border border-slate-100">
-                    <button
-                      onClick={() => setQty(product.id, Math.max(1, qty - 1))}
-                      className="w-8 h-8 flex items-center justify-center text-slate-500 hover:text-slate-900 font-bold"
-                    >
-                      -
-                    </button>
-                    <span className="w-8 text-center font-bold text-slate-900">{qty}</span>
-                    <button
-                      onClick={() => setQty(product.id, qty + 1)}
-                      className="w-8 h-8 flex items-center justify-center text-slate-500 hover:text-slate-900 font-bold"
-                    >
-                      +
-                    </button>
-                  </div>
-                  <div className="w-32 text-right font-black text-xl text-slate-950">
-                    ₹{(price * qty).toLocaleString()}
-                  </div>
-                  <button
-                    onClick={() => removeFromCart(product.id)}
-                    className="p-3 rounded-full hover:bg-rose-50 text-slate-300 hover:text-rose-500 transition-all"
-                    aria-label="Remove item"
-                  >
-                    <Trash2 className="w-5 h-5" />
-                  </button>
-                </div>
-              </div>
-            ))}
-          </div>
-
-          <div className="bg-white border border-slate-100 rounded-[2rem] p-8 h-fit shadow-sm">
-            <h2 className="text-xl font-black text-slate-900 mb-6">Order Summary</h2>
-            <div className="space-y-4 mb-8">
-              <div className="flex justify-between text-slate-500 font-medium">
-                <span>Subtotal</span>
-                <span className="text-slate-900 font-black">₹{subtotal.toLocaleString()}</span>
-              </div>
-              <div className="flex justify-between text-slate-500 font-medium">
-                <span>Shipping</span>
-                <span className="text-emerald-600 font-black uppercase text-xs tracking-widest">Calculated at next step</span>
-              </div>
-              <div className="pt-4 border-t border-slate-100 flex justify-between">
-                <span className="text-lg font-black text-slate-900">Total</span>
-                <span className="text-2xl font-black text-slate-950">₹{subtotal.toLocaleString()}</span>
-              </div>
-            </div>
-
-            <button
-              onClick={() => alert("Checkout system is being prepared. Please check back soon!")}
-              className="w-full py-5 rounded-2xl bg-slate-900 text-white font-black uppercase tracking-[0.2em] shadow-xl hover:bg-primary transition-all active:scale-95"
-            >
-              Secure Checkout
+          {rows.length > 0 && (
+            <button className="clear-btn" onClick={clearCart}>
+              ✕ Clear All
             </button>
-            <Link
-              to="/products"
-              className="mt-4 flex w-full items-center justify-center text-slate-400 hover:text-slate-900 font-bold text-sm transition-colors"
-            >
-              Continue Shopping ↗
-            </Link>
-          </div>
+          )}
         </div>
-      )}
+
+        {/* ── Empty State ── */}
+        {!rows.length ? (
+          <div className="empty-state">
+            <div className="empty-icon-ring">
+              <ShoppingCart size={40} strokeWidth={1.2} />
+            </div>
+            <h2 className="cart-header-title" style={{ fontSize: "2rem", color: "var(--ink)", marginBottom: 12 }}>
+              Your bag is empty
+            </h2>
+            <p style={{ color: "var(--muted)", maxWidth: 360, margin: "0 auto 36px", lineHeight: 1.7, fontSize: "0.95rem" }}>
+              Explore our curated collection and find something extraordinary for your space.
+            </p>
+            <div style={{ display: "flex", justifyContent: "center" }}>
+              <BrowseProductsButton text="Explore Products" />
+            </div>
+          </div>
+        ) : (
+
+          /* ── Cart Grid ── */
+          <div className="cart-grid" style={{ display: "grid", gridTemplateColumns: "1fr 360px", gap: 28, alignItems: "start" }}>
+
+            {/* ── Left: Items ── */}
+            <div style={{ display: "flex", flexDirection: "column", gap: 14 }}>
+
+              {rows.map(({ product, qty, price }, idx) => (
+                <div
+                  key={product.id}
+                  className="cart-item-card"
+                  style={{ padding: "20px 24px", animationDelay: `${idx * 0.07}s` }}
+                >
+                  <div
+                    className="cart-item-inner"
+                    style={{ display: "flex", alignItems: "center", gap: 20 }}
+                  >
+                    {/* Image */}
+                    <div className="product-img-wrap">
+                      <img
+                        src={product.image}
+                        alt={product.name}
+                        style={{ width: "100%", height: "100%", objectFit: "contain" }}
+                      />
+                    </div>
+
+                    {/* Info */}
+                    <div style={{ flex: 1, minWidth: 0 }}>
+                      <Link
+                        to={`/products/${product.id}`}
+                        style={{
+                          fontFamily: "'Playfair Display', serif",
+                          fontWeight: 700,
+                          fontSize: "1.05rem",
+                          color: "var(--ink)",
+                          textDecoration: "none",
+                          display: "-webkit-box",
+                          WebkitLineClamp: 2,
+                          WebkitBoxOrient: "vertical",
+                          overflow: "hidden",
+                          lineHeight: 1.3,
+                          transition: "color 0.2s",
+                        }}
+                        onMouseEnter={e => e.target.style.color = "var(--accent)"}
+                        onMouseLeave={e => e.target.style.color = "var(--ink)"}
+                      >
+                        {product.name}
+                      </Link>
+                      <div style={{ fontSize: "0.7rem", fontWeight: 700, letterSpacing: "0.15em", textTransform: "uppercase", color: "var(--muted)", marginTop: 4 }}>
+                        {product.category}
+                      </div>
+                      <div style={{ fontSize: "1rem", fontWeight: 700, color: "var(--ink)", marginTop: 8 }}>
+                        ₹{price.toLocaleString()}
+                      </div>
+                    </div>
+
+                    {/* Right: qty + total + remove */}
+                    <div className="cart-item-right" style={{ display: "flex", alignItems: "center", gap: 16, flexShrink: 0 }}>
+                      {/* Qty stepper */}
+                      <div style={{
+                        display: "flex", alignItems: "center", gap: 2,
+                        background: "var(--cream)", borderRadius: 12,
+                        border: "1px solid var(--border)", padding: "2px",
+                      }}>
+                        <button className="qty-btn" onClick={() => setQty(product.id, Math.max(1, qty - 1))}>−</button>
+                        <span style={{ width: 28, textAlign: "center", fontWeight: 700, fontSize: "0.95rem", color: "var(--ink)" }}>{qty}</span>
+                        <button className="qty-btn" onClick={() => setQty(product.id, qty + 1)}>+</button>
+                      </div>
+
+                      {/* Line total */}
+                      <div className="cart-item-price" style={{ width: 96, textAlign: "right", fontFamily: "'Playfair Display', serif", fontWeight: 700, fontSize: "1.2rem", color: "var(--ink)" }}>
+                        ₹{(price * qty).toLocaleString()}
+                      </div>
+
+                      {/* Remove */}
+                      <button
+                        className="remove-btn"
+                        onClick={() => removeFromCart(product.id)}
+                        aria-label="Remove item"
+                      >
+                        <Trash2 size={17} />
+                      </button>
+                    </div>
+                  </div>
+                </div>
+              ))}
+
+              {/* Continue shopping */}
+              <Link
+                to="/products"
+                style={{
+                  display: "inline-flex", alignItems: "center", gap: 6,
+                  marginTop: 8, color: "var(--muted)", fontSize: "0.85rem",
+                  fontWeight: 600, textDecoration: "none", transition: "color 0.2s",
+                }}
+                onMouseEnter={e => e.currentTarget.style.color = "var(--accent)"}
+                onMouseLeave={e => e.currentTarget.style.color = "var(--muted)"}
+              >
+                ← Continue Shopping
+              </Link>
+            </div>
+
+            {/* ── Right: Summary ── */}
+            <div className="summary-card">
+              <div className="summary-card-accent" />
+              <div style={{ padding: "28px 28px 32px" }}>
+                <h2 style={{ fontFamily: "'Playfair Display', serif", fontWeight: 700, fontSize: "1.4rem", color: "var(--ink)", marginBottom: 24 }}>
+                  Order Summary
+                </h2>
+
+                {/* Line items */}
+                <div style={{ display: "flex", flexDirection: "column", gap: 14 }}>
+                  <div style={{ display: "flex", justifyContent: "space-between", fontSize: "0.875rem", color: "var(--muted)" }}>
+                    <span>Subtotal ({itemCount} {itemCount === 1 ? "item" : "items"})</span>
+                    <span style={{ fontWeight: 700, color: "var(--ink)" }}>₹{subtotal.toLocaleString()}</span>
+                  </div>
+                  <div style={{ display: "flex", justifyContent: "space-between", fontSize: "0.875rem", color: "var(--muted)" }}>
+                    <span>Shipping</span>
+                    <span style={{ fontSize: "0.72rem", fontWeight: 700, letterSpacing: "0.1em", textTransform: "uppercase", color: "#2c9e60" }}>
+                      Calculated at next step
+                    </span>
+                  </div>
+                  <div style={{ display: "flex", justifyContent: "space-between", fontSize: "0.875rem", color: "var(--muted)" }}>
+                    <span>Tax</span>
+                    <span style={{ fontWeight: 700, color: "var(--ink)" }}>Included</span>
+                  </div>
+                </div>
+
+                {/* Promo */}
+                <div style={{ margin: "20px 0" }}>
+                  <div className="divider-ornament">Promo Code</div>
+                  <div style={{ display: "flex", gap: 8, marginTop: 12 }}>
+                    <input
+                      className="promo-input"
+                      placeholder="Enter code"
+                      value={promoCode}
+                      onChange={e => setPromoCode(e.target.value.toUpperCase())}
+                    />
+                    <button className="promo-btn">Apply</button>
+                  </div>
+                </div>
+
+                {/* Total */}
+                <div style={{
+                  background: "var(--cream)",
+                  borderRadius: 14,
+                  padding: "16px 20px",
+                  display: "flex", justifyContent: "space-between", alignItems: "center",
+                  marginBottom: 24, border: "1px solid var(--border)",
+                }}>
+                  <span style={{ fontWeight: 600, fontSize: "0.9rem", color: "var(--muted)" }}>Estimated Total</span>
+                  <span style={{ fontFamily: "'Playfair Display', serif", fontWeight: 900, fontSize: "1.6rem", color: "var(--ink)" }}>
+                    ₹{subtotal.toLocaleString()}
+                  </span>
+                </div>
+
+                {/* CTA */}
+                <button
+                  className="checkout-btn"
+                  onClick={() => alert("Checkout system is being prepared. Please check back soon!")}
+                >
+                  <Sparkles size={16} />
+                  Secure Checkout
+                  <ArrowRight size={16} />
+                </button>
+
+                {/* Trust signals */}
+                <div style={{ marginTop: 20, display: "flex", flexDirection: "column", gap: 8 }}>
+                  {["🔒 SSL Encrypted Payment", "📦 Free returns within 30 days", "✦ Premium packaging included"].map((text) => (
+                    <div key={text} style={{ fontSize: "0.75rem", color: "var(--muted)", fontWeight: 500, textAlign: "center" }}>
+                      {text}
+                    </div>
+                  ))}
+                </div>
+              </div>
+            </div>
+
+          </div>
+        )}
+      </div>
     </div>
   );
 };
 
 export default Cart;
-
-
