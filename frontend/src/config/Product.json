@@ -16759,6 +16759,119 @@
     "Non Contact Thermometer",
     "Industrial Thermometer"
   ]
+},
+
+{
+  "id": "kyari-philodendron-broken-heart-plant",
+  "name": "Kyari Philodendron Broken Heart Plant Live Indoor Plant with Self Watering Pot",
+  "category": "indoor plants & home decor",
+  "price": 499,
+  "discountPrice": 225,
+  "discountRate": 55,
+  "rating": 3.6,
+  "reviews": 523,
+  "ratingText": "3.6 out of 5 stars",
+  "reviewText": "Based on 523 customer ratings on Amazon",
+  "badge": "Top Brand",
+
+  "shortLink": "https://amzn.to/3PIcEGH",
+  "fullLink": "https://www.amazon.in/KYARI-Philodendron-Watering-purifier-bedroom/dp/B0FLQCRMQ5?crid=3OE9NVYOLO0XZ&dib=eyJ2IjoiMSJ9.Mo0U6BRjKZqgQ-n8jLDO1KWTKfz0Q5py7a7S7E9oDlhkjekm49P7HJYVyoVkDO8YjP_il25tBiQeG8eRdbQG_309CCF5P4hsIWP2FI2hOraNH5dG679ZSM-XO5Pn3Nv40yRzpMa7Ty-kPmLlhlyMWHDRGQZbf0z1TfP13Nza0DwJBeh5Lp5MUJFkbYeoXyozk_vB1AnjK_4NBBH_QUlhCODOjDDZa_1FW1Otdys4G_xbt-IBMWbNnetBSSIi9RMDO89Rgp0HR3ZYNZ0ut62bAv_UnreUdJDQQIClKt0fbUE.3F2dOsuhqe806VZHgT-XLjXVboMZPXMMKwOvX7oiNWo&dib_tag=se&keywords=broken%2Bheart%2Bplant&qid=1779723754&sprefix=broken%2Bheart%2Bplan%2Caps%2C328&sr=8-9&th=1&linkCode=ll2&tag=valdio-21&linkId=adb4090aa21fab656904db6bbb7c123c&ref_=as_li_ss_tl",
+
+  "image": "https://m.media-amazon.com/images/I/71O8V8dVCpL._SL1500_.jpg",
+
+  "description": "Kyari Broken Heart Plant (Monstera Adansonii / Swiss Cheese Vine) is a tropical indoor plant known for its heart-shaped perforated leaves and air-purifying properties. It comes pre-potted in a stylish self-watering pot, making it perfect for homes, offices, desks, and gifting.",
+
+  "features": [
+    "Distinctive heart-shaped leaves with natural holes",
+    "Live tropical indoor vine plant",
+    "Self-watering pot for easy maintenance",
+    "Air-purifying indoor plant",
+    "Suitable for desks, shelves and hanging planters",
+    "Fast-growing trailing plant",
+    "Beginner-friendly low maintenance plant"
+  ],
+
+  "variants": [
+    {
+      "variant": "Green Pot",
+      "price": 225,
+      "mrp": 499,
+      "discountRate": 55
+    },
+    {
+      "variant": "Red Brick Pot",
+      "price": 225,
+      "mrp": 499,
+      "discountRate": 55
+    }
+  ],
+
+  "productDetails": {
+    "brand": "KYARI",
+    "plantType": "Philodendron Broken Heart Plant",
+    "scientificName": "Monstera Adansonii",
+    "commonName": "Swiss Cheese Vine",
+    "potType": "Self Watering Pot",
+    "potSize": "3.5 Inch",
+    "colour": "Green",
+    "itemWeight": "400 grams",
+    "sunlightExposure": "Partial Sun / Bright Indirect Light",
+    "specialFeatures": [
+      "Air purifying",
+      "Self-watering system",
+      "Low maintenance",
+      "Decorative foliage",
+      "Tropical indoor plant"
+    ],
+    "recommendedUses": [
+      "Living Room Decor",
+      "Office Desk",
+      "Bedroom Decoration",
+      "Shelf Decoration",
+      "Indoor Gardening",
+      "Gift Purpose"
+    ],
+    "growthStyle": [
+      "Trailing vine",
+      "Climbing plant",
+      "Fast growing"
+    ]
+  },
+
+  "deliveryInfo": {
+    "delivery": "Amazon Delivered",
+    "returnPolicy": "Non-Returnable",
+    "cashOnDelivery": true,
+    "secureTransaction": true,
+    "freeDelivery": true
+  },
+
+  "offers": {
+    "cashback": "Up to ₹6 cashback with Amazon Pay ICICI Credit Card",
+    "bankOffer": "Up to ₹2,500 discount on select Credit Cards and SBI Debit Cards",
+    "partnerOffer": "GST invoice available for business purchases"
+  },
+
+  "additionalInfo": {
+    "careInstructions": [
+      "Keep in bright indirect sunlight",
+      "Avoid overwatering",
+      "Maintain slightly moist soil",
+      "Wipe leaves occasionally for healthy growth"
+    ],
+    "usageNote": "Can be trained on moss poles or allowed to trail naturally",
+    "targetUsers": "Indoor plant lovers, home decorators, beginners, office users"
+  },
+
+  "tags": [
+    "Indoor Plant",
+    "Monstera Adansonii",
+    "Broken Heart Plant",
+    "Swiss Cheese Vine",
+    "Air Purifying Plant",
+    "Self Watering Pot",
+    "Home Decor Plant"
+  ]
 }
 
 ]
