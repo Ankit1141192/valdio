@@ -16650,6 +16650,115 @@
     "Food Handling Cap",
     "Soap Making Safety"
   ]
+},
+
+{
+  "id": "benetech-infrared-thermometer-gun-gs320",
+  "name": "BENETECH GS320 Infrared Non-Contact Digital Laser Thermometer Gun",
+  "category": "temperature measuring tools",
+  "price": 1999,
+  "discountPrice": 899,
+  "discountRate": 55,
+  "rating": 4.5,
+  "reviews": 620,
+  "ratingText": "4.5 out of 5 stars",
+  "reviewText": "Based on 620 customer ratings on Amazon",
+  "badge": "High Accuracy Tool",
+
+  "shortLink": "https://amzn.to/4tRSkko",
+  "fullLink": "https://www.amazon.in/dp/B0CQFVSB2R?social_share=cm_sw_r_ud_dp_CJDT05YVXT7CQGF1SA4G&linkCode=ll2&tag=valdio-21&linkId=66c0bbbb0c7777daa66e39c4146e3ddf&ref_=as_li_ss_tl",
+
+  "image": "https://m.media-amazon.com/images/I/61xZ6fOAbJL._SL1500_.jpg",
+
+  "description": "BENETECH GS320 Infrared Thermometer Gun is a non-contact digital laser temperature measuring device designed for cooking, soap making, baking, HVAC, refrigeration, and industrial use. It provides quick and accurate surface temperature readings without direct contact.",
+
+  "features": [
+    "Non-contact infrared temperature measurement",
+    "Wide temperature range from -50°C to 530°C",
+    "Fast response time under 500 milliseconds",
+    "12:1 distance-to-spot ratio for accurate readings",
+    "Backlit LCD display for easy visibility",
+    "Auto power-off for battery saving",
+    "Supports Celsius and Fahrenheit modes"
+  ],
+
+  "variants": [
+    {
+      "model": "GS320",
+      "price": 899,
+      "mrp": 1999,
+      "discountRate": 55
+    }
+  ],
+
+  "productDetails": {
+    "brand": "BENETECH",
+    "model": "GS320",
+    "thermometerType": "Infrared Non-Contact Thermometer",
+    "material": "Plastic",
+    "colour": "Yellow",
+    "connectivityTechnology": "Infrared",
+    "temperatureRange": "-50°C to 530°C (-58°F to 788°F)",
+    "accuracy": "±1.5%",
+    "responseTime": "Less than 500 milliseconds",
+    "distanceToSpotRatio": "12:1",
+    "powerSource": "2 AAA Batteries",
+    "displayType": "Backlit LCD",
+    "specialFeatures": [
+      "Laser targeting",
+      "Auto off",
+      "Low battery indicator",
+      "Data hold function",
+      "℃/℉ switching",
+      "High accuracy"
+    ],
+    "recommendedUses": [
+      "Soap Making",
+      "Cooking",
+      "Pizza Oven",
+      "Candy Making",
+      "BBQ Grill",
+      "HVAC",
+      "Refrigerator Temperature",
+      "Industrial Surface Testing"
+    ],
+    "includedItems": [
+      "Infrared Thermometer Gun",
+      "2 AAA Batteries",
+      "User Manual"
+    ]
+  },
+
+  "deliveryInfo": {
+    "delivery": "Amazon Delivered",
+    "returnPolicy": "10 Days Replacement",
+    "cashOnDelivery": false,
+    "secureTransaction": true,
+    "freeDelivery": true,
+    "warranty": "12 Months Warranty"
+  },
+
+  "offers": {
+    "cashback": "Up to ₹50 cashback with select Credit Cards",
+    "bankOffer": "Up to ₹2,500 discount on select Credit Cards and SBI Debit Cards",
+    "partnerOffer": "GST invoice available for business purchases"
+  },
+
+  "additionalInfo": {
+    "usageNote": "Best for checking surface temperatures without touching hot liquids or equipment",
+    "safetyTip": "Do not use for measuring human body temperature",
+    "targetUsers": "Soap makers, bakers, chefs, HVAC technicians, industrial users"
+  },
+
+  "tags": [
+    "Infrared Thermometer",
+    "Temperature Gun",
+    "Laser Thermometer",
+    "Soap Making Tool",
+    "Cooking Thermometer",
+    "Non Contact Thermometer",
+    "Industrial Thermometer"
+  ]
 }
 
 ]
