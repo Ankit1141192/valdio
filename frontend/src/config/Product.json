@@ -16117,5 +16117,215 @@
       "Self Watering Pot",
       "Home Decor Plant"
     ]
-  }
+  },
+
+
+{
+  "id": "vedaoils-sweet-orange-essential-oil-100ml",
+  "name": "VedaOils Sweet Orange Essential Oil 100ml",
+  "category": "essential oils & aromatherapy",
+  "price": 750,
+  "discountPrice": 399,
+  "discountRate": 47,
+  "rating": 4.7,
+  "reviews": 4,
+  "ratingText": "4.7 out of 5 stars",
+  "reviewText": "Based on 4 customer ratings on Amazon",
+  "badge": "Popular Choice",
+
+  "shortLink": "https://amzn.to/3POvkVA",
+  "fullLink": "https://www.amazon.in/gp/product/B0G4CM29S3?smid=A3BU6XGLG7UKUM&th=1&linkCode=ll2&tag=valdio-21&linkId=262ee9e5e964b9504f3607e41a618240&ref_=as_li_ss_tl",
+
+  "image": "https://m.media-amazon.com/images/I/5161Gsq669L.jpg",
+
+  "description": "VedaOils Sweet Orange Essential Oil is a 100% pure and natural cold-pressed oil extracted from orange peels. It offers a fresh citrus aroma and is suitable for soap making, candle making, aromatherapy, skincare, haircare, diffusers, and air fresheners.",
+
+  "features": [
+    "100% pure and natural orange essential oil",
+    "Cold-pressed extraction method",
+    "Fresh citrus fragrance",
+    "Suitable for soap and candle making",
+    "Ideal for diffusers and aromatherapy",
+    "Can be used in DIY skincare formulations",
+    "Multipurpose therapeutic-grade oil"
+  ],
+
+  "variants": [
+    {
+      "size": "100ml",
+      "price": 399,
+      "mrp": 750,
+      "discountRate": 47
+    }
+  ],
+
+  "productDetails": {
+    "brand": "VedaOils",
+    "oilType": "Sweet Orange Essential Oil",
+    "extractionMethod": "Cold Pressed",
+    "netQuantity": "100ml",
+    "scent": "Fresh Citrus Orange",
+    "purity": "100% Pure & Natural",
+    "specialFeatures": [
+      "Undiluted",
+      "Cold pressed",
+      "Therapeutic grade",
+      "Natural fragrance",
+      "Multipurpose use"
+    ],
+    "recommendedUses": [
+      "Soap Making",
+      "Candle Making",
+      "Aromatherapy",
+      "Diffuser",
+      "Air Freshener",
+      "Hair Care",
+      "Skin Care",
+      "DIY Cosmetics"
+    ]
+  },
+
+  "deliveryInfo": {
+    "delivery": "Free Delivery",
+    "returnPolicy": "Non-Returnable",
+    "cashOnDelivery": false,
+    "secureTransaction": true
+  },
+
+  "offers": {
+    "coupon": "Extra 5% Coupon Available",
+    "cashback": "5% Cashback with Amazon Pay ICICI Credit Card for Prime Members",
+    "bankOffer": "₹200 Instant Discount on Axis Credit Card (Minimum Purchase ₹2500)"
+  },
+
+  "additionalInfo": {
+    "soapMakingUsage": "Recommended usage rate: 1-3% of total soap weight depending on fragrance strength desired",
+    "storageInstructions": "Store in a cool, dry place away from direct sunlight",
+    "targetUsers": "Soap makers, candle makers, aromatherapy users, DIY cosmetic makers"
+  },
+
+  "tags": [
+    "Orange Essential Oil",
+    "Sweet Orange Oil",
+    "Soap Making Fragrance",
+    "Candle Making Oil",
+    "Aromatherapy Oil",
+    "Diffuser Oil",
+    "VedaOils",
+    "Natural Essential Oil"
+  ]
+},
+
+{
+  "id": "gaiatop-portable-handheld-fan-4000mah-pink",
+  "name": "Gaiatop Small Handheld Personal Fan 4000mAh USB Rechargeable - Pink",
+  "category": "portable fans & cooling devices",
+  "price": 1999,
+  "discountPrice": 999,
+  "discountRate": 50,
+  "rating": 4.3,
+  "reviews": 146,
+  "ratingText": "4.3 out of 5 stars",
+  "reviewText": "Based on 146 customer ratings on Amazon",
+  "badge": "Top Brand",
+
+  "shortLink": "https://amzn.to/4ecjBrT",
+  "fullLink": "https://www.amazon.in/gp/product/B0FF963ZRT?smid=A1J9OJEPKU4911&th=1&linkCode=ll2&tag=valdio-21&linkId=e0493f7df74922007dcf378ee18c3b27&ref_=as_li_ss_tl",
+
+  "image": "https://m.media-amazon.com/images/I/61jC0h-8qGL._SL1500_.jpg",
+
+  "description": "Gaiatop Handheld Personal Fan is a compact and powerful USB rechargeable cooling fan featuring a 4000mAh battery, adjustable turbo airflow, LED display, and lightweight portable design. Ideal for travel, outdoor activities, office use, and hot summer days.",
+
+  "features": [
+    "Powerful turbo airflow up to 10,400 RPM",
+    "4000mAh rechargeable battery",
+    "100-level adjustable speed control",
+    "LED display for battery and speed status",
+    "Compact pocket-size portable design",
+    "USB rechargeable",
+    "Includes anti-loss wrist strap"
+  ],
+
+  "variants": [
+    {
+      "color": "Pink",
+      "price": 999,
+      "mrp": 1999,
+      "discountRate": 50
+    },
+    {
+      "color": "Black",
+      "price": 998,
+      "mrp": 1999,
+      "discountRate": 50
+    },
+    {
+      "color": "Purple",
+      "price": 999,
+      "mrp": 1999,
+      "discountRate": 50
+    }
+  ],
+
+  "productDetails": {
+    "brand": "Gaiatop",
+    "productType": "Handheld Personal Fan",
+    "powerSource": "Battery Powered",
+    "batteryCapacity": "4000mAh",
+    "material": "Plastic",
+    "colour": "Pink",
+    "dimensions": "16 x 5.6 x 5.9 cm",
+    "mountingType": "Tabletop Mount",
+    "controllerType": "Button Control",
+    "maximumSpeed": "10,400 RPM",
+    "airflowSpeed": "Up to 7.8 m/s",
+    "specialFeatures": [
+      "Turbo cooling",
+      "LED display",
+      "Portable design",
+      "Rechargeable battery",
+      "100-speed adjustment",
+      "Energy-saving display"
+    ],
+    "recommendedUses": [
+      "Travel",
+      "Office",
+      "Outdoor Events",
+      "Camping",
+      "Picnics",
+      "Summer Use",
+      "Daily Commuting"
+    ]
+  },
+
+  "deliveryInfo": {
+    "delivery": "Amazon Delivered",
+    "returnPolicy": "10 Days Replacement",
+    "cashOnDelivery": true,
+    "freeDelivery": true
+  },
+
+  "offers": {
+    "cashback": "Up to ₹50 cashback with select Credit Cards",
+    "bankOffer": "Up to ₹750 discount on select Credit Cards and SBI Debit Cards",
+    "partnerOffer": "GST invoice available for business purchases"
+  },
+
+  "additionalInfo": {
+    "batteryType": "Rechargeable Lithium Battery",
+    "usageNote": "Suitable for both handheld and tabletop use",
+    "targetUsers": "Travelers, office workers, students, outdoor enthusiasts"
+  },
+
+  "tags": [
+    "Portable Fan",
+    "Handheld Fan",
+    "Rechargeable Fan",
+    "USB Fan",
+    "Mini Fan",
+    "Travel Fan",
+    "Summer Gadget",
+    "Personal Cooling Fan"
+  ]
+}
 ]
