@@ -155,52 +155,40 @@ const categories = [
     image: "https://m.media-amazon.com/images/I/71zuVzAzUiL._SY535_.jpg",
   },
   {
-    key:"home-cleaning",
-    name:"home & cleaning",
-    image:""
-
+    key: "home-cleaning",
+    name: "Home & Cleaning",
+    image: "https://m.media-amazon.com/images/I/71JD4mzz4XL._SL1500_.jpg",
   },
   {
-    key:"health-nutrition",
-    name:"health & nutrition",
-    image:""
+    key: "Health_Nutrition",
+    name: "Health & Nutrition",
+    image: "https://m.media-amazon.com/images/I/71JD4mzz4XL._SL1500_.jpg",
   },
   {
-    key:"Health_Nutrition",
-    name:"Health_Nutrition",
-    image:"https://m.media-amazon.com/images/I/71JD4mzz4XL._SL1500_.jpg"
+    key: "Health_PersonalCare",
+    name: "Health & Personal Care",
+    image: "https://m.media-amazon.com/images/I/613bD60hxUL._SL1500_.jpg",
   },
   {
-    key:"Health_PersonalCare",
-    name:"Health_PersonalCare",
-    image:""
+    key: "Grocery_Food",
+    name: "Grocery & Food",
+    image: "/categories/grocery.png",
   },
   {
-    key:"Grocery_Food",
-    name:"Grocery_Food",
-    image:""
+    key: "Diy_crafts",
+    name: "DIY & Crafts",
+    image: "/categories/gift.png",
   },
   {
-    key:"Diy_crafts",
-    name:"Diy_Crafts",
-    image:""
-
+    key: "medicine",
+    name: "Medicine",
+    image: "https://m.media-amazon.com/images/I/613bD60hxUL._SL1500_.jpg",
   },
   {
-    key:"medicine",
-    name:"medicine",
-    image:""
-  },{
-    key:"home_appliances",
-    name:"home_appliances",
-    image:""
+    key: "home_appliances",
+    name: "Home Appliances",
+    image: "https://m.media-amazon.com/images/I/61a-4xTRTxL._SL1080_.jpg",
   },
-  {
-    key:"office-stationery",
-    name:"office stationery",
-    image:""
-  }
-
 ];
 
 export default categories;

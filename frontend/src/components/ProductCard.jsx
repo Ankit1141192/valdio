@@ -46,6 +46,7 @@ const ProductCard = ({
 
         {/* Favorite */}
         <button
+          type="button"
           onClick={(e) => {
             e.stopPropagation();
             toggleFavorite(product.id);

@@ -1,4 +1,4 @@
-import React, { useEffect, useState, useCallback } from "react";
+import React, { useEffect, useState, useCallback, useMemo } from "react";
 import { useNavigate } from "react-router-dom";
 import ProductCard from "../components/ProductCard";
 import products from "../config/Product.json";
@@ -7,14 +7,26 @@ import { useCart } from "../context/CartContext.jsx";
 
 const Favorites = () => {
   const navigate = useNavigate();
-  const { favorites, toggleFavorite } = useLocalFavorites("favorites");
+  const { favorites, toggleFavorite } = useLocalFavorites();
   const { addToCart } = useCart();
 
-  const favoriteProducts = products.filter((p) => favorites.has(p.id));
+  const favoriteIdsKey = useMemo(
+    () => [...favorites].sort().join(","),
+    [favorites]
+  );
+
+  const favoriteProducts = useMemo(
+    () => products.filter((p) => favorites.has(p.id)),
+    [favoriteIdsKey]
+  );
 
   const itemsPerPage = 9; // Products per batch
   const [visibleProducts, setVisibleProducts] = useState([]);
   const [page, setPage] = useState(1);
+
+  useEffect(() => {
+    setPage(1);
+  }, [favoriteIdsKey]);
 
   // Load products for current page
   useEffect(() => {

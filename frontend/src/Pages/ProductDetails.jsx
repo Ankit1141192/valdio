@@ -83,6 +83,7 @@ const ProductDetails = () => {
               )}
 
               <button
+                type="button"
                 onClick={() => toggleFavorite(product.id)}
                 className={`absolute top-8 right-8 w-14 h-14 rounded-full bg-white shadow-xl flex items-center justify-center transition-all ${
                   isFavorited
