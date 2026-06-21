@@ -15,6 +15,7 @@ import products from "../config/Product.json";
 import categories from "../config/categories";
 import useLocalFavorites from "../hooks/useLocalFavorites";
 import { useCart } from "../context/CartContext";
+import { useAuth } from "../context/AuthContext";
 
 const ITEMS_PER_PAGE = 16;
 
@@ -23,31 +24,55 @@ const Products = () => {
   const [searchParams, setSearchParams] = useSearchParams();
   const { favorites, toggleFavorite } = useLocalFavorites("favorites");
   const { addToCart } = useCart();
+  const { API } = useAuth();
 
   // Separate refs for desktop and mobile category scrolls
   const desktopCategoryRef = useRef(null);
   const mobileCategoryRef = useRef(null);
 
+  const [productsList, setProductsList] = useState(products);
+  const [loadingProducts, setLoadingProducts] = useState(false);
+
   const [search, setSearch] = useState(searchParams.get("search") || "");
   const [categoryFilter, setCategoryFilter] = useState(searchParams.get("category") || "");
+  const [partnerFilter, setPartnerFilter] = useState(searchParams.get("partner") || "");
   const [sort, setSort] = useState("name");
   const [view, setView] = useState("grid");
   const [currentPage, setCurrentPage] = useState(1);
 
-  // Sync filter states with URL params
+  // Sync filter states with URL params and load products
   useEffect(() => {
     const q = searchParams.get("search") || "";
     const cat = searchParams.get("category") || "";
+    const part = searchParams.get("partner") || "";
     setSearch(q);
     setCategoryFilter(cat);
-    if (q || cat) setCurrentPage(1);
+    setPartnerFilter(part);
+    if (q || cat || part) setCurrentPage(1);
+
+    // Fetch dynamic products from backend API (optional fallback)
+    setLoadingProducts(true);
+    fetch(`${API}/products`)
+      .then((r) => r.json())
+      .then((d) => {
+        if (d.success && d.data && d.data.length > 0) {
+          setProductsList(d.data);
+        } else {
+          setProductsList(products);
+        }
+      })
+      .catch((err) => {
+        console.error("API products fetch failed, using fallback Product.json", err);
+        setProductsList(products);
+      })
+      .finally(() => setLoadingProducts(false));
   }, [searchParams]);
   const [mobileFiltersOpen, setMobileFiltersOpen] = useState(false);
   const [priceRange, setPriceRange] = useState([0, 10000]);
 
   /* ================= FILTER + SORT ================= */
   const filteredProducts = useMemo(() => {
-    let data = [...products];
+    let data = [...productsList];
 
     if (search) {
       data = data.filter((p) =>
@@ -60,6 +85,11 @@ const Products = () => {
       data = data.filter((p) => p.category === categoryFilter);
     }
 
+    // Only filter when a partner is actually selected
+    if (partnerFilter !== "") {
+      data = data.filter((p) => (p.partner || "Amazon").toLowerCase() === partnerFilter.toLowerCase());
+    }
+
     data = data.filter(
       (p) => p.price >= priceRange[0] && p.price <= priceRange[1]
     );
@@ -69,7 +99,7 @@ const Products = () => {
     if (sort === "name") data.sort((a, b) => a.name.localeCompare(b.name));
 
     return data;
-  }, [search, categoryFilter, sort, priceRange]);
+  }, [productsList, search, categoryFilter, partnerFilter, sort, priceRange]);
 
   const totalPages = Math.ceil(filteredProducts.length / ITEMS_PER_PAGE);
   const paginatedProducts = filteredProducts.slice(
@@ -98,6 +128,7 @@ const Products = () => {
   const hasActiveFilters =
     search !== "" ||
     categoryFilter !== "" ||
+    partnerFilter !== "" ||
     sort !== "name" ||
     priceRange[0] > 0 ||
     priceRange[1] < 10000;
@@ -105,9 +136,11 @@ const Products = () => {
   const clearAllFilters = () => {
     setSearch("");
     setCategoryFilter("");
+    setPartnerFilter("");
     setSort("name");
     setPriceRange([0, 10000]);
     setCurrentPage(1);
+    setSearchParams(new URLSearchParams());
   };
 
   /* ================= REUSABLE: CATEGORY PILL ================= */
@@ -401,6 +434,20 @@ const Products = () => {
                     {categories.find((c) => c.key === categoryFilter)?.name ||
                       categoryFilter}
                     <button onClick={() => handleCategorySelect("")}>
+                      <X size={12} className="text-gray-500 hover:text-gray-700" />
+                    </button>
+                  </span>
+                )}
+
+                {partnerFilter !== "" && (
+                  <span className="inline-flex items-center gap-1 px-2 py-0.5 bg-gray-100 text-gray-700 rounded-full text-xs font-medium">
+                    Partner: {partnerFilter}
+                    <button onClick={() => {
+                      setPartnerFilter("");
+                      const p = new URLSearchParams(searchParams);
+                      p.delete("partner");
+                      setSearchParams(p);
+                    }}>
                       <X size={12} className="text-gray-500 hover:text-gray-700" />
                     </button>
                   </span>

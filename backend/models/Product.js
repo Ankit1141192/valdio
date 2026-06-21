@@ -28,6 +28,7 @@ const productSchema = new mongoose.Schema(
 
     shortLink: String,
     fullLink: String,
+    partner: { type: String, default: "Amazon" },
 
     image: { type: String, required: true },
     description: String,

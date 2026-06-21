@@ -51,7 +51,7 @@ const Navbar = () => {
     return pathname.startsWith(path);
   };
 
-  const navItems = ["Home", "Products", "Favorites"];
+  const navItems = ["Home", "Products","Earn", "Favorites"];
   const getLink = (item) =>
     item === "Home" ? "/" : `/${item.toLowerCase()}`;
 
@@ -142,6 +142,22 @@ const Navbar = () => {
             PRODUCTS
             <span className={`absolute left-0 -bottom-0.5 h-0.5 bg-primary transition-all duration-300 ${isActive("/products") ? "w-full" : "w-0 group-hover:w-full"}`}></span>
           </Link>
+          {/* Earn Link */}
+<Link
+  to="/earn"
+  className={`relative group px-1 py-1 transition duration-300 text-sm tracking-wide ${
+    isActive("/earn")
+      ? "text-primary"
+      : "text-slate-600 hover:text-slate-900"
+  }`}
+>
+  EARN
+  <span
+    className={`absolute left-0 -bottom-0.5 h-0.5 bg-primary transition-all duration-300 ${
+      isActive("/earn") ? "w-full" : "w-0 group-hover:w-full"
+    }`}
+  ></span>
+</Link>
 
           <div className="flex items-center gap-5 border-l border-slate-200 pl-8 ml-2">
             {/* Favorites Heart Icon */}
@@ -270,6 +286,22 @@ const Navbar = () => {
           >
             PRODUCTS
           </Link>
+          {/* Earn Link */}
+<Link
+  to="/earn"
+  className={`relative group px-1 py-1 transition duration-300 text-sm tracking-wide ${
+    isActive("/earn")
+      ? "text-primary"
+      : "text-slate-600 hover:text-slate-900"
+  }`}
+>
+  EARN
+  <span
+    className={`absolute left-0 -bottom-0.5 h-0.5 bg-primary transition-all duration-300 ${
+      isActive("/earn") ? "w-full" : "w-0 group-hover:w-full"
+    }`}
+  ></span>
+</Link>
 
           <div className="w-[85%] grid grid-cols-2 gap-4 mt-2">
             {/* Mobile Favorites Link */}

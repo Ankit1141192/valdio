@@ -1,5 +1,6 @@
 import React from 'react'
 import HeroSection from '../components/HeroSection'
+import PartnersSection from '../components/PartnersSection'
 import CategoriesSection from '../components/CategoriesSection'
 import ProductsSection from '../components/ProductsSection'
 import FeaturesSection from '../components/FeaturesSection'
@@ -22,6 +23,7 @@ const HomePage = () => {
   return (
     <div className='mt-20'>
         <HeroSection/>
+        <PartnersSection/>
         <CategoriesSection/>
         <HomeProductStrip
           badgeText="Flash Deals"

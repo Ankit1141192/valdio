@@ -6,22 +6,77 @@ import useLocalFavorites from "../hooks/useLocalFavorites";
 import { useCart } from "../context/CartContext.jsx";
 import AddToCartButton from "../components/AddToCartButton";
 import ProductCard from "../components/ProductCard";
+import { useAuth } from "../context/AuthContext.jsx";
+import ShareIcon from "../assets/share.svg";
+
+const WhatsAppIcon = ({ className }) => (
+  <svg
+    viewBox="0 0 24 24"
+    className={className}
+    fill="currentColor"
+  >
+    <path d="M17.472 14.382c-.297-.149-1.758-.867-2.03-.967-.273-.099-.471-.148-.67.15-.197.297-.767.966-.94 1.164-.173.199-.347.223-.644.075-.297-.15-1.255-.463-2.39-1.475-.883-.788-1.48-1.761-1.653-2.059-.173-.297-.018-.458.13-.606.134-.133.298-.347.446-.52.149-.174.198-.298.298-.497.099-.198.05-.371-.025-.52-.075-.149-.669-1.612-.916-2.207-.242-.579-.487-.5-.669-.51-.173-.008-.371-.01-.57-.01-.198 0-.52.074-.792.372-.272.297-1.04 1.016-1.04 2.479 0 1.462 1.065 2.875 1.213 3.074.149.198 2.096 3.2 5.077 4.487.709.306 1.262.489 1.694.625.712.227 1.36.195 1.871.118.571-.085 1.758-.719 2.006-1.413.248-.694.248-1.289.173-1.413-.074-.124-.272-.198-.57-.347m-5.421 7.403h-.004a9.87 9.87 0 01-5.031-1.378l-.361-.214-3.741.982.998-3.648-.235-.374a9.86 9.86 0 01-1.51-5.26c.001-5.45 4.436-9.884 9.888-9.884 2.64 0 5.122 1.03 6.988 2.898a9.825 9.825 0 012.893 6.994c-.003 5.45-4.437 9.884-9.885 9.884m8.413-18.297A11.815 11.815 0 0012.05 0C5.495 0 .16 5.335.157 11.892c0 2.096.547 4.142 1.588 5.945L0 24l6.335-1.662c1.746.953 3.71 1.458 5.704 1.46h.005c6.554 0 11.89-5.335 11.893-11.893a11.821 11.821 0 00-3.48-8.413z" />
+  </svg>
+);
 
 const ProductDetails = () => {
   const { id } = useParams();
   const navigate = useNavigate();
   const { favorites, toggleFavorite } = useLocalFavorites("favorites");
   const { addToCart } = useCart();
+  const { API, token } = useAuth();
 
   const [product, setProduct] = useState(null);
   const [selectedColor, setSelectedColor] = useState(null);
+  const [loading, setLoading] = useState(true);
+  const [copied, setCopied] = useState(false);
+  const [showImgShareMenu, setShowImgShareMenu] = useState(false);
+  const [showInlineShareMenu, setShowInlineShareMenu] = useState(false);
+
+  const handleCopyLink = () => {
+    navigator.clipboard.writeText(window.location.href);
+    setCopied(true);
+    setTimeout(() => setCopied(false), 2000);
+  };
 
   useEffect(() => {
+    // Try to find the product in the local static list immediately
     const found = products.find((p) => p.id === id);
-    setProduct(found || null);
-    if (found?.colors) setSelectedColor(found.colors[0]);
+    if (found) {
+      setProduct(found);
+      if (found.colors) setSelectedColor(found.colors[0]);
+      setLoading(false);
+    } else {
+      setLoading(true);
+    }
+
+    // Fetch updated details from API silently in the background
+    fetch(`${API}/products/${id}`)
+      .then((r) => r.json())
+      .then((d) => {
+        if (d.success && d.data) {
+          setProduct(d.data);
+          if (d.data.colors) setSelectedColor(d.data.colors[0]);
+        }
+      })
+      .catch((err) => {
+        console.warn("API load failed, using local product data:", err);
+      })
+      .finally(() => {
+        if (!found) setLoading(false);
+      });
+
     window.scrollTo({ top: 0, behavior: "smooth" });
   }, [id]);
+
+  if (loading) {
+    return (
+      <div className="flex items-center justify-center min-h-screen">
+        <div className="w-10 h-10 rounded-full border-3 border-slate-200 border-t-blue-500 animate-spin" />
+        <span className="ml-3 text-slate-400 text-sm font-bold">Loading details…</span>
+      </div>
+    );
+  }
 
   if (!product) {
     return (
@@ -31,7 +86,7 @@ const ProductDetails = () => {
     );
   }
 
-  const isFavorited = favorites.has(product.id);
+  const isFavorited = favorites.has(product.id || product._id);
 
   const originalPrice = product.price;
   const discountedPrice = product.discountPrice ?? product.price;
@@ -42,15 +97,20 @@ const ProductDetails = () => {
       : 0;
 
   const similarProducts = products.filter(
-    (p) => p.category === product.category && p.id !== product.id
+    (p) => p.category === product.category && p.id !== (product.id || product._id)
   );
 
   const handleAddToCart = () => {
-    addToCart(product.id, 1);
+    addToCart(product.id || product._id, 1);
     alert(`${product.name} added to cart`);
   };
 
-  const handleBuyNow = () => window.open(product.fullLink, "_blank");
+  const handleBuyNow = () => {
+    const targetUrl = product.shortLink || product.fullLink || (token
+      ? `${API}/track/${product._id || product.id}?token=${token}`
+      : `${API}/track/${product._id || product.id}`);
+    window.open(targetUrl, "_blank");
+  };
 
   return (
     <div className="min-h-screen bg-white">
@@ -82,17 +142,72 @@ const ProductDetails = () => {
                 </span>
               )}
 
-              <button
-                type="button"
-                onClick={() => toggleFavorite(product.id)}
-                className={`absolute top-8 right-8 w-14 h-14 rounded-full bg-white shadow-xl flex items-center justify-center transition-all ${
-                  isFavorited
-                    ? "text-rose-500"
-                    : "text-slate-300 hover:text-rose-500"
-                }`}
+              <div 
+                className="absolute top-8 right-8 flex flex-col gap-3 z-10"
+                onMouseLeave={() => setShowImgShareMenu(false)}
               >
-                <Heart size={26} className={isFavorited ? "fill-current" : ""} />
-              </button>
+                <button
+                  type="button"
+                  onClick={() => toggleFavorite(product.id)}
+                  className={`w-14 h-14 rounded-full bg-white shadow-xl flex items-center justify-center transition-all ${
+                    isFavorited
+                      ? "text-rose-500"
+                      : "text-slate-300 hover:text-rose-500"
+                  }`}
+                >
+                  <Heart size={26} className={isFavorited ? "fill-current" : ""} />
+                </button>
+                <div className="relative">
+                  <button
+                    type="button"
+                    onClick={() => setShowImgShareMenu(!showImgShareMenu)}
+                    className="w-14 h-14 rounded-full bg-white shadow-xl flex items-center justify-center transition-all text-slate-400 hover:text-primary hover:scale-105 active:scale-95 cursor-pointer"
+                    title="Share Product"
+                  >
+                    <img src={ShareIcon} alt="Share" className="w-5 h-5" />
+                  </button>
+
+                  {showImgShareMenu && (
+                    <div className="absolute right-16 top-0 bg-white border border-slate-100 rounded-2xl shadow-2xl py-2 px-2.5 z-20 flex flex-col gap-1.5 min-w-[150px] animate-in fade-in slide-in-from-right-2 duration-200">
+                      {/* Copy Link Option */}
+                      <button
+                        type="button"
+                        onClick={() => {
+                          handleCopyLink();
+                          setTimeout(() => setShowImgShareMenu(false), 1200);
+                        }}
+                        className="flex items-center gap-2.5 px-3 py-2 rounded-xl text-xs font-bold text-slate-600 hover:bg-slate-50 hover:text-primary transition-all w-full text-left cursor-pointer"
+                      >
+                        {copied ? (
+                          <>
+                            <CheckCircle size={14} className="text-emerald-500" />
+                            <span className="text-emerald-600">Link Copied!</span>
+                          </>
+                        ) : (
+                          <>
+                            <span className="text-sm">🔗</span>
+                            <span>Copy Link</span>
+                          </>
+                        )}
+                      </button>
+
+                      {/* WhatsApp Option */}
+                      <a
+                        href={`https://api.whatsapp.com/send?text=${encodeURIComponent(
+                          `Check out this awesome product: ${product.name} - ${window.location.href}`
+                        )}`}
+                        target="_blank"
+                        rel="noopener noreferrer"
+                        onClick={() => setShowImgShareMenu(false)}
+                        className="flex items-center gap-2.5 px-3 py-2 rounded-xl text-xs font-bold text-slate-600 hover:bg-slate-50 hover:text-emerald-600 transition-all w-full text-left cursor-pointer"
+                      >
+                        <WhatsAppIcon className="w-3.5 h-3.5 text-[#25D366]" />
+                        <span>WhatsApp</span>
+                      </a>
+                    </div>
+                  )}
+                </div>
+              </div>
             </div>
           </div>
 
@@ -148,6 +263,19 @@ const ProductDetails = () => {
 
             {/* Actions */}
             <div className="pt-10 border-t border-slate-100 space-y-6">
+              {/* Cashback Promo Banner */}
+              <div className="flex items-center gap-3 p-4 bg-emerald-50/60 border border-emerald-100/80 rounded-2xl">
+                <span className="text-xl">💰</span>
+                <div>
+                  <p className="text-xs font-bold text-slate-800">
+                    Cashback Eligible: <span className="text-emerald-600 font-black text-sm">Earn ₹{Math.round((product.discountPrice ?? product.price) * 0.05)}</span>
+                  </p>
+                  <p className="text-[10px] text-slate-400 font-semibold uppercase mt-0.5">
+                    Automatically credited to your wallet upon checkout from {product.partner || "Amazon"}
+                  </p>
+                </div>
+              </div>
+
               <div className="flex flex-col sm:flex-row gap-4">
                 <div className="flex-1">
                   <AddToCartButton onClick={handleAddToCart} />
@@ -159,6 +287,64 @@ const ProductDetails = () => {
                 >
                   Secure Checkout ↗
                 </button>
+              </div>
+
+              {/* Share Product */}
+              <div className="flex items-center justify-between pt-6 border-t border-slate-100">
+                <span className="text-[10px] font-black tracking-widest uppercase text-slate-400">
+                  Share Product
+                </span>
+                <div 
+                  className="relative"
+                  onMouseLeave={() => setShowInlineShareMenu(false)}
+                >
+                  <button
+                    onClick={() => setShowInlineShareMenu(!showInlineShareMenu)}
+                    className="flex items-center gap-2 px-4 py-2.5 rounded-xl border border-slate-200 text-slate-600 hover:text-primary hover:border-primary transition-all duration-300 font-bold text-xs hover:scale-105 active:scale-95 bg-white cursor-pointer"
+                  >
+                    <img src={ShareIcon} alt="Share" className="w-3.5 h-3.5" />
+                    <span>Share</span>
+                  </button>
+
+                  {showInlineShareMenu && (
+                    <div className="absolute right-0 bottom-full mb-2 bg-white border border-slate-100 rounded-xl shadow-xl py-1.5 px-2 z-20 flex flex-col gap-1 min-w-[150px] animate-in fade-in slide-in-from-bottom-2 duration-200">
+                      {/* Copy Link Option */}
+                      <button
+                        onClick={() => {
+                          handleCopyLink();
+                          setTimeout(() => setShowInlineShareMenu(false), 1200);
+                        }}
+                        className="flex items-center gap-2 px-3 py-2 rounded-lg text-xs font-bold text-slate-600 hover:bg-slate-50 hover:text-primary transition-all w-full text-left cursor-pointer"
+                      >
+                        {copied ? (
+                          <>
+                            <CheckCircle size={14} className="text-emerald-500" />
+                            <span className="text-emerald-600">Link Copied!</span>
+                          </>
+                        ) : (
+                          <>
+                            <span className="text-sm">🔗</span>
+                            <span>Copy Link</span>
+                          </>
+                        )}
+                      </button>
+
+                      {/* WhatsApp Option */}
+                      <a
+                        href={`https://api.whatsapp.com/send?text=${encodeURIComponent(
+                          `Check out this awesome product: ${product.name} - ${window.location.href}`
+                        )}`}
+                        target="_blank"
+                        rel="noopener noreferrer"
+                        onClick={() => setShowInlineShareMenu(false)}
+                        className="flex items-center gap-2 px-3 py-2 rounded-lg text-xs font-bold text-slate-600 hover:bg-slate-50 hover:text-emerald-600 transition-all w-full text-left cursor-pointer"
+                      >
+                        <WhatsAppIcon className="w-3.5 h-3.5 text-[#25D366]" />
+                        <span>WhatsApp</span>
+                      </a>
+                    </div>
+                  )}
+                </div>
               </div>
             </div>
           </div>
