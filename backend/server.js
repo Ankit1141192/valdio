@@ -16,6 +16,10 @@ app.use(express.json());
 // Routes
 app.use("/api/auth", require("./routes/authRoutes"));
 app.use("/api/products", require("./routes/productRoutes"));
+app.use("/api/categories", require("./routes/categoryRoutes"));
+app.use("/api/track", require("./routes/trackRoutes"));
+app.use("/api/wallet", require("./routes/walletRoutes"));
+app.use("/api/admin", require("./routes/adminRoutes"));
 
 // Error Handling
 app.use(notFound);
