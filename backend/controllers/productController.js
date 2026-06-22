@@ -24,7 +24,11 @@ const createProduct = async (req, res, next) => {
 =========================== */
 const getProducts = async (req, res, next) => {
   try {
-    const products = await Product.find();
+    const filter = {};
+    if (req.query.partner) {
+      filter.partner = { $regex: new RegExp(`^${req.query.partner}$`, "i") };
+    }
+    const products = await Product.find(filter);
     res.json({
       success: true,
       count: products.length,

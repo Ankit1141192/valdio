@@ -6,17 +6,19 @@ import App from './App.jsx'
 import { SpeedInsights } from '@vercel/speed-insights/react'
 import { CartProvider } from "./context/CartContext.jsx";
 import { FavoritesProvider } from "./context/FavoritesContext.jsx";
+import { AuthProvider } from "./context/AuthContext.jsx";
 
 
 createRoot(document.getElementById('root')).render(
   <StrictMode>
     <BrowserRouter>
-
-      <CartProvider>
-        <FavoritesProvider>
-          <App />
-        </FavoritesProvider>
-      </CartProvider>
+      <AuthProvider>
+        <CartProvider>
+          <FavoritesProvider>
+            <App />
+          </FavoritesProvider>
+        </CartProvider>
+      </AuthProvider>
       <SpeedInsights />
     </BrowserRouter>
 

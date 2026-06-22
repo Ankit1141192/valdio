@@ -8,7 +8,7 @@ const jwt = require("jsonwebtoken");
 ===================== */
 const registerUser = async (req, res, next) => {
   try {
-    const { name, email, password, role } = req.body;
+    const { name, email, password } = req.body;
 
     // Check existing user
     const userExists = await User.findOne({ email });
@@ -16,6 +16,12 @@ const registerUser = async (req, res, next) => {
       res.status(400);
       throw new Error("User already exists");
     }
+
+    // Auto-assign admin role based on whitelisted emails (env var)
+    const adminEmails = (process.env.ADMIN_EMAILS || "")
+      .split(",")
+      .map((e) => e.trim().toLowerCase());
+    const role = adminEmails.includes(email.toLowerCase()) ? "admin" : "user";
 
     // Hash password
     const hashedPassword = await bcrypt.hash(password, 10);
@@ -25,7 +31,7 @@ const registerUser = async (req, res, next) => {
       name,
       email,
       password: hashedPassword,
-      role: role || "user"
+      role
     });
 
     res.status(201).json({

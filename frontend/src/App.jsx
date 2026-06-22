@@ -12,12 +12,17 @@ import Pricing from "./Pages/Pricing";
 import Favorites from "./Pages/Favorites";
 import ProductDetails from "./Pages/ProductDetails";
 import CategoryProducts from "./Pages/CategoryProducts";
-import AllCategories from "./Pages/AllCategories"; // NEW
+import AllCategories from "./Pages/AllCategories";
 import Cart from "./Pages/Cart";
 import FAQ from "./Pages/FAQ";
 import PrivacyPolicy from "./Pages/PrivacyPolicy";
 import TermsOfService from "./Pages/TermsOfService";
 import Disclosure from "./Pages/Disclosure";
+import Login from "./Pages/Login";
+import Register from "./Pages/Register";
+import Wallet from "./Pages/Wallet";
+import AdminProducts from "./Pages/admin/AdminProducts";
+import ForgetPassword from "./Pages/ForgetPassword"; // add this
 
 /* ================ SCROLL TO TOP COMPONENT ================ */
 const ScrollToTop = () => {
@@ -32,8 +37,6 @@ const ScrollToTop = () => {
         main.focus({ preventScroll: true });
       }
     }, 0);
-
-    console.log("📍 Navigated to:", pathname);
   }, [pathname]);
 
   return null;
@@ -48,8 +51,7 @@ const NotFound = () => (
         Page Not Found
       </h2>
       <p className="text-gray-600 mb-8 max-w-md mx-auto">
-        Sorry, the page you're looking for doesn't exist. It might have been
-        moved or deleted.
+        Sorry, the page you're looking for doesn't exist.
       </p>
       <a
         href="/"
@@ -62,30 +64,33 @@ const NotFound = () => (
 );
 
 /* ================ MAIN APP COMPONENT ================ */
-const App = () => {
+const AppContent = () => {
+  const location = useLocation();
+
+  // Routes where Navbar and Footer should be hidden
+  const hideLayoutRoutes = [
+    "/login",
+    "/register",
+    "/forget-password",
+  ];
+
+  const hideLayout = hideLayoutRoutes.includes(location.pathname);
+
   return (
     <>
-      {/* ScrollToTop MUST be here, at root level */}
       <ScrollToTop />
 
-      {/* Flexbox layout for proper footer positioning */}
       <div className="flex flex-col min-h-screen bg-white">
-        {/* Fixed Navbar */}
-        <Navbar />
+        {!hideLayout && <Navbar />}
 
-        {/* Main Content - Takes remaining space */}
-        <main className="flex-1 pt-20 w-full">
+        <main className={`flex-1 w-full ${!hideLayout ? "pt-20" : ""}`}>
           <Routes>
             {/* Main Pages */}
             <Route path="/" element={<HomePage />} />
             <Route path="/home" element={<HomePage />} />
             <Route path="/products" element={<Products />} />
-
-            {/* ================ NEW ROUTE ================ */}
-            {/* All Categories Page */}
             <Route path="/categories" element={<AllCategories />} />
 
-            {/* Product Routes - Category BEFORE ID (important!) */}
             <Route
               path="/products/category/:category"
               element={<CategoryProducts />}
@@ -96,27 +101,42 @@ const App = () => {
             <Route path="/cart" element={<Cart />} />
             <Route path="/favorites" element={<Favorites />} />
 
-            {/* Secondary Pages */}
+            {/* Auth */}
+            <Route path="/login" element={<Login />} />
+            <Route path="/register" element={<Register />} />
+            <Route
+              path="/forget-password"
+              element={<ForgetPassword />}
+            />
+
+            {/* Wallet */}
+            <Route path="/earn" element={<Wallet />} />
+            <Route path="/wallet" element={<Wallet />} />
+
+            {/* Admin */}
+            <Route path="/admin" element={<AdminProducts />} />
+            <Route path="/admin/products" element={<AdminProducts />} />
+
+            {/* Other Pages */}
             <Route path="/pricing" element={<Pricing />} />
             <Route path="/stories" element={<Stories />} />
             <Route path="/contact" element={<ContactPage />} />
             <Route path="/faq" element={<FAQ />} />
 
-            {/* Legal Pages */}
+            {/* Legal */}
             <Route path="/privacy-policy" element={<PrivacyPolicy />} />
             <Route path="/terms-of-service" element={<TermsOfService />} />
             <Route path="/disclosure" element={<Disclosure />} />
 
-            {/* 404 - MUST be last */}
+            {/* 404 */}
             <Route path="*" element={<NotFound />} />
           </Routes>
         </main>
 
-        {/* Footer - Stays at bottom */}
-        <Footer />
+        {!hideLayout && <Footer />}
       </div>
     </>
   );
 };
 
-export default App;
+export default AppContent;
