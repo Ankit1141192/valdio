@@ -16327,5 +16327,123 @@
     "Summer Gadget",
     "Personal Cooling Fan"
   ]
+},
+{
+  "id": "sparx-mens-ss453-sandals-blue",
+  "name": "Sparx Men's SS 453 Sports Sandals",
+  "category": "men's footwear",
+  "price": 999,
+  "discountPrice": 589,
+  "discountRate": 41,
+  "rating": 4.0,
+  "reviews": 35251,
+  "ratingText": "4.0 out of 5 stars",
+  "reviewText": "Based on 35,251 customer ratings on Amazon",
+  "badge": "#1 Best Seller",
+
+  "shortLink": "https://link.amazon/B0746Qp3t",
+  "fullLink": "https://www.amazon.in/dp/B075FT3F5G?social_share=cm_sw_r_ud_dp_WJR5R3RFG0E9QFXBZK26_1&th=1&psc=1&linkCode=ll2&tag=valdio-21&linkId=dc51e7c515e1aa81b2a460fea835658c&ref_=as_li_ss_tl",
+
+  "image": "https://m.media-amazon.com/images/I/61aA9wz1ZEL._SY695_.jpg",
+
+  "description": "Sparx Men's SS 453 is a lightweight and comfortable sports sandal designed for daily wear, walking, travel, and outdoor use. It features durable construction, adjustable straps, and a cushioned sole for all-day comfort.",
+
+  "features": [
+    "Comfortable cushioned footbed",
+    "Lightweight everyday design",
+    "Durable outsole for better grip",
+    "Adjustable hook-and-loop straps",
+    "Suitable for indoor and outdoor use",
+    "Breathable open sandal design",
+    "Ideal for casual and travel wear"
+  ],
+
+  "variants": [
+    {
+      "color": "Blue",
+      "price": 589,
+      "mrp": 999,
+      "discountRate": 41
+    },
+    {
+      "color": "Black",
+      "price": 499,
+      "mrp": 999,
+      "discountRate": 50
+    },
+    {
+      "color": "Black Red",
+      "price": 584,
+      "mrp": 949,
+      "discountRate": 38
+    },
+    {
+      "color": "Blue Grey",
+      "price": 664,
+      "mrp": 999,
+      "discountRate": 34
+    }
+  ],
+
+  "productDetails": {
+    "brand": "Sparx",
+    "model": "SS 453",
+    "gender": "Men",
+    "footwearType": "Sports Sandals",
+    "colour": "Blue",
+    "recommendedSize": "10 UK",
+    "availableSizes": [
+      "4 UK",
+      "6 UK",
+      "7 UK",
+      "8 UK",
+      "9 UK",
+      "10 UK",
+      "12 UK"
+    ],
+    "specialFeatures": [
+      "Adjustable straps",
+      "Comfort fit",
+      "Slip-resistant sole",
+      "Lightweight",
+      "Durable construction"
+    ],
+    "recommendedUses": [
+      "Daily Wear",
+      "Walking",
+      "Casual Outings",
+      "Travel",
+      "Outdoor Activities"
+    ]
+  },
+
+  "deliveryInfo": {
+    "delivery": "Amazon Delivered",
+    "returnPolicy": "10 Days Return & Exchange",
+    "cashOnDelivery": true,
+    "secureTransaction": true,
+    "freeDelivery": true
+  },
+
+  "offers": {
+    "cashback": "Up to ₹50 cashback with select Credit Cards",
+    "bankOffer": "Up to ₹2,500 discount on select Credit Cards and SBI Debit Cards",
+    "partnerOffer": "GST invoice available for business purchases"
+  },
+
+  "additionalInfo": {
+    "careInstructions": "Clean with a soft damp cloth and air dry. Avoid prolonged exposure to direct sunlight.",
+    "targetUsers": "Men looking for comfortable everyday sandals for casual and outdoor use."
+  },
+
+  "tags": [
+    "Sparx",
+    "Men Sandals",
+    "Sports Sandals",
+    "Casual Footwear",
+    "Walking Sandals",
+    "Outdoor Sandals",
+    "Comfort Sandals"
+  ]
 }
 ]
