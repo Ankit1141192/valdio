@@ -16445,5 +16445,563 @@
     "Outdoor Sandals",
     "Comfort Sandals"
   ]
+},
+{
+  "id": "allo-borosilicate-glass-mixing-serving-bowls-set-3",
+  "name": "Allo Food Safe Borosilicate Glass Mixing & Serving Bowls Set of 3",
+  "category": "Kitchen-Dining",
+  "price": 1918,
+  "discountPrice": 880,
+  "discountRate": 54,
+  "rating": 4.4,
+  "reviews": 971,
+  "ratingText": "4.4 out of 5 stars",
+  "reviewText": "Based on 971 customer ratings on Amazon",
+  "badge": "Amazon's Choice",
+
+  "shortLink": "https://link.amazon/B03JEH5l8",
+  "fullLink": "https://www.amazon.in/dp/B0CGRH7778?social_share=cm_sw_r_ud_dp_V5118ACYEEPS90PJ1JF3&th=1&linkCode=ll2&tag=valdio-21&linkId=b0dc2af80de7f89ca701ea447656ea74&ref_=as_li_ss_tl",
+
+  "image": "https://m.media-amazon.com/images/I/71+nBDyr3xL._SL1080_.jpg",
+
+  "description": "Allo Food Safe Borosilicate Glass Mixing & Serving Bowls are made from premium borosilicate glass for safe cooking, baking, serving, and food storage. These bowls are oven, microwave, dishwasher, and freezer safe, making them perfect for everyday kitchen use.",
+
+  "features": [
+    "100% Food Safe Borosilicate Glass",
+    "Microwave Safe",
+    "Oven Safe up to 450°C",
+    "Dishwasher Safe",
+    "Freezer Safe up to -20°C",
+    "Scratch Resistant",
+    "BPA Free and FDA Certified",
+    "Non-Porous Glass",
+    "Odour Resistant",
+    "Stain Resistant",
+    "Stackable Design",
+    "Suitable for Mixing, Baking, Serving and Storage"
+  ],
+
+  "variants": [
+    {
+      "name": "Set of 3 (500ml, 1000ml, 1600ml)",
+      "price": 880,
+      "mrp": 1918,
+      "discountRate": 54
+    },
+    {
+      "name": "Set of 3 (1000ml, 1600ml, 2100ml)",
+      "price": 1249,
+      "mrp": 2331,
+      "discountRate": 46
+    },
+    {
+      "name": "Set of 3 (1600ml, 2100ml, 2700ml)",
+      "price": 1468,
+      "mrp": 2817,
+      "discountRate": 48
+    },
+    {
+      "name": "500ml Bowl",
+      "price": 348,
+      "mrp": 487,
+      "discountRate": 29
+    },
+    {
+      "name": "1000ml Bowl",
+      "price": 497,
+      "mrp": 621,
+      "discountRate": 20
+    },
+    {
+      "name": "1600ml Bowl",
+      "price": 613,
+      "mrp": 810,
+      "discountRate": 24
+    },
+    {
+      "name": "2100ml Bowl",
+      "price": 673,
+      "mrp": 900,
+      "discountRate": 25
+    },
+    {
+      "name": "2700ml Bowl",
+      "price": 698,
+      "mrp": 1107,
+      "discountRate": 37
+    },
+    {
+      "name": "3600ml Bowl",
+      "price": 879,
+      "mrp": 1549,
+      "discountRate": 43
+    }
+  ],
+
+  "productDetails": {
+    "brand": "Allo",
+    "model": "Set of 3 (500ml, 1000ml, 1600ml)",
+    "material": "Borosilicate Glass",
+    "colour": "Transparent",
+    "style": "Modern",
+    "numberOfPieces": 3,
+    "capacity": [
+      "500ml",
+      "1000ml",
+      "1600ml"
+    ],
+    "specialFeatures": [
+      "Microwave Safe",
+      "450°C Oven Safe",
+      "Dishwasher Safe",
+      "Freezer Safe (-20°C)",
+      "Scratch Resistant",
+      "Non-Porous",
+      "Stackable",
+      "Food Safe",
+      "BPA Free",
+      "FDA Certified"
+    ],
+    "recommendedUses": [
+      "Mixing",
+      "Serving",
+      "Baking",
+      "Food Preparation",
+      "Food Storage",
+      "Heating",
+      "Meal Prep"
+    ]
+  },
+
+  "deliveryInfo": {
+    "delivery": "Amazon Delivered",
+    "returnPolicy": "10 Days Returnable",
+    "cashOnDelivery": true,
+    "secureTransaction": true,
+    "freeDelivery": true,
+    "warranty": "1 Year Warranty"
+  },
+
+  "offers": {
+    "cashback": "Up to ₹26 Amazon Pay Cashback on eligible ICICI Credit Cards",
+    "bankOffer": "Up to ₹2,500 discount on select Credit Cards and SBI Debit Cards",
+    "partnerOffer": "Buy 3 or more qualifying products and get 5% off"
+  },
+
+  "additionalInfo": {
+    "careInstructions": "Safe for microwave, oven, dishwasher and freezer. Avoid sudden extreme temperature changes. Clean with a soft sponge for long-lasting clarity.",
+    "targetUsers": "Ideal for home kitchens, cooking enthusiasts, bakers, and anyone looking for premium glass mixing and serving bowls."
+  },
+
+  "tags": [
+    "Allo",
+    "Glass Bowls",
+    "Borosilicate Glass",
+    "Mixing Bowl",
+    "Serving Bowl",
+    "Kitchen Bowls",
+    "Microwave Safe",
+    "Oven Safe",
+    "Dishwasher Safe",
+    "Freezer Safe",
+    "Food Storage",
+    "Transparent Bowl"
+  ]
+},
+{
+  "id": "samyang-buldak-carbonara-hot-chicken-ramen-pack-5-650g",
+  "name": "SAMYANG Hot Chicken Flavor Ramen Buldak Carbonara Noodles (650g, Pack of 5)",
+  "category": "Grocery_Food",
+  "price": 625,
+  "discountPrice": 549,
+  "discountRate": 12,
+  "rating": 4.3,
+  "reviews": 16439,
+  "ratingText": "4.3 out of 5 stars",
+  "reviewText": "Based on 16,439 customer ratings on Amazon",
+  "badge": "Amazon's Choice",
+
+  "shortLink": "https://link.amazon/B050SKH2g",
+  "fullLink": "https://www.amazon.in/dp/B07CF49TMD?social_share=cm_sw_r_ud_dp_XJ332Z0BEN3K346SAXDP&th=1&linkCode=ll2&tag=valdio-21&linkId=45902bbca8fc8c7c13ed96b4ef985b68&ref_=as_li_ss_tl",
+
+  "image": "https://m.media-amazon.com/images/I/71Uko-ncB5L._SL1500_.jpg",
+
+  "description": "SAMYANG Buldak Carbonara Hot Chicken Flavor Ramen combines the signature Korean spicy chicken taste with a rich and creamy carbonara flavor. This pack contains 5 instant noodle packs (650g total), making it perfect for spicy food lovers who enjoy authentic Korean ramen at home.",
+
+  "features": [
+    "Authentic Korean instant ramen",
+    "Hot Chicken Carbonara flavor",
+    "Creamy and spicy taste",
+    "Pack of 5 noodle packets",
+    "Ready in just a few minutes",
+    "Perfect for quick meals and snacks",
+    "Rich, chewy noodles",
+    "Popular Buldak spicy ramen series"
+  ],
+
+  "variants": [
+    {
+      "name": "70g (Pack of 6)",
+      "price": 749,
+      "mrp": 780,
+      "discountRate": 4
+    },
+    {
+      "name": "130g (Pack of 4)",
+      "price": 499,
+      "mrp": 899,
+      "discountRate": 44
+    },
+    {
+      "name": "130g (Pack of 5)",
+      "price": 649,
+      "mrp": 750,
+      "discountRate": 13
+    },
+    {
+      "name": "140g (Pack of 1)",
+      "price": 199,
+      "mrp": 199,
+      "discountRate": 0
+    },
+    {
+      "name": "140g (Pack of 2)",
+      "price": 280,
+      "mrp": 280,
+      "discountRate": 0
+    },
+    {
+      "name": "140g (Pack of 4)",
+      "price": 499,
+      "mrp": 499,
+      "discountRate": 0
+    },
+    {
+      "name": "140g (Pack of 5)",
+      "price": 548,
+      "mrp": 625,
+      "discountRate": 12
+    },
+    {
+      "name": "140g (Pack of 10)",
+      "price": 999,
+      "mrp": 999,
+      "discountRate": 0
+    },
+    {
+      "name": "145g (Pack of 5)",
+      "price": 599,
+      "mrp": 999,
+      "discountRate": 40
+    },
+    {
+      "name": "650g (Pack of 5)",
+      "price": 549,
+      "mrp": 625,
+      "discountRate": 12
+    },
+    {
+      "name": "700g (Pack of 1)",
+      "price": 579,
+      "mrp": 750,
+      "discountRate": 23
+    },
+    {
+      "name": "730g (Pack of 5)",
+      "price": 549,
+      "mrp": 750,
+      "discountRate": 27
+    }
+  ],
+
+  "productDetails": {
+    "brand": "SAMYANG",
+    "model": "Ven-Vnd15-140",
+    "flavour": "Hot Chicken Carbonara",
+    "weight": "650g",
+    "packSize": "Pack of 5",
+    "countryOfOrigin": "South Korea",
+    "specialFeatures": [
+      "Creamy Carbonara Sauce",
+      "Hot Chicken Flavor",
+      "Quick Cooking",
+      "Chewy Korean Noodles",
+      "Rich Spicy Taste"
+    ],
+    "recommendedUses": [
+      "Quick Lunch",
+      "Dinner",
+      "Midnight Snack",
+      "Travel Meals",
+      "Korean Food Lovers"
+    ]
+  },
+
+  "deliveryInfo": {
+    "delivery": "Amazon Delivered",
+    "returnPolicy": "Non-Returnable",
+    "cashOnDelivery": true,
+    "secureTransaction": true,
+    "freeDelivery": false
+  },
+
+  "offers": {
+    "cashback": "Up to ₹16 Amazon Pay Cashback with eligible ICICI Credit Cards",
+    "bankOffer": "Up to ₹54.90 discount on Canara Bank Credit Cards and SBI Debit Cards",
+    "partnerOffer": "Buy 2 or more qualifying products and get 5% off"
+  },
+
+  "additionalInfo": {
+    "expiry": "15 Dec 2026",
+    "careInstructions": "Store in a cool, dry place away from direct sunlight. Consume before the expiry date.",
+    "targetUsers": "Ideal for Korean food lovers and anyone who enjoys spicy instant noodles."
+  },
+
+  "tags": [
+    "SAMYANG",
+    "Buldak",
+    "Carbonara Ramen",
+    "Hot Chicken Ramen",
+    "Korean Noodles",
+    "Instant Noodles",
+    "Spicy Ramen",
+    "Carbonara",
+    "Pack of 5",
+    "Korean Food"
+  ]
+},
+{
+  "id": "gud-gum-natural-plastic-free-chewing-gum-mini-pack-4",
+  "name": "Gud Gum Natural Plastic Free Chewing Gum Mini Pack of 4 (21g x 4)",
+  "category": "Grocery_Food",
+  "price": 396,
+  "discountPrice": 360,
+  "discountRate": 9,
+  "rating": 3.4,
+  "reviews": 686,
+  "ratingText": "3.4 out of 5 stars",
+  "reviewText": "Based on 686 customer ratings on Amazon",
+  "badge": "Amazon Fulfilled",
+
+  "shortLink": "https://link.amazon/B0eSBBXcd",
+  "fullLink": "https://www.amazon.in/dp/B09TWG2QPC?social_share=cm_sw_r_ud_dp_D1FB7PQ41KD0YT25YG7Y_1&th=1&linkCode=ll2&tag=valdio-21&linkId=fb5d1b66fc46147c0dc0bdb41cfc9733&ref_=as_li_ss_tl",
+
+  "image": "https://m.media-amazon.com/images/I/81M-2Hyfi3L._SL1500_.jpg",
+
+  "description": "Gud Gum Natural Plastic Free Chewing Gum is an eco-friendly chewing gum made without plastic and free from added artificial colours, flavours, and sweeteners. This assorted flavour mini pack contains four 21g packs, making it a convenient choice for everyday freshness.",
+
+  "features": [
+    "100% Plastic Free Chewing Gum",
+    "No Added Artificial Colours",
+    "No Added Artificial Flavours",
+    "No Added Artificial Sweeteners",
+    "Assorted Flavours",
+    "Mini Pack of 4",
+    "Perfect for Daily Freshness",
+    "Convenient Travel-Friendly Packaging"
+  ],
+
+  "variants": [
+    {
+      "flavour": "Assorted",
+      "pack": "21g x 4",
+      "price": 360,
+      "mrp": 396,
+      "discountRate": 9
+    }
+  ],
+
+  "productDetails": {
+    "brand": "Gud Gum",
+    "productType": "Natural Chewing Gum",
+    "flavour": "Assorted",
+    "netWeight": "84g",
+    "packSize": "21g x 4",
+    "specialFeatures": [
+      "Plastic Free",
+      "Natural Ingredients",
+      "No Artificial Colours",
+      "No Artificial Flavours",
+      "No Artificial Sweeteners"
+    ],
+    "recommendedUses": [
+      "Fresh Breath",
+      "After Meals",
+      "Travel",
+      "Office",
+      "Daily Use"
+    ]
+  },
+
+  "deliveryInfo": {
+    "delivery": "Amazon Delivered",
+    "returnPolicy": "Non-Returnable",
+    "cashOnDelivery": true,
+    "secureTransaction": true,
+    "freeDelivery": true
+  },
+
+  "offers": {
+    "cashback": "Up to ₹10 Amazon Pay Cashback with eligible ICICI Credit Cards",
+    "bankOffer": "Up to ₹36 discount on Canara Bank Credit Cards and SBI Debit Cards",
+    "partnerOffer": "Buy 2 or more qualifying products and get 10% off"
+  },
+
+  "additionalInfo": {
+    "expiry": "04 Jun 2027",
+    "careInstructions": "Store in a cool, dry place away from direct sunlight. Consume before the expiry date.",
+    "targetUsers": "Suitable for people looking for a natural, plastic-free chewing gum alternative."
+  },
+
+  "tags": [
+    "Gud Gum",
+    "Natural Gum",
+    "Plastic Free",
+    "Chewing Gum",
+    "Eco Friendly",
+    "Assorted Flavour",
+    "Sugar Free Alternative",
+    "Fresh Breath",
+    "Travel Pack",
+    "Natural Snacks"
+  ]
+},
+{
+  "id": "einstein-box-science-gift-set-girls-set-2",
+  "name": "Einstein Box Science Gift Set for Girls (Set of 2)",
+  "category": "toys",
+  "price": 2399,
+  "discountPrice": 1198,
+  "discountRate": 50,
+  "rating": 4.4,
+  "reviews": 41,
+  "ratingText": "4.4 out of 5 stars",
+  "reviewText": "Based on 41 customer ratings on Amazon",
+  "badge": "Amazon's Choice",
+
+  "shortLink": "https://link.amazon/B0eVz2R3c",
+  "fullLink": "https://www.amazon.in/dp/B0D2TM9N46?social_share=cm_sw_r_ud_dp_317KJVGTA4KJQ5S4SNB2&th=1&linkCode=ll2&tag=valdio-21&linkId=50de26ae528fa0f97b6207aab7e8a17a&ref_=as_li_ss_tl",
+
+  "image": "https://m.media-amazon.com/images/I/81WXWFxJvDL._SL1500_.jpg",
+
+  "description": "The Einstein Box Science Gift Set for Girls is a STEM educational kit designed to inspire curiosity through hands-on learning. With more than 100 science experiments, step-by-step illustrated instructions, safety accessories, and exclusive online learning resources, it makes an ideal birthday or Rakhi gift for children interested in science.",
+
+  "features": [
+    "Over 100 exciting science experiments",
+    "Designed for girls aged 6-12 years",
+    "Illustrated step-by-step instruction manual",
+    "Promotes STEM learning and critical thinking",
+    "Includes safety equipment and experiment materials",
+    "Digital access to online videos and learning resources",
+    "Hands-on educational activities",
+    "Ideal birthday and Rakhi gift"
+  ],
+
+  "variants": [
+    {
+      "name": "Science Gift Set for Girls (Set of 2)",
+      "price": 1198,
+      "mrp": 2399,
+      "discountRate": 50
+    },
+    {
+      "name": "Science Gift Set (Set of 3)",
+      "price": 1997.99,
+      "mrp": 3699,
+      "discountRate": 46
+    },
+    {
+      "name": "Science Kit: Earth & Crystal",
+      "price": 663,
+      "mrp": 1199,
+      "discountRate": 45
+    },
+    {
+      "name": "Science Kit: Ultimate Electricity Kit",
+      "price": 747.98,
+      "mrp": 1299,
+      "discountRate": 42
+    },
+    {
+      "name": "Science Kit: Ultimate Science Kit",
+      "price": 697,
+      "mrp": 1199,
+      "discountRate": 42
+    }
+  ],
+
+  "productDetails": {
+    "brand": "EINSTEIN BOX",
+    "theme": "Science",
+    "productType": "STEM Learning Kit",
+    "recommendedAge": "6-12 Years",
+    "recommendedGiftAge": [
+      "8 Years",
+      "9 Years",
+      "10 Years",
+      "11 Years",
+      "12 Years",
+      "13 Years",
+      "14 Years"
+    ],
+    "size": "Free Size",
+    "dimensions": "33 x 25 x 10 cm",
+    "specialFeatures": [
+      "100+ Experiments",
+      "Hands-on STEM Learning",
+      "Illustrated Manual",
+      "Safe Experiment Materials",
+      "Digital Learning Access",
+      "Interactive Videos"
+    ],
+    "recommendedUses": [
+      "STEM Education",
+      "Science Learning",
+      "Birthday Gift",
+      "Rakhi Gift",
+      "School Projects",
+      "Home Learning"
+    ]
+  },
+
+  "deliveryInfo": {
+    "delivery": "Amazon Delivered",
+    "returnPolicy": "10 Days Replacement",
+    "cashOnDelivery": true,
+    "secureTransaction": true,
+    "freeDelivery": true
+  },
+
+  "offers": {
+    "cashback": "Up to ₹35 Amazon Pay Cashback with eligible ICICI Credit Cards",
+    "bankOffer": "Up to ₹2,500 discount on select Credit Cards and SBI Debit Cards",
+    "partnerOffer": "5% off any 2, 8% off any 5, and 10% off any 10 qualifying products"
+  },
+
+  "additionalInfo": {
+    "learningBenefits": [
+      "Scientific Thinking",
+      "Problem Solving",
+      "Creativity",
+      "Hands-on Experimentation",
+      "STEM Skill Development"
+    ],
+    "targetUsers": "Children aged 6-14 years who enjoy science experiments and STEM learning."
+  },
+
+  "tags": [
+    "Einstein Box",
+    "Science Kit",
+    "STEM Toy",
+    "Educational Toy",
+    "Learning Kit",
+    "Science Experiments",
+    "Kids Gift",
+    "Birthday Gift",
+    "Rakhi Gift",
+    "Girls Science Kit",
+    "STEM Learning",
+    "DIY Science"
+  ]
 }
 ]
