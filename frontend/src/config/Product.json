@@ -16328,6 +16328,7 @@
     "Personal Cooling Fan"
   ]
 },
+
 {
   "id": "sparx-mens-ss453-sandals-blue",
   "name": "Sparx Men's SS 453 Sports Sandals",
@@ -16445,5 +16446,130 @@
     "Outdoor Sandals",
     "Comfort Sandals"
   ]
-}
+
+  }
+
+  ,
+
+  {
+    "id": "allo-borosilicate-glass-mixing-serving-bowls-set-3",
+    "name": "Allo Food Safe Borosilicate Glass Mixing & Serving Bowls Set of 3 (500ml, 1000ml, 1600ml)",
+    "category": "kitchen & dining",
+    "price": 1918,
+    "discountPrice": 880,
+    "discountRate": 54,
+    "rating": 4.4,
+    "reviews": 971,
+    "ratingText": "4.4 out of 5 stars",
+    "reviewText": "Based on 971 customer ratings on Amazon",
+    "badge": "Top Brand",
+    "shortLink": "https://link.amazon/B0iDwmfPz",
+    "fullLink": "https://www.amazon.in/Allo-Borosilicate-Dishwasher-Set-Transparent/dp/B0CGRH7778?dib=eyJ2IjoiMSJ9.0yHZcVLWNNCmx1eRqn5QH8TH63uxP_DZk8MowY0JnyrQWP6TejmfsK8fsGX8YueqnByjDKSQDAywx9RVbnPAM4F7Qb0jYHUQ1uiZIMUA7FIRCPe4bEC-XSPe4BKqZN8Mj3DiyjbHG8sZNMWXHUnoeZ0pDt1B6GRzyRZuIKuAguJTfpKFXUwQ8Gy-QHkBdIynD6ae2w6x8i1O-KUUQbfc_OUjuuSC8A5cV09LNhvGS1S0m69tHWQVxf7VZZwCSB56nuuOXHt4Jym5AV8bxS9u04dQVwQubrgNYhA0JX1nah8.2MhnSL3yPgO56_J4p05C_cCq6w2cCngQ9gXuYgiIYpk&dib_tag=se&keywords=bowl%2Bset%2Bfor%2Boven&qid=1783857368&sr=8-7&th=1&linkCode=ll2&tag=valdio-21&linkId=53a8ae6a79329bdcb93a0cb86a1f2688&ref_=as_li_ss_tl",
+    "image": "https://m.media-amazon.com/images/I/71allo-glass-bowls._SL1500_.jpg",
+    "description": "The Allo Borosilicate Glass Bowl Set includes three premium food-safe bowls (500ml, 1000ml, and 1600ml) designed for mixing, baking, serving, storing, and meal preparation. Made from durable borosilicate glass, the bowls are microwave, oven, freezer, and dishwasher safe while remaining scratch-resistant, stain-resistant, and BPA-free.",
+    "features": [
+      "Made from 100% food-grade borosilicate glass",
+      "Microwave and oven safe up to 450°C",
+      "Freezer safe up to -20°C",
+      "Dishwasher safe for easy cleaning",
+      "Scratch-resistant and stain-resistant surface",
+      "Odour-free and non-porous glass",
+      "Stackable design for space-saving storage",
+      "Ideal for mixing, baking, serving and storing food"
+    ],
+    "variants": [
+      {
+        "model": "Set of 3 (500ml, 1000ml, 1600ml)",
+        "price": 880,
+        "mrp": 1918,
+        "discountRate": 54
+      },
+      {
+        "model": "Set of 2 (1000ml, 1600ml)",
+        "price": 792,
+        "mrp": 1431,
+        "discountRate": 45
+      },
+      {
+        "model": "Set of 2 (1600ml, 2100ml)",
+        "price": 990,
+        "mrp": 1710,
+        "discountRate": 42
+      },
+      {
+        "model": "Set of 3 (1000ml, 1600ml, 2100ml)",
+        "price": 1249,
+        "mrp": 2331,
+        "discountRate": 46
+      },
+      {
+        "model": "Set of 3 (1600ml, 2100ml, 2700ml)",
+        "price": 1468,
+        "mrp": 2817,
+        "discountRate": 48
+      }
+    ],
+    "productDetails": {
+      "brand": "Allo",
+      "material": "100% Borosilicate Glass",
+      "colour": "Transparent",
+      "style": "Modern",
+      "numberOfPieces": 3,
+      "capacities": [
+        "500 ml",
+        "1000 ml",
+        "1600 ml"
+      ],
+      "temperatureResistance": {
+        "oven": "Up to 450°C",
+        "freezer": "-20°C"
+      },
+      "compatibleWith": [
+        "Microwave",
+        "Oven",
+        "Freezer",
+        "Dishwasher"
+      ],
+      "specialFeatures": [
+        "FDA Certified",
+        "BPA Free",
+        "Food Safe",
+        "Scratch Resistant",
+        "Stain Resistant",
+        "Odour Resistant",
+        "Non-Porous",
+        "Stackable",
+        "Crystal Clear Glass"
+      ]
+    },
+    "deliveryInfo": {
+      "delivery": "Amazon Delivered",
+      "returnPolicy": "10 Days Returnable",
+      "cashOnDelivery": true,
+      "secureTransaction": true,
+      "freeDelivery": true,
+      "warranty": "1 Year Warranty"
+    },
+    "offers": {
+      "cashback": "Up to ₹50 cashback with Amazon Pay ICICI Credit Card",
+      "bankOffer": "Up to ₹2,500 discount on select Credit Cards and SBI Debit Cards",
+      "partnerOffer": "Buy 3 or more and get 5% off on qualifying products"
+    },
+    "additionalInfo": {
+      "usageNote": "Suitable for food preparation, baking, serving, reheating, meal prep, and refrigerator storage.",
+      "targetUsers": "Home kitchens, baking enthusiasts, restaurants, and meal prep users."
+    },
+    "tags": [
+      "Glass Bowl",
+      "Borosilicate Bowl",
+      "Mixing Bowl",
+      "Serving Bowl",
+      "Microwave Safe Bowl",
+      "Oven Safe Bowl",
+      "Kitchen Bowl Set",
+      "Meal Prep",
+      "Food Storage",
+      "Allo"
+    ]
+  }
 ]
