@@ -18481,5 +18481,145 @@
     "Shubh Labh",
     "Handmade Decor"
   ]
+},
+
+{
+  "id": "you-can-have-it-all-gaur-gopal-das-paperback",
+  "name": "You Can Have It All: Unlock the Secrets to a Great Life",
+  "subtitle": "A Monk's Guide to Balance, Purpose, Happiness and Inner Peace",
+  "author": "Gaur Gopal Das",
+  "category": "books",
+  "price": 399,
+  "discountPrice": 221,
+  "discountRate": 45,
+  "rating": 4.7,
+  "reviews": 413,
+  "ratingText": "4.7 out of 5 stars",
+  "reviewText": "Based on 413 customer ratings on Amazon",
+  "badge": "Best Seller",
+
+  "shortLink": "https://link.amazon/B06SXaigz",
+  "fullLink": "https://www.amazon.in/You-Can-Have-All-Happiness/dp/9369891323?crid=1HMOA2CC7XGK3&dib=eyJ2IjoiMSJ9.-faIzJ4vGo_8ADK-a2irTHIXZvr8uPGhfLlrzI-w41mOqZF0NHaGNmQRF478K4y0J5tF4Y3fTOgQa45J5v-IOA.kib6fiiFnKqoZrjfdZlaLFlyhFmn0ZR42tbTnPct5eE&dib_tag=se&keywords=you+can+have+it+all+gaur+gopal+das&nsdOptOutParam=true&qid=1784131445&sprefix=ypou+can+%2Caps%2C535&sr=8-1-spons&aref=nxQBKqNmm1&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1&linkCode=ll2&tag=valdio-21&linkId=3fb7593cfd3fa012e6c20cf9c42797e8&ref_=as_li_ss_tl",
+
+  "image": "https://m.media-amazon.com/images/I/71YmtxfRI4L._SL1500_.jpg",
+
+  "description": "You Can Have It All is a powerful self-help and personal growth book by Gaur Gopal Das. Through an engaging story set around a family wedding, the author shares timeless lessons on balancing ambition with fulfillment, cultivating happiness, discovering purpose, and achieving inner peace. Filled with practical wisdom, empathy, and humor, this book inspires readers to build a meaningful and balanced life.",
+
+  "features": [
+    "Written by bestselling author Gaur Gopal Das",
+    "Focuses on happiness, balance, purpose, and inner peace",
+    "Easy-to-read storytelling with practical life lessons",
+    "Real-life inspired narrative",
+    "Ideal for personal growth and self-improvement",
+    "Suitable for readers of all ages",
+    "Perfect gift for book lovers and spiritual seekers"
+  ],
+
+  "variants": [
+    {
+      "format": "Paperback",
+      "price": 221,
+      "mrp": 399,
+      "discountRate": 45
+    },
+    {
+      "format": "Hardcover",
+      "price": 358,
+      "mrp": 399,
+      "discountRate": 10
+    },
+    {
+      "format": "Kindle Edition",
+      "price": 209.95,
+      "mrp": 209.95,
+      "discountRate": 0
+    },
+    {
+      "format": "Audiobook",
+      "price": 0,
+      "mrp": 0,
+      "discountRate": 100,
+      "note": "Available with eligible membership trial"
+    }
+  ],
+
+  "productDetails": {
+    "title": "You Can Have It All: Unlock the Secrets to a Great Life",
+    "subtitle": "A Monk's Guide to Balance, Purpose, Happiness and Inner Peace",
+    "author": "Gaur Gopal Das",
+    "format": "Paperback",
+    "language": "English",
+    "genre": [
+      "Self Help",
+      "Personal Development",
+      "Motivational",
+      "Spirituality",
+      "Mindfulness"
+    ],
+    "publisher": "",
+    "publicationDate": "",
+    "isbn": "",
+    "readingAge": "Adult",
+    "idealFor": [
+      "Students",
+      "Professionals",
+      "Entrepreneurs",
+      "Parents",
+      "Young Adults",
+      "Anyone seeking personal growth"
+    ],
+    "topicsCovered": [
+      "Purpose",
+      "Happiness",
+      "Balance",
+      "Self-Compassion",
+      "Mindfulness",
+      "Relationships",
+      "Success",
+      "Inner Peace",
+      "Personal Growth"
+    ]
+  },
+
+  "deliveryInfo": {
+    "delivery": "Amazon Delivered",
+    "returnPolicy": "10 Days Replacement",
+    "cashOnDelivery": true,
+    "secureTransaction": true,
+    "freeDelivery": true
+  },
+
+  "offers": {
+    "cashback": "5% cashback with Amazon Pay ICICI Bank Credit Card for Prime members",
+    "bankOffer": "Flat ₹50 instant discount on eligible HSBC Credit Card non-EMI transactions",
+    "partnerOffer": "Additional offers available on Amazon"
+  },
+
+  "additionalInfo": {
+    "usageNote": "An inspiring guide for readers looking to achieve success without sacrificing happiness, relationships, or peace of mind. Ideal for daily reading, gifting, and self-reflection.",
+    "targetUsers": [
+      "Students",
+      "Working Professionals",
+      "Entrepreneurs",
+      "Self-Help Readers",
+      "Spiritual Seekers",
+      "Book Lovers"
+    ]
+  },
+
+  "tags": [
+    "Gaur Gopal Das",
+    "You Can Have It All",
+    "Self Help Book",
+    "Personal Development",
+    "Motivational Book",
+    "Spirituality",
+    "Mindfulness",
+    "Happiness",
+    "Success",
+    "Inner Peace",
+    "Paperback",
+    "Books"
+  ]
 }
 ]
