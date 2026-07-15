@@ -16446,130 +16446,107 @@
     "Outdoor Sandals",
     "Comfort Sandals"
   ]
+},
 
-  }
+{
+  "id": "lakme-9to5-cc-cream-beige-30g",
+  "name": "Lakme 9 to 5 CC Cream Beige with 3% Niacinamide Complex SPF30 PA++ (30g)",
+  "category": "Beauty-Personal-Care",
+  "price": 399,
+  "discountPrice": 234,
+  "discountRate": 41,
+  "rating": 4.2,
+  "reviews": 21267,
+  "ratingText": "4.2 out of 5 stars",
+  "reviewText": "Based on 21,267 customer ratings on Amazon",
+  "badge": "#1 Best Seller",
 
-  ,
+  "shortLink": "https://link.amazon/B0iTSKyNz",
+  "fullLink": "https://www.amazon.in/Niacinamide-lightweight-moisturizing-Foundation-Brightens/dp/B01BBNF6GM?crid=7CXAQ06PZGDU&dib=eyJ2IjoiMSJ9.BiZyP0D6P3NXMaSXf8k8XJ3SFMUo6m-qvhbqeq3KoMwddc8pSwM7UFqBSUVM435QKNYuHfhrzpT8_oQpHGj0TB5pGMoaCmMYksv5fuFHWyx0faAS7c9WJRrCQCFvjnDAuwA59Ggr0r90CWcfgxMmoLzXOW3mTCWeNNav-VoRNohWURZu6bgwl6X2tKe26ww8sTtZe5egFo94hx9KOCjKaKuKCpvMOT9i0oobHa7VbdQK6RAHQAXAs6Buw7QCoDDeBrfKBjJ94k3JkTsmZWvws837PZS2rmjlnsPbGyugfm4.AqomO6auRWW8-Y43APM12B9PvsnYhsgBn41ZdHsG8bU&dib_tag=se&keywords=lakme+9+to+5&qid=1784090020&sprefix=lakme+9+to+%2Caps%2C591&sr=8-4-spons&aref=A9F6J0Ytvk&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1&linkCode=ll2&tag=valdio-21&linkId=f25bd9dea860c5d85253751aa218e83a&ref_=as_li_ss_tl",
 
-  {
-    "id": "allo-borosilicate-glass-mixing-serving-bowls-set-3",
-    "name": "Allo Food Safe Borosilicate Glass Mixing & Serving Bowls Set of 3 (500ml, 1000ml, 1600ml)",
-    "category": "kitchen & dining",
-    "price": 1918,
-    "discountPrice": 880,
-    "discountRate": 54,
-    "rating": 4.4,
-    "reviews": 971,
-    "ratingText": "4.4 out of 5 stars",
-    "reviewText": "Based on 971 customer ratings on Amazon",
-    "badge": "Top Brand",
-    "shortLink": "https://link.amazon/B0iDwmfPz",
-    "fullLink": "https://www.amazon.in/Allo-Borosilicate-Dishwasher-Set-Transparent/dp/B0CGRH7778?dib=eyJ2IjoiMSJ9.0yHZcVLWNNCmx1eRqn5QH8TH63uxP_DZk8MowY0JnyrQWP6TejmfsK8fsGX8YueqnByjDKSQDAywx9RVbnPAM4F7Qb0jYHUQ1uiZIMUA7FIRCPe4bEC-XSPe4BKqZN8Mj3DiyjbHG8sZNMWXHUnoeZ0pDt1B6GRzyRZuIKuAguJTfpKFXUwQ8Gy-QHkBdIynD6ae2w6x8i1O-KUUQbfc_OUjuuSC8A5cV09LNhvGS1S0m69tHWQVxf7VZZwCSB56nuuOXHt4Jym5AV8bxS9u04dQVwQubrgNYhA0JX1nah8.2MhnSL3yPgO56_J4p05C_cCq6w2cCngQ9gXuYgiIYpk&dib_tag=se&keywords=bowl%2Bset%2Bfor%2Boven&qid=1783857368&sr=8-7&th=1&linkCode=ll2&tag=valdio-21&linkId=53a8ae6a79329bdcb93a0cb86a1f2688&ref_=as_li_ss_tl",
-    "image": "https://m.media-amazon.com/images/I/71allo-glass-bowls._SL1500_.jpg",
-    "description": "The Allo Borosilicate Glass Bowl Set includes three premium food-safe bowls (500ml, 1000ml, and 1600ml) designed for mixing, baking, serving, storing, and meal preparation. Made from durable borosilicate glass, the bowls are microwave, oven, freezer, and dishwasher safe while remaining scratch-resistant, stain-resistant, and BPA-free.",
-    "features": [
-      "Made from 100% food-grade borosilicate glass",
-      "Microwave and oven safe up to 450°C",
-      "Freezer safe up to -20°C",
-      "Dishwasher safe for easy cleaning",
-      "Scratch-resistant and stain-resistant surface",
-      "Odour-free and non-porous glass",
-      "Stackable design for space-saving storage",
-      "Ideal for mixing, baking, serving and storing food"
+  "image": "https://m.media-amazon.com/images/I/51TjBxQilYL._SL1000_.jpg",
+
+  "description": "Lakme 9 to 5 CC Cream is a skincare and makeup hybrid that combines 90% lightweight skincare with 10% foundation coverage. Enriched with 3% Niacinamide Complex and Pro-Ceramides, it moisturizes, conceals dark spots, brightens skin, and provides SPF 30 PA++ sun protection for a natural everyday finish.",
+
+  "features": [
+    "90% skincare + 10% foundation formula",
+    "Enriched with 3% Niacinamide Complex",
+    "Contains Pro-Ceramides for skin barrier repair",
+    "SPF 30 PA++ protects against UV rays",
+    "Conceals dark spots and uneven skin tone",
+    "Lightweight moisturizing texture",
+    "Natural skin-like finish",
+    "Suitable for everyday use"
+  ],
+
+  "variants": [
+    {
+      "shade": "Beige",
+      "size": "30g",
+      "price": 234,
+      "mrp": 399,
+      "discountRate": 41
+    }
+  ],
+
+  "productDetails": {
+    "brand": "Lakme",
+    "productType": "CC Cream",
+    "shade": "Beige",
+    "netQuantity": "30 g",
+    "itemForm": "Cream",
+    "skinType": "All Skin Types",
+    "skinTone": "Deep",
+    "spf": "SPF 30 PA++",
+    "materialFree": [
+      "Alcohol Free"
     ],
-    "variants": [
-      {
-        "model": "Set of 3 (500ml, 1000ml, 1600ml)",
-        "price": 880,
-        "mrp": 1918,
-        "discountRate": 54
-      },
-      {
-        "model": "Set of 2 (1000ml, 1600ml)",
-        "price": 792,
-        "mrp": 1431,
-        "discountRate": 45
-      },
-      {
-        "model": "Set of 2 (1600ml, 2100ml)",
-        "price": 990,
-        "mrp": 1710,
-        "discountRate": 42
-      },
-      {
-        "model": "Set of 3 (1000ml, 1600ml, 2100ml)",
-        "price": 1249,
-        "mrp": 2331,
-        "discountRate": 46
-      },
-      {
-        "model": "Set of 3 (1600ml, 2100ml, 2700ml)",
-        "price": 1468,
-        "mrp": 2817,
-        "discountRate": 48
-      }
+    "keyIngredients": [
+      "3% Niacinamide Complex",
+      "Pro-Ceramides"
     ],
-    "productDetails": {
-      "brand": "Allo",
-      "material": "100% Borosilicate Glass",
-      "colour": "Transparent",
-      "style": "Modern",
-      "numberOfPieces": 3,
-      "capacities": [
-        "500 ml",
-        "1000 ml",
-        "1600 ml"
-      ],
-      "temperatureResistance": {
-        "oven": "Up to 450°C",
-        "freezer": "-20°C"
-      },
-      "compatibleWith": [
-        "Microwave",
-        "Oven",
-        "Freezer",
-        "Dishwasher"
-      ],
-      "specialFeatures": [
-        "FDA Certified",
-        "BPA Free",
-        "Food Safe",
-        "Scratch Resistant",
-        "Stain Resistant",
-        "Odour Resistant",
-        "Non-Porous",
-        "Stackable",
-        "Crystal Clear Glass"
-      ]
-    },
-    "deliveryInfo": {
-      "delivery": "Amazon Delivered",
-      "returnPolicy": "10 Days Returnable",
-      "cashOnDelivery": true,
-      "secureTransaction": true,
-      "freeDelivery": true,
-      "warranty": "1 Year Warranty"
-    },
-    "offers": {
-      "cashback": "Up to ₹50 cashback with Amazon Pay ICICI Credit Card",
-      "bankOffer": "Up to ₹2,500 discount on select Credit Cards and SBI Debit Cards",
-      "partnerOffer": "Buy 3 or more and get 5% off on qualifying products"
-    },
-    "additionalInfo": {
-      "usageNote": "Suitable for food preparation, baking, serving, reheating, meal prep, and refrigerator storage.",
-      "targetUsers": "Home kitchens, baking enthusiasts, restaurants, and meal prep users."
-    },
-    "tags": [
-      "Glass Bowl",
-      "Borosilicate Bowl",
-      "Mixing Bowl",
-      "Serving Bowl",
-      "Microwave Safe Bowl",
-      "Oven Safe Bowl",
-      "Kitchen Bowl Set",
-      "Meal Prep",
-      "Food Storage",
-      "Allo"
-    ]
-  }
+    "benefits": [
+      "Moisturizes skin",
+      "Brightens complexion",
+      "Conceals dark spots",
+      "Evens skin tone",
+      "Provides sun protection",
+      "Improves skin barrier",
+      "Natural makeup finish"
+    ],
+    "availableShades": 6
+  },
+
+  "deliveryInfo": {
+    "delivery": "Amazon Delivered",
+    "returnPolicy": "Non-Returnable",
+    "cashOnDelivery": true,
+    "secureTransaction": true,
+    "freeDelivery": true
+  },
+
+  "offers": {
+    "cashback": "Up to ₹7 cashback with Amazon Pay ICICI Credit Card",
+    "bankOffer": "Up to ₹500 discount on select Credit Cards and SBI Debit Cards",
+    "partnerOffer": "GST invoice available for business purchases"
+  },
+
+  "additionalInfo": {
+    "usageNote": "Apply evenly on cleansed face and neck using fingertips or a makeup sponge for a smooth, natural finish.",
+    "targetUsers": "Women looking for daily skincare with light makeup coverage and sun protection."
+  },
+
+  "tags": [
+    "Lakme",
+    "CC Cream",
+    "Niacinamide",
+    "SPF30",
+    "Face Makeup",
+    "Moisturizer",
+    "Foundation",
+    "Daily Makeup",
+    "Skincare",
+    "Beige CC Cream"
+  ]
+}
 ]
