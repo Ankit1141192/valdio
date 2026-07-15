@@ -18177,5 +18177,141 @@
     "Jhumka Hanging",
     "Home Decor"
   ]
+},
+
+{
+  "id": "divyakosh-wall-hangings-led-tlights-latkan-4",
+  "name": "Divyakosh Wall Hangings Set of 4 with LED T-Lights for Diwali Decoration (Latkan-4)",
+  "category": "home decor",
+
+  "price": 1599,
+  "discountPrice": 1117,
+  "discountRate": 30,
+
+  "rating": 4.1,
+  "reviews": 63,
+  "ratingText": "4.1 out of 5 stars",
+  "reviewText": "Based on 63 customer ratings on Amazon",
+
+  "badge": "Top Brand",
+
+  "links": {
+    "shortLink": "https://link.amazon/B09sqEmaH",
+    "fullLink": "https://www.amazon.in/You-Can-Have-All-Happiness/dp/9373076272?_encoding=UTF8&qid=1784128507&sr=1-1-ced4eeeb-b190-41d6-902a-1ecb3fb8b7c4-spons&linkCode=ll2&tag=valdio-21&linkId=dc7719c4d40ba52702004c0fba375f3f&ref_=as_li_ss_tl"
+  },
+
+  "image": "https://m.media-amazon.com/images/I/71YmtxfRI4L._SL1500_.jpg",
+
+  "description": "Divyakosh Handmade Wall Hanging Set includes four elegant decorative latkans with LED T-Lights, adding a traditional festive glow to your home. Perfect for decorating entrances, pooja rooms, walls, weddings, and festivals like Diwali, Navratri, and housewarming celebrations.",
+
+  "features": [
+    "Complete set of 4 decorative wall hangings",
+    "Includes LED T-Light diyas",
+    "Handmade traditional festive design",
+    "Reusable and durable",
+    "Suitable for indoor and outdoor decoration",
+    "Ideal for Diwali, weddings and pooja",
+    "Easy to hang and maintain"
+  ],
+
+  "variants": [
+    {
+      "model": "Latkan-4",
+      "price": 1117,
+      "mrp": 1599,
+      "discountRate": 30
+    },
+    {
+      "model": "Latkan-2",
+      "price": 931,
+      "mrp": 1599,
+      "discountRate": 42
+    },
+    {
+      "model": "Style 5",
+      "price": 479,
+      "mrp": 999,
+      "discountRate": 52
+    },
+    {
+      "model": "Gajra Bell - 6 Pcs",
+      "price": 570,
+      "mrp": 1599,
+      "discountRate": 64
+    },
+    {
+      "model": "Strings - 12 Pcs",
+      "price": 715,
+      "mrp": 1599,
+      "discountRate": 55
+    }
+  ],
+
+  "productDetails": {
+    "brand": "Divyakosh",
+    "productType": "Decorative Wall Hanging with LED T-Lights",
+    "material": "Beads",
+    "colour": "Multicolour",
+    "theme": "Festival",
+    "style": "Traditional",
+    "shape": [
+      "Round",
+      "Bell"
+    ],
+    "mountingType": "Hanging",
+    "includedItems": [
+      "4 Decorative Latkans",
+      "LED T-Lights"
+    ],
+    "idealFor": [
+      "Main Door",
+      "Living Room",
+      "Pooja Room",
+      "Temple",
+      "Wall Decoration",
+      "Wedding Decoration",
+      "Home Entrance"
+    ],
+    "occasion": [
+      "Diwali",
+      "Navratri",
+      "Dussehra",
+      "Wedding",
+      "Housewarming",
+      "Christmas",
+      "New Year",
+      "Onam",
+      "Karwachauth",
+      "Temple Decoration"
+    ]
+  },
+
+  "deliveryInfo": {
+    "delivery": "Amazon Delivered",
+    "returnPolicy": "10 Days Returnable",
+    "cashOnDelivery": true,
+    "secureTransaction": true,
+    "freeDelivery": true,
+    "emi": "EMI available from ₹102/month"
+  },
+
+  "offers": {
+    "cashback": "Up to ₹33 cashback with Amazon Pay ICICI Credit Card",
+    "bankOffer": "Up to ₹2,500 discount on select Credit Cards and SBI Debit Cards",
+    "partnerOffer": "GST Invoice available for business purchases"
+  },
+
+  "tags": [
+    "Wall Hanging",
+    "LED T-Light",
+    "Diwali Decoration",
+    "Door Hanging",
+    "Festival Decor",
+    "Home Decoration",
+    "Pooja Decoration",
+    "Wedding Decoration",
+    "Traditional Decor",
+    "Latkan"
+  ]
 }
 ]
