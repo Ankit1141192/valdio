@@ -18761,5 +18761,161 @@
     "Fashion",
     "Clothing"
   ]
+},
+
+{
+  "id": "levis-025-mens-premium-soft-cotton-solid-tshirt",
+  "name": "Levi's 025 Men's Premium Soft Cotton Solid T-Shirt - Round Neck, Short Sleeves with Side Branding",
+  "brand": "Levi's",
+  "category": "fashion",
+  "subCategory": "men's t-shirts",
+  "price": 549,
+  "discountPrice": 382,
+  "discountRate": 30,
+  "rating": 4.1,
+  "reviews": 5717,
+  "ratingText": "4.1 out of 5 stars",
+  "reviewText": "Based on 5,717 customer ratings on Amazon",
+  "badge": "Amazon's Choice",
+
+  "shortLink": "https://link.amazon/B05vFIqIR",
+  "fullLink": "https://www.amazon.in/Levis-Regular-T-Shirt-PR681413_White-Medium/dp/B07XFMCL6H?crid=311CB7TZU8Q97&dib=eyJ2IjoiMSJ9.pE-bSEWeMEaQW4-6evn-PPvE6S7gWR22ye-zvAlyZF0BXOKcuXIkR1u800XsRqeUlB5i3UuKIgZyk8cG_VIxmOIWHVsmZmx-ygJdT3QKXNK3E1NwCcDRqHbHf1xwpOzDJcrCsXSTLmRNfnrkWisVcxJ4mVTXt0grs63iZNlHUqD6W_FUYfe3PwbcuSR4pVXfACNY3fSYI7ydhk71vBNZCdEt62C4zqTOIjy-k8vowDLaiiisv9CheIjNR7cXnv3rQ3Lkmfr1fHyxuRXD_smJ83yxEhvq4qO8ciRzDCydI8U.hjbXEa_hKHTK1uZtnQpIudTR5pH2-CFvyG4MI18TGn4&dib_tag=se&keywords=white%2Bt%2Bshirt&qid=1784135522&sprefix=%2Caps%2C279&sr=8-5&th=1&psc=1&linkCode=ll2&tag=valdio-21&linkId=f8c6390265e1ffc1ef7cff73d7587070&ref_=as_li_ss_tl",
+
+  "image": "https://m.media-amazon.com/images/I/51d6wWFtkcL._SY741_.jpg",
+
+  "description": "Levi's 025 Men's Premium Soft Cotton Solid T-Shirt is designed for all-day comfort with breathable 100% cotton fabric. Featuring a classic crew round neck, half sleeves, regular fit, and signature side branding, it is perfect for casual wear, layering, and everyday use.",
+
+  "features": [
+    "100% premium cotton fabric",
+    "Soft, breathable and lightweight",
+    "Crew round neck design",
+    "Half sleeves",
+    "Regular fit",
+    "Side branding detail",
+    "Perfect for everyday casual wear",
+    "Can be worn as a standalone t-shirt or base layer"
+  ],
+
+  "variants": [
+    {
+      "colour": "White (Light Grey Mel)",
+      "price": 382,
+      "mrp": 549,
+      "discountRate": 30
+    },
+    {
+      "colour": "Black (Red)",
+      "price": 382,
+      "mrp": 649,
+      "discountRate": 41
+    },
+    {
+      "colour": "Dark Grey Mel (Black)",
+      "price": 382,
+      "mrp": 649,
+      "discountRate": 41
+    },
+    {
+      "colour": "Navy (Light Grey Mel)",
+      "price": 382,
+      "mrp": 649,
+      "discountRate": 41
+    },
+    {
+      "colour": "Light Grey Mel (Dark Grey Mel)",
+      "price": 382,
+      "mrp": 649,
+      "discountRate": 41
+    },
+    {
+      "colour": "Red (Black)",
+      "price": 382,
+      "mrp": 649,
+      "discountRate": 41
+    }
+  ],
+
+  "sizes": [
+    "S",
+    "M",
+    "L",
+    "XL"
+  ],
+
+  "productDetails": {
+    "brand": "Levi's",
+    "productType": "Men's T-Shirt",
+    "material": "100% Cotton",
+    "materialComposition": "Cotton",
+    "pattern": "Solid",
+    "fit": "Regular Fit",
+    "neck": "Crew Round Neck",
+    "collarStyle": "Collarless",
+    "sleeveType": "Half Sleeve",
+    "length": "Standard Length",
+    "colour": "White (Light Grey Mel)",
+    "countryOfOrigin": "India",
+    "idealFor": [
+      "Men"
+    ],
+    "occasion": [
+      "Casual Wear",
+      "Daily Wear",
+      "Office Casual",
+      "Travel",
+      "College",
+      "Gym",
+      "Weekend Outings"
+    ],
+    "specialFeatures": [
+      "Breathable Fabric",
+      "Soft Cotton",
+      "Comfort Stretch",
+      "Lightweight",
+      "Moisture Friendly",
+      "Everyday Comfort",
+      "Side Branding"
+    ]
+  },
+
+  "deliveryInfo": {
+    "delivery": "Amazon Delivered",
+    "returnPolicy": "10 Days Return & Exchange",
+    "cashOnDelivery": true,
+    "secureTransaction": true,
+    "freeDelivery": true
+  },
+
+  "offers": {
+    "cashback": "Up to ₹11 cashback with Amazon Pay ICICI Bank Credit Cards",
+    "bankOffer": "Up to ₹2,500 instant discount on select Credit Cards and SBI Debit Cards",
+    "partnerOffer": "GST invoice available for business purchases"
+  },
+
+  "additionalInfo": {
+    "usageNote": "Ideal for everyday wear, layering under jackets or shirts, and pairing with jeans, chinos, shorts, or joggers for a comfortable casual look.",
+    "targetUsers": [
+      "Men",
+      "College Students",
+      "Working Professionals",
+      "Travelers",
+      "Fitness Enthusiasts"
+    ]
+  },
+
+  "tags": [
+    "Levi's",
+    "Men's T-Shirt",
+    "Cotton T-Shirt",
+    "White T-Shirt",
+    "Round Neck",
+    "Half Sleeve",
+    "Regular Fit",
+    "Solid T-Shirt",
+    "Casual Wear",
+    "Everyday Wear",
+    "Fashion",
+    "Amazon's Choice"
+  ]
 }
 ]
