@@ -18778,10 +18778,10 @@
   "reviewText": "Based on 5,717 customer ratings on Amazon",
   "badge": "Amazon's Choice",
 
-  "shortLink": "https://link.amazon/B05vFIqIR",
-  "fullLink": "https://www.amazon.in/Levis-Regular-T-Shirt-PR681413_White-Medium/dp/B07XFMCL6H?crid=311CB7TZU8Q97&dib=eyJ2IjoiMSJ9.pE-bSEWeMEaQW4-6evn-PPvE6S7gWR22ye-zvAlyZF0BXOKcuXIkR1u800XsRqeUlB5i3UuKIgZyk8cG_VIxmOIWHVsmZmx-ygJdT3QKXNK3E1NwCcDRqHbHf1xwpOzDJcrCsXSTLmRNfnrkWisVcxJ4mVTXt0grs63iZNlHUqD6W_FUYfe3PwbcuSR4pVXfACNY3fSYI7ydhk71vBNZCdEt62C4zqTOIjy-k8vowDLaiiisv9CheIjNR7cXnv3rQ3Lkmfr1fHyxuRXD_smJ83yxEhvq4qO8ciRzDCydI8U.hjbXEa_hKHTK1uZtnQpIudTR5pH2-CFvyG4MI18TGn4&dib_tag=se&keywords=white%2Bt%2Bshirt&qid=1784135522&sprefix=%2Caps%2C279&sr=8-5&th=1&psc=1&linkCode=ll2&tag=valdio-21&linkId=f8c6390265e1ffc1ef7cff73d7587070&ref_=as_li_ss_tl",
+  "shortLink": "https://link.amazon/B0hgnl3kq",
+  "fullLink": "https://www.amazon.in/Lakme-Expert-Ultra-Matte-Compact/dp/B079NHBY1Y?crid=3LELZ39TWKHLD&dib=eyJ2IjoiMSJ9.rFGY726U59D1WvwkE1h1cavHlGqPhoPW8rPTVULyzPwTG3E_TWkOx3IuoJO0zTfhSLgSmjSF0rj74sjUL8VGVsAtciOwXD7N9VZ4FXEzBj3W4WhRgMyp2WTV_uuYb5FLr2AHCYdPHj_EVciphTmPa1WpDKnNa1d3-l0Tkb0jlPagHczrXnlOs_IZDnHAN1BNdFqq8luFPm90pgAbBDUjfAOu2lL86h6Ihj4dSiUNz_9_hsk3Okux2Kk-mcbc_sa7Gmv2dsO0f0e29aed7JEpIO-7m-DsyYgpMVqmcI8uyvI.G3vwftk2a5gnFXGJn1sg2DVoIeX6V-fHNQT1aIPvfvw&dib_tag=se&keywords=lakme+sun+expert&qid=1784181589&sprefix=lakme+sun+exper%2Caps%2C418&sr=8-4-spons&aref=toKHiSsZPF&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1&linkCode=ll2&tag=valdio-21&linkId=7fe29adca7937610b085b700d94435a4&ref_=as_li_ss_tl",
 
-  "image": "https://m.media-amazon.com/images/I/51d6wWFtkcL._SY741_.jpg",
+  "image": "https://m.media-amazon.com/images/I/518iGIk-rAL._SL1000_.jpg",
 
   "description": "Levi's 025 Men's Premium Soft Cotton Solid T-Shirt is designed for all-day comfort with breathable 100% cotton fabric. Featuring a classic crew round neck, half sleeves, regular fit, and signature side branding, it is perfect for casual wear, layering, and everyday use.",
 
@@ -18916,6 +18916,119 @@
     "Everyday Wear",
     "Fashion",
     "Amazon's Choice"
+  ]
+},
+
+{
+  "id": "lakme-sun-expert-ultra-matte-spf40-pa-compact-7g",
+  "name": "Lakmé Sun Expert Ultra Matte SPF 40 PA+++ Compact",
+  "brand": "Lakmé",
+  "category": "beauty",
+  "subCategory": "face compact",
+  "price": 310,
+  "discountPrice": 201,
+  "discountRate": 35,
+  "rating": 4.1,
+  "reviews": 15918,
+  "ratingText": "4.1 out of 5 stars",
+  "reviewText": "Based on 15,918 customer ratings on Amazon",
+  "badge": "Top Brand",
+
+  "shortLink": "",
+  "fullLink": "",
+
+  "image": "",
+
+  "description": "Lakmé Sun Expert Ultra Matte SPF 40 PA+++ Compact provides everyday sun protection while giving an even-tone matte finish. Specially formulated for Indian skin, this lightweight, non-greasy compact helps protect against harmful UVA and UVB rays while preventing sunburn, dark spots, and premature skin ageing.",
+
+  "features": [
+    "SPF 40 PA+++ sun protection",
+    "Ultra matte, non-greasy finish",
+    "Non-sticky formula",
+    "Provides even-tone complexion",
+    "Protects against UVA & UVB rays",
+    "Suitable for all skin types",
+    "Ideal for daily wear"
+  ],
+
+  "variants": [
+    {
+      "size": "7 g",
+      "price": 201,
+      "mrp": 310,
+      "discountRate": 35
+    }
+  ],
+
+  "productDetails": {
+    "brand": "Lakmé",
+    "productType": "Compact Powder",
+    "skinType": "All Skin Types",
+    "finish": "Ultra Matte",
+    "coverage": "Light to Medium",
+    "sunProtection": "SPF 40 PA+++",
+    "activeIngredient": "Octocrylene",
+    "scent": "Unscented",
+    "netQuantity": "7 g",
+    "itemWeight": "7 g",
+    "dimensions": "7.8 x 2 x 7.8 cm",
+    "useBy": "30 September 2026",
+    "specialFeatures": [
+      "Non-Greasy",
+      "Non-Sticky",
+      "Matte Finish",
+      "Even Tone Complexion",
+      "Daily Sun Protection",
+      "Lightweight Formula"
+    ],
+    "benefits": [
+      "Protects from UVA & UVB rays",
+      "Prevents sunburn",
+      "Helps reduce dark spots",
+      "Helps prevent premature ageing",
+      "Controls excess oil",
+      "Provides soft matte finish"
+    ]
+  },
+
+  "deliveryInfo": {
+    "delivery": "Amazon Delivered",
+    "returnPolicy": "Non-Returnable",
+    "cashOnDelivery": true,
+    "secureTransaction": true,
+    "freeDelivery": true
+  },
+
+  "offers": {
+    "cashback": "Up to ₹10 cashback with Amazon Pay ICICI Bank Credit Cards",
+    "bankOffer": "Up to ₹500 instant discount on select Credit Cards and SBI Debit Cards",
+    "partnerOffer": "GST invoice available for business purchases"
+  },
+
+  "additionalInfo": {
+    "usageNote": "Apply evenly over the face and neck after sunscreen or foundation. Reapply as needed throughout the day for a fresh matte finish and continued sun protection.",
+    "targetUsers": [
+      "Women",
+      "College Students",
+      "Working Professionals",
+      "Daily Makeup Users",
+      "People with Oily or Combination Skin"
+    ]
+  },
+
+  "tags": [
+    "Lakmé",
+    "Sun Expert",
+    "Compact Powder",
+    "SPF 40",
+    "PA+++",
+    "Matte Compact",
+    "Face Powder",
+    "Sun Protection",
+    "Even Tone",
+    "Daily Makeup",
+    "Beauty",
+    "Indian Skin"
   ]
 }
 ]
