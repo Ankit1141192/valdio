@@ -19030,5 +19030,169 @@
     "Beauty",
     "Indian Skin"
   ]
+},
+
+{
+  "id": "redcop-isopropyl-alcohol-99-9-pure-300ml-pack-of-3",
+  "name": "REDCOP Isopropyl Alcohol 99.9% Pure (IPA) 300ml - Pack of 3",
+  "brand": "REDCOP",
+  "category": "industrial",
+  "subCategory": "cleaning chemicals",
+  "price": 1497,
+  "discountPrice": 569,
+  "discountRate": 62,
+  "rating": 4.4,
+  "reviews": 5128,
+  "ratingText": "4.4 out of 5 stars",
+  "reviewText": "Based on 5,128 customer ratings on Amazon",
+  "badge": "Amazon's Choice",
+
+  "shortLink": "https://link.amazon/B02u7Wqsb",
+  "fullLink": "https://www.amazon.in/REDCOP-Isopropyl-alcohol-99-9-2-CH-OH/dp/B0BCTZQWXB?crid=36V2MH4CCP9O6&dib=eyJ2IjoiMSJ9.ZK2fDrhQEUyEZ_44owzWPMPfp-3XPECxxvj9u1kaPfolTWwWUSLou7DCtEDQi3L4cAUYlc6hKGdb3etPU2T9Sd1UjapVSVARs-rxVmMwQ9jAOkr70_jkETR_e2ZnI_nzxzd_R3fi1dtLV_a1NSuOkuO5wD4YQrspYG60TCMieX-Qk2ZH287Mu59tcoylFeUa9mi5ME0VGRb0Aoo-UcBC9YLw7Nh-S7GUtMgO8mc3B2yjrOfl1-9_-_LQIIO-WUo30TSNi7tbPCDRn2tpkwBVpdXjQOVdslsnHMDScvXKTz4.Nas5UQNxb4-HFGeIqtVApYSfJJZsZpSxa0rqNaiKa-Y&dib_tag=se&keywords=isopropyl%2Balcohol%2B99%2Bpercent&qid=1784220120&sprefix=isopropy%2Caps%2C385&sr=8-2-spons&aref=8a7xqSlLVl&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1&linkCode=ll2&tag=valdio-21&linkId=c324e5287c5662b8aca4e1d900ee604c&ref_=as_li_ss_tl",
+
+  "image": "https://m.media-amazon.com/images/I/71g+uSIPSTL._SL1500_.jpg",
+
+  "description": "REDCOP Isopropyl Alcohol (IPA) 99.9% Pure is a high-purity, fast-evaporating technical-grade cleaning solution suitable for electronics, glass, metals, plastics, and industrial applications. It offers zero moisture residue and excellent cleaning performance. Intended for technical use only and not for human consumption.",
+
+  "features": [
+    "99.9% pure Isopropyl Alcohol (IPA)",
+    "Quick evaporating and zero moisture residue",
+    "Technical grade cleaning solution",
+    "Suitable for electronics and industrial cleaning",
+    "Miscible with water",
+    "Effective on glass, metal, plastic and ceramic surfaces",
+    "Pack of 3 bottles (300 ml each)",
+    "Not tested on animals"
+  ],
+
+  "variants": [
+    {
+      "pack": "Pack of 3 (300 ml each)",
+      "price": 569,
+      "mrp": 1497,
+      "discountRate": 62
+    },
+    {
+      "pack": "Pack of 2 (300 ml each)",
+      "price": 449,
+      "mrp": 998,
+      "discountRate": 55
+    },
+    {
+      "pack": "100 ml (Pack of 2)",
+      "price": 319,
+      "mrp": 398,
+      "discountRate": 20
+    },
+    {
+      "pack": "Pack of 1 (300 ml)",
+      "price": 269,
+      "mrp": 499,
+      "discountRate": 46
+    },
+    {
+      "pack": "5 Litre Pack",
+      "price": 1669,
+      "mrp": 6000,
+      "discountRate": 72
+    },
+    {
+      "pack": "100 ml Pack",
+      "price": 219,
+      "mrp": 219,
+      "discountRate": 0
+    },
+    {
+      "pack": "Combo Pack",
+      "price": 369,
+      "mrp": 698,
+      "discountRate": 47
+    }
+  ],
+
+  "productDetails": {
+    "brand": "REDCOP",
+    "productType": "Isopropyl Alcohol (IPA)",
+    "chemicalName": "Isopropyl Alcohol",
+    "chemicalFormula": "C3H8O",
+    "casNumber": "67-63-0",
+    "purity": "99.9%",
+    "productGrade": "Technical Grade",
+    "molecularWeight": "60",
+    "appearance": "Clear, Colorless Liquid",
+    "itemWeight": "900 g",
+    "netQuantity": "300 ml x 3",
+    "specialFeatures": [
+      "Quick Evaporating",
+      "Zero Moisture Residue",
+      "Antibacterial",
+      "Antimicrobial",
+      "High Purity",
+      "Miscible with Water"
+    ],
+    "recommendedUses": [
+      "Electronics Cleaning",
+      "PCB Cleaning",
+      "Computer Components",
+      "Glass Cleaning",
+      "Window Cleaning",
+      "Metal Cleaning",
+      "Ceramic Tiles",
+      "Solar Panels",
+      "Plastic Surfaces",
+      "Industrial Cleaning"
+    ]
+  },
+
+  "deliveryInfo": {
+    "delivery": "Amazon Delivered",
+    "returnPolicy": "10 Days Replacement",
+    "cashOnDelivery": true,
+    "secureTransaction": true,
+    "freeDelivery": true
+  },
+
+  "offers": {
+    "coupon": "Extra 2% coupon available",
+    "cashback": "Up to ₹17 cashback with Amazon Pay ICICI Bank Credit Cards",
+    "bankOffer": "Up to ₹2,500 instant discount on select Credit Cards and SBI Debit Cards",
+    "partnerOffer": "GST invoice available for business purchases",
+    "upiReward": "Earn 56 reward points (₹5.60 value) on eligible UPI payments"
+  },
+
+  "additionalInfo": {
+    "usageNote": "Use for cleaning electronics, tools, glass, metals, plastics, and other technical surfaces. Ensure adequate ventilation during use and allow the liquid to evaporate completely before powering electronic devices.",
+    "safetyInformation": [
+      "For technical use only",
+      "Not for human consumption",
+      "Highly flammable",
+      "Keep away from heat, sparks, and open flames",
+      "Keep out of reach of children",
+      "Store in a cool, dry place"
+    ],
+    "targetUsers": [
+      "Electronics Technicians",
+      "Computer Repair Professionals",
+      "Industrial Users",
+      "Laboratories",
+      "DIY Enthusiasts",
+      "Home Users"
+    ]
+  },
+
+  "tags": [
+    "REDCOP",
+    "Isopropyl Alcohol",
+    "IPA",
+    "99.9% Pure",
+    "Rubbing Alcohol",
+    "Electronics Cleaner",
+    "PCB Cleaner",
+    "Technical Grade",
+    "Glass Cleaner",
+    "Industrial Cleaning",
+    "Antibacterial",
+    "Amazon's Choice"
+  ]
 }
 ]
