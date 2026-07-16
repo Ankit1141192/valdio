@@ -19194,5 +19194,125 @@
     "Antibacterial",
     "Amazon's Choice"
   ]
+},
+
+{
+  "id": "ourherb-pure-natural-rose-petal-powder-200g",
+  "name": "OurHerb Pure & Natural Rose Petal Powder for Skin & Hair with Wooden Spoon - 200g",
+  "brand": "OurHerb",
+  "category": "beauty",
+  "subCategory": "skin & hair care powder",
+  "price": 399,
+  "discountPrice": 275,
+  "discountRate": 31,
+  "rating": 4.1,
+  "reviews": 1553,
+  "ratingText": "4.1 out of 5 stars",
+  "reviewText": "Based on 1,553 customer ratings on Amazon",
+  "badge": "Amazon's Choice",
+
+  "shortLink": "https://link.amazon/B0avKQd0z",
+  "fullLink": "https://www.amazon.in/OurHerb-Natural-Petal-Powder-Wooden/dp/B09XBPBH6R?crid=36DIVN5XO3BQC&dib=eyJ2IjoiMSJ9.9BFBwSjtOTsbIvnc82VJClE7L9zCd5MiIevdXwGs3FCBeYTae0wr1pMi89MXBbYJBDvcQkk-TSnBN6HdfoFFXwsRaja8eM1yHHq76RRiQyMXzjJgmRh7lS3--imfU-ujzqloTDkLsoyUU3jTocTDFP36klt_w-zBseJ6QzGpmZwMBMoqBh0IB5kIU-IBpiYLz_meZFHw_Del2BbTCJqV7KISH4SJqRhX1pw7eM6icfYab-nLA1yey8-CTGBMPIYFkFt6KfTAR3Yr9zNPCcwc1TqUcg6kysfqbxfCINjM09w.0jQ0aOihYGYW19srkTFfI0JNl4r2CMM3tZfwMHqTZ_M&dib_tag=se&keywords=rose%2Bpowder&qid=1784220775&sprefix=rose%2Bpowde%2Caps%2C319&sr=8-2-spons&aref=BbBVoeljHv&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1&linkCode=ll2&tag=valdio-21&linkId=d53e51dd336f56d7bc84260bda6dfb7f&ref_=as_li_ss_tl",
+
+  "image": "https://m.media-amazon.com/images/I/81Nb04s4JHL._SL1500_.jpg",
+
+  "description": "OurHerb Pure & Natural Rose Petal Powder is made from carefully selected fresh rose petals that are washed, shade-dried, and naturally processed to preserve their nutrients. Suitable for all skin and hair types, this vitamin-rich powder helps nourish, brighten, and refresh the skin while supporting healthy hair care routines.",
+
+  "features": [
+    "100% natural rose petal powder",
+    "Prepared from fresh shade-dried rose petals",
+    "Suitable for all skin types",
+    "Can be used for both skin and hair care",
+    "Paraben-free and made with natural ingredients",
+    "Comes with a reusable wooden spoon",
+    "Rich in natural vitamins and nutrients"
+  ],
+
+  "variants": [
+    {
+      "size": "100 g",
+      "price": 189,
+      "mrp": 299,
+      "discountRate": 37
+    },
+    {
+      "size": "200 g",
+      "price": 275,
+      "mrp": 399,
+      "discountRate": 31
+    }
+  ],
+
+  "productDetails": {
+    "brand": "OurHerb",
+    "productType": "Rose Petal Powder",
+    "itemForm": "Powder",
+    "netQuantity": "200 g",
+    "scent": "Rose Petal Powder",
+    "skinType": "All Skin Types",
+    "materialFeature": "Natural",
+    "materialTypeFree": [
+      "Paraben Free"
+    ],
+    "specialFeatures": [
+      "Natural Ingredients",
+      "Organic",
+      "Unscented",
+      "Vitamin Rich",
+      "Suitable for Face & Hair"
+    ],
+    "benefits": [
+      "Nourishes skin",
+      "Promotes glowing skin",
+      "Supports healthy hair",
+      "Helps refresh and soften skin",
+      "Suitable for DIY face packs and hair masks"
+    ],
+    "includedItems": [
+      "1 x 200 g Rose Petal Powder",
+      "1 x Wooden Spoon"
+    ],
+    "useBy": "17 September 2028"
+  },
+
+  "deliveryInfo": {
+    "delivery": "Amazon Delivered",
+    "returnPolicy": "Non-Returnable",
+    "cashOnDelivery": true,
+    "secureTransaction": true,
+    "freeDelivery": true
+  },
+
+  "offers": {
+    "cashback": "Up to ₹13 cashback with Amazon Pay ICICI Bank Credit Cards",
+    "bankOffer": "Up to ₹500 instant discount on select Credit Cards and SBI Debit Cards",
+    "partnerOffer": "GST invoice available for business purchases"
+  },
+
+  "additionalInfo": {
+    "usageNote": "Mix the powder with water, rose water, aloe vera gel, yogurt, or other natural ingredients to prepare face packs or hair masks. Apply evenly, leave for 10–20 minutes, then rinse thoroughly.",
+    "targetUsers": [
+      "Women",
+      "Men",
+      "DIY Skincare Enthusiasts",
+      "Natural Beauty Users",
+      "Hair Care Users"
+    ]
+  },
+
+  "tags": [
+    "OurHerb",
+    "Rose Petal Powder",
+    "Natural Skincare",
+    "Hair Care",
+    "Face Pack",
+    "Organic",
+    "Paraben Free",
+    "Herbal Powder",
+    "Glowing Skin",
+    "DIY Beauty",
+    "Rose Powder",
+    "Amazon's Choice"
+  ]
 }
 ]
