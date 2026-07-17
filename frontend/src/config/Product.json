@@ -20068,5 +20068,176 @@
     "Traditional Fashion",
     "Women's Clothing"
   ]
+},
+
+{
+  "id": "sport-band-compatible-apple-watch-silicone-strap",
+  "name": "Sport Band Compatible with Apple Watch - Soft Silicone Strap",
+  "brand": "Generic",
+  "category": "electronics",
+  "subCategory": "smartwatch accessories",
+  "price": 187,
+  "discountPrice": 187,
+  "discountRate": 0,
+  "rating": 3.6,
+  "reviews": 32,
+  "ratingText": "3.6 out of 5 stars",
+  "reviewText": "Based on 32 customer ratings on Amazon",
+  "badge": "",
+
+  "shortLink": "https://link.amazon/B0bf8ovBU",
+  "fullLink": "https://www.amazon.in/dp/B0D77WMJKF?social_share=cm_sw_r_apin_dp_PSETXTK8CFPM1JQZ4H8F&th=1&psc=1&linkCode=ll2&tag=valdio-21&linkId=456668ac7d0a9079eb5cd4ca0e5f8b4a&ref_=as_li_ss_tl",
+
+  "image": "https://m.media-amazon.com/images/I/61JMV+a26GL._SY695_.jpg",
+
+  "description": "This soft silicone sport band is designed to provide a comfortable and secure fit for Apple Watch users. Compatible with Apple Watch Series 1 through Series 10, SE, and Ultra models, the lightweight hypoallergenic strap is perfect for everyday wear, workouts, travel, and outdoor activities. Its durable silicone construction offers flexibility, sweat resistance, and all-day comfort.",
+
+  "features": [
+    "Compatible with Apple Watch Series 1–10, SE, and Ultra",
+    "Supports 38mm, 40mm, 41mm, 42mm, 44mm, 45mm, 46mm, and 49mm watch sizes",
+    "Premium soft silicone material",
+    "Lightweight and comfortable",
+    "Hypoallergenic and skin-friendly",
+    "Sweat and water resistant",
+    "Secure double pusher foldover clasp",
+    "Ideal for sports, gym, office, and daily use"
+  ],
+
+  "variants": [
+    {
+      "colour": "Wine Red",
+      "price": 187
+    },
+    {
+      "colour": "Black",
+      "price": 187
+    },
+    {
+      "colour": "White",
+      "price": 187
+    },
+    {
+      "colour": "Coral Red",
+      "price": 187
+    },
+    {
+      "colour": "Light Pink",
+      "price": 187
+    },
+    {
+      "colour": "Lilac",
+      "price": 187
+    },
+    {
+      "colour": "Olive Green",
+      "price": 187
+    },
+    {
+      "colour": "Pistachio",
+      "price": 187
+    },
+    {
+      "colour": "Rose Red",
+      "price": 187
+    },
+    {
+      "colour": "Sand Pink",
+      "price": 187
+    },
+    {
+      "colour": "Starlight",
+      "price": 187
+    },
+    {
+      "colour": "Teal Green",
+      "price": 187
+    }
+  ],
+
+  "availableSizes": [
+    "38mm/40mm/41mm/42mm (Series 10)",
+    "44mm/45mm/46mm/49mm/42mm (Series 3/2/1)"
+  ],
+
+  "productDetails": {
+    "brand": "Generic",
+    "productType": "Apple Watch Sport Band",
+    "material": "Silicone",
+    "metalType": "No Metal",
+    "claspType": "Double Pusher Foldover Clasp",
+    "itemType": "Watch Strap",
+    "compatibleDevices": [
+      "Apple Watch Series 10",
+      "Apple Watch Series 9",
+      "Apple Watch Series 8",
+      "Apple Watch Series 7",
+      "Apple Watch Series 6",
+      "Apple Watch Series 5",
+      "Apple Watch Series 4",
+      "Apple Watch Series 3",
+      "Apple Watch Series 2",
+      "Apple Watch Series 1",
+      "Apple Watch SE",
+      "Apple Watch Ultra",
+      "Apple Watch Ultra 2"
+    ],
+    "compatibleSizes": [
+      "38mm",
+      "40mm",
+      "41mm",
+      "42mm",
+      "44mm",
+      "45mm",
+      "46mm",
+      "49mm"
+    ],
+    "specialFeatures": [
+      "Soft Silicone",
+      "Skin-Friendly",
+      "Hypoallergenic",
+      "Flexible",
+      "Sweat Resistant",
+      "Lightweight",
+      "Comfort Fit",
+      "Durable"
+    ]
+  },
+
+  "deliveryInfo": {
+    "delivery": "Standard Amazon Delivery",
+    "returnPolicy": "Refer to Amazon return policy",
+    "cashOnDelivery": false,
+    "secureTransaction": true,
+    "freeDelivery": false
+  },
+
+  "offers": {},
+
+  "additionalInfo": {
+    "usageNote": "Attach the band securely to your compatible Apple Watch and adjust the strap for a snug, comfortable fit. Suitable for everyday use, workouts, office wear, travel, and outdoor activities.",
+    "targetUsers": [
+      "Men",
+      "Women",
+      "Fitness Enthusiasts",
+      "Apple Watch Users"
+    ]
+  },
+
+  "tags": [
+    "Apple Watch Band",
+    "Silicone Strap",
+    "Sport Band",
+    "Apple Watch Strap",
+    "Watch Band",
+    "Smartwatch Accessories",
+    "Series 10",
+    "Ultra",
+    "SE",
+    "44mm",
+    "45mm",
+    "49mm",
+    "Silicone Watch Strap",
+    "Fitness Band"
+  ]
 }
 ]
