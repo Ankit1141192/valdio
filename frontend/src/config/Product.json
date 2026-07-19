@@ -21366,5 +21366,429 @@
     "Lip Makeup",
     "Top Brand"
   ]
+},
+
+{
+  "id": "olay-total-effects-day-cream-spf15-pack-of-2",
+  "name": "Olay Total Effects Day Cream SPF 15 with Vitamin B5, Niacinamide & Green Tea (50g Pack of 2)",
+  "brand": "Olay",
+  "category": "beauty",
+  "subCategory": "face moisturizer",
+  "price": 1898,
+  "discountPrice": 1065.06,
+  "discountRate": 44,
+  "rating": 4.3,
+  "reviews": 12440,
+  "ratingText": "4.3 out of 5 stars",
+  "reviewText": "Based on 12,440 customer ratings on Amazon",
+  "badge": "Top Brand",
+
+  "shortLink": "https://link.amazon/B06ZZvZtd",
+  "fullLink": "https://www.amazon.in/dp/B0CBKK5NBN?social_share=cm_sw_r_ud_dp_ZWT9T5B1NQ877K7WECBS&th=1&linkCode=ll2&tag=valdio-21&linkId=5e4ae17184334520f65ed355af2b56ec&ref_=as_li_ss_tl",
+
+  "image": "https://m.media-amazon.com/images/I/51NQJmSNI1L._SX522_PIbundle-2,TopRight,0,0_SX522SY538SH20_.jpg",
+
+  "description": "Olay Total Effects 7-in-1 Day Cream SPF 15 is an anti-aging daily moisturizer enriched with Niacinamide (Vitamin B3), Pro-Vitamin B5, Vitamins C & E, and Green Tea Extract. It helps fight seven visible signs of aging while providing SPF 15 UV protection. The lightweight formula hydrates, brightens, and improves skin texture, making it suitable for normal, dry, oily, and combination skin types.",
+
+  "features": [
+    "Pack of 2 (50g each)",
+    "7-in-1 anti-aging day cream",
+    "SPF 15 UV protection",
+    "Enriched with Niacinamide (Vitamin B3)",
+    "Contains Pro-Vitamin B5, Vitamins C & E",
+    "Green Tea Extract for antioxidant protection",
+    "Hydrates and nourishes skin",
+    "Reduces fine lines and wrinkles",
+    "Improves uneven skin tone and texture",
+    "Suitable for normal, dry, oily and combination skin"
+  ],
+
+  "variants": [
+    {
+      "size": "1 Count (Pack of 1)",
+      "price": 373,
+      "mrp": 429,
+      "discountRate": 13
+    },
+    {
+      "size": "50 g (Pack of 1)",
+      "price": 549,
+      "mrp": 949,
+      "discountRate": 42
+    },
+    {
+      "size": "50 g (Pack of 2)",
+      "price": 1065.06,
+      "mrp": 1898,
+      "discountRate": 44
+    }
+  ],
+
+  "productDetails": {
+    "brand": "Olay",
+    "productType": "Day Cream",
+    "itemForm": "Cream",
+    "netQuantity": "100 g",
+    "itemVolume": "40 ml",
+    "numberOfItems": 2,
+    "skinType": [
+      "Normal",
+      "Dry",
+      "Oily",
+      "Combination"
+    ],
+    "ageRange": "Adult",
+    "spf": "SPF 15",
+    "scent": "Green Tea",
+    "dimensions": "6.7 x 5.1 x 13.5 cm",
+    "activeIngredients": [
+      "Niacinamide (Vitamin B3)",
+      "Pro-Vitamin B5 (Panthenol)",
+      "Vitamin C",
+      "Vitamin E",
+      "Green Tea Extract",
+      "Glycerin",
+      "Titanium Dioxide",
+      "Zinc Oxide"
+    ],
+    "benefits": [
+      "Fights 7 signs of aging",
+      "Reduces fine lines and wrinkles",
+      "Minimizes age spots",
+      "Improves uneven skin tone",
+      "Smoothens skin texture",
+      "Deep hydration",
+      "Reduces dullness",
+      "Minimizes visible pores",
+      "Protects against UV damage"
+    ],
+    "specialFeatures": [
+      "Daily Moisturizer",
+      "Anti-Aging Formula",
+      "SPF 15 Sun Protection",
+      "Lightweight Texture",
+      "Vitamin-Enriched",
+      "Dermatologically Tested"
+    ]
+  },
+
+  "deliveryInfo": {
+    "delivery": "Amazon Delivered",
+    "returnPolicy": "Non-Returnable",
+    "cashOnDelivery": true,
+    "secureTransaction": true,
+    "freeDelivery": true,
+    "emi": "EMI available starting from ₹97/month"
+  },
+
+  "offers": {
+    "cashback": "Up to ₹53 cashback with Amazon Pay ICICI Bank Credit Cards",
+    "bankOffer": "Up to ₹500 instant discount on select Credit Cards and SBI Debit Cards",
+    "partnerOffer": "GST invoice available for eligible business purchases"
+  },
+
+  "additionalInfo": {
+    "usageNote": "Apply evenly to a cleansed face and neck every morning before sun exposure. Can also be used as a daily moisturizer in both daytime and nighttime skincare routines.",
+    "targetUsers": [
+      "Women",
+      "Adults",
+      "Anti-Aging Skincare Users",
+      "Daily Moisturizer Users",
+      "All Skin Types"
+    ]
+  },
+
+  "tags": [
+    "Olay",
+    "Total Effects",
+    "Day Cream",
+    "SPF 15",
+    "Anti Aging Cream",
+    "Face Moisturizer",
+    "Niacinamide",
+    "Vitamin B5",
+    "Vitamin C",
+    "Vitamin E",
+    "Green Tea",
+    "Daily Skincare",
+    "UV Protection",
+    "7 in 1",
+    "Face Cream",
+    "Beauty",
+    "Top Brand"
+  ]
+},
+
+{
+  "id": "lifes-amazing-secrets-gaur-gopal-das-paperback",
+  "name": "Life's Amazing Secrets: How to Find Balance and Purpose in Your Life",
+  "brand": "Penguin Random House India",
+  "category": "books",
+  "subCategory": "self-help & personal development",
+  "price": 299,
+  "discountPrice": 210,
+  "discountRate": 30,
+  "rating": 4.6,
+  "reviews": 25234,
+  "ratingText": "4.6 out of 5 stars",
+  "reviewText": "Based on 25,234 customer ratings on Amazon",
+  "badge": "Bestseller",
+
+  "shortLink": "https://link.amazon/B02xP9tSm",
+  "fullLink": "https://www.amazon.in/Lifes-Amazing-Secrets-find-Bala/dp/0143442295?crid=3UMX9R8TJJX5S&dib=eyJ2IjoiMSJ9.UnkHbQZY6y6_Q0SoCa6WzAfnEfq26kkU32yqj_YzRJQlqfqKAMMSu3j3_r7ppaedzfqVfz5f_N6fFPhu37dUUf0HARsaXMTkAuqkSffI-sidfsD9tmY55pLx7QD3RJ0R7HOhVwAevE9xTtwLZvlrJNAVO2FSH-mP6CnnZ049_V70xKsIQDNUmbTFmGhsjpYmg6Nm6W1qmd-A7MxuYHmKAleV94b-XA8LTonSvHjJtec.KN14JIh8H7ZMYtZ1I0sGfB9sYajZ9XV8kDDRbCUa6vI&dib_tag=se&keywords=life+amazing+secrets+book&qid=1784470721&sprefix=life+amazing+secrets%2Caps%2C312&sr=8-1&linkCode=ll2&tag=valdio-21&linkId=e220eba92e8f36fa261fc2083d222c9e&ref_=as_li_ss_tl",
+
+  "image": "https://m.media-amazon.com/images/I/81yxRLBMmkL._SL1500_.jpg",
+
+  "description": "Life's Amazing Secrets by Gaur Gopal Das is an inspiring self-help book that offers practical wisdom for achieving balance, happiness, and purpose in life. Through engaging conversations and real-life experiences, the author explores relationships, personal growth, career, emotional well-being, and service to others. Written in a simple and relatable style, this motivational book encourages readers to transform everyday challenges into opportunities for growth and fulfillment.",
+
+  "features": [
+    "Written by renowned monk and life coach Gaur Gopal Das",
+    "Inspirational guide for personal growth and self-development",
+    "Practical lessons on balance, happiness, and purpose",
+    "Easy-to-read conversational storytelling",
+    "Focuses on relationships, career, and emotional well-being",
+    "Ideal for readers of all age groups",
+    "Motivational and thought-provoking content"
+  ],
+
+  "variants": [
+    {
+      "format": "Paperback",
+      "price": 210,
+      "mrp": 299,
+      "discountRate": 30
+    },
+    {
+      "format": "Kindle Edition",
+      "price": 175.11
+    },
+    {
+      "format": "Audiobook",
+      "price": 0,
+      "note": "Available with membership trial"
+    },
+    {
+      "format": "Hardcover",
+      "price": null
+    }
+  ],
+
+  "productDetails": {
+    "title": "Life's Amazing Secrets: How to Find Balance and Purpose in Your Life",
+    "author": "Gaur Gopal Das",
+    "format": "Paperback",
+    "language": "English",
+    "genre": [
+      "Self-Help",
+      "Personal Development",
+      "Motivational",
+      "Healthy Living",
+      "Spiritual Growth"
+    ],
+    "publisher": "Penguin Random House India",
+    "targetAudience": [
+      "Students",
+      "Professionals",
+      "Young Adults",
+      "Adults",
+      "Self-Improvement Readers"
+    ],
+    "topicsCovered": [
+      "Finding Purpose",
+      "Work-Life Balance",
+      "Relationships",
+      "Happiness",
+      "Personal Growth",
+      "Mindfulness",
+      "Self-Development",
+      "Healthy Living",
+      "Inner Peace",
+      "Giving Back to Society"
+    ],
+    "specialFeatures": [
+      "Inspirational Stories",
+      "Actionable Life Lessons",
+      "Simple Language",
+      "Practical Wisdom",
+      "Based on Real-Life Experiences"
+    ]
+  },
+
+  "deliveryInfo": {
+    "delivery": "Amazon Delivered",
+    "returnPolicy": "10 Days Replacement",
+    "cashOnDelivery": true,
+    "secureTransaction": true,
+    "freeDelivery": true
+  },
+
+  "offers": {
+    "cashback": "5% cashback with Amazon Pay ICICI Bank Credit Card for eligible Prime members",
+    "bankOffer": "Flat ₹50 instant discount on eligible HSBC Credit Card non-EMI transactions",
+    "partnerOffer": "Additional offers available on Amazon"
+  },
+
+  "additionalInfo": {
+    "usageNote": "Perfect for readers seeking motivation, personal transformation, emotional well-being, and practical guidance for leading a balanced and meaningful life.",
+    "recommendedFor": [
+      "Daily Reading",
+      "Personal Development",
+      "Gifting",
+      "College Students",
+      "Working Professionals",
+      "Book Clubs"
+    ]
+  },
+
+  "tags": [
+    "Gaur Gopal Das",
+    "Life's Amazing Secrets",
+    "Self Help",
+    "Motivational Book",
+    "Personal Development",
+    "Self Improvement",
+    "Healthy Living",
+    "Mindfulness",
+    "Spiritual Growth",
+    "Life Lessons",
+    "Balance",
+    "Purpose",
+    "Paperback",
+    "Bestseller",
+    "Books"
+  ]
+},
+
+{
+  "id": "tupperware-smart-plastic-chopper-red-230w",
+  "name": "Tupperware Smart Plastic Chopper, Red (230 Watts)",
+  "brand": "Tupperware",
+  "category": "home & kitchen",
+  "subCategory": "electric chopper",
+  "price": 2300,
+  "discountPrice": 2295,
+  "discountRate": 0,
+  "rating": 4.4,
+  "reviews": 1041,
+  "ratingText": "4.4 out of 5 stars",
+  "reviewText": "Based on 1,041 customer ratings on Amazon",
+  "badge": "Amazon's Choice",
+
+  "shortLink": "https://link.amazon/B03CVsFIe",
+  "fullLink": "https://www.amazon.in/Tupperware-251-Smart-Chopper-Red/dp/B00GQUYP72?crid=J2FNJNTBX3WQ&dib=eyJ2IjoiMSJ9.bC0bn-r0E_dgZi65QKURl0-g5SqBAEzYtfTuxk8ugmdjn6qB_Oi_arsano8yBSYxt_g-54La3eFWKs1RTutu92tG017QRdBeg9fyvSiwJShgUf9syuxIOFg87Ab4vK61ttdXrCpdGGl5d_pSFsvl6OFkAqbUrVOmf_ewuzC3hIuEw6JodAv3THHHXE6FWCFoDfAcV_Duf_-Wssaropq-IXCktzwJ_CLbG8mF4K6j2F6cPmQuSs7boU-gfGnoUFgw_ahwULq9WG85AytelV43CylE0YvvCL410-YabHL_zUg.5j6X9ROqu_yVGgA4kSLV0eNA8fmnQ74Bn_m3k0ooN28&dib_tag=se&keywords=tu%5Bperware+chopeer&qid=1784470848&sprefix=tu+perware+chopee%2Caps%2C284&sr=8-10&linkCode=ll2&tag=valdio-21&linkId=3cc43cb8f5bb1fb72c6942b661dabd31&ref_=as_li_ss_tl",
+  "image": "https://m.media-amazon.com/images/I/81orrHzLAXL._SL1500_.jpg",
+
+  "description": "The Tupperware Smart Plastic Chopper is a compact and efficient 230W kitchen appliance designed to chop vegetables, fruits, herbs, cheese, nuts, and more in seconds. Equipped with a powerful motor and sharp stainless steel blades, it delivers up to 288 knife cuts in less than 15 seconds. Its 300 ml bowl, safety lock mechanism, and dishwasher-safe components make it a convenient and reliable solution for everyday food preparation.",
+
+  "features": [
+    "Powerful 230W motor",
+    "Makes 288 knife cuts in less than 15 seconds",
+    "300 ml chopping bowl",
+    "Safety lock mechanism",
+    "Sharp stainless steel blades",
+    "Suitable for vegetables, fruits, herbs, cheese and nuts",
+    "Compact and lightweight design",
+    "Easy to assemble and clean",
+    "Dishwasher-safe removable parts",
+    "Comes with a premium gift box"
+  ],
+
+  "variants": [
+    {
+      "color": "Red",
+      "price": 2295,
+      "mrp": 2300,
+      "discountRate": 0
+    }
+  ],
+
+  "availableSizes": [
+    "300 ml"
+  ],
+
+  "productDetails": {
+    "brand": "Tupperware",
+    "productType": "Electric Food Chopper",
+    "capacity": "300 ml",
+    "color": "Red",
+    "material": "Plastic",
+    "bladeMaterial": "Stainless Steel",
+    "power": "230 Watts",
+    "specialFeature": "Safety Lock",
+    "recommendedUses": [
+      "Chopping Vegetables",
+      "Chopping Fruits",
+      "Fresh Herbs",
+      "Cheese",
+      "Nuts",
+      "Garlic",
+      "Onions"
+    ],
+    "numberOfSpeeds": 7,
+    "dimensions": "10.2 x 11.9 x 11.9 cm",
+    "itemWeight": "180 g",
+    "careInstructions": "Dishwasher Safe",
+    "includedInBox": [
+      "Electric Chopper",
+      "300 ml Bowl",
+      "Blade Assembly",
+      "Gift Box",
+      "User Manual"
+    ],
+    "specialFeatures": [
+      "288 Knife Cuts in Under 15 Seconds",
+      "Compact Design",
+      "Easy to Clean",
+      "Safety Lock",
+      "Powerful Motor",
+      "Food Grade Plastic"
+    ]
+  },
+
+  "deliveryInfo": {
+    "delivery": "Amazon Delivered",
+    "returnPolicy": "10 Days Returnable",
+    "cashOnDelivery": false,
+    "secureTransaction": true,
+    "freeDelivery": true,
+    "emi": "No Cost EMI available starting at ₹81/month"
+  },
+
+  "offers": {
+    "cashback": "Up to ₹114 cashback with Amazon Pay ICICI Bank Credit Cards",
+    "bankOffer": "Up to ₹2,500 instant discount on select Credit Cards and SBI Debit Cards",
+    "noCostEmi": "No Cost EMI with eligible cards",
+    "partnerOffer": "GST invoice available for eligible business purchases"
+  },
+
+  "additionalInfo": {
+    "usageNote": "Place ingredients into the 300 ml bowl, secure the safety lock, and operate the chopper for quick and uniform chopping. Clean detachable parts after every use.",
+    "idealFor": [
+      "Home Kitchens",
+      "Daily Cooking",
+      "Meal Preparation",
+      "Small Families",
+      "Students",
+      "Gifting"
+    ]
+  },
+
+  "tags": [
+    "Tupperware",
+    "Electric Chopper",
+    "Food Chopper",
+    "Vegetable Chopper",
+    "Kitchen Appliance",
+    "230W",
+    "300ml",
+    "Safety Lock",
+    "Dishwasher Safe",
+    "Plastic Chopper",
+    "Red Chopper",
+    "Amazon Choice",
+    "Home Kitchen",
+    "Food Prep",
+    "Compact Chopper"
+  ]
 }
 ]
