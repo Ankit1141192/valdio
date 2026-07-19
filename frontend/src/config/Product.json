@@ -21790,5 +21790,366 @@
     "Food Prep",
     "Compact Chopper"
   ]
+},
+
+{
+  "id": "gm-modular-3005-travel-adapter-universal-6a-white",
+  "name": "GM Modular 3005 Travel Adapter with Universal Multi-Pin Socket, 6A",
+  "brand": "GM",
+  "category": "electronics",
+  "subCategory": "travel adapter",
+  "price": 100,
+  "discountPrice": 100,
+  "discountRate": 0,
+  "rating": 4.3,
+  "reviews": 236,
+  "ratingText": "4.3 out of 5 stars",
+  "reviewText": "Based on 236 customer ratings on Amazon",
+  "badge": "Amazon's Choice",
+
+  "shortLink": "https://link.amazon/B0cPkUsXs",
+  "fullLink": "https://www.amazon.in/GM-Universal-Multi-Pin-Shockproof-Polycarbonate/dp/B079H1J3Q3?crid=19PYWO179USD0&dib=eyJ2IjoiMSJ9.f4hiOKcPfon-wngCUkfpDBD-E-7ase5JHS4jM3YBw5mBlfgcWi1f4DEOVVU6VwVKCP3g_t3Bcg4yBfDbpxGDZRoXXNkp0OgEEQsnvQ_K5GOBRJD4XoKqcxXsmrkUxXrAYfVYH_35r1OzTDfGmvOo8oFZVuBOzcAZrhPtg7PwIIyD-GwnUA-sHlu9ebIEyeMIHVtaAjSktlHq0JvOv9ZKe6oMLtKi8J0_nuddpRsstp1OmHIhomLWJyLN4_K3_5W_crL03cuNbWFfH2EomskW5_bIVMqB8ZkTwl27AOFEILw.EMvjsdFHFTYh7Mlm0RjD-ZosekqXWmkiyKi30UoZlEo&dib_tag=se&keywords=plug&qid=1784477476&sprefix=%2Caps%2C2796&sr=8-20&linkCode=ll2&tag=valdio-21&linkId=d64f215f4bdd2def06f4e33fb11960a8&ref_=as_li_ss_tl",
+  "image": "https://m.media-amazon.com/images/I/619aFjWgqCL._SL1500_.jpg",
+
+  "description": "The GM Modular 3005 Travel Adapter is a compact and reliable 6A universal travel adapter designed for home, office, and international travel. Featuring a universal multi-pin socket and Type G plug, it supports a wide range of electronic devices including smartphones, tablets, laptops, chargers, and small appliances. Built with a durable shockproof polycarbonate body and multiple safety protections, it offers safe and convenient power connectivity wherever you go.",
+
+  "features": [
+    "Universal multi-pin socket compatible with various 3-pin plugs",
+    "6A travel adapter for home, office, and travel",
+    "Compact and lightweight design",
+    "Shockproof polycarbonate body",
+    "Reliable grounding for enhanced electrical safety",
+    "Built-in surge protection",
+    "Overcurrent protection",
+    "Thermal protection",
+    "Ideal for charging smartphones, tablets, laptops, and other devices",
+    "1-year manufacturer warranty"
+  ],
+
+  "variants": [
+    {
+      "color": "White",
+      "price": 100
+    }
+  ],
+
+  "availableSizes": [
+    "6A"
+  ],
+
+  "productDetails": {
+    "brand": "GM",
+    "model": "3005",
+    "productType": "Travel Adapter",
+    "socketType": "Universal Multi-Pin Socket",
+    "plugType": "Type G",
+    "currentRating": "6A",
+    "color": "White",
+    "bodyMaterial": "Shockproof Polycarbonate",
+    "dimensions": "43 x 45 x 41 mm",
+    "itemWeight": "40 g",
+    "compatibility": [
+      "Smartphones",
+      "Tablets",
+      "Laptops",
+      "Chargers",
+      "Power Banks",
+      "Electronic Gadgets",
+      "Small Home Appliances"
+    ],
+    "specialFeatures": [
+      "Universal 3-Pin Compatibility",
+      "Compact Travel Design",
+      "Reliable Grounding",
+      "Surge Protection",
+      "Overcurrent Protection",
+      "Thermal Protection",
+      "Shockproof Body"
+    ]
+  },
+
+  "deliveryInfo": {
+    "delivery": "Free Delivery",
+    "returnPolicy": "10 Days Replacement",
+    "cashOnDelivery": true,
+    "secureTransaction": true,
+    "freeDelivery": true,
+    "warranty": "1 Year Manufacturer Warranty"
+  },
+
+  "offers": {
+    "cashback": "Up to ₹5 cashback with Amazon Pay ICICI Bank Credit Cards",
+    "bankOffer": "Up to ₹2,500 instant discount on select Credit Cards and SBI Debit Cards",
+    "partnerOffer": "GST invoice available for eligible business purchases"
+  },
+
+  "additionalInfo": {
+    "usageNote": "Plug the adapter into a compatible wall socket and connect your electronic device using the universal multi-pin socket. Ensure the connected device supports the local voltage before use.",
+    "idealFor": [
+      "International Travel",
+      "Business Travel",
+      "Home",
+      "Office",
+      "Students",
+      "Frequent Travelers"
+    ],
+    "monthlyPurchase": "500+ bought in the past month"
+  },
+
+  "tags": [
+    "GM",
+    "GM Modular",
+    "Travel Adapter",
+    "Universal Adapter",
+    "Multi Pin Socket",
+    "6A Adapter",
+    "Type G Plug",
+    "Universal Socket",
+    "Travel Accessories",
+    "Electrical Accessories",
+    "Shockproof",
+    "Polycarbonate",
+    "Surge Protection",
+    "Amazon Choice",
+    "Top Brand"
+  ]
+},
+
+{
+  "id": "rs-aggarwal-class-7-maths-2026-part-1-paperback",
+  "name": "RS Aggarwal Class 7 Maths 2026 Edition Part 1 | Latest NCERT Pattern Based Updated Eighth Edition (Book 1)",
+  "brand": "S. Chand Publishing",
+  "category": "books",
+  "subCategory": "school textbooks",
+  "price": 240,
+  "discountPrice": 160,
+  "discountRate": 33,
+  "rating": 4.5,
+  "reviews": 108,
+  "ratingText": "4.5 out of 5 stars",
+  "reviewText": "Based on 108 customer ratings on Amazon",
+  "badge": "Latest 2026 Edition",
+
+  "shortLink": "https://link.amazon/B0eJakwcN",
+  "fullLink": "https://www.amazon.in/Aggarwal-Latest-Pattern-Updated-Mathematics/dp/B0GD82B2ZP?crid=1276LPLDKNA8Q&dib=eyJ2IjoiMSJ9.Am6tCZLF794s_epWvZU_gyix9QkLznmcczFuEDuGqeAHoOgDYvVHKfxRKDmG2MDA7ujfi__i-16QZzkzp2iT7nfre85akvvyjMZkOpvODXYZeJtmqypsXkD516SmFLnQyshyTKh8V8gy0F1a36JzmrPtonza5m62f5atViUyJIHaA-AwZ1dxwN7lVMGrdrR7hRakF_xtrz7ICej_C8OE1--caUo-II32KDC4CFpfJoU.OtcRtwb3SwD4e5DhA8cau_MNsA4N5LIgPY0iPRLL5Ok&dib_tag=se&keywords=rs+aggarwal+class+7&qid=1784479005&sprefix=rs+aggarwal+class+%2Caps%2C674&sr=8-4&linkCode=ll2&tag=valdio-21&linkId=0b67eebed28adb904a78e6d6984318bd&ref_=as_li_ss_tl",
+  "image": "https://m.media-amazon.com/images/I/81Dy0w4VS4L._SL1500_.jpg",
+
+  "description": "RS Aggarwal Class 7 Maths 2026 Edition Part 1 is the latest NCERT pattern-based mathematics textbook designed for Class 7 students. Updated according to the Eighth Edition syllabus, the book provides concept-based explanations, solved examples, chapter-wise exercises, and ample practice questions to strengthen mathematical understanding and improve problem-solving skills. It is an excellent resource for school studies, homework, examinations, and competitive foundation preparation.",
+
+  "features": [
+    "Latest 2026 Edition",
+    "Updated Eighth Edition",
+    "Based on the latest NCERT pattern",
+    "Designed specifically for Class 7 students",
+    "Simple and easy-to-understand explanations",
+    "Chapter-wise solved examples",
+    "Extensive practice exercises",
+    "Improves conceptual understanding",
+    "Ideal for school exams and daily practice",
+    "Suitable for self-study and classroom learning"
+  ],
+
+  "variants": [
+    {
+      "format": "Paperback",
+      "price": 160,
+      "mrp": 240,
+      "discountRate": 33
+    }
+  ],
+
+  "availableSizes": [
+    "Paperback"
+  ],
+
+  "productDetails": {
+    "title": "RS Aggarwal Class 7 Maths 2026 Edition Part 1",
+    "author": "R. S. Aggarwal",
+    "edition": "Eighth Edition (2026)",
+    "format": "Paperback",
+    "language": "English",
+    "subject": "Mathematics",
+    "class": "Class 7",
+    "bookPart": "Part 1",
+    "curriculum": "Latest NCERT Pattern",
+    "publisher": "S. Chand Publishing",
+    "targetAudience": [
+      "Class 7 Students",
+      "Teachers",
+      "Parents",
+      "School Libraries"
+    ],
+    "specialFeatures": [
+      "Updated 2026 Content",
+      "Concept-Based Learning",
+      "Solved Examples",
+      "Practice Questions",
+      "Exam-Oriented Approach",
+      "Step-by-Step Solutions"
+    ]
+  },
+
+  "deliveryInfo": {
+    "delivery": "Amazon Delivered",
+    "expectedDelivery": "Free delivery by Saturday, 25 July",
+    "returnPolicy": "10 Days Replacement",
+    "cashOnDelivery": true,
+    "secureTransaction": true,
+    "freeDelivery": true
+  },
+
+  "offers": {
+    "cashback": "5% cashback with Amazon Pay ICICI Bank Credit Card for eligible Prime members",
+    "bankOffer": "Flat ₹50 instant discount on eligible HSBC Credit Card non-EMI transactions",
+    "partnerOffer": "Additional promotional offers available on Amazon"
+  },
+
+  "additionalInfo": {
+    "usageNote": "Recommended as a companion textbook for Class 7 Mathematics. Suitable for classroom learning, homework, revision, and annual examination preparation.",
+    "recommendedFor": [
+      "School Study",
+      "Home Practice",
+      "Exam Preparation",
+      "Foundation Learning",
+      "Mathematics Revision"
+    ]
+  },
+
+  "tags": [
+    "RS Aggarwal",
+    "Class 7 Maths",
+    "Mathematics",
+    "NCERT Pattern",
+    "2026 Edition",
+    "Eighth Edition",
+    "School Book",
+    "Textbook",
+    "Paperback",
+    "Class 7",
+    "Math Book",
+    "Exam Preparation",
+    "S Chand",
+    "Education",
+    "Books"
+  ]
+},
+
+{
+  "id": "rs-aggarwal-class-7-maths-2026-part-2-paperback",
+  "name": "RS Aggarwal Class 7 Maths 2026 Edition Part 2 | Latest NCERT Pattern Based Updated Eighth Edition (Book 2)",
+  "brand": "S. Chand Publishing",
+  "category": "books",
+  "subCategory": "school textbooks",
+  "price": 240,
+  "discountPrice": 160,
+  "discountRate": 33,
+  "rating": 4.5,
+  "reviews": 70,
+  "ratingText": "4.5 out of 5 stars",
+  "reviewText": "Based on 70 customer ratings on Amazon",
+  "badge": "Latest 2026 Edition",
+
+  "shortLink": "https://link.amazon/B0c5duDoX",
+  "fullLink": "https://www.amazon.in/Aggarwal-Latest-Pattern-Updated-Mathematics/dp/8199871040?crid=1276LPLDKNA8Q&dib=eyJ2IjoiMSJ9.Am6tCZLF794s_epWvZU_gyix9QkLznmcczFuEDuGqeAHoOgDYvVHKfxRKDmG2MDA7ujfi__i-16QZzkzp2iT7nfre85akvvyjMZkOpvODXYZeJtmqypsXkD516SmFLnQyshyTKh8V8gy0F1a36JzmrPtonza5m62f5atViUyJIHaA-AwZ1dxwN7lVMGrdrR7hRakF_xtrz7ICej_C8OE1--caUo-II32KDC4CFpfJoU.OtcRtwb3SwD4e5DhA8cau_MNsA4N5LIgPY0iPRLL5Ok&dib_tag=se&keywords=rs+aggarwal+class+7&qid=1784479005&sprefix=rs+aggarwal+class+%2Caps%2C674&sr=8-5&linkCode=ll2&tag=valdio-21&linkId=1880b3baa305bce2ec26b8937758edb9&ref_=as_li_ss_tl",
+  "image": "https://m.media-amazon.com/images/I/81-zBZorL-L._SL1500_.jpg",
+
+  "description": "RS Aggarwal Class 7 Maths 2026 Edition Part 2 is the updated Eighth Edition mathematics textbook based on the latest NCERT pattern. Designed for Class 7 students, this book covers advanced chapters with detailed explanations, solved examples, and extensive practice exercises. It helps students strengthen conceptual understanding, improve analytical thinking, and prepare effectively for school examinations and competitive foundation courses.",
+
+  "features": [
+    "Latest 2026 Edition",
+    "Updated Eighth Edition",
+    "Based on the latest NCERT pattern",
+    "Comprehensive Class 7 Mathematics coverage",
+    "Step-by-step solved examples",
+    "Chapter-wise practice exercises",
+    "Concept-based learning approach",
+    "Improves logical reasoning and problem-solving",
+    "Ideal for school exams and revision",
+    "Suitable for classroom learning and self-study"
+  ],
+
+  "variants": [
+    {
+      "format": "Paperback",
+      "price": 160,
+      "mrp": 240,
+      "discountRate": 33
+    }
+  ],
+
+  "availableSizes": [
+    "Paperback"
+  ],
+
+  "productDetails": {
+    "title": "RS Aggarwal Class 7 Maths 2026 Edition Part 2",
+    "author": "R. S. Aggarwal",
+    "edition": "Eighth Edition (2026)",
+    "format": "Paperback",
+    "language": "English",
+    "subject": "Mathematics",
+    "class": "Class 7",
+    "bookPart": "Part 2",
+    "curriculum": "Latest NCERT Pattern",
+    "publisher": "S. Chand Publishing",
+    "targetAudience": [
+      "Class 7 Students",
+      "Teachers",
+      "Parents",
+      "School Libraries"
+    ],
+    "specialFeatures": [
+      "Updated 2026 Content",
+      "Concept-Based Learning",
+      "Solved Examples",
+      "Practice Questions",
+      "Exam-Oriented Format",
+      "Step-by-Step Solutions"
+    ]
+  },
+
+  "deliveryInfo": {
+    "delivery": "Amazon Delivered",
+    "returnPolicy": "10 Days Replacement",
+    "cashOnDelivery": true,
+    "secureTransaction": true,
+    "freeDelivery": true
+  },
+
+  "offers": {
+    "cashback": "5% cashback with Amazon Pay ICICI Bank Credit Card for eligible Prime members",
+    "bankOffer": "Flat ₹50 instant discount on eligible HSBC Credit Card non-EMI transactions",
+    "partnerOffer": "Additional promotional offers available on Amazon"
+  },
+
+  "additionalInfo": {
+    "usageNote": "Recommended for Class 7 students as a companion to the NCERT Mathematics textbook. Suitable for classroom learning, homework, revision, and annual examination preparation.",
+    "recommendedFor": [
+      "School Study",
+      "Home Practice",
+      "Exam Preparation",
+      "Foundation Mathematics",
+      "Revision"
+    ]
+  },
+
+  "tags": [
+    "RS Aggarwal",
+    "Class 7 Maths",
+    "Mathematics",
+    "NCERT Pattern",
+    "2026 Edition",
+    "Eighth Edition",
+    "Book 2",
+    "School Book",
+    "Textbook",
+    "Paperback",
+    "Class 7",
+    "Math Book",
+    "Exam Preparation",
+    "S Chand",
+    "Education",
+    "Books"
+  ]
 }
 ]
