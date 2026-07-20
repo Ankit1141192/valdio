@@ -22311,5 +22311,139 @@
     "Top Brand",
     "Intense Black"
   ]
+},
+
+{
+  "id": "meyer-pre-seasoned-cast-iron-kadai-26cm-black",
+  "name": "Meyer Pre-Seasoned Cast Iron Kadai Without Lid, 26cm, Black",
+  "brand": "Meyer",
+  "category": "home & kitchen",
+  "subCategory": "cast iron kadai",
+  "price": 3845,
+  "discountPrice": 2913,
+  "discountRate": 24,
+  "rating": 4.2,
+  "reviews": 127,
+  "ratingText": "4.2 out of 5 stars",
+  "reviewText": "Based on 127 customer ratings on Amazon",
+  "badge": "Amazon's Choice",
+
+  "shortLink": "https://link.amazon/B02kMe3X2",
+  "fullLink": "https://www.amazon.in/dp/B0BG2ZWNW1?social_share=cm_sw_r_ud_dp_ZFEKSKQ1RXMNZ11YMQK6&th=1&linkCode=ll2&tag=valdio-21&linkId=e08032de55617710cb09778cbb53d2db&ref_=as_li_ss_tl",
+  "image": "https://m.media-amazon.com/images/I/51KhFnjH7TL._SL1500_.jpg",
+
+  "description": "The Meyer Pre-Seasoned Cast Iron Kadai is a premium 26cm heavy-duty cookware designed for authentic Indian cooking. Crafted from 100% toxin-free cast iron and pre-seasoned with vegetable oil, it delivers superior heat retention and even cooking performance. Compatible with gas and induction cooktops, this versatile kadai is ideal for deep frying, sautéing, roasting, baking, and everyday cooking while enhancing the natural flavor of food.",
+
+  "features": [
+    "Made from 100% pure cast iron",
+    "Pre-seasoned with 100% vegetable oil",
+    "No enamel or chemical coating",
+    "Heavy-bottom construction for even heating",
+    "Suitable for induction and gas cooktops",
+    "Excellent heat retention",
+    "One-piece uni-body design without screws or welds",
+    "Ideal for deep frying, roasting, sautéing and baking",
+    "Includes two canvas grips for safe handling",
+    "Lifetime warranty against manufacturing defects"
+  ],
+
+  "variants": [
+    {
+      "size": "24 cm",
+      "price": 2537,
+      "mrp": 3275,
+      "discountRate": 23
+    },
+    {
+      "size": "26 cm",
+      "price": 2913,
+      "mrp": 3845,
+      "discountRate": 24
+    }
+  ],
+
+  "availableSizes": [
+    "24 cm",
+    "26 cm"
+  ],
+
+  "productDetails": {
+    "brand": "Meyer",
+    "productType": "Cast Iron Kadai",
+    "material": "Cast Iron",
+    "color": "Black",
+    "capacity": "2.75 Litres",
+    "diameter": "26 cm",
+    "maximumTemperature": "240°C",
+    "compatibleCooktops": [
+      "Gas Stove",
+      "Induction Cooktop",
+      "Smooth Surface Cooktops"
+    ],
+    "handleMaterial": "Cast Iron",
+    "careInstructions": "Hand Wash Only",
+    "seasoning": "Pre-seasoned with 100% Vegetable Oil",
+    "coating": "No Enamel, No Chemical Coating",
+    "includedInBox": [
+      "1 Cast Iron Kadai",
+      "2 Canvas Handle Grips"
+    ],
+    "specialFeatures": [
+      "Amazon's Choice",
+      "Pre-Seasoned",
+      "Heavy Bottom",
+      "Induction Compatible",
+      "Naturally Non-Stick After Proper Seasoning",
+      "Uni-Body Construction",
+      "Lifetime Warranty"
+    ]
+  },
+
+  "deliveryInfo": {
+    "delivery": "Amazon Delivered",
+    "returnPolicy": "10 Days Returnable",
+    "cashOnDelivery": true,
+    "secureTransaction": true,
+    "freeDelivery": true,
+    "emi": "No Cost EMI available starting from ₹102/month"
+  },
+
+  "offers": {
+    "cashback": "Up to ₹145 cashback with Amazon Pay ICICI Bank Credit Cards",
+    "bankOffer": "Up to ₹2,500 instant discount on select Credit Cards and SBI Debit Cards",
+    "noCostEmi": "Eligible for No Cost EMI",
+    "partnerOffer": "Buy 2 or more qualifying items and get 5% off"
+  },
+
+  "additionalInfo": {
+    "usageNote": "Wash before first use, dry thoroughly, and apply a thin layer of cooking oil after every wash to maintain seasoning and naturally improve the non-stick surface. Suitable for deep frying, curries, stir-frying, roasting, and baking.",
+    "idealFor": [
+      "Indian Cooking",
+      "Deep Frying",
+      "Curries",
+      "Roasting",
+      "Baking",
+      "Daily Home Cooking"
+    ],
+    "warranty": "Lifetime warranty against manufacturing defects and performance issues."
+  },
+
+  "tags": [
+    "Meyer",
+    "Cast Iron Kadai",
+    "Iron Kadai",
+    "Pre Seasoned",
+    "26cm",
+    "Heavy Bottom",
+    "Induction Compatible",
+    "Gas Stove Compatible",
+    "Toxin Free",
+    "Chemical Free",
+    "Cookware",
+    "Deep Frying",
+    "Indian Cooking",
+    "Amazon Choice",
+    "Home Kitchen"
+  ]
 }
 ]
