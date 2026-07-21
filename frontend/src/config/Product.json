@@ -22445,5 +22445,134 @@
     "Amazon Choice",
     "Home Kitchen"
   ]
+},
+
+{
+  "id": "lakme-absolute-perfect-radiance-day-creme-refill-100g",
+  "name": "LAKMÉ Absolute Perfect Radiance Day Creme with Refill Pack (50g + 50g)",
+  "brand": "LAKMÉ",
+  "category": "beauty",
+  "subCategory": "face cream",
+  "price": 700,
+  "discountPrice": 489,
+  "discountRate": 30,
+  "rating": 4.2,
+  "reviews": 908,
+  "ratingText": "4.2 out of 5 stars",
+  "reviewText": "Based on 908 customer ratings on Amazon",
+  "badge": "Top Brand",
+
+  "shortLink": "https://link.amazon/B0htd0T4e",
+  "fullLink": "https://www.amazon.in/LAKM%C3%89-Absolute-Perfect-Radiance-Refill/dp/B09444BHWY?crid=52TP31DYSRBT&dib=eyJ2IjoiMSJ9.mVV1EnKSn0HyzkNX8xTkYQ0_O9oT5UC0NPj_9KsiQzZ4CmrJFK2YXlUc14czRXMlUX4z4dkg-DIif4w8bVvU8Md770MHL9e6AKvTLVE7gz365cSjAxsL-a4KwEDNTwktxyT6DaIxeu3z8Ekvq9LtX6TECyRGkBB7uFD5z3ZEhE9HLjM5Rh-c45MUmUTvPokVDOL3oHB68nQFM7z-Vg4p_1ml8YFPu45bhR0jWUN4t8wmmZIXRlSaMmpCC7oLaueUryOWoVzCOtjTNO67iBPHIh6tLm6QIm6_-8ydB20Y0-8.iTPFBHaY4SvpbxMM3YO4Dx9ShAGyXjwhMQbniapuf1U&dib_tag=se&keywords=lakme%2Babsolute%2Bperfect%2Bradiance%2Bday%2Bcream&qid=1784647769&sbm=true&setroute=search&sprefix=lkame%2Babsoute%2B%2Caps%2C336&sr=8-6&th=1&linkCode=ll2&tag=valdio-21&linkId=f33893324750b763596af1e2f91167f6&ref_=as_li_ss_tl",
+  "image": "https://m.media-amazon.com/images/I/415lxPOMAeS._SL1000_.jpg",
+
+  "description": "LAKMÉ Absolute Perfect Radiance Day Creme with Refill Pack is a nourishing daily face cream enriched with Niacinamide and Allantoin to brighten, moisturize, and protect the skin. The lightweight formula provides long-lasting hydration, enhances skin radiance, and helps achieve an even-looking complexion while offering sun protection. This value pack includes a 50g cream and a 50g refill, making it ideal for everyday skincare.",
+
+  "features": [
+    "Includes 50g day cream and 50g refill pack",
+    "Brightens and enhances skin radiance",
+    "Provides long-lasting moisturization",
+    "Offers daily sun protection",
+    "Enriched with Niacinamide",
+    "Contains Allantoin for skin nourishment",
+    "Improves skin tone and glow",
+    "Suitable for all skin types",
+    "Lightweight cream texture",
+    "Ideal for daily skincare routine"
+  ],
+
+  "variants": [
+    {
+      "size": "100 g (50g + 50g Refill Pack)",
+      "price": 489,
+      "mrp": 700,
+      "discountRate": 30
+    }
+  ],
+
+  "availableSizes": [
+    "100 g (50g + 50g Refill Pack)"
+  ],
+
+  "productDetails": {
+    "brand": "LAKMÉ",
+    "productType": "Day Face Cream",
+    "itemForm": "Cream",
+    "netQuantity": "100 g",
+    "itemVolume": "50 ml",
+    "packContents": "50g Day Creme + 50g Refill",
+    "skinType": "All Skin Types",
+    "ageRange": "Adult",
+    "scent": "Green Tea",
+    "activeIngredients": [
+      "Niacinamide",
+      "Allantoin",
+      "Microcrystals"
+    ],
+    "dimensions": "13 x 6.6 x 6.5 cm",
+    "specialFeature": "Travel Size",
+    "benefits": [
+      "Moisturizes skin",
+      "Nourishes skin",
+      "Brightens complexion",
+      "Enhances skin radiance",
+      "Provides sun protection",
+      "Promotes even skin tone",
+      "Leaves skin soft and smooth"
+    ],
+    "specialFeatures": [
+      "Top Brand",
+      "Refill Pack Included",
+      "Daily Moisturizer",
+      "Radiance Boosting Formula",
+      "Lightweight Texture",
+      "Suitable for Everyday Use"
+    ]
+  },
+
+  "deliveryInfo": {
+    "delivery": "Amazon Delivered",
+    "returnPolicy": "Non-Returnable",
+    "cashOnDelivery": true,
+    "secureTransaction": true,
+    "freeDelivery": true
+  },
+
+  "offers": {
+    "cashback": "Up to ₹24 cashback with Amazon Pay ICICI Bank Credit Cards",
+    "bankOffer": "Up to ₹500 instant discount on select Credit Cards and SBI Debit Cards",
+    "partnerOffer": "Buy 3 Get 5% Off, Buy 4 Get 7% Off, Buy 5 Get 10% Off on qualifying products"
+  },
+
+  "additionalInfo": {
+    "usageNote": "Apply evenly on a cleansed face and neck every morning using gentle upward circular motions. Use daily for best results and radiant-looking skin.",
+    "idealFor": [
+      "Daily Skincare",
+      "Normal Skin",
+      "Dry Skin",
+      "Combination Skin",
+      "Oily Skin",
+      "Women"
+    ],
+    "monthlyPurchase": "1K+ bought in the past month"
+  },
+
+  "tags": [
+    "Lakme",
+    "Lakmé",
+    "Absolute Perfect Radiance",
+    "Day Cream",
+    "Face Cream",
+    "Niacinamide",
+    "Allantoin",
+    "Radiance",
+    "Brightening Cream",
+    "Moisturizer",
+    "Sun Protection",
+    "Refill Pack",
+    "Skincare",
+    "Beauty",
+    "Top Brand"
+  ]
 }
 ]
