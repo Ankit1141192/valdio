@@ -22937,5 +22937,121 @@
     "Ajanta Pharma",
     "Health"
   ]
+},
+
+{
+  "id": "good-knight-flash-liquid-vaporiser-refill-pack-of-4-lavender-45ml",
+  "name": "Good Knight Flash Liquid Vaporiser Refill, Lavender Fragrance (45ml x 4)",
+  "brand": "Good Knight",
+  "category": "home & kitchen",
+  "subCategory": "mosquito repellent",
+  "price": 360,
+  "discountPrice": 263,
+  "discountRate": 27,
+  "rating": 4.3,
+  "reviews": 13114,
+  "ratingText": "4.3 out of 5 stars",
+  "reviewText": "Based on 13,114 customer ratings on Amazon",
+  "badge": "Amazon's Choice",
+
+  "shortLink": "https://link.amazon/B0hBj9nrN",
+  "fullLink": "https://www.amazon.in/gp/product/B0C86RTS5X?smid=A2AL6IVND0I91F&psc=1&linkCode=ll2&tag=valdio-21&linkId=975e6a286b3323bd3d913e4b717321f5&ref_=as_li_ss_tl",
+  "image": "https://m.media-amazon.com/images/I/61FkoqGvnOL._SL1500_.jpg",
+
+  "description": "Good Knight Flash Liquid Vaporiser Refill is India's powerful liquid mosquito repellent designed to provide fast and effective mosquito protection. This value pack contains four 45ml lavender-scented refills that work with the Good Knight Flash electric plug-in machine. Each refill lasts up to 45 days under standard usage conditions and continues to provide protection even after the machine is switched off in Flash Mode.",
+
+  "features": [
+    "Pack of 4 liquid vaporiser refills",
+    "45 ml refill in each bottle",
+    "Pleasant lavender fragrance",
+    "2x faster mosquito protection",
+    "Works for up to 2 hours after switching off in Flash Mode",
+    "Each refill lasts up to 45 days (8 hours daily usage)",
+    "Safe to use around children and family",
+    "Designed for use with Good Knight Flash machine only",
+    "Ideal for home and bedroom use",
+    "India's Most Powerful Liquid Vaporiser"
+  ],
+
+  "variants": [
+    {
+      "size": "45 ml x 4 (Pack of 4)",
+      "price": 263,
+      "mrp": 360,
+      "discountRate": 27
+    }
+  ],
+
+  "availableSizes": [
+    "45 ml x 4 (180 ml Total)"
+  ],
+
+  "productDetails": {
+    "brand": "Good Knight",
+    "productType": "Liquid Mosquito Repellent Refill",
+    "itemForm": "Liquid",
+    "scent": "Lavender",
+    "netQuantity": "180 ml",
+    "volumePerRefill": "45 ml",
+    "numberOfUnits": 4,
+    "materialFeature": "Natural",
+    "compatibleDevice": "Good Knight Flash Electric Plug-in Machine",
+    "protectionDuration": "Up to 45 days per refill (based on 8 hours daily usage)",
+    "continuousProtection": "Up to 2 hours after switching off in Flash Mode",
+    "specialFeatures": [
+      "Amazon's Choice",
+      "2x Faster Protection",
+      "Long Lasting Refill",
+      "Lavender Fragrance",
+      "Safe Around Children",
+      "Powerful Mosquito Protection"
+    ]
+  },
+
+  "deliveryInfo": {
+    "delivery": "Amazon Delivered",
+    "returnPolicy": "Clearance Sale - No Return",
+    "cashOnDelivery": true,
+    "secureTransaction": true,
+    "freeDelivery": true
+  },
+
+  "offers": {
+    "cashback": "Up to ₹7 cashback with Amazon Pay ICICI Bank Credit Cards",
+    "bankOffer": "Up to ₹2,500 instant discount on select Credit Cards and SBI Debit Cards",
+    "partnerOffer": "Buy any 2 get extra 2% off or Buy any 3 get extra 4% off on select products",
+    "upiReward": "Earn ₹2.60 on eligible UPI payments"
+  },
+
+  "additionalInfo": {
+    "usageNote": "Insert the refill into the Good Knight Flash electric plug-in machine and use according to the product instructions. For best performance, use only with the compatible Good Knight Flash vaporiser machine.",
+    "idealFor": [
+      "Bedrooms",
+      "Living Rooms",
+      "Homes",
+      "Offices",
+      "Families",
+      "Mosquito Protection"
+    ],
+    "monthlyPurchase": "7K+ bought in the past month"
+  },
+
+  "tags": [
+    "Good Knight",
+    "Flash",
+    "Liquid Vaporiser",
+    "Mosquito Repellent",
+    "Lavender",
+    "Refill Pack",
+    "45ml",
+    "Pack of 4",
+    "Home Care",
+    "Mosquito Killer",
+    "Electric Vaporiser",
+    "Long Lasting",
+    "Amazon Choice",
+    "Top Brand",
+    "Household"
+  ]
 }
 ]
