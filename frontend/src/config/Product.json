@@ -22574,5 +22574,368 @@
     "Beauty",
     "Top Brand"
   ]
+},
+
+{
+  "id": "envas-5-enalapril-maleate-5mg-15-tablets",
+  "name": "Envas 5 - Strip of 15 Tablets",
+  "brand": "Envas",
+  "category": "health",
+  "subCategory": "prescription medicine",
+  "price": 59.22,
+  "discountPrice": 50.92,
+  "discountRate": 14,
+  "rating": null,
+  "reviews": null,
+  "ratingText": "",
+  "reviewText": "",
+  "badge": "Rx",
+
+  "shortLink": "https://link.amazon/B0gS04XRm",
+  "fullLink": "https://www.amazon.in/dp/B081HWCS9Y?&linkCode=ll2&tag=valdio-21&linkId=b7e0419dac778dbdc679be2be48663ea&ref_=as_li_ss_tl",
+  "image": "https://m.media-amazon.com/images/I/91NTnS6SaGL._SL1500_.jpg",
+
+  "description": "Envas 5 is a Schedule H prescription medicine containing Enalapril Maleate IP 5 mg. It is supplied as a strip of 15 uncoated tablets and should only be used under the supervision of a registered medical practitioner. The medicine should be stored in a cool, dry place and used before its expiry date.",
+
+  "features": [
+    "Contains Enalapril Maleate IP 5 mg",
+    "Strip of 15 uncoated tablets",
+    "Schedule H prescription medicine",
+    "Manufactured/Marketed by Cadila Pharmaceuticals Ltd",
+    "Use only as directed by a physician",
+    "Minimum 3 months expiry at dispatch",
+    "Store in a cool and dry place"
+  ],
+
+  "variants": [
+    {
+      "strength": "5 mg",
+      "pack": "15 Tablets",
+      "price": 50.92,
+      "mrp": 59.22,
+      "discountRate": 14
+    }
+  ],
+
+  "availableSizes": [
+    "15 Tablets"
+  ],
+
+  "productDetails": {
+    "brand": "Envas",
+    "productType": "Prescription Tablet",
+    "dosageForm": "Tablet",
+    "strength": "5 mg",
+    "netQuantity": "15 Tablets",
+    "composition": "Each uncoated tablet contains Enalapril Maleate IP 5 mg; Excipients q.s.",
+    "dosage": "As directed by the physician",
+    "storage": "Keep in a cool, dry place",
+    "expiry": "Use by 02 November 2028",
+    "manufacturer": "Cadila Pharmaceuticals Ltd",
+    "prescriptionRequired": true,
+    "regulatoryWarning": "Schedule H prescription drug. Not to be sold by retail without the prescription of a registered medical practitioner."
+  },
+
+  "deliveryInfo": {
+    "delivery": "Amazon Delivered",
+    "returnPolicy": "Non-Returnable",
+    "cashOnDelivery": true,
+    "secureTransaction": true,
+    "freeDelivery": false
+  },
+
+  "offers": {},
+
+  "additionalInfo": {
+    "platform": "Amazon Pharmacy",
+    "minimumExpiry": "Product will have a minimum of 3 months expiry at the time of dispatch.",
+    "usageNote": "Use this medicine only under medical supervision and exactly as prescribed by your physician."
+  },
+
+  "tags": [
+    "Envas",
+    "Enalapril",
+    "Enalapril Maleate",
+    "5mg",
+    "Prescription Medicine",
+    "Schedule H",
+    "Tablet",
+    "Amazon Pharmacy",
+    "Cadila Pharmaceuticals",
+    "Health"
+  ]
+},
+
+{
+  "id": "euthyrox-25-100-tablets",
+  "name": "Euthyrox 25 - Bottle of 100 Tablets",
+  "brand": "Euthyrox",
+  "category": "health",
+  "subCategory": "prescription medicine",
+  "price": 154.74,
+  "discountPrice": 142.36,
+  "discountRate": 8,
+  "rating": null,
+  "reviews": null,
+  "ratingText": "",
+  "reviewText": "",
+  "badge": "Rx",
+
+  "shortLink": "https://link.amazon/B006wDM2F",
+  "fullLink": "https://www.amazon.in/dp/B082VNBVJZ?&linkCode=ll2&tag=valdio-21&linkId=b5f3cf4253ba3fc52f057685c0b15056&ref_=as_li_ss_tl",
+  "image": "https://m.media-amazon.com/images/I/71c-49zLgFL._SL1500_.jpg",
+
+  "description": "Euthyrox 25 is a Schedule H prescription medicine containing L-Thyroxine Sodium 25 mcg. It is supplied in a bottle of 100 uncoated tablets and is intended for use only under the supervision of a registered medical practitioner. Store the tablets protected from light and moisture and keep them out of the reach of children.",
+
+  "features": [
+    "Contains L-Thyroxine Sodium 25 mcg",
+    "Bottle of 100 uncoated tablets",
+    "Schedule H prescription medicine",
+    "Manufactured by Merck Specialities Private Limited",
+    "Use only as directed by a physician",
+    "Store protected from light and moisture",
+    "Keep out of reach of children"
+  ],
+
+  "variants": [
+    {
+      "strength": "25 mcg",
+      "pack": "Bottle of 100 Tablets",
+      "price": 142.36,
+      "mrp": 154.74,
+      "discountRate": 8
+    }
+  ],
+
+  "availableSizes": [
+    "Bottle of 100 Tablets"
+  ],
+
+  "productDetails": {
+    "brand": "Euthyrox",
+    "productType": "Prescription Tablet",
+    "dosageForm": "Uncoated Tablet",
+    "strength": "25 mcg",
+    "netQuantity": "100 Tablets",
+    "composition": "Each uncoated tablet contains L-Thyroxine Sodium IP equivalent to anhydrous L-Thyroxine Sodium 25 mcg",
+    "dosage": "As directed by the physician",
+    "color": "Lake Sunset Yellow FCF",
+    "storage": "Store protected from light and moisture",
+    "manufacturer": "Merck Specialities Private Limited",
+    "prescriptionRequired": true,
+    "regulatoryWarning": "Schedule H prescription drug. Not to be sold by retail without the prescription of a registered medical practitioner.",
+    "additionalWarning": "Keep out of reach of children."
+  },
+
+  "deliveryInfo": {
+    "delivery": "Amazon Delivered",
+    "returnPolicy": "Non-Returnable",
+    "cashOnDelivery": true,
+    "secureTransaction": true,
+    "freeDelivery": false
+  },
+
+  "offers": {},
+
+  "additionalInfo": {
+    "platform": "Amazon Pharmacy",
+    "usageNote": "Use this medicine only under the supervision of a qualified healthcare professional and exactly as prescribed."
+  },
+
+  "tags": [
+    "Euthyrox",
+    "L-Thyroxine",
+    "Levothyroxine",
+    "25mcg",
+    "Prescription Medicine",
+    "Schedule H",
+    "Tablet",
+    "Amazon Pharmacy",
+    "Merck",
+    "Health"
+  ]
+},
+
+{
+  "id": "warf-3-warfarin-sodium-3mg-30-tablets",
+  "name": "Warf-3 - Strip of 30 Tablets",
+  "brand": "Warf",
+  "category": "health",
+  "subCategory": "prescription medicine",
+  "price": 102.05,
+  "discountPrice": 87.76,
+  "discountRate": 14,
+  "rating": null,
+  "reviews": null,
+  "ratingText": "",
+  "reviewText": "",
+  "badge": "Rx",
+
+  "shortLink": "https://link.amazon/B0h9kNozO",
+  "fullLink": "https://www.amazon.in/dp/B085J25BFZ?&linkCode=ll2&tag=valdio-21&linkId=4c06afd1cea022931ce844051abd83d4&ref_=as_li_ss_tl",
+  "image": "https://m.media-amazon.com/images/I/91R2vk-NNjL._SL1500_.jpg",
+
+  "description": "Warf-3 is a Schedule H prescription medicine containing Warfarin Sodium 3 mg. It is supplied as a strip of 30 uncoated tablets and should only be used under the supervision of a registered medical practitioner. Store the tablets in a cool, dry place protected from light and keep out of the reach of children.",
+
+  "features": [
+    "Contains Warfarin Sodium 3 mg",
+    "Strip of 30 uncoated tablets",
+    "Schedule H prescription medicine",
+    "Manufactured by Cipla Ltd.",
+    "Use only as directed by a physician",
+    "Store in a cool, dry place",
+    "Protect from light",
+    "Minimum 3 months expiry at dispatch"
+  ],
+
+  "variants": [
+    {
+      "strength": "3 mg",
+      "pack": "Strip of 30 Tablets",
+      "price": 87.76,
+      "mrp": 102.05,
+      "discountRate": 14
+    }
+  ],
+
+  "availableSizes": [
+    "Strip of 30 Tablets"
+  ],
+
+  "productDetails": {
+    "brand": "Warf",
+    "productType": "Prescription Tablet",
+    "dosageForm": "Uncoated Tablet",
+    "strength": "3 mg",
+    "netQuantity": "30 Tablets",
+    "composition": "Each uncoated tablet contains Warfarin Sodium Clathrate IP equivalent to Warfarin Sodium (anhydrous) 3 mg",
+    "dosage": "As directed by the physician",
+    "storage": "Store in a cool, dry place. Protect from light.",
+    "expiry": "Use by 31 January 2028",
+    "manufacturer": "Cipla Ltd.",
+    "prescriptionRequired": true,
+    "regulatoryWarning": "Schedule H prescription drug. Not to be sold by retail without the prescription of a registered medical practitioner.",
+    "additionalWarning": "Keep out of reach of children."
+  },
+
+  "deliveryInfo": {
+    "delivery": "Amazon Delivered",
+    "returnPolicy": "Non-Returnable",
+    "cashOnDelivery": true,
+    "secureTransaction": true,
+    "freeDelivery": false
+  },
+
+  "offers": {},
+
+  "additionalInfo": {
+    "platform": "Amazon Pharmacy",
+    "minimumExpiry": "Product will have a minimum of 3 months expiry at the time of dispatch.",
+    "usageNote": "Use this medicine only under the supervision of a qualified healthcare professional and exactly as prescribed."
+  },
+
+  "tags": [
+    "Warf",
+    "Warfarin",
+    "Warfarin Sodium",
+    "3mg",
+    "Prescription Medicine",
+    "Schedule H",
+    "Tablet",
+    "Amazon Pharmacy",
+    "Cipla",
+    "Health"
+  ]
+},
+
+{
+  "id": "met-xl-25-metoprolol-succinate-25mg-20-tablets",
+  "name": "Met XL 25 - Strip of 20 Tablets",
+  "brand": "Met XL",
+  "category": "health",
+  "subCategory": "prescription medicine",
+  "price": 91.29,
+  "discountPrice": 78.50,
+  "discountRate": 14,
+  "rating": null,
+  "reviews": null,
+  "ratingText": "",
+  "reviewText": "",
+  "badge": "Rx",
+
+  "shortLink": "https://link.amazon/B0f29w10B",
+  "fullLink": "https://www.amazon.in/dp/B088CCMFPX?&linkCode=ll2&tag=valdio-21&linkId=7da419818e4ae9c9e8d570349b41956e&ref_=as_li_ss_tl",
+  "image": "https://m.media-amazon.com/images/I/61I0FFrArPL._SL1500_.jpg",
+
+  "description": "Met XL 25 is a Schedule H prescription medicine containing Metoprolol Succinate IP equivalent to Metoprolol Tartrate 25 mg. It is supplied as a strip of 20 film-coated bilayered tablets and should be used only under the supervision of a registered medical practitioner. Store below 30°C and use before the expiry date.",
+
+  "features": [
+    "Contains Metoprolol Succinate IP equivalent to Metoprolol Tartrate 25 mg",
+    "Strip of 20 film-coated bilayered tablets",
+    "Schedule H prescription medicine",
+    "Manufactured by Ajanta Pharma Limited",
+    "Use only as directed by a physician",
+    "Store below 30°C",
+    "Minimum 3 months expiry at dispatch"
+  ],
+
+  "variants": [
+    {
+      "strength": "25 mg",
+      "pack": "Strip of 20 Tablets",
+      "price": 78.50,
+      "mrp": 91.29,
+      "discountRate": 14
+    }
+  ],
+
+  "availableSizes": [
+    "Strip of 20 Tablets"
+  ],
+
+  "productDetails": {
+    "brand": "Met XL",
+    "productType": "Prescription Tablet",
+    "dosageForm": "Film-Coated Bilayered Tablet",
+    "strength": "25 mg",
+    "netQuantity": "20 Tablets",
+    "composition": "Each film-coated bilayered tablet contains Metoprolol Succinate IP 23.75 mg equivalent to Metoprolol Tartrate 25 mg",
+    "dosage": "As directed by the physician",
+    "color": "Titanium Dioxide IP",
+    "storage": "Store below 30°C",
+    "expiry": "Use by 01 January 2028",
+    "manufacturer": "Ajanta Pharma Limited",
+    "prescriptionRequired": true,
+    "regulatoryWarning": "Schedule H prescription drug. Not to be sold by retail without the prescription of a registered medical practitioner."
+  },
+
+  "deliveryInfo": {
+    "delivery": "Amazon Delivered",
+    "returnPolicy": "Non-Returnable",
+    "cashOnDelivery": true,
+    "secureTransaction": true,
+    "freeDelivery": false
+  },
+
+  "offers": {},
+
+  "additionalInfo": {
+    "platform": "Amazon Pharmacy",
+    "minimumExpiry": "Product will have a minimum of 3 months expiry at the time of dispatch.",
+    "usageNote": "Use this medicine only under the supervision of a qualified healthcare professional and exactly as prescribed."
+  },
+
+  "tags": [
+    "Met XL",
+    "Metoprolol",
+    "Metoprolol Succinate",
+    "25mg",
+    "Prescription Medicine",
+    "Schedule H",
+    "Tablet",
+    "Amazon Pharmacy",
+    "Ajanta Pharma",
+    "Health"
+  ]
 }
 ]
