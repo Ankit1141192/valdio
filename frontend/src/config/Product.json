@@ -23982,5 +23982,143 @@
     "Top Brand",
     "Magical Gifts"
   ]
+},
+
+{
+  "id": "art-street-photo-frame-set-of-4-5x5-inch-brown",
+  "name": "Art Street Photo Frame for Wall Decor Hanging Picture Frame (Brown, Set of 4, 5x5 Inches)",
+  "brand": "Art Street",
+  "category": "home decor",
+  "subCategory": "photo frames",
+  "price": 999,
+  "discountPrice": 409,
+  "discountRate": 59,
+  "rating": 4.2,
+  "reviews": 1725,
+  "ratingText": "4.2 out of 5 stars",
+  "reviewText": "Based on 1,725 customer ratings on Amazon",
+  "badge": "Top Brand",
+
+  "shortLink": "https://link.amazon/B0a0MDCW1",
+  "fullLink": "https://www.amazon.in/dp/B0F5HFQHHR?social_share=cm_sw_r_cso_em_apan_dp_FRCWDX14QV0D8DW4WGZ4_1&th=1&linkCode=ll2&tag=valdio-21&linkId=37765eebf872dcc44d03184e57d1c39b&ref_=as_li_ss_tl",
+  "image": "https://m.media-amazon.com/images/I/71XVA1i7BNL._SL1500_.jpg",
+
+  "description": "The Art Street Photo Frame Set of 4 is designed to beautifully display your favorite memories in a stylish gallery wall arrangement. Crafted from premium synthetic wood with an MDF back panel and an unbreakable front cover, these square 5x5 inch frames are ideal for home and office décor. The customizable frame set supports horizontal and vertical wall mounting, making it perfect for personalized photo displays and gifting.",
+
+  "features": [
+    "Set of 4 premium square photo frames",
+    "Fits 5 x 5 inch photographs",
+    "Premium synthetic wood construction",
+    "Durable MDF back panel",
+    "Unbreakable protective front",
+    "Easy photo replacement with rear locking clips",
+    "Horizontal and vertical wall mounting",
+    "Customizable with 4 personal images",
+    "Perfect for home and office decoration",
+    "Ideal gift for Valentine's Day, anniversaries and housewarming"
+  ],
+
+  "variants": [
+    {
+      "color": "Brown",
+      "price": 409,
+      "mrp": 999,
+      "discountRate": 59
+    },
+    {
+      "color": "Beige",
+      "price": 399,
+      "mrp": 999,
+      "discountRate": 60
+    },
+    {
+      "color": "Black",
+      "price": 359,
+      "mrp": 999,
+      "discountRate": 64
+    },
+    {
+      "color": "White",
+      "price": 358,
+      "mrp": 999,
+      "discountRate": 64
+    }
+  ],
+
+  "availableSizes": [
+    "5x5 Inch",
+    "5x7 Inch"
+  ],
+
+  "productDetails": {
+    "brand": "Art Street",
+    "productType": "Wall Photo Frame",
+    "setName": "Set of 4 Photo Frame",
+    "frameCount": 4,
+    "shape": "Square",
+    "color": "Brown",
+    "photoSize": "5 x 5 Inches",
+    "dimensions": "12.7 x 12.7 cm",
+    "material": "Premium Synthetic Wood",
+    "backMaterial": "MDF",
+    "frontMaterial": "Unbreakable Protective Sheet",
+    "mountingType": "Wall Mount",
+    "orientation": "Horizontal & Vertical",
+    "customization": "Upload 4 Images",
+    "installation": "Rear locking clips for easy photo replacement"
+  },
+
+  "deliveryInfo": {
+    "delivery": "Amazon Delivered",
+    "returnPolicy": "Non-Returnable",
+    "cashOnDelivery": false,
+    "secureTransaction": true,
+    "freeDelivery": true
+  },
+
+  "offers": {
+    "cashback": "Up to 5% cashback with Amazon Pay ICICI Bank Credit Card for Prime members",
+    "bankOffer": "10% Instant Discount up to ₹500 on SBI Credit Card EMI transactions (minimum purchase value applies)",
+    "upiReward": "Earn ₹4.00 on eligible UPI payments"
+  },
+
+  "additionalInfo": {
+    "idealFor": [
+      "Living Room",
+      "Bedroom",
+      "Office",
+      "Gallery Wall",
+      "Dorm Room",
+      "Hallway"
+    ],
+    "giftOccasions": [
+      "Valentine's Day",
+      "Anniversary",
+      "Wedding",
+      "Housewarming",
+      "Christmas",
+      "Baby Shower",
+      "Birthday"
+    ],
+    "careInstructions": "Clean with a soft dry cloth. Replace photos using the rear locking clips."
+  },
+
+  "tags": [
+    "Art Street",
+    "Photo Frame",
+    "Wall Frame",
+    "Set of 4",
+    "5x5 Inch",
+    "Brown Frame",
+    "Gallery Wall",
+    "Wall Decor",
+    "Home Decor",
+    "Office Decor",
+    "Customized Photo Frame",
+    "Valentine Gift",
+    "Synthetic Wood",
+    "Top Brand",
+    "Picture Frame"
+  ]
 }
 ]
