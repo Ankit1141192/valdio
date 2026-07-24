@@ -24120,5 +24120,137 @@
     "Top Brand",
     "Picture Frame"
   ]
+},
+
+{
+  "id": "atirda-calathea-triostar-live-plant-with-pot",
+  "name": "ATIRDA Calathea Triostar with Pot | Colorful Indoor Live Plant",
+  "brand": "ATIRDA",
+  "category": "home & garden",
+  "subCategory": "live indoor plants",
+  "price": 599,
+  "discountPrice": 289,
+  "discountRate": 52,
+  "rating": 3.6,
+  "reviews": 15,
+  "ratingText": "3.6 out of 5 stars",
+  "reviewText": "Based on 15 customer ratings on Amazon",
+  "badge": "",
+
+  "shortLink": "https://link.amazon/B03XAEAl9",
+  "fullLink": "https://www.amazon.in/ATIRDA-Calathea-Triostar-Colorful-Interiors/dp/B0FZW9PHN5?crid=32CT3092TQHKK&dib=eyJ2IjoiMSJ9.qPe5wUHthzpHdykDBHRi3TcsUR4OvC-xaOoDp9Fg78WngT21CWy4vuI3DpdDlStLJMSoXusvPPGKAfEfK9vs4H_PzDdO2yjpkIJL5bKFDMGlu5GjFhX7111EzWyq6jgsLAhfI-hXM9_V0N0BWZqSxJQTwZvZju7i3IP9FkxtKJMX6zTgDeV1iGHbOx6yRKkIkmq-KQLrNqDcklMv_E0JasDUvPaOqg2vdlZjB3FOrVZTkRFp87BG0Z36ZXXfHqMEw24X6e1B9pUNDTvu2fjxw6DTsB8RPc1iZMWm6gLXkmc.Naa7rRg2jTHronkERstg9lLRIv99KT9xoU8-b4QRQ2k&dib_tag=se&keywords=Calathea+Triostar&qid=1784869625&s=garden&sprefix=calathea+triostar%2Clawngarden%2C279&sr=1-7&linkCode=ll2&tag=valdio-21&linkId=559bb56ee2efa6ce20c39340a54819b3&ref_=as_li_ss_tl",
+  "image": "https://m.media-amazon.com/images/I/61ohRrfoOeL._SL1500_.jpg",
+
+  "description": "The ATIRDA Calathea Triostar is a vibrant live foliage plant featuring striking pink, cream, and green variegated leaves that instantly enhance any indoor or outdoor space. Supplied in an eco-friendly pot, this ready-to-grow plant naturally helps improve air quality while adding elegance to homes, offices, balconies, and workspaces. Its tropical foliage remains attractive throughout the year with simple care and moderate watering.",
+
+  "features": [
+    "Healthy live Calathea Triostar plant with pot",
+    "Beautiful pink, cream and green variegated foliage",
+    "Natural air-purifying indoor plant",
+    "Ready-to-grow with eco-friendly pot included",
+    "Low maintenance and beginner friendly",
+    "Ideal for home, office and balcony decoration",
+    "Thrives in bright indirect sunlight",
+    "Year-round ornamental foliage",
+    "Excellent gifting option for every occasion",
+    "Adds freshness and elegance to interiors"
+  ],
+
+  "variants": [
+    {
+      "plant": "Calathea Triostar",
+      "potIncluded": true,
+      "price": 289,
+      "mrp": 599,
+      "discountRate": 52
+    }
+  ],
+
+  "availableSizes": [
+    "1 Live Plant with Pot"
+  ],
+
+  "productDetails": {
+    "brand": "ATIRDA",
+    "productType": "Live Indoor Plant",
+    "plantName": "Calathea Triostar",
+    "plantType": "Foliage Plant",
+    "materialFeature": "Organic",
+    "color": "Multicolour",
+    "netQuantity": "1 Count",
+    "itemWeight": "499 g",
+    "potIncluded": true,
+    "expectedBloomingPeriod": "Year-Round (Foliage Plant – Occasional Small Blooms)",
+    "sunlightExposure": "Bright indirect light or partial shade",
+    "recommendedUsage": "Indoor & Outdoor Decoration",
+    "specialFeatures": [
+      "Air Purifying Plant",
+      "Eco-Friendly Pot Included",
+      "Low Maintenance",
+      "Ready to Grow",
+      "Ideal Gift Plant",
+      "Decorative Tropical Foliage"
+    ]
+  },
+
+  "deliveryInfo": {
+    "delivery": "Amazon Delivered",
+    "returnPolicy": "Non-Returnable",
+    "cashOnDelivery": false,
+    "secureTransaction": true,
+    "freeDelivery": true
+  },
+
+  "offers": {
+    "coupon": "5% coupon applied on eligible purchase",
+    "cashback": "Up to ₹14 cashback with Amazon Pay ICICI Bank Credit Cards",
+    "bankOffer": "Up to ₹2,500 instant discount on select Credit Cards and SBI Debit Cards",
+    "businessOffer": "GST invoice available for eligible business purchases"
+  },
+
+  "additionalInfo": {
+    "careInstructions": {
+      "light": "Keep in bright, indirect sunlight. Avoid harsh direct sunlight.",
+      "watering": "Water when the top layer of soil feels slightly dry. Keep soil moist but not soggy.",
+      "humidity": "Mist leaves 2–3 times per week or use a humidity tray.",
+      "fertilizer": "Feed every 4–6 weeks with a mild organic liquid fertilizer during spring and summer.",
+      "soil": "Use nutrient-rich, well-draining potting mix.",
+      "temperature": "Maintain between 18°C and 28°C.",
+      "pruning": "Remove yellow or damaged leaves regularly to encourage healthy growth."
+    },
+    "idealFor": [
+      "Living Room",
+      "Bedroom",
+      "Office Desk",
+      "Balcony",
+      "Indoor Garden",
+      "Home Decoration"
+    ],
+    "giftOccasions": [
+      "Birthday",
+      "Housewarming",
+      "Festival",
+      "Anniversary",
+      "Corporate Gift"
+    ]
+  },
+
+  "tags": [
+    "ATIRDA",
+    "Calathea Triostar",
+    "Live Plant",
+    "Indoor Plant",
+    "Air Purifying Plant",
+    "Foliage Plant",
+    "Decorative Plant",
+    "House Plant",
+    "Office Plant",
+    "Eco Friendly",
+    "Potted Plant",
+    "Home Decor",
+    "Garden Plant",
+    "Low Maintenance",
+    "Gift Plant"
+  ]
 }
 ]
