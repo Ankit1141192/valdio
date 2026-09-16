@@ -38341,6 +38341,113 @@
     "Prescription Medicine",
     "Pfizer Limited"
   ]
+},
+
+{
+  "id": "folitrax-7-5-strip-10-tablets",
+  "name": "Folitrax-7.5, Strip of 10 Tablets",
+  "brand": "Folitrax",
+  "category": "medicine",
+  "subCategory": "prescription medicine",
+  "price": 169.72,
+  "discountPrice": 169.72,
+  "discountRate": 14,
+  "mrp": 197.35,
+  "rating": null,
+  "reviews": null,
+
+  "shortLink": "https://link.amazon/B04N5RtWT",
+  "fullLink": "https://www.amazon.in/Folitrax-7-5-Blister-Pack-10-Tablets/dp/B081VPVN9G?brandId=berry&crid=N2CHDJAUYU1P&dib=eyJ2IjoiMSJ9.1j6fUSbc6VPe9M3IKuA3ZZZ-8B2lNnDiIuHrLHGYoj23opnICwKyW4Ylq1UTs4cDLShCls-JKPuAZu_lV0lbxibBeB5MKEmw1GBy_O-He3lLvhVUUdnkdbcvdyeLU-QC.tCbWAwbyeJffpA1oaAyE7aFhmvKAR7ngK2EXim0jys0&dib_tag=se&keywords=Folitrax-7.5+-+Strip+of+10+Tablets&qid=1789581066&sprefix=folitrax-7.5+-+strip+of+10+tablets%2Caps%2C297&sr=8-1&linkCode=ll2&tag=valdio-21&linkId=3811a72f5e5d961b0a38aaf180f0da2e&ref_=as_li_ss_tl",
+  "image": "https://m.media-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T2/images/I/81jpL+jmZTL._SL1500_.jpg",
+
+  "description": "Folitrax-7.5 is a prescription medicine containing Methotrexate IP 7.5 mg. Each uncoated tablet contains Methotrexate IP 7.5 mg. It should be used only as directed by a physician.",
+
+  "features": [
+    "Prescription medicine",
+    "Contains Methotrexate IP 7.5 mg",
+    "Uncoated tablet",
+    "Strip contains 10 tablets",
+    "Dosage as directed by the physician",
+    "100% genuine product",
+    "Rx validated by pharmacist",
+    "Non-returnable product",
+    "Pay on Delivery available",
+    "Amazon Delivered"
+  ],
+
+  "productDetails": {
+    "brand": "Folitrax",
+    "dosageForm": "Uncoated Tablet",
+    "packSize": "Strip of 10 Tablets",
+    "quantity": 10,
+    "activeIngredients": [
+      {
+        "name": "Methotrexate",
+        "strength": "7.5 mg",
+        "standard": "IP"
+      }
+    ],
+    "routeOfAdministration": "Oral",
+    "prescriptionRequired": true,
+    "productExpiry": "28 Jun 2028",
+    "genuineProduct": true,
+    "rxValidated": true
+  },
+
+  "recommendedUses": [
+    "As directed by a physician"
+  ],
+
+  "usageInstructions": [
+    "Take only as directed by your physician",
+    "Follow the exact dosage and schedule prescribed by your doctor",
+    "Swallow the tablet with water",
+    "Do not change, stop, or repeat the dose without medical advice"
+  ],
+
+  "availableVariants": [],
+
+  "offers": {
+    "cashbackOffers": [
+      "Up to ₹1.60 cashback on eligible UPI payments",
+      "Up to ₹1 cashback as Amazon Pay Balance when paying with Amazon Pay ICICI Bank Credit Cards"
+    ],
+    "bankOffers": [
+      "Up to ₹9.42 discount on select eligible cards"
+    ]
+  },
+
+  "deliveryInfo": {
+    "fulfilled": true,
+    "freeDelivery": true,
+    "deliveryDate": "Sun, 20 Sept",
+    "minimumPharmacyOrderForFreeDelivery": 199,
+    "payOnDelivery": true,
+    "returnPolicy": "Non-Returnable",
+    "amazonDelivered": true,
+    "secureTransaction": true,
+    "rxValidationRequired": true
+  },
+
+  "safetyInformation": {
+    "prescriptionMedicine": true,
+    "selfMedication": "Do not use without a doctor's prescription",
+    "importantNote": "Methotrexate is a potent prescription medicine and should be taken strictly according to the physician's prescribed dose and schedule."
+  },
+
+  "tags": [
+    "Folitrax",
+    "Folitrax 7.5",
+    "Folitrax-7.5",
+    "Methotrexate",
+    "Methotrexate 7.5mg",
+    "Methotrexate IP 7.5mg",
+    "7.5mg Tablet",
+    "Prescription Medicine",
+    "Uncoated Tablet",
+    "10 Tablets",
+    "Folitrax Tablet"
+  ]
 }
 
 ]
