@@ -38115,6 +38115,116 @@
     "Blood Pressure Tablet",
     "10 Tablets"
   ]
+},
+
+{
+  "id": "hcqs-200-strip-15-tablets",
+  "name": "HCQS 200, Strip of 15 Tablets",
+  "brand": "HCQS 200",
+  "category": "medicine",
+  "subCategory": "prescription medicine",
+  "price": 88,
+  "discountPrice": 88,
+  "discountRate": 14,
+  "mrp": 102,
+  "rating": null,
+  "reviews": null,
+
+  "shortLink": "https://link.amazon/B0b5LCyid",
+  "fullLink": "https://www.amazon.in/HCQS-200-Blister-Strip-Tablets/dp/B083WJXFLK?brandId=berry&dib=eyJ2IjoiMSJ9.ikCeMA5ghdAaYMbDAUgtAHO8nyrFtuNt2NVBGVCxCBCLyw7tTBzH9vb3sJv19MUGIFIWSFl0N59n4xaD6ZvgWGcoDq0gI1OXMblNohXQWNwizvK6bMWtKR-rOMC9VqMSO-EGNp9-8StkYYcFguSLueeZKW4AZ-_9u7pbnOrFw_p2vEITHpeH2DSsrhMCA6WH.Wn0EIke7kLJxvj3dixxuQYHL-QPb-x3b74fc0BhiSl8&dib_tag=se&keywords=HCQS+200+-+Strip+of+15+Tablets&qid=1789580674&sr=8-1&linkCode=ll2&tag=valdio-21&linkId=6babbcc107ec6ac24fca70d3f93b4949&ref_=as_li_ss_tl",
+  "image": "https://m.media-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T2/images/I/81sOXm920lL._SL1500_.jpg",
+
+  "description": "HCQS 200 is a prescription medicine containing Hydroxychloroquine Sulphate IP 200 mg. Each film-coated tablet contains Hydroxychloroquine Sulphate IP 200 mg and Titanium Dioxide IP as a colour ingredient.",
+
+  "features": [
+    "Prescription medicine",
+    "Contains Hydroxychloroquine Sulphate IP 200 mg",
+    "Film-coated tablet",
+    "Strip contains 15 tablets",
+    "100% genuine product",
+    "Rx validated by pharmacist",
+    "Non-returnable product"
+  ],
+
+  "productDetails": {
+    "brand": "HCQS 200",
+    "dosageForm": "Film-coated Tablet",
+    "packSize": "Strip of 15 Tablets",
+    "quantity": 15,
+    "activeIngredients": [
+      {
+        "name": "Hydroxychloroquine Sulphate",
+        "strength": "200 mg",
+        "standard": "IP"
+      }
+    ],
+    "colourIngredient": {
+      "name": "Titanium Dioxide",
+      "standard": "IP"
+    },
+    "routeOfAdministration": "Oral",
+    "prescriptionRequired": true,
+    "productExpiry": "28 Jun 2028",
+    "genuineProduct": true,
+    "rxValidated": true
+  },
+
+  "recommendedUses": [],
+
+  "usageInstructions": [
+    "Take by mouth only as prescribed by a doctor",
+    "Follow the dosage and duration recommended by your doctor",
+    "Swallow the tablet with water",
+    "Do not start, stop, or change the dose without medical advice"
+  ],
+
+  "availableVariants": [],
+
+  "offers": {
+    "cashbackOffers": [
+      "Up to ₹4 cashback as Amazon Pay Balance when paying with Amazon Pay ICICI Bank Credit Card",
+      "8% cashback up to ₹500 on orders of ₹899 or more",
+      "12% cashback up to ₹500 on orders of ₹1998 or more"
+    ],
+    "creditCardOffers": [
+      "Up to ₹8.82 discount on eligible credit card non-EMI transactions",
+      "Up to ₹13.23 discount on eligible credit card non-EMI transactions",
+      "₹50 discount on SBI Credit Card non-EMI transactions"
+    ],
+    "debitCardOffers": [
+      "Up to ₹8.82 discount on SBI Debit Card non-EMI transactions"
+    ]
+  },
+
+  "deliveryInfo": {
+    "fulfilled": true,
+    "freeDelivery": true,
+    "deliveryDate": "Sun, 20 Sept",
+    "minimumPharmacyOrderForFreeDelivery": 199,
+    "payOnDelivery": null,
+    "returnPolicy": "Non-Returnable",
+    "secureTransaction": true,
+    "rxValidationRequired": true
+  },
+
+  "safetyInformation": {
+    "prescriptionMedicine": true,
+    "selfMedication": "Do not use without a doctor's prescription",
+    "importantNote": "Hydroxychloroquine should be used only under appropriate medical supervision. Follow your doctor's prescribed dose and instructions."
+  },
+
+  "tags": [
+    "HCQS 200",
+    "HCQS 200 Tablet",
+    "Hydroxychloroquine Sulphate",
+    "Hydroxychloroquine 200mg",
+    "Hydroxychloroquine Sulphate 200mg",
+    "200mg Tablet",
+    "Prescription Medicine",
+    "Film Coated Tablet",
+    "15 Tablets",
+    "HCQS Tablet"
+  ]
 }
 
 ]
