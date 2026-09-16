@@ -38009,6 +38009,112 @@
     "30 Piece Garbage Bags",
     "Pack of 4 Garbage Bags"
   ]
+},
+
+{
+  "id": "covance-d-20mg-12-5mg-10-tablets",
+  "name": "Covance-D 20mg/12.5mg Tablet, Strip of 10 Tablets",
+  "brand": "Covance-D",
+  "category": "medicine",
+  "subCategory": "hypertension medicine",
+  "price": null,
+  "discountPrice": null,
+  "discountRate": null,
+  "mrp": null,
+  "rating": null,
+  "reviews": null,
+
+  "shortLink": "https://link.amazon/B05Nr3vSV",
+  "fullLink": "https://www.amazon.in/Covance-Blister-Pack-10-Tablets/dp/B084PRH284?brandId=berry&crid=CQBCT19EHYQF&dib=eyJ2IjoiMSJ9.ARZHN6vbacNiytXfZf5h1TKX4rpyZaVpTTAqxYi06RFjcm7ruanUdIUhgxtKYlq0qfd-SZeQgTnDpaH1DydXjjyCZZBGk5BhTu_4sAIFvu3MKLI-MjXbQHt47WqzOLiUAx9v8iXPPOKuR3ZMPBIUfIrS1CYd47PdcwyQ1CukejED3Rm3Vi1qi11MtA1axMfhD4K0x2AD1jOqF9kV1dqTyOLvPNML-cHHDjgPlxO00L2HNCKM2fdqBAVWikNHlBKZlR2Xqtv1UvxHJTaArycvAGfn19zVsTHLvQ3z1xOgVbg.tF-Sw7_sXPIJBzHpHMZQWFLv6Z9QDq09X_f6NVx64OI&dib_tag=se&keywords=Covance-D+-+Strip+of+10+Tablets&qid=1789580045&sprefix=covance-d+-+strip+of+10+tablets%2Caps%2C314&sr=8-1&linkCode=ll2&tag=valdio-21&linkId=e654db8cd1363556748717014d06ec2a&ref_=as_li_ss_tl",
+  "image": "https://m.media-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T2/images/I/91J3yHDlpTL._SL1500_.jpg",
+
+  "description": "Covance-D is a prescription medicine containing Olmesartan Medoxomil 20 mg and Hydrochlorothiazide 12.5 mg. It is used for the treatment of high blood pressure (hypertension), particularly when blood pressure is not adequately controlled with a single medicine.",
+
+  "features": [
+    "Combination prescription medicine",
+    "Contains Olmesartan Medoxomil 20 mg",
+    "Contains Hydrochlorothiazide 12.5 mg",
+    "Used for treatment of hypertension",
+    "Usually taken once daily as prescribed",
+    "Can generally be taken with or without food",
+    "Oral tablet",
+    "Strip contains 10 tablets",
+    "Rx validated by pharmacist",
+    "Product is non-returnable"
+  ],
+
+  "productDetails": {
+    "brand": "Covance-D",
+    "dosageForm": "Tablet",
+    "activeIngredients": [
+      {
+        "name": "Olmesartan Medoxomil",
+        "strength": "20 mg"
+      },
+      {
+        "name": "Hydrochlorothiazide",
+        "strength": "12.5 mg"
+      }
+    ],
+    "packSize": "10 Tablets",
+    "quantity": 10,
+    "routeOfAdministration": "Oral",
+    "prescriptionRequired": true,
+    "expiryDate": "29 Jan 2028"
+  },
+
+  "recommendedUses": [
+    "Hypertension",
+    "High Blood Pressure"
+  ],
+
+  "usageInstructions": [
+    "Take the medicine exactly as prescribed by your doctor",
+    "Usually taken once daily",
+    "Swallow the tablet with water",
+    "May be taken with or without food",
+    "Do not change the dose without consulting your doctor"
+  ],
+
+  "availableVariants": [],
+
+  "offers": {
+    "deal": null,
+    "cashback": null,
+    "bankOffer": null,
+    "partnerOffer": null
+  },
+
+  "deliveryInfo": {
+    "fulfilled": true,
+    "freeDelivery": true,
+    "payOnDelivery": null,
+    "returnPolicy": "Non-Returnable",
+    "pharmacistValidation": true,
+    "secureTransaction": true
+  },
+
+  "safetyInformation": {
+    "prescriptionMedicine": true,
+    "alcohol": "Avoid alcohol unless your doctor advises otherwise",
+    "pregnancy": "Not recommended during pregnancy; consult a doctor",
+    "selfMedication": "Do not use without a doctor's prescription",
+    "importantNote": "Consult a doctor or pharmacist before starting, stopping, or changing the dose."
+  },
+
+  "tags": [
+    "Covance-D",
+    "Covance D Tablet",
+    "Olmesartan Medoxomil",
+    "Hydrochlorothiazide",
+    "20mg 12.5mg Tablet",
+    "Hypertension Medicine",
+    "High Blood Pressure Medicine",
+    "BP Medicine",
+    "Prescription Medicine",
+    "Blood Pressure Tablet",
+    "10 Tablets"
+  ]
 }
 
 ]
