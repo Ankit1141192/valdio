@@ -38448,6 +38448,245 @@
     "10 Tablets",
     "Folitrax Tablet"
   ]
+},
+
+{
+  "id": "pan-40-strip-15-tablets",
+  "name": "Pan 40, Strip of 15 Tablets",
+  "brand": "Pan",
+  "category": "medicine",
+  "subCategory": "acid reflux medicine",
+  "price": 165.80,
+  "discountPrice": 165.80,
+  "discountRate": 14,
+  "mrp": 192.80,
+  "rating": null,
+  "reviews": null,
+
+  "shortLink": "https://link.amazon/B0aV9Fnc4",
+  "fullLink": "https://www.amazon.in/Pan-40-Blister-Pack-Tablets/dp/B082MFPGK1?brandId=berry&crid=2E7BVBF34XC07&dib=eyJ2IjoiMSJ9.sBYEC8UwHWu25xT205H1AG5fKg6V9pQO05id10Kqef299ChvtsLTk1sZEuKcAbTGAKX3-QPX5Fj72y9fysULhb5If8DVIPqs_ZRa9Ix8hw65uUM3oPb20EnekEXx3zgSTXvfN2dGgPc6vw63ZIpaR8samI544chOjeKuM5lqkwyrtVupIHP90BkVATI_FL3HB4hac54iTUgZEOZxsxpYufqom6TR_FUjunxXsJeo8ebblZw_JCK04wk75MQuoPvmiQPEgtYcDGEjFQYDQBbNeQ.0fEHNqk5L8FUyyL318VZoHjuPO4wI6wYL-ArsCu1X5w&dib_tag=se&keywords=pan+40&qid=1789665229&sprefix=pan+4%2Caps%2C1029&sr=8-1&linkCode=ll2&tag=valdio-21&linkId=35cf6e9951be309e1d43d66e5b896341&ref_=as_li_ss_tl",
+  "image": "https://m.media-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T2/images/I/91+2ghWgqcL._SL1500_.jpg",
+
+  "description": "Pan 40 is a prescription medicine containing Pantoprazole Sodium IP equivalent to Pantoprazole 40 mg. Each enteric-coated tablet is intended to reduce stomach acid and should be taken as directed by a physician.",
+
+  "features": [
+    "Prescription medicine",
+    "Contains Pantoprazole 40 mg",
+    "Contains Pantoprazole Sodium IP",
+    "Enteric-coated tablet",
+    "Strip contains 15 tablets",
+    "Dosage as directed by the physician",
+    "Store protected from moisture",
+    "Store at a temperature not exceeding 30°C",
+    "100% genuine product",
+    "Rx validated by pharmacist",
+    "Non-returnable product",
+    "Pay on Delivery available",
+    "Amazon Delivered"
+  ],
+
+  "productDetails": {
+    "brand": "Pan",
+    "dosageForm": "Enteric-coated Tablet",
+    "packSize": "Strip of 15 Tablets",
+    "quantity": 15,
+    "activeIngredients": [
+      {
+        "name": "Pantoprazole Sodium",
+        "strength": "Equivalent to Pantoprazole 40 mg",
+        "standard": "IP"
+      }
+    ],
+    "otherIngredients": "Excipients q.s.",
+    "routeOfAdministration": "Oral",
+    "prescriptionRequired": true,
+    "productExpiry": "29 Oct 2028",
+    "storageTemperature": "Not exceeding 30°C",
+    "storageInstructions": [
+      "Store protected from moisture",
+      "Store at a temperature not exceeding 30°C"
+    ],
+    "genuineProduct": true,
+    "rxValidated": true
+  },
+
+  "recommendedUses": [
+    "Acid-related stomach conditions",
+    "As directed by a physician"
+  ],
+
+  "usageInstructions": [
+    "Take the tablet as directed by your physician",
+    "Follow the dosage prescribed by your doctor",
+    "Swallow the tablet whole with water",
+    "Do not crush or chew the enteric-coated tablet unless specifically advised by your doctor"
+  ],
+
+  "availableVariants": [],
+
+  "offers": {
+    "cashbackOffers": [
+      "Up to ₹1.60 cashback on eligible UPI payments"
+    ],
+    "bankOffers": [
+      "Available discounts on select eligible Credit Cards",
+      "Available discounts on select SBI Debit Cards"
+    ]
+  },
+
+  "deliveryInfo": {
+    "fulfilled": true,
+    "freeDelivery": true,
+    "deliveryDate": null,
+    "minimumPharmacyOrderForFreeDelivery": 199,
+    "payOnDelivery": true,
+    "returnPolicy": "Non-Returnable",
+    "amazonDelivered": true,
+    "secureTransaction": true,
+    "rxValidationRequired": true
+  },
+
+  "safetyInformation": {
+    "prescriptionMedicine": true,
+    "selfMedication": "Use only as directed by a physician",
+    "importantNote": "Follow the prescribed dosage and duration. Do not start, stop, or change the dose without medical advice.",
+    "storage": "Store protected from moisture at a temperature not exceeding 30°C"
+  },
+
+  "tags": [
+    "Pan 40",
+    "Pan-40",
+    "Pan 40 Tablet",
+    "Pantoprazole",
+    "Pantoprazole 40mg",
+    "Pantoprazole Sodium",
+    "Pantoprazole Sodium IP",
+    "40mg Tablet",
+    "Acid Reflux Medicine",
+    "Stomach Acid Medicine",
+    "Prescription Medicine",
+    "Enteric Coated Tablet",
+    "15 Tablets"
+  ]
+},
+
+{
+  "id": "zerodol-mr-strip-10-tablets",
+  "name": "Zerodol MR, Strip of 10 Tablets",
+  "brand": "IPCA",
+  "category": "medicine",
+  "subCategory": "prescription pain relief medicine",
+  "price": 110.08,
+  "discountPrice": 110.08,
+  "discountRate": 14,
+  "mrp": 128,
+  "rating": null,
+  "reviews": null,
+
+  "shortLink": "https://link.amazon/B0gCDw2NP",
+  "fullLink": "https://www.amazon.in/Zerodol-MR-Blister-Pack-Tablets/dp/B083R2NK52?brandId=berry&dib=eyJ2IjoiMSJ9.niLWXbSmIIPm-Zt_5E1Xt3IcvhDEboJOi2cUcB63M_SGCjALhQfdCeUT3PkcyWU0gcqiOn1fe26YgTtICCgSL2Xfz3nR3fu2FnOD-7ptdDI_avAzXXh880uurCy70S_dBQ_VDwb9DYNR1gS5ZSZIQc4axAVHMSHPgfu_VOoPQ8zM-K2Elquw0hSOa7zBr3grN7b4A4F99eQ_Gut2KINcmXjwy_GaMokZzPGxxSdbmt1E6LvjCPG7wSJEhEifGocnPqeLoFCVmzaN-IvopafMhp3Dxo7lfmXcMb_lh0fJNrc.JE0lEhtfEqhsfLl38zrWZy5NfItPy0BlBSZ-qUCfcj0&dib_tag=se&keywords=Zerodol+MR+-+Strip+of+10+Tablets&qid=1789665181&sr=8-1&linkCode=ll2&tag=valdio-21&linkId=dfbbd4023356d93af789f09bafff0a90&ref_=as_li_ss_tl",
+  "image": "https://m.media-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T2/images/I/912A35AVUeL._SL1500_.jpg",
+
+  "description": "Zerodol MR is a prescription medicine containing Aceclofenac IP 100 mg and Tizanidine Hydrochloride IP equivalent to Tizanidine 2 mg. It is a film-coated tablet and should be used only as directed by a physician.",
+
+  "features": [
+    "Prescription medicine",
+    "Contains Aceclofenac IP 100 mg",
+    "Contains Tizanidine Hydrochloride IP equivalent to Tizanidine 2 mg",
+    "Film-coated tablet",
+    "Strip contains 10 tablets",
+    "Dosage as directed by the physician",
+    "100% genuine product",
+    "Rx validated by pharmacist",
+    "Non-returnable product",
+    "Pay on Delivery available",
+    "Amazon Delivered"
+  ],
+
+  "productDetails": {
+    "brand": "IPCA",
+    "productBrand": "Zerodol MR",
+    "dosageForm": "Film-coated Tablet",
+    "packSize": "Strip of 10 Tablets",
+    "quantity": 10,
+    "activeIngredients": [
+      {
+        "name": "Aceclofenac",
+        "strength": "100 mg",
+        "standard": "IP"
+      },
+      {
+        "name": "Tizanidine Hydrochloride",
+        "strength": "Equivalent to Tizanidine 2 mg",
+        "standard": "IP"
+      }
+    ],
+    "routeOfAdministration": "Oral",
+    "prescriptionRequired": true,
+    "productExpiry": "29 Jan 2029",
+    "genuineProduct": true,
+    "rxValidated": true
+  },
+
+  "recommendedUses": [
+    "Pain and inflammation",
+    "Musculoskeletal conditions",
+    "Muscle spasm",
+    "As directed by a physician"
+  ],
+
+  "usageInstructions": [
+    "Take only as directed by your physician",
+    "Follow the exact dosage prescribed by your doctor",
+    "Swallow the tablet with water",
+    "Do not change or stop the dosage without medical advice"
+  ],
+
+  "availableVariants": [],
+
+  "offers": {
+    "cashbackOffers": [
+      "Up to ₹1.60 cashback on eligible UPI payments"
+    ],
+    "bankOffers": [
+      "Available discounts on select eligible credit and debit cards"
+    ]
+  },
+
+  "deliveryInfo": {
+    "fulfilled": true,
+    "freeDelivery": true,
+    "deliveryDate": null,
+    "minimumPharmacyOrderForFreeDelivery": 199,
+    "payOnDelivery": true,
+    "returnPolicy": "Non-Returnable",
+    "amazonDelivered": true,
+    "secureTransaction": true,
+    "rxValidationRequired": true
+  },
+
+  "safetyInformation": {
+    "prescriptionMedicine": true,
+    "selfMedication": "Do not use without a doctor's prescription",
+    "importantNote": "Use this medicine only according to your physician's instructions. Tizanidine may cause drowsiness or dizziness, so use caution with activities requiring alertness."
+  },
+
+  "tags": [
+    "Zerodol MR",
+    "Zerodol-MR",
+    "Zerodol MR Tablet",
+    "IPCA",
+    "Aceclofenac",
+    "Aceclofenac 100mg",
+    "Tizanidine",
+    "Tizanidine 2mg",
+    "Aceclofenac Tizanidine",
+    "Pain Relief Medicine",
+    "Muscle Relaxant",
+    "Prescription Medicine",
+    "Film Coated Tablet",
+    "10 Tablets"
+  ]
 }
 
 ]
