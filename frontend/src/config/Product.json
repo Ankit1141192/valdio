@@ -39881,15 +39881,15 @@
   "brand": "SECUREMENT",
   "category": "office-products",
   "subCategory": "shipping labels",
-  "price": 499,
-  "discountPrice": 365,
-  "discountRate": 27%,
-  "mrp": 499,
+  "price": 499.00,
+  "discountPrice": 365.00,
+  "discountRate": 27,
+  "mrp": 499.00,
   "rating": null,
   "reviews": 741,
 
   "shortLink": "https://www.amazon.in/dp/B07T9DB7B3?social_share=cm_sw_r_ud_dp_TBCM2JEFDJ760AF264CF&th=1&linkCode=ll2&tag=valdio-21&linkId=ada58233d5f9c4d39d41c5907f494f96&ref_=as_li_ss_tl",
-  "fullLink": "https://m.media-amazon.com/images/I/613hr8Phg-L._SL1254_.jpg",
+  "fullLink": "https://www.amazon.in/dp/B07T9DB7B3?social_share=cm_sw_r_ud_dp_TBCM2JEFDJ760AF264CF&th=1&linkCode=ll2&tag=valdio-21&linkId=ada58233d5f9c4d39d41c5907f494f96&ref_=as_li_ss_tl",
   "image": "https://m.media-amazon.com/images/I/613hr8Phg-L._SL1254_.jpg",
 
   "description": "SECUREMENT® Full Sticker Label A4 Sheets are designed for FBA shipments and are suitable for use with all printers. The pack contains 100 A4-sized sticker sheets for printing shipping, product, and fulfillment labels.",
@@ -39990,5 +39990,4 @@
     "100 Sheets"
   ]
 }
-
 ]
