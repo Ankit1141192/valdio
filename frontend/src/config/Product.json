@@ -40685,6 +40685,492 @@
     "grocery essentials",
     "household grocery"
   ]
+},
+
+{
+  "id": "tata-tea-gold-assam-black-tea-1kg",
+  "name": "Tata Tea Gold | Assam Teas with Gently Rolled Aromatic Long Leaves | Rich & Aromatic Chai | Black Tea | 1 kg",
+  "brand": "Tata Tea",
+  "category": "grocery",
+  "subCategory": "black-tea",
+  "price": 469,
+  "discountPrice": 469,
+  "discountRate": 13,
+  "mrp": 540,
+  "rating": 4.4,
+  "reviews": 26211,
+  "shortLink": "https://link.amazon/B0dWfBify",
+  "fullLink": "https://www.amazon.in/gp/product/B00GLDJ9WA?smid=ARENK22K2PQRH&psc=1&linkCode=ll2&tag=valdio-21&linkId=7444645e0a0a5ecd60b26946a0e3323d&ref_=as_li_ss_tl",
+  "image": "https://m.media-amazon.com/images/I/5109sLDpkvL._SL1000_.jpg",
+  "description": "Tata Tea Gold is a rich and aromatic black tea featuring Assam teas with gently rolled aromatic long leaves. Designed for preparing traditional chai, this 1 kg pack is suitable for everyday tea preparation at home or in the workplace.",
+  "features": [
+    "Made with Assam teas",
+    "Gently rolled aromatic long leaves",
+    "Rich and aromatic chai experience",
+    "Black tea",
+    "Suitable for everyday tea preparation",
+    "1 kg pack",
+    "Fulfilled listing"
+  ],
+  "productDetails": {
+    "productType": "Black Tea",
+    "brand": "Tata Tea",
+    "productLine": "Tata Tea Gold",
+    "netWeight": "1 kg",
+    "packSize": "1 kg",
+    "pricePer100g": 46.9,
+    "teaOriginDescription": "Assam teas, as stated in the product title",
+    "leafDescription": "Gently rolled aromatic long leaves",
+    "flavourProfile": "Rich and aromatic"
+  },
+  "recommendedUses": [
+    "Preparing traditional Indian chai",
+    "Daily morning tea",
+    "Evening tea",
+    "Serving tea to family and guests",
+    "Office and workplace tea preparation"
+  ],
+  "usageInstructions": [
+    "Boil fresh water in a saucepan.",
+    "Add tea leaves or the required quantity of tea according to the package directions.",
+    "Simmer to your preferred strength.",
+    "Add milk and sugar as desired, then strain and serve.",
+    "Follow the preparation and storage instructions printed on the package."
+  ],
+  "availableVariants": [
+    {
+      "variant": "1 kg",
+      "price": 469,
+      "mrp": 540,
+      "discountRate": 13
+    }
+  ],
+  "offers": {
+    "amazonPayUpiCashback": 25,
+    "payOnDelivery": true
+  },
+  "deliveryInfo": {
+    "freeDelivery": true,
+    "amazonDelivered": true,
+    "fulfillment": "Fulfilled",
+    "returnPolicy": "Non-returnable",
+    "secureTransaction": true
+  },
+  "safetyInformation": {
+    "storage": "Store in a cool, dry place and keep the pack sealed after opening."
+  },
+  "tags": [
+    "Tata Tea Gold",
+    "Tata Tea",
+    "black tea",
+    "Assam tea",
+    "aromatic tea",
+    "long leaf tea",
+    "Indian chai",
+    "tea 1kg",
+    "tea leaves",
+    "daily tea",
+    "rich aromatic chai",
+    "milk tea",
+    "grocery essentials",
+    "household groceries"
+  ]
+},
+
+{
+  "id": "exo-round-dishwash-bar-700g-pack-of-2",
+  "name": "Exo Round Dishwash Bar 700gm X 2 | Complete Dishwashing Solution With Anti-Bacterial Efficacy & Goodness of Ginger | Removes Tough Grime Stains With Ease",
+  "brand": "Exo",
+  "category": "home-care",
+  "subCategory": "dishwashing-bars",
+  "price": 117,
+  "discountPrice": 117,
+  "discountRate": 32,
+  "mrp": 172,
+  "rating": 4.4,
+  "reviews": 31047,
+  "shortLink": "https://link.amazon/B0hI3mKAQ",
+  "fullLink": "https://www.amazon.in/gp/product/B0713ZZKXJ?smid=A15APWRK6P7LBV&psc=1&linkCode=ll2&tag=valdio-21&linkId=2e93dd347884fbf63e69590e657d8970&ref_=as_li_ss_tl",
+  "image": "https://m.media-amazon.com/images/I/71TJ3wmKHPL._SL1500_.jpg",
+  "description": "Exo Round Dishwash Bar is a ginger-scented dishwashing solution designed to remove tough grease and grime from cookware and tableware. The pack contains two 700 g dishwash bars and includes a free scrubber according to the listing. Its round shape is designed to help reduce product wastage, while the product is promoted for antibacterial cleaning and utensil hygiene.",
+  "features": [
+    "Pack contains two 700 g dishwash bars",
+    "Total net quantity of 1400 g",
+    "Ginger fragrance",
+    "Designed to remove tough grease and grime",
+    "Promoted for antibacterial cleaning",
+    "Round shape designed to help reduce wastage",
+    "Free scrubber included in the pack, according to the listing",
+    "Suitable for cookware and tableware",
+    "Dishwashing bar format",
+    "Country of origin: India"
+  ],
+  "productDetails": {
+    "productType": "Dishwashing Bar",
+    "brand": "Exo",
+    "itemForm": "Bar",
+    "scent": "Ginger",
+    "netWeightPerBar": "700 g",
+    "numberOfBars": 2,
+    "netQuantity": "1400 g",
+    "unitCount": 1400,
+    "unitCountType": "Gram",
+    "specialFeatures": [
+      "Dishwash safe",
+      "Round shape",
+      "Antibacterial efficacy claim"
+    ],
+    "materialFeatures": [
+      "Cruelty free",
+      "Harmful chemical free",
+      "Non-toxic"
+    ],
+    "recommendedSurfaces": [
+      "Cookware",
+      "Tableware"
+    ],
+    "listedIngredients": "Antibacterial solutions",
+    "countryOfOrigin": "India",
+    "packageContents": [
+      "Exo Dishwash Bar 700 g x 2",
+      "Free scrubber, as stated in the listing"
+    ]
+  },
+  "recommendedUses": [
+    "Cleaning cooking utensils",
+    "Removing grease from pots and pans",
+    "Washing plates and bowls",
+    "Cleaning everyday tableware",
+    "Removing tough grime and food stains from suitable utensils"
+  ],
+  "usageInstructions": [
+    "Wet the dishwashing scrubber or sponge with water.",
+    "Rub it gently against the dishwash bar to create lather.",
+    "Scrub the utensils to remove grease and food residue.",
+    "Rinse utensils thoroughly with clean water before use.",
+    "Store the bar in a dry soap holder between uses to help it last longer."
+  ],
+  "availableVariants": [
+    {
+      "variant": "700 g x 2 bars",
+      "price": 117,
+      "mrp": 172,
+      "discountRate": 32,
+      "totalWeight": "1400 g"
+    }
+  ],
+  "offers": {
+    "amazonPayUpiCashback": 25,
+    "upiRewardPoints": 11,
+    "upiRewardValue": 1.1,
+    "payOnDelivery": true,
+    "lowestPriceIn30Days": true
+  },
+  "deliveryInfo": {
+    "freeDelivery": true,
+    "amazonDelivered": true,
+    "fulfillment": "Fulfilled",
+    "returnPolicy": "Non-returnable"
+  },
+  "safetyInformation": {
+    "usage": "Use only for washing suitable utensils and cookware.",
+    "precaution": "Avoid contact with eyes and do not ingest. Keep out of reach of children.",
+    "rinsing": "Rinse cleaned utensils thoroughly with potable water before using them for food."
+  },
+  "tags": [
+    "Exo dishwash bar",
+    "Exo round dishwash",
+    "dishwashing bar",
+    "dishwash soap",
+    "700g dishwash bar",
+    "dishwash bar pack of 2",
+    "1400g dishwashing bar",
+    "ginger dishwash bar",
+    "antibacterial dishwash",
+    "grease remover",
+    "utensil cleaning",
+    "cookware cleaner",
+    "tableware cleaner",
+    "kitchen cleaning",
+    "free scrubber",
+    "household cleaning supplies",
+    "home care"
+  ]
+},
+
+{
+  "id": "securement-corrugated-brown-boxes-4x4x4-100-pack",
+  "name": "SECUREMENT Corrugated Brown Boxes | Packing Box | Packaging Box for Online Selling and Ecommerce | 100 Boxes (4 x 4 x 4 inch)",
+  "brand": "SECUREMENT",
+  "category": "packaging-supplies",
+  "subCategory": "corrugated-shipping-boxes",
+  "price": 563,
+  "discountPrice": 563,
+  "discountRate": 43,
+  "mrp": 993,
+  "rating": 3.9,
+  "reviews": 377,
+  "shortLink": "https://link.amazon/B0iYZGdLU",
+  "fullLink": "https://www.amazon.in/gp/product/B0DVZ7V25K?smid=AJ6SIZC8YQDZX&th=1&linkCode=ll2&tag=valdio-21&linkId=e44fc2c13218f69eb4cf905423b0d799&ref_=as_li_ss_tl",
+  "image": "https://m.media-amazon.com/images/I/71qXID5U7qL._SL1500_.jpg",
+  "description": "SECUREMENT corrugated brown packing boxes are designed for packaging, shipping, and ecommerce orders. This pack contains 100 small, 3-ply corrugated cardboard boxes measuring 4 x 4 x 4 inches each. The boxes are described as being made from 100% recyclable materials and are suitable for packing small products for online selling, gifting, and general shipping needs.",
+  "features": [
+    "Pack contains 100 corrugated cardboard boxes",
+    "Individual box size: 4 x 4 x 4 inches",
+    "3-ply corrugated construction, as stated in the listing",
+    "Brown packaging box design",
+    "Made from recyclable materials, according to the listing",
+    "Suitable for ecommerce packaging and online selling",
+    "Useful for packing small products and gifts",
+    "Fulfilled listing"
+  ],
+  "productDetails": {
+    "productType": "Corrugated Packing Box",
+    "brand": "SECUREMENT",
+    "colour": "Brown",
+    "material": "Cardboard",
+    "boxDimensionsInches": {
+      "length": 4,
+      "width": 4,
+      "height": 4
+    },
+    "boxDimensionsCm": {
+      "length": 10.2,
+      "width": 10.2,
+      "height": 10.2
+    },
+    "construction": "3-ply corrugated cardboard",
+    "itemWeight": "2 kg 390 g",
+    "packSize": "100 Boxes",
+    "numberOfBoxes": 100,
+    "numberOfPacks": 1,
+    "netQuantity": "100 Count",
+    "recyclable": true
+  },
+  "recommendedUses": [
+    "Ecommerce product packaging",
+    "Packing small handmade products",
+    "Shipping small decorative items",
+    "Packaging candles and small gifts",
+    "Packing soap products",
+    "Packaging small craft products",
+    "Online seller order dispatch",
+    "Small business shipping supplies"
+  ],
+  "usageInstructions": [
+    "Fold the box along its creases to form the box shape.",
+    "Place the product inside with suitable protective material if needed.",
+    "Add bubble wrap, paper, or other cushioning for fragile items.",
+    "Close and secure the flaps with suitable packaging tape.",
+    "Attach the shipping label before dispatch."
+  ],
+  "availableVariants": [
+    {
+      "variant": "4 x 4 x 4 inch - 100 Boxes",
+      "price": 563,
+      "mrp": 993,
+      "discountRate": 43,
+      "quantity": 100
+    },
+    {
+      "variant": "4 x 4 x 4 inch - 10 Boxes",
+      "price": 120,
+      "mrp": 246,
+      "discountRate": 51,
+      "quantity": 10
+    },
+    {
+      "variant": "4 x 4 x 4 inch - 50 Boxes",
+      "price": 310,
+      "mrp": 999,
+      "discountRate": 69,
+      "quantity": 50
+    },
+    {
+      "variant": "4 x 4 x 4 inch - 25 Boxes",
+      "price": 366,
+      "mrp": 799,
+      "discountRate": 54,
+      "quantity": 25
+    }
+  ],
+  "offers": {
+    "amazonPayIciciCreditCardCashback": 16,
+    "amazonPayUpiCashback": 25,
+    "eligibleItemCashback": 20,
+    "upiRewardPoints": 56,
+    "upiRewardValue": 5.6,
+    "payOnDelivery": true
+  },
+  "deliveryInfo": {
+    "freeDelivery": true,
+    "amazonDelivered": true,
+    "fulfillment": "Fulfilled",
+    "replacementWindow": "10 days",
+    "returnPolicy": "10 days replacement",
+    "secureTransaction": true
+  },
+  "safetyInformation": {
+    "handling": "Keep boxes dry and away from excessive moisture.",
+    "fragileItems": "Use suitable cushioning when shipping fragile products.",
+    "weightLimit": "Check the box's load capacity before packing heavy products."
+  },
+  "tags": [
+    "SECUREMENT boxes",
+    "corrugated brown boxes",
+    "packing boxes",
+    "packaging boxes",
+    "4x4x4 inch boxes",
+    "small cardboard boxes",
+    "100 boxes pack",
+    "ecommerce packaging",
+    "online selling supplies",
+    "shipping boxes",
+    "3 ply corrugated boxes",
+    "recyclable packaging",
+    "small business packaging",
+    "candle packaging",
+    "soap packaging",
+    "gift packaging",
+    "handmade product packaging",
+    "shipping supplies"
+  ]
+},
+
+{
+  "id": "mm-will-care-corrugated-brown-boxes-6x6x6-pack-50",
+  "name": "MM Will Care 6X6X6 Inch Corrugated Brown Boxes - 3 Ply BROWN Pack of 50",
+  "brand": "MM WILL CARE - WE WILL CARE YOUR PRODUCTS",
+  "category": "packaging-supplies",
+  "subCategory": "corrugated-shipping-boxes",
+  "price": 594,
+  "discountPrice": 594,
+  "discountRate": 40,
+  "mrp": 988,
+  "rating": 4.4,
+  "reviews": 4,
+  "shortLink": "https://link.amazon/B0iUTkyJg",
+  "fullLink": "https://www.amazon.in/gp/product/B0DTZ2S5WB?smid=A1G2RW36XYO3BO&th=1&linkCode=ll2&tag=valdio-21&linkId=1d9f2b6fae16c86dd46962482c7edb92&ref_=as_li_ss_tl",
+  "image": "https://m.media-amazon.com/images/I/71wAjPBtInL._SL1500_.jpg",
+  "description": "MM Will Care 6 x 6 x 6 inch corrugated brown boxes are made from 3-ply cardboard for packaging, storage, moving, and ecommerce shipping. The pack contains 50 boxes suitable for small businesses, online sellers, gifts, books, and other appropriately sized products. The listing describes the boxes as being made from recycled paper and suitable for reuse and recycling.",
+  "features": [
+    "Pack contains 50 corrugated cardboard boxes",
+    "Box size: 6 x 6 x 6 inches, as stated in the product title",
+    "3-ply corrugated construction",
+    "Brown colour",
+    "Made from recycled paper, according to the listing",
+    "Designed for ecommerce packaging and shipping",
+    "Suitable for storage, books, gifts, and home shifting",
+    "Reusable and recyclable",
+    "Listed breaking strength: 4000 grams"
+  ],
+  "productDetails": {
+    "productType": "Corrugated Packing Box",
+    "brand": "MM WILL CARE - WE WILL CARE YOUR PRODUCTS",
+    "colour": "Brown",
+    "material": "Cardboard",
+    "construction": "3-ply corrugated cardboard",
+    "boxDimensionsInches": {
+      "length": 6,
+      "width": 6,
+      "height": 6
+    },
+    "listedProductDimensionsCm": {
+      "length": 10,
+      "width": 10,
+      "height": 20
+    },
+    "itemWeight": "450 g",
+    "breakingStrength": "4000 g",
+    "packSize": "Pack of 50",
+    "numberOfBoxes": 50,
+    "netQuantity": "50 Count",
+    "recycledMaterial": true,
+    "reusable": true,
+    "recyclable": true
+  },
+  "recommendedUses": [
+    "Ecommerce order packaging",
+    "Small business shipping",
+    "Packing handmade products",
+    "Packing candles and small decorative items",
+    "Packaging soaps and gift products",
+    "Storing books and household essentials",
+    "Gift packaging",
+    "Home shifting and moving"
+  ],
+  "usageInstructions": [
+    "Fold the box along its creases to form the carton.",
+    "Check that the product fits comfortably inside the box.",
+    "Use paper, bubble wrap, or other suitable cushioning for fragile items.",
+    "Close the flaps and secure them with packaging tape.",
+    "Attach the shipping label before dispatch."
+  ],
+  "availableVariants": [
+    {
+      "variant": "Pack of 25",
+      "price": 399,
+      "mrp": 576,
+      "discountRate": 31,
+      "quantity": 25
+    },
+    {
+      "variant": "Pack of 50",
+      "price": 594,
+      "mrp": 988,
+      "discountRate": 40,
+      "quantity": 50
+    },
+    {
+      "variant": "Pack of 100",
+      "price": 1149,
+      "mrp": 1911,
+      "discountRate": 40,
+      "quantity": 100
+    }
+  ],
+  "offers": {
+    "amazonPayIciciCreditCardCashback": 17,
+    "amazonPayUpiCashback": 25,
+    "eligibleItemCashback": 20,
+    "upiRewardPoints": 59,
+    "upiRewardValue": 5.9,
+    "payOnDelivery": true
+  },
+  "deliveryInfo": {
+    "freeDelivery": true,
+    "amazonDelivered": true,
+    "fulfillment": "Fulfilled",
+    "replacementWindow": "10 days",
+    "returnPolicy": "10 days replacement",
+    "secureTransaction": true
+  },
+  "safetyInformation": {
+    "handling": "Keep boxes dry and away from excessive moisture.",
+    "fragileItems": "Use suitable cushioning when packing fragile products.",
+    "weightLimit": "Check the box's load capacity before shipping heavy items."
+  },
+  "tags": [
+    "MM Will Care boxes",
+    "6x6x6 inch boxes",
+    "corrugated brown boxes",
+    "3 ply cardboard boxes",
+    "pack of 50 boxes",
+    "cardboard packing boxes",
+    "ecommerce packaging",
+    "shipping boxes",
+    "small business packaging",
+    "recycled cardboard boxes",
+    "reusable packaging",
+    "recyclable boxes",
+    "candle packaging",
+    "soap packaging",
+    "gift packaging",
+    "handmade product packaging",
+    "storage boxes",
+    "moving boxes",
+    "home shifting supplies"
+  ]
 }
 
 ]
