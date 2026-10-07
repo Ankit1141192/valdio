@@ -43474,6 +43474,131 @@
     "Android phone",
     "Motorola mobile"
   ]
+},
+
+{
+  "id": "longway-kwid-lightweight-teflon-dry-iron-1100w",
+  "name": "LONGWAY Kwid Lightweight Non-Stick Teflon Coated Dry Iron, 1100W, Black & Gray",
+  "brand": "LONGWAY",
+  "category": "Home & Kitchen",
+  "subCategory": "Dry Irons",
+  "price": 398,
+  "discountPrice": 398,
+  "discountRate": 55,
+  "mrp": 879,
+  "rating": 3.8,
+  "reviews": 4074,
+  "shortLink": "https://link.amazon/B0ipCI3Se",
+  "fullLink": "https://www.amazon.in/Longway-Kwid-Light-Weight-Watts/dp/B0C33BN4J5?crid=37F7TG9BITZJT&dib=eyJ2IjoiMSJ9.XMUhs53WsiQJyFVtZynf4LFQkrKPeWkYVylVydxxUyJCjZkA2SKGkxg5j60Qs3iWNaRk3O4i_2MbmNN8WCW9u7c24_qzQhPIBGB6y35ocuRfPUvpFhOQ6tgt5iYcYcif9HKOFTWzWZJMzbkpSadGc4ZvWYANc11EsE8GM0Q5qvoqqja3XVKvQLmcZj5eyXhjV22NzCL5ClJ25HerbetMQJwDSMAurD4AeqjZUAt6PtI.MdGWO_6uYGj2hfqK4bkGHP-SYYTOyFQ2D1orpBDzW9Y&dib_tag=se&keywords=longway%2Biron&nsdOptOutParam=true&qid=1791398371&sprefix=longway%2B%2Caps%2C557&sr=8-1-spons&aref=GI6zQcn5uE&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1&linkCode=ll2&tag=valdio-21&linkId=838d7a880fbdb6f2c08c7aeabc25928a&ref_=as_li_ss_tl",
+  "image": "https://m.media-amazon.com/images/I/51otkBdqmvL._SL1500_.jpg",
+  "description": "The LONGWAY Kwid dry iron is a lightweight electric iron designed for everyday clothes ironing. It features a non-stick Teflon-coated black soleplate, a 1100W heating element, and six heat settings intended for different fabric types. Its ABS plastic body, shockproof handle, pilot indicator lamp, swivel cord, and advertised auto cut-off safety feature are designed to support convenient household ironing. The listing advertises a two-year warranty subject to registration requirements.",
+  "features": [
+    "1100W power",
+    "Lightweight dry iron design",
+    "Non-stick Teflon-coated black soleplate",
+    "Six heat settings for different fabric types",
+    "ABS plastic body",
+    "Rust-resistant body design claimed by the seller",
+    "Auto cut-off feature listed",
+    "Shockproof handle",
+    "Pilot indicator lamp",
+    "Swivel power cord",
+    "Designed for everyday household ironing",
+    "Two-year warranty advertised"
+  ],
+  "productDetails": {
+    "brand": "LONGWAY",
+    "model": "Kwid",
+    "productType": "Dry iron",
+    "colour": "Black & Gray",
+    "wattage": "1100W",
+    "soleplateCoating": "Teflon-coated non-stick black soleplate",
+    "bodyMaterial": "ABS plastic",
+    "heatSettings": 6,
+    "specialFeatures": [
+      "Lightweight design",
+      "Adjustable heat control",
+      "Auto cut-off feature listed",
+      "Swivel cord",
+      "Pilot lamp"
+    ],
+    "productDimensions": "28 x 10.1 cm, as listed; third dimension not provided",
+    "packageContents": [
+      "Dry iron",
+      "Instruction manual"
+    ],
+    "warranty": "2 years total: 1-year standard warranty plus 1 additional year after free registration",
+    "registrationRequirement": "Register within 15 days of delivery for the additional warranty year"
+  },
+  "recommendedUses": [
+    "Ironing everyday clothing",
+    "Removing ordinary fabric creases",
+    "Ironing shirts and trousers",
+    "Household garment care",
+    "Touching up clothes before wearing"
+  ],
+  "usageInstructions": [
+    "Read the instruction manual before first use.",
+    "Select the heat setting suitable for the fabric.",
+    "Place the iron on a stable, heat-resistant surface while heating.",
+    "Move the iron continuously over the fabric and avoid leaving it stationary on clothing.",
+    "Unplug the iron after use and allow the soleplate to cool before storing.",
+    "Keep the iron away from water and never touch the hot soleplate.",
+    "Register the product within 15 days of delivery if required to obtain the additional warranty year."
+  ],
+  "availableVariants": [
+    {
+      "colour": "Black & Gray",
+      "price": 398,
+      "mrp": 879,
+      "discountRate": 55
+    },
+    {
+      "colour": "White & Blue",
+      "price": 389,
+      "mrp": 849,
+      "discountRate": 54
+    }
+  ],
+  "offers": {
+    "listedPrice": 398,
+    "listedMRP": 879,
+    "discount": "55% off",
+    "amazonPayUPI": "₹25 offer shown; eligibility and terms may apply",
+    "additionalCashback": "₹20 cashback shown for eligible purchases with this item; terms apply",
+    "upiReward": "₹3.90 reward value shown on eligible UPI payments",
+    "promotion": "Great Indian Festival offer shown in the listing"
+  },
+  "deliveryInfo": {
+    "deliveryService": "Amazon Delivered",
+    "deliveryCharge": "Free delivery shown",
+    "payOnDelivery": true,
+    "returnPolicy": "10-day replacement by brand",
+    "warranty": "2 years, subject to registration requirements",
+    "purchasePopularity": "1K+ bought in the past month"
+  },
+  "safetyInformation": {
+    "electricalSafety": "Use a suitable electrical outlet and follow the manufacturer's instructions.",
+    "burnPrevention": "The soleplate becomes hot during use. Keep hands and children away from the hot surface.",
+    "storage": "Unplug the iron and let it cool completely before storing.",
+    "fabricSafety": "Check garment care labels and use an appropriate heat setting, especially for delicate fabrics.",
+    "autoCutoffNote": "Although auto cut-off is listed, do not rely on it as a substitute for unplugging the iron after use.",
+    "warrantyNote": "Confirm the warranty terms and complete free registration within 15 days of delivery to obtain the advertised additional year."
+  },
+  "tags": [
+    "LONGWAY",
+    "Kwid dry iron",
+    "dry iron",
+    "1100W iron",
+    "lightweight iron",
+    "Teflon coated iron",
+    "non-stick soleplate",
+    "electric iron for clothes",
+    "six heat settings",
+    "auto cut-off iron",
+    "black grey iron",
+    "two-year warranty"
+  ]
 }
 
 
