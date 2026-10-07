@@ -43365,6 +43365,115 @@
     "king bed linen",
     "bedroom home decor"
   ]
+},
+
+{
+  "id": "motorola-g57-power-5g-corsair-8gb-128gb",
+  "name": "Motorola G57 Power 5G (Corsair, 8GB RAM, 128GB Storage)",
+  "brand": "Motorola",
+  "category": "Electronics",
+  "subCategory": "Smartphones",
+  "price": 21849,
+  "discountPrice": 21849,
+  "discountRate": 1,
+  "mrp": 21999,
+  "rating": 4.2,
+  "reviews": 1012,
+  "shortLink": "https://link.amazon/B0fhGZdlX",
+  "fullLink": "https://www.amazon.in/gp/product/B0G3SWTTQ7?smid=AGT6PH5JHHF6C&psc=1&linkCode=ll2&tag=valdio-21&linkId=c17258aba7f2841431754d7b8853045a&ref_=as_li_ss_tl",
+  "image": "https://m.media-amazon.com/images/I/51snxpxFOJL._SL1000_.jpg",
+  "description": "The Motorola G57 Power 5G in Corsair is a smartphone with 8GB RAM and 128GB storage. The supplied listing highlights a 6.72-inch FHD+ display with a 120Hz refresh rate and peak brightness of up to 1050 nits for smooth scrolling and clear viewing. It runs Android and uses a Qualcomm Snapdragon processor, with a listed CPU speed of 2GHz.",
+  "features": [
+    "5G smartphone",
+    "6.72-inch FHD+ display",
+    "120Hz refresh rate",
+    "Up to 1050 nits brightness, according to the listing",
+    "8GB RAM",
+    "128GB internal storage",
+    "Qualcomm Snapdragon processor family",
+    "Android operating system",
+    "Corsair colour finish"
+  ],
+  "productDetails": {
+    "brand": "Motorola",
+    "model": "G57 Power 5G",
+    "colour": "Corsair",
+    "networkTechnology": "5G",
+    "ram": "8GB",
+    "internalStorage": "128GB",
+    "operatingSystem": "Android",
+    "processorFamily": "Qualcomm Snapdragon",
+    "listedCpuSpeed": "2GHz",
+    "displaySize": "6.72 inches",
+    "displayResolution": "FHD+",
+    "refreshRate": "120Hz",
+    "peakBrightness": "Up to 1050 nits, as listed",
+    "batteryCapacity": null,
+    "rearCameraSpecifications": null,
+    "frontCameraSpecifications": null,
+    "expandableStorage": null,
+    "dimensions": null,
+    "weight": null
+  },
+  "recommendedUses": [
+    "Everyday smartphone use",
+    "Web browsing and social media",
+    "Video streaming",
+    "Gaming and other apps supported by the device",
+    "5G mobile connectivity where supported by the network",
+    "Multitasking with 8GB RAM"
+  ],
+  "usageInstructions": [
+    "Charge the phone using a compatible charger according to the manufacturer's instructions.",
+    "Complete the Android setup and install system updates before regular use.",
+    "Check local carrier compatibility and 5G coverage before relying on 5G connectivity.",
+    "Use a compatible protective case and screen protector to help protect the device.",
+    "Check available storage before downloading large apps or media files."
+  ],
+  "availableVariants": [
+    {
+      "colour": "Corsair",
+      "ram": "8GB",
+      "storage": "128GB",
+      "price": 21849,
+      "mrp": 21999,
+      "discountRate": 1
+    }
+  ],
+  "offers": {
+    "listedPrice": 21849,
+    "listedMRP": 21999,
+    "discount": "1% off",
+    "amazonPayICICIBankCreditCard": "₹655 cashback shown; eligibility and terms may apply",
+    "upiReward": "₹100 reward value shown on eligible UPI payments",
+    "emi": "EMI starts at ₹768; No Cost EMI option advertised, subject to eligibility and terms"
+  },
+  "deliveryInfo": {
+    "deliveryService": "Amazon Delivered",
+    "deliveryCharge": "Free delivery shown",
+    "payOnDelivery": true,
+    "returnPolicy": "10-day service centre replacement",
+    "secureTransaction": true
+  },
+  "safetyInformation": {
+    "charging": "Use a compatible charger and follow Motorola's charging instructions.",
+    "temperature": "Avoid exposing the phone to excessive heat, moisture, or direct sunlight for extended periods.",
+    "software": "Install official system and security updates when available.",
+    "purchaseNote": "The supplied listing does not provide complete battery, camera, charging-speed, or software-support specifications. Confirm these details before purchasing if they are important to you."
+  },
+  "tags": [
+    "Motorola",
+    "Motorola G57 Power 5G",
+    "5G smartphone",
+    "8GB RAM phone",
+    "128GB storage",
+    "Corsair",
+    "FHD+ display",
+    "120Hz smartphone",
+    "Snapdragon processor",
+    "Android phone",
+    "Motorola mobile"
+  ]
 }
 
 
