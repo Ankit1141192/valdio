@@ -44908,6 +44908,145 @@
     "travel accessories",
     "beige fan"
   ]
+},
+
+{
+  "id": "securement-plain-courier-bags-8x10-100",
+  "name": "SECUREMENT Plain Non Printed Economy Courier Bags without POD Pouch (8 x 10 Inches) - 100 Bags",
+  "brand": "SECUREMENT",
+  "category": "Office Products",
+  "subCategory": "Packaging Supplies",
+  "price": 295,
+  "discountPrice": 295,
+  "discountRate": 46,
+  "mrp": 549,
+  "rating": 4.0,
+  "reviews": 49,
+  "shortLink": "https://link.amazon/B04hMcAmH",
+  "fullLink": "https://www.amazon.in/gp/product/B0C3W5GMRP?smid=AJ6SIZC8YQDZX&th=1&linkCode=ll2&tag=valdio-21&linkId=194cded402f33e73d6d48667393fa5cf&ref_=as_li_ss_tl",
+  "image": "https://m.media-amazon.com/images/I/51Y7LHsZKvL._SL1000_.jpg",
+  "description": "Pack of 100 plain, non-printed economy courier bags from SECUREMENT, sized 8 x 10 inches. Made from slightly stretchable polyethylene (PE), these bags feature a peel-and-seal adhesive closure for quick packing. Suitable for shipping a variety of lightweight products. The bags do not include a POD pouch.",
+  "features": [
+    "Pack of 100 courier bags",
+    "Selected size: 8 x 10 inches",
+    "Plain, non-printed design",
+    "Made from polyethylene (PE)",
+    "Material thickness: 200 gauge / 50 microns, as stated in the listing",
+    "Peel-and-seal adhesive closure",
+    "Slightly stretchable material",
+    "White and black colour combination, as stated in the listing",
+    "No POD pouch included",
+    "Price per bag: ₹2.95"
+  ],
+  "productDetails": {
+    "material": "Polyethylene (PE)",
+    "size": "8 x 10 inches",
+    "quantity": 100,
+    "pricePerUnit": 2.95,
+    "colour": "White and Black",
+    "design": "Plain, non-printed",
+    "thickness": "200 gauge / 50 microns",
+    "closureType": "Peel-and-seal adhesive",
+    "podPouch": "Not included",
+    "manufacturerBrand": "SECUREMENT",
+    "returnPolicy": "Non-returnable"
+  },
+  "recommendedUses": [
+    "E-commerce order packaging",
+    "Packing clothing and accessories",
+    "Shipping lightweight household items",
+    "Packing small non-fragile products",
+    "Packing handmade products for courier dispatch"
+  ],
+  "usageInstructions": [
+    "Choose a bag size that comfortably fits the product.",
+    "Place the product inside the bag.",
+    "Remove the protective strip from the adhesive flap.",
+    "Fold the flap over and press firmly to seal.",
+    "Attach the shipping label securely to the outside."
+  ],
+  "availableVariants": [
+    {
+      "type": "Size",
+      "options": [
+        "6 x 8 inches",
+        "8 x 10 inches",
+        "8 x 11 inches",
+        "10 x 12 inches",
+        "10 x 14 inches",
+        "12 x 14 inches",
+        "12 x 16 inches",
+        "12.5 x 16 inches",
+        "14 x 18 inches",
+        "16 x 20 inches",
+        "17 x 19 inches",
+        "21 x 23 inches"
+      ]
+    },
+    {
+      "type": "Colour or Print",
+      "options": [
+        {
+          "name": "Plain",
+          "price": 295,
+          "mrp": 549
+        },
+        {
+          "name": "Misho",
+          "price": 304,
+          "mrp": 349
+        },
+        {
+          "name": "Recyclable Logo Printed",
+          "price": 366,
+          "mrp": 549
+        }
+      ]
+    },
+    {
+      "type": "Pack Quantity",
+      "options": [
+        "100",
+        "300",
+        "500",
+        "1000",
+        "5000"
+      ]
+    }
+  ],
+  "offers": {
+    "listedDiscount": "46%",
+    "amazonPayUPI": "₹25 offer shown in the listing; eligibility conditions may apply",
+    "upiReward": "₹2.90 reward shown for eligible UPI payments",
+    "cashback": "Additional cashback offer displayed; conditions apply"
+  },
+  "deliveryInfo": {
+    "delivery": "Free delivery shown",
+    "fulfilment": "Amazon Delivered",
+    "paymentOptions": [
+      "Pay on Delivery",
+      "Eligible UPI payments"
+    ],
+    "returnPolicy": "Non-returnable"
+  },
+  "safetyInformation": {
+    "handling": "Keep away from children to avoid suffocation risk.",
+    "limitations": "Not intended for direct food contact unless the manufacturer confirms it is food-safe.",
+    "productNote": "The listing states that the bags are white and black but does not clarify whether each bag is two-coloured or the pack contains bags in both colours."
+  },
+  "tags": [
+    "SECUREMENT",
+    "courier bags",
+    "plain courier bags",
+    "non-printed packaging",
+    "e-commerce packaging",
+    "shipping bags",
+    "polyethylene bags",
+    "peel-and-seal bags",
+    "8x10 inch bags",
+    "pack of 100",
+    "online seller supplies"
+  ]
 }
 
 
