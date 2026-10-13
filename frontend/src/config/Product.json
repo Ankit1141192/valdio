@@ -46626,6 +46626,472 @@
     "HiFi audio",
     "1-year warranty"
   ]
+},
+
+{
+  "id": "ZEB-CTAux10",
+  "name": "ZEBRONICS CTAux10 Type C to 3.5mm Converter",
+  "brand": "ZEBRONICS",
+  "category": "Electronics",
+  "subCategory": "Audio Accessories",
+  "price": 149,
+  "discountPrice": 149,
+  "discountRate": 75,
+  "mrp": 599,
+  "rating": 3.5,
+  "reviews": 4521,
+  "shortLink": "https://link.amazon/B08couIuL",
+  "fullLink": "https://www.amazon.in/gp/product/B0D67745WS?smid=AJ6SIZC8YQDZX&psc=1&linkCode=ll2&tag=valdio-21&linkId=9c0a56c65c61a7c281e12b23fb47a8c0&ref_=as_li_ss_tl",
+  "image": "https://m.media-amazon.com/images/I/61AoMA9KzuL._SL1500_.jpg",
+  "description": "ZEBRONICS CTAux10 Type-C to 3.5mm audio converter with a built-in DAC chip, metal body and braided cable. Designed to connect wired headphones, earphones and other 3.5mm audio devices to compatible USB Type-C smartphones, tablets, laptops and car audio systems. Supports both audio playback and microphone functionality.",
+  "features": [
+    "USB Type-C to 3.5mm AUX audio conversion",
+    "Built-in DAC chip for digital-to-analog audio conversion",
+    "Supports microphone and audio playback",
+    "Lightweight aluminum metal body",
+    "Durable braided cable",
+    "Compatible with supported Type-C smartphones, tablets and laptops",
+    "Can be used with headphones, speakers and car audio systems",
+    "Suitable for calls and audio recording with compatible microphones"
+  ],
+  "productDetails": {
+    "model": "ZEB-CTAux10",
+    "connectorType": "Type-C to 3.5mm AUX",
+    "colour": "Black",
+    "bodyMaterial": "Aluminum",
+    "cableType": "Braided",
+    "builtInChip": "DAC",
+    "microphoneSupport": true,
+    "audioPlaybackSupport": true,
+    "compatibleDevices": [
+      "Type-C smartphones",
+      "iPhone 15 series",
+      "iPhone 16 series",
+      "Samsung smartphones",
+      "Android smartphones",
+      "Tablets",
+      "Laptops",
+      "Desktop computers",
+      "Car stereos"
+    ],
+    "itemDimensions": "19 x 60 x 96 mm",
+    "warranty": "6 months",
+    "topBrand": true,
+    "boughtInPastMonth": "2K+"
+  },
+  "recommendedUses": [
+    "Connecting wired 3.5mm headphones to a compatible Type-C smartphone",
+    "Listening to music and watching videos",
+    "Making calls using compatible wired earphones with a microphone",
+    "Connecting compatible audio devices to laptops and tablets",
+    "Connecting a compatible smartphone to a car stereo",
+    "Recording audio with a supported microphone"
+  ],
+  "usageInstructions": [
+    "Insert the Type-C connector into the compatible device's USB Type-C port.",
+    "Connect wired headphones, earphones or another compatible 3.5mm audio device to the AUX socket.",
+    "Play audio and check microphone functionality if required.",
+    "Confirm device compatibility before purchase, especially for microphone and call functions."
+  ],
+  "availableVariants": [],
+  "offers": {
+    "listedPrice": 149,
+    "mrp": 599,
+    "discount": "75%",
+    "amazonPayUPICashback": 25,
+    "upiReward": "₹1.40 worth of rewards on eligible UPI payments",
+    "inclusiveOfTaxes": true,
+    "payOnDelivery": true
+  },
+  "deliveryInfo": {
+    "deliveryCharge": "Free delivery",
+    "returnPolicy": "Non-returnable",
+    "fulfillment": "Fulfilled"
+  },
+  "safetyInformation": {
+    "compatibilityNote": "USB Type-C port availability alone does not guarantee compatibility. Check whether the device supports the required audio output and microphone functions.",
+    "returnWarning": "The listing states that this product is non-returnable.",
+    "warrantyNote": "6-month warranty as stated in the listing."
+  },
+  "tags": [
+    "ZEBRONICS",
+    "Type-C to 3.5mm converter",
+    "USB-C audio adapter",
+    "DAC audio adapter",
+    "headphone adapter",
+    "microphone support",
+    "braided cable",
+    "aluminum body",
+    "iPhone 15 compatible",
+    "iPhone 16 compatible",
+    "Samsung compatible",
+    "Android audio accessory",
+    "laptop audio adapter"
+  ]
+},
+
+{
+  "id": "KZ-EDC-PRO-SILVER-MIC-BLACK",
+  "name": "KZ EDC PRO IEM Wired Earphone",
+  "brand": "Concept Kart",
+  "category": "Electronics",
+  "subCategory": "Wired Earphones and In-Ear Monitors",
+  "price": 824,
+  "discountPrice": 824,
+  "discountRate": 41,
+  "mrp": 1399,
+  "rating": 4.0,
+  "reviews": 389,
+  "shortLink": "https://link.amazon/B0ihDdPSb",
+  "fullLink": "https://www.amazon.in/gp/product/B0DHSFHZZ1?th=1&linkCode=ll2&tag=valdio-21&linkId=0899f03b58fdffdc349e6195a3838118&ref_=as_li_ss_tl",
+  "image": "https://m.media-amazon.com/images/I/51WSVna87VL._SL1024_.jpg",
+  "description": "KZ EDC PRO wired in-ear monitor earphones featuring a dynamic driver, a detachable 0.75mm cable and a 3.5mm audio plug. The selected variant includes a silver-plated cable with an in-line microphone. Designed for music enthusiasts, audiophiles and musicians, with an ergonomic in-ear fit and silicone ear tips.",
+  "features": [
+    "Hi-Fi dynamic driver for detailed audio reproduction",
+    "In-ear monitor design",
+    "Silver-plated cable option",
+    "Detachable 0.75mm cable",
+    "3.5mm audio connector",
+    "In-line microphone on the selected variant",
+    "In-line controls for compatible playback functions",
+    "Ergonomic design based on ear-shape data",
+    "Skin-friendly silicone ear tips",
+    "Designed for music listening and monitoring",
+    "Amazon's Choice product",
+    "300+ bought in the past month"
+  ],
+  "productDetails": {
+    "model": "KZ EDC PRO",
+    "productType": "Wired In-Ear Monitor (IEM)",
+    "colour": "Black",
+    "earPlacement": "In-Ear",
+    "formFactor": "In-Ear",
+    "driverType": "Dynamic Driver (DD)",
+    "impedance": "23.5 Ohms",
+    "connectorType": "3.5mm plug",
+    "cableConnector": "0.75mm detachable cable",
+    "selectedCableType": "Silver-plated cable",
+    "microphone": true,
+    "playbackControls": "In-line controls; supported functions may depend on the connected device",
+    "earTips": "Silicone",
+    "warranty": "1 year",
+    "sellerBrand": "Concept Kart",
+    "amazonChoice": true,
+    "boughtInPastMonth": "300+"
+  },
+  "recommendedUses": [
+    "Listening to music",
+    "Monitoring audio for musicians",
+    "Listening to classical, rock, jazz and other music genres",
+    "Using compatible devices with a 3.5mm audio jack",
+    "Making calls using the in-line microphone",
+    "Controlling compatible playback functions through the cable"
+  ],
+  "usageInstructions": [
+    "Choose the cable and microphone variant that suits your needs.",
+    "Connect the earphones to a compatible device with a 3.5mm audio jack.",
+    "Fit the silicone ear tips securely and comfortably.",
+    "Use the in-line microphone and controls where supported by the connected device.",
+    "Disconnect the detachable cable carefully when storing or replacing it."
+  ],
+  "availableVariants": [
+    {
+      "name": "Silver Cable, Mic",
+      "price": 824,
+      "mrp": 1399,
+      "discountRate": 41,
+      "microphone": true,
+      "cableType": "Silver-plated"
+    },
+    {
+      "name": "Silver Cable, No Mic",
+      "price": 742,
+      "mrp": 1499,
+      "discountRate": 51,
+      "microphone": false,
+      "cableType": "Silver-plated"
+    },
+    {
+      "name": "OFC Cable, Mic",
+      "price": 696,
+      "mrp": 1399,
+      "discountRate": 50,
+      "microphone": true,
+      "cableType": "Oxygen-Free Copper (OFC)"
+    },
+    {
+      "name": "OFC Cable, No Mic",
+      "price": 677,
+      "mrp": 999,
+      "discountRate": 32,
+      "microphone": false,
+      "cableType": "Oxygen-Free Copper (OFC)"
+    }
+  ],
+  "offers": {
+    "deal": "Mega Festival Deal",
+    "listedPrice": 824,
+    "mrp": 1399,
+    "discount": "41%",
+    "amazonPayUPICashback": "₹50 cashback on eligible purchases of ₹750 or more, subject to offer terms",
+    "amazonPayICICIBankCreditCardCashback": "₹24",
+    "upiReward": "₹8.20 worth of rewards on eligible UPI payments",
+    "inclusiveOfTaxes": true,
+    "payOnDelivery": true
+  },
+  "deliveryInfo": {
+    "deliveryCharge": "Free delivery",
+    "replacementPolicy": "10-day service-centre replacement",
+    "fulfillment": "Fulfilled",
+    "amazonDelivered": true
+  },
+  "safetyInformation": {
+    "hearingSafety": "Keep the listening volume at a comfortable level to help protect hearing.",
+    "compatibilityNote": "Devices without a 3.5mm audio jack may require a compatible audio adapter.",
+    "warrantyNote": "1-year warranty as stated in the listing.",
+    "replacementNote": "The listing specifies service-centre replacement rather than a standard return policy."
+  },
+  "tags": [
+    "KZ EDC PRO",
+    "Concept Kart",
+    "wired earphones",
+    "in-ear monitors",
+    "IEM",
+    "dynamic driver",
+    "Hi-Fi earphones",
+    "silver-plated cable",
+    "detachable cable",
+    "0.75mm connector",
+    "3.5mm audio jack",
+    "microphone earphones",
+    "audiophile earphones",
+    "musician earphones",
+    "black earphones"
+  ]
+},
+
+{
+  "id": "PORTRONICS-TOOFAN-X-MIST-BEIGE",
+  "name": "Portronics Toofan X Mist Portable Personal Mini Handheld Fan",
+  "brand": "Portronics",
+  "category": "Electronics",
+  "subCategory": "Portable Fans and Personal Cooling Devices",
+  "price": 849,
+  "discountPrice": 849,
+  "discountRate": 66,
+  "mrp": 2499,
+  "rating": 4.4,
+  "reviews": 29,
+  "shortLink": "https://link.amazon/B0fJOuiOr",
+  "fullLink": "https://www.amazon.in/dp/B0H8DWZQX5?social_share=cm_sw_r_cso_tg_apin_dp_SYCDZR10MNXAMR27MC04&linkCode=ll2&tag=valdio-21&linkId=1310f05749074465a8688518f3b3f0d1&ref_=as_li_ss_tl",
+  "image": "https://m.media-amazon.com/images/I/61z5M9CaGyL._SL1500_.jpg",
+  "description": "Portronics Toofan X Mist is a portable handheld personal fan with an ultra-fine mist function, five adjustable speed modes and a 30ml water tank. It features a 10800 RPM brushless DC motor, a built-in 2000mAh rechargeable battery and USB Type-C charging. Designed for personal cooling at home, in the office or while travelling, with claimed battery life of up to 7 hours.",
+  "features": [
+    "Portable handheld mini fan",
+    "Ultra-fine water mist function",
+    "30ml integrated water tank",
+    "Five adjustable airflow speed modes",
+    "10800 RPM BLDC motor",
+    "2000mAh rechargeable battery",
+    "Up to 7 hours of claimed playtime",
+    "USB Type-C charging",
+    "Low-noise operation as claimed by the listing",
+    "Compact design for travel and office use",
+    "Beige colour",
+    "400+ bought in the past month"
+  ],
+  "productDetails": {
+    "model": "Toofan X Mist",
+    "colour": "Beige",
+    "productType": "Portable personal handheld mist fan",
+    "motorType": "BLDC",
+    "motorSpeed": "10800 RPM",
+    "speedModes": 5,
+    "waterTankCapacity": "30ml",
+    "batteryCapacity": "2000mAh",
+    "batteryType": "Rechargeable",
+    "chargingPort": "USB Type-C",
+    "claimedPlaytime": "Up to 7 hours",
+    "noiseLevel": "Not specified",
+    "dimensions": null,
+    "weight": null,
+    "warranty": "12 months",
+    "boughtInPastMonth": "400+"
+  },
+  "recommendedUses": [
+    "Personal cooling during hot weather",
+    "Office and desk use",
+    "Travel and commuting",
+    "Study sessions",
+    "Outdoor personal use",
+    "Adding a fine mist to the airflow for a refreshing sensation"
+  ],
+  "usageInstructions": [
+    "Charge the fan using a compatible USB Type-C charging cable.",
+    "Fill the 30ml water tank according to the manufacturer's instructions.",
+    "Switch on the fan and select one of the five speed modes.",
+    "Activate the mist function when additional refreshment is desired.",
+    "Refill the water tank when empty and recharge the battery when needed.",
+    "Follow the manufacturer's cleaning and storage instructions."
+  ],
+  "availableVariants": [
+    {
+      "name": "Beige",
+      "price": 849,
+      "mrp": 2499,
+      "discountRate": 66
+    }
+  ],
+  "offers": {
+    "deal": "Limited Time Deal",
+    "listedPrice": 849,
+    "mrp": 2499,
+    "discount": "66%",
+    "amazonPayUPICashback": "₹50 cashback on eligible purchases of ₹750 or more, subject to offer terms",
+    "amazonPayICICIBankCreditCardCashback": "₹25",
+    "upiReward": "₹8.40 worth of rewards on eligible UPI payments",
+    "inclusiveOfTaxes": true,
+    "payOnDelivery": true
+  },
+  "deliveryInfo": {
+    "deliveryCharge": "Free delivery",
+    "replacementPolicy": "10-day service-centre replacement",
+    "fulfillment": "Fulfilled",
+    "amazonDelivered": true
+  },
+  "safetyInformation": {
+    "waterAndElectricity": "Keep the charging port and electrical components dry. Do not charge the device while it is wet.",
+    "waterTank": "Use the water tank only as directed by the manufacturer. Avoid adding oils or other liquids unless explicitly permitted.",
+    "mistFunction": "Avoid directing mist into electrical equipment or sensitive electronic devices.",
+    "batteryNote": "Battery runtime may vary depending on the selected speed, mist usage and operating conditions.",
+    "warrantyNote": "12-month warranty as stated in the listing."
+  },
+  "tags": [
+    "Portronics",
+    "Toofan X Mist",
+    "portable fan",
+    "mini handheld fan",
+    "mist fan",
+    "personal cooling",
+    "BLDC motor",
+    "10800 RPM",
+    "five speed modes",
+    "30ml water tank",
+    "2000mAh battery",
+    "USB Type-C charging",
+    "rechargeable fan",
+    "travel accessories",
+    "office accessories",
+    "beige fan"
+  ]
+},
+
+{
+  "id": "SWISS-BEAUTY-GLOW-UP-MAKEUP-FIXER-100ML",
+  "name": "Swiss Beauty Glow Up Makeup Fixer",
+  "brand": "SWISS BEAUTY",
+  "category": "Beauty and Personal Care",
+  "subCategory": "Makeup Setting Spray and Face Mist",
+  "price": 243,
+  "discountPrice": 243,
+  "discountRate": 34,
+  "mrp": 369,
+  "rating": 4.2,
+  "reviews": 778,
+  "shortLink": "https://link.amazon/B02BwlyI9",
+  "fullLink": "https://www.amazon.in/gp/product/B0FVM5TTPT?smid=A2M8QGPHJJQQGE&psc=1&linkCode=ll2&tag=valdio-21&linkId=336dcb1cb619dea511d1e47c5d0c968c&ref_=as_li_ss_tl",
+  "image": "https://m.media-amazon.com/images/I/51XOWNJa0TL._SL1500_.jpg",
+  "description": "Swiss Beauty Glow Up Makeup Fixer is a 2-in-1 face and body mist designed to prep skin before makeup and set makeup after application. Its formula contains Vitamin C and Hyaluronic Acid and features fine pearlescent shimmer for a dewy, radiant finish. The lightweight liquid is marketed as non-sticky and suitable for all skin tones and skin types.",
+  "features": [
+    "2-in-1 face and body mist",
+    "Prepares skin for makeup and helps set finished makeup",
+    "Dewy radiant finish",
+    "Fine pearlescent shimmer for a subtle glow",
+    "Contains Vitamin C",
+    "Contains Hyaluronic Acid",
+    "Lightweight, non-sticky formula as claimed",
+    "Suitable for all skin tones as stated",
+    "Suitable for all skin types as stated",
+    "Cruelty-free and vegan as claimed",
+    "Paraben-free as claimed",
+    "100ml bottle",
+    "10K+ bought in the past month"
+  ],
+  "productDetails": {
+    "productType": "Makeup fixer and face/body mist",
+    "finishType": "Dewy",
+    "itemForm": "Liquid",
+    "colour": "Transparent",
+    "skinTone": "All",
+    "skinType": "All",
+    "netQuantity": "100ml",
+    "itemWeight": "100g",
+    "numberOfItems": 1,
+    "itemDimensions": "40 x 60 x 40 mm",
+    "keyIngredients": [
+      "Vitamin C",
+      "Hyaluronic Acid",
+      "Fine pearlescent shimmer"
+    ],
+    "crueltyFree": true,
+    "vegan": true,
+    "parabenFree": true,
+    "boughtInPastMonth": "10K+"
+  },
+  "recommendedUses": [
+    "Prepping the face before makeup",
+    "Setting makeup after application",
+    "Creating a dewy makeup finish",
+    "Adding a subtle shimmer to the face",
+    "Adding radiance to the collarbones and body",
+    "Refreshing the appearance of makeup"
+  ],
+  "usageInstructions": [
+    "Follow the directions printed on the product packaging.",
+    "If directed by the manufacturer, close the eyes and mouth before spraying onto the face.",
+    "Spray evenly from the recommended distance, avoiding direct contact with the eyes and mouth.",
+    "Allow the mist to settle and dry naturally.",
+    "For body use, apply only to suitable external skin areas as directed on the label.",
+    "Perform a patch test before first use, especially if you have sensitive skin."
+  ],
+  "availableVariants": [],
+  "offers": {
+    "listedPrice": 243,
+    "mrp": 369,
+    "discount": "34%",
+    "amazonPayUPICashback": 25,
+    "upiReward": "₹2.40 worth of rewards on eligible UPI payments",
+    "inclusiveOfTaxes": true
+  },
+  "deliveryInfo": {
+    "deliveryCharge": "Free delivery",
+    "returnPolicy": "Non-returnable",
+    "fulfillment": "Amazon Delivered"
+  },
+  "safetyInformation": {
+    "skinSensitivity": "Check the ingredient list and patch-test before use, particularly if you have sensitive skin or known ingredient allergies.",
+    "eyeContact": "Avoid spraying directly into the eyes. Follow the product label for facial application.",
+    "externalUse": "Use only as directed on the packaging.",
+    "claimsNote": "Vegan, cruelty-free, paraben-free and all-skin-type suitability are claims stated in the listing.",
+    "returnWarning": "The listing states that this product is non-returnable."
+  },
+  "tags": [
+    "Swiss Beauty",
+    "Glow Up Makeup Fixer",
+    "makeup setting spray",
+    "makeup fixer",
+    "face mist",
+    "body mist",
+    "dewy finish",
+    "glow spray",
+    "Vitamin C",
+    "Hyaluronic Acid",
+    "pearlescent shimmer",
+    "100ml",
+    "vegan makeup",
+    "cruelty-free beauty",
+    "paraben-free"
+  ]
 }
 
 
