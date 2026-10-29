@@ -48612,6 +48612,136 @@
     "digital weighing scale battery",
     "long-lasting batteries"
   ]
+},
+
+{
+  "id": "vedaka-roasted-salted-california-pistachios-500g",
+  "name": "Amazon Brand Vedaka Roasted & Salted California Pistachios In-Shell 500g",
+  "brand": "Vedaka",
+  "category": "Grocery",
+  "subCategory": "Dry Fruits and Nuts",
+  "price": 899,
+  "discountPrice": 899,
+  "discountRate": 31,
+  "mrp": 1309,
+  "rating": 4.1,
+  "reviews": 4495,
+  "shortLink": "https://link.amazon/B04XufXJu",
+  "fullLink": "https://www.amazon.in/Amazon-Brand-Roasted-California-Pistachios/dp/B0D9NY8F36?content-id=amzn1.sym.6e35d58e-d276-4d9c-918a-3d084949b530%3Aamzn1.sym.6e35d58e-d276-4d9c-918a-3d084949b530&crid=1O6E9EH5UDEGU&cv_ct_cx=pista&keywords=pista&pd_rd_i=B0D9NY8F36&pd_rd_r=e6889f8d-d693-43e2-85fe-de2cb1fc33e2&pd_rd_w=0DNtS&pd_rd_wg=VAtCE&pf_rd_p=6e35d58e-d276-4d9c-918a-3d084949b530&pf_rd_r=YV0SNQ61TE3AZ5YF5G12&qid=1793295786&s=grocery&sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&sprefix=pist%2Cgrocery%2C280&sr=1-2-66673dcf-083f-43ba-b782-d4a436cc5cfb-spons&aref=nOr3K4O20b&sp_csd=d2lkZ2V0TmFtZT1zcF9zZWFyY2hfdGhlbWF0aWM&psc=1&linkCode=ll2&tag=valdio-21&linkId=a269af7df659a27f4102816dfe1fc901&ref_=as_li_ss_tl",
+  "image": "https://m.media-amazon.com/images/I/71QUq-OAe9L._SL1500_.jpg",
+  "description": "Vedaka Roasted & Salted California Pistachios are in-shell pistachio nuts with a roasted texture, savoury salted taste, nutty flavour, and pleasant aroma. The 500g pack is suitable for convenient everyday snacking, sharing with family, or serving guests. Pistachios naturally contain protein, fibre, and other nutrients. The listing highlights their nutritional value and suitability as a snack.",
+  "features": [
+    "Roasted and salted California pistachios",
+    "Pistachios supplied in their shells",
+    "Net quantity of 500g",
+    "Nutty flavour and pleasant aroma",
+    "Convenient ready-to-eat snack",
+    "Naturally contains protein and dietary fibre",
+    "Suitable for everyday snacking and sharing",
+    "Amazon Brand - Vedaka",
+    "2K+ bought in the past month according to the listing"
+  ],
+  "productDetails": {
+    "productType": "Roasted and salted pistachios",
+    "brand": "Vedaka",
+    "originDescription": "California pistachios as stated in the product title",
+    "processing": [
+      "Roasted",
+      "Salted"
+    ],
+    "form": "In-shell nuts",
+    "netQuantity": "500g",
+    "flavour": "Nutty and salted",
+    "aroma": "Pleasant aroma",
+    "expiryOrUseBy": "31 December 2026 as displayed in the listing",
+    "ingredients": null,
+    "nutritionalInformation": null,
+    "allergenInformation": null,
+    "countryOfOrigin": null,
+    "storageInstructions": null
+  },
+  "recommendedUses": [
+    "Everyday snacking",
+    "Serving guests",
+    "Sharing with family and friends",
+    "Office snacks",
+    "Travel snacks",
+    "Festive snack platters",
+    "Adding to dry-fruit assortments"
+  ],
+  "usageInstructions": [
+    "Open the pack and remove the shells before eating the kernels.",
+    "Consume as a snack or serve in a bowl.",
+    "Reseal the pack after opening, if the packaging permits.",
+    "Follow the storage instructions printed on the package."
+  ],
+  "availableVariants": [
+    {
+      "name": "250g",
+      "price": 452,
+      "mrp": 700,
+      "discountRate": 35
+    },
+    {
+      "name": "250g Pack of 2",
+      "price": 904,
+      "mrp": 1400,
+      "discountRate": 35
+    },
+    {
+      "name": "500g",
+      "price": 899,
+      "mrp": 1309,
+      "discountRate": 31
+    },
+    {
+      "name": "500g Pack of 2",
+      "price": 1798,
+      "mrp": 2618,
+      "discountRate": 31
+    },
+    {
+      "name": "500g Pack of 3",
+      "price": 2697,
+      "mrp": 3927,
+      "discountRate": 31
+    }
+  ],
+  "offers": {
+    "amazonPayICICIBankCreditCardCashback": 26,
+    "amazonPayUPICashback": 50,
+    "businessPricing": "Save up to 4% with eligible Amazon Business pricing and GST input tax credit"
+  },
+  "deliveryInfo": {
+    "delivery": "Free delivery",
+    "fulfilledBy": "Amazon Delivered",
+    "paymentOptions": [
+      "Pay on Delivery"
+    ],
+    "returnPolicy": "Non-returnable"
+  },
+  "safetyInformation": {
+    "allergens": "Pistachios are tree nuts and may cause allergic reactions in sensitive individuals. Check the package for allergen and cross-contamination information.",
+    "saltContent": "Salted product; check the nutritional label for sodium content.",
+    "storage": "Follow the package storage instructions and keep the product sealed appropriately after opening.",
+    "expiry": "Check the use-by date printed on the delivered package before consumption.",
+    "healthClaims": "The listing mentions immunity benefits; individual health outcomes are not guaranteed."
+  },
+  "tags": [
+    "Vedaka",
+    "California pistachios",
+    "roasted pistachios",
+    "salted pistachios",
+    "pistachio nuts",
+    "in-shell nuts",
+    "500g dry fruits",
+    "healthy snacking",
+    "dry fruits",
+    "protein snack",
+    "nutty flavour",
+    "ready-to-eat snack",
+    "Amazon Brand"
+  ]
 }
 
 
