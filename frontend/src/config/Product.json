@@ -48742,6 +48742,196 @@
     "ready-to-eat snack",
     "Amazon Brand"
   ]
+},
+
+{
+  "id": "wishmaster-4x4-electric-ride-on-jeep-kids",
+  "name": "WishMaster 4x4 Off-Road Electric Ride-On Jeep for Kids with Remote Control, Music and Lights",
+  "brand": "WishMaster",
+  "category": "Toys & Games",
+  "subCategory": "Electric Ride-On Cars for Kids",
+  "price": 6399,
+  "discountPrice": 6399,
+  "discountRate": 68,
+  "mrp": 19999,
+  "rating": 3.5,
+  "reviews": 187,
+  "shortLink": "https://link.amazon/B06Cs2VhB",
+  "fullLink": "https://www.amazon.in/gp/product/B0H4918W4V?smid=A2RJID5CNWHYJU&psc=1&linkCode=ll2&tag=valdio-21&linkId=0b31e804cdb0aab112ea0e0eac8c20fe&ref_=as_li_ss_tl",
+  "image": "https://m.media-amazon.com/images/I/91KCC4T3jdL._SL1500_.jpg",
+  "description": "The WishMaster 4x4 Off-Road Electric Ride-On Jeep is a large SUV-style battery-powered vehicle designed for children's pretend driving adventures. It offers two driving modes: manual steering and pedal control for children, and remote control for parents. Features include music, lights, a safety belt, shock-absorbing wheels, and a spacious seat designed to accommodate up to two children. The listing describes a 12V rechargeable battery, dual-motor drive, a maximum load capacity of approximately 40–50kg, and a 6-month warranty on the motherboard and motors.",
+  "features": [
+    "Large 4x4 off-road SUV-style jeep design",
+    "12V rechargeable battery as stated in the detailed description",
+    "Dual-motor drive",
+    "Two driving modes: manual and parental remote control",
+    "Steering wheel and pedal controls",
+    "Music and lights",
+    "Safety belt",
+    "Shock-absorbing wheels",
+    "Spacious seating designed for up to two children",
+    "Claimed load capacity of 40–50kg",
+    "6-month warranty on motherboard and motors",
+    "Lifetime spare-parts support claimed, with additional charges",
+    "Made in India according to the listing",
+    "200+ bought in the past month according to the listing"
+  ],
+  "productDetails": {
+    "model": null,
+    "brand": "WishMaster",
+    "productType": "Electric ride-on jeep",
+    "design": "4x4 off-road SUV",
+    "batteryVoltage": "12V according to the detailed description",
+    "batteryType": "Rechargeable",
+    "motorConfiguration": "Dual motor",
+    "controlModes": [
+      "Manual steering and pedal control",
+      "Parental remote control"
+    ],
+    "lighting": "Lights included",
+    "audioFeatures": "Music",
+    "safetyFeatures": [
+      "Safety belt",
+      "Shock-absorbing wheels"
+    ],
+    "seatingCapacity": "Designed for up to 2 children",
+    "maximumLoadCapacity": "Approximately 40–50kg as claimed in the listing",
+    "colour": "Red",
+    "countryOfOrigin": "India",
+    "warranty": "6 months on motherboard and motors",
+    "sparePartsSupport": "Lifetime support claimed; additional charges apply",
+    "dimensions": null,
+    "recommendedAge": null,
+    "chargingTime": null,
+    "playtime": null
+  },
+  "recommendedUses": [
+    "Children's pretend driving",
+    "Outdoor play on suitable surfaces",
+    "Family-supervised recreational rides",
+    "Birthday gifts",
+    "Festival gifts",
+    "Parent-guided driving practice"
+  ],
+  "usageInstructions": [
+    "Charge the battery according to the manufacturer's instructions before use.",
+    "Read the instruction manual before operating the vehicle.",
+    "Use the parental remote control when adult supervision or assistance is needed.",
+    "Fasten the safety belt before every ride.",
+    "Operate only on suitable, stable surfaces and avoid traffic, steep slopes, and unsafe terrain.",
+    "Follow the manufacturer's stated age, weight, charging, and operating limits."
+  ],
+  "availableVariants": [
+    {
+      "name": "Red",
+      "price": 6399,
+      "mrp": 19999,
+      "discountRate": 68
+    },
+    {
+      "name": "Black",
+      "price": 6399,
+      "mrp": 19999,
+      "discountRate": 68
+    },
+    {
+      "name": "Grey",
+      "price": 6698,
+      "mrp": 19999,
+      "discountRate": 67
+    },
+    {
+      "name": "Green",
+      "price": 6399,
+      "mrp": 19999,
+      "discountRate": 68
+    },
+    {
+      "name": "Lavender Purple",
+      "price": 6698,
+      "mrp": 19999,
+      "discountRate": 67
+    },
+    {
+      "name": "Mint Green",
+      "price": 6698,
+      "mrp": 19999,
+      "discountRate": 67
+    },
+    {
+      "name": "Pink",
+      "price": 6698,
+      "mrp": 19999,
+      "discountRate": 67
+    },
+    {
+      "name": "Royal Blue",
+      "price": 6399,
+      "mrp": 19999,
+      "discountRate": 68
+    },
+    {
+      "name": "Sky Blue",
+      "price": 6698,
+      "mrp": 19999,
+      "discountRate": 67
+    },
+    {
+      "name": "White",
+      "price": 6399,
+      "mrp": 19999,
+      "discountRate": 68
+    },
+    {
+      "name": "Yellow",
+      "price": 6399,
+      "mrp": 19999,
+      "discountRate": 68
+    }
+  ],
+  "offers": {
+    "hdfcCreditCardDiscount": 639.9,
+    "hdfcCreditCardOfferPrice": 5759.1,
+    "hdfcCreditCardEmi": "₹1,008 x 6 months",
+    "amazonPayICICIBankCreditCardCashback": 191,
+    "upiRewards": 63.9,
+    "businessPricing": "Save up to 15% with eligible Amazon Business pricing and GST input tax credit"
+  },
+  "deliveryInfo": {
+    "delivery": "Free delivery",
+    "fulfilledBy": "Amazon Delivered",
+    "paymentOptions": [
+      "Pay on Delivery",
+      "Eligible credit card EMI"
+    ],
+    "replacementPolicy": "10-day replacement",
+    "warranty": "6 months on motherboard and motors"
+  },
+  "safetyInformation": {
+    "supervision": "Adult supervision is recommended throughout use.",
+    "seatBelt": "Fasten the safety belt before each ride.",
+    "weightLimit": "Follow the manufacturer's confirmed maximum load and seating instructions.",
+    "charging": "Use the specified charger and follow the manufacturer's battery safety instructions.",
+    "operatingArea": "Avoid public roads, traffic, steep slopes, and unsafe surfaces.",
+    "ageSuitability": "The recommended age range is not provided in the supplied listing; confirm it with the seller before purchase.",
+    "specificationNote": "The title mentions a 2V battery, while the detailed description specifies a 12V battery. Confirm the actual battery voltage with the seller before ordering."
+  },
+  "tags": [
+    "WishMaster",
+    "electric ride-on jeep",
+    "4x4 kids jeep",
+    "battery operated car",
+    "remote control ride-on car",
+    "parental remote control",
+    "12V ride-on car",
+    "dual motor jeep",
+    "kids SUV toy",
+    "music and lights",
+    "safety belt",
+    "two-seater ride-on",
+    "Made in India",
+    "birthday gift for kids"
+  ]
 }
 
 
