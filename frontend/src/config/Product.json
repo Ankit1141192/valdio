@@ -50561,6 +50561,86 @@
     "Black Tablet Case",
     "Tablet Accessories"
   ]
+},
+
+{
+  "id": "natureland-organics-brown-sugar-1kg",
+  "name": "Natureland Organics Brown Sugar 1 Kg",
+  "brand": "Natureland Organics",
+  "category": "Grocery",
+  "subCategory": "Sugar and Sweeteners",
+  "price": 122,
+  "discountPrice": 122,
+  "discountRate": 30,
+  "mrp": 175,
+  "rating": 4.2,
+  "reviews": 1424,
+  "shortLink": "https://link.amazon/B01vdEE4O",
+  "fullLink": "https://www.amazon.in/gp/product/B07B9WRDF7?smid=ARENK22K2PQRH&th=1&linkCode=ll2&tag=valdio-21&linkId=8155e8e73f9d4c3462eee540232a1b19&ref_=as_li_ss_tl",
+  "image": "https://m.media-amazon.com/images/I/71TYOuTpr-L._SL1500_.jpg",
+  "description": "Natureland Organics Brown Sugar is a 1 kg pack of brown sugar. The product is listed as organic sugar and is suitable for everyday sweetening and cooking uses.",
+  "features": [
+    "Organic brown sugar",
+    "1 kg pack",
+    "Listed under Natureland Organics",
+    "Amazon's Choice",
+    "Top Brand",
+    "1K+ bought in the past month"
+  ],
+  "productDetails": {
+    "productName": "Brown Sugar",
+    "brand": "Natureland Organics",
+    "netQuantity": "1 kg",
+    "packSize": "Pack of 1",
+    "pricePerKg": 122,
+    "expiryOrUseBy": "18 April 2027",
+    "organicClaim": true
+  },
+  "recommendedUses": [
+    "Sweetening tea and coffee",
+    "Baking cakes and cookies",
+    "Preparing desserts",
+    "Everyday cooking and sweetening"
+  ],
+  "usageInstructions": [
+    "Use as required for sweetening food and beverages.",
+    "Store in an airtight container in a cool, dry place."
+  ],
+  "availableVariants": [
+    {
+      "size": "1 kg",
+      "pack": "Pack of 1",
+      "price": 122,
+      "mrp": 175
+    }
+  ],
+  "offers": {
+    "amazonPayUpiCashback": "₹25 cashback offer available",
+    "otherOffers": "Buy for ₹122 plus cashback; see Amazon for offer conditions."
+  },
+  "deliveryInfo": {
+    "delivery": "Free delivery",
+    "fulfilment": "Fulfilled by Amazon",
+    "amazonDelivered": true,
+    "payOnDelivery": true,
+    "returnPolicy": "Non-returnable"
+  },
+  "safetyInformation": {
+    "storage": "Store in a cool, dry place in an airtight container.",
+    "expiryDate": "18 April 2027"
+  },
+  "tags": [
+    "Natureland Organics",
+    "Brown Sugar",
+    "Organic Sugar",
+    "Organic Brown Sugar",
+    "1 Kg Sugar",
+    "Natural Sweetener",
+    "Baking Ingredient",
+    "Cooking Ingredient",
+    "Grocery",
+    "Amazon's Choice"
+  ]
 }
 
 
