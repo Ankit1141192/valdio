@@ -50754,6 +50754,134 @@
     "Diwali Gift",
     "Gift Set"
   ]
+},
+
+{
+  "id": "streax-professional-vitariche-gloss-hair-serum-200ml",
+  "name": "Streax Professional Vitariche Gloss Hair Serum 200ml",
+  "brand": "Streax Professional",
+  "category": "Beauty and Personal Care",
+  "subCategory": "Hair Care and Styling",
+  "price": 365,
+  "discountPrice": 365,
+  "discountRate": 23,
+  "mrp": 475,
+  "rating": 4.2,
+  "reviews": 35632,
+  "shortLink": "https://link.amazon/B053vkcUk",
+  "fullLink": "https://www.amazon.in/dp/B01BHSZG48?social_share=cm_sw_r_cso_wa_apan_dp_LIGHTSABER1JFWAOGH13&th=1&linkCode=ll2&tag=valdio-21&linkId=3dffcd4e6e0dc40bf5b58af602895b34&ref_=as_li_ss_tl",
+  "image": "https://m.media-amazon.com/images/I/61fNZNNSPSL._SL1500_.jpg",
+  "description": "Streax Professional Vitariche Gloss Hair Serum is designed for dry and frizzy hair. Enriched with Vitamin E and Macadamia Oil, it helps improve shine, smoothness and manageability while reducing frizz. Its shine enhancers coat the hair strands to give them a glossy appearance. Suitable for curly, straight and wavy hair.",
+  "features": [
+    "Designed for dry and frizzy hair",
+    "Enriched with Vitamin E and Macadamia Oil",
+    "Helps enhance hair shine and smoothness",
+    "Helps control frizz",
+    "Improves hair manageability",
+    "Shine enhancers coat individual hair strands",
+    "Suitable for curly, straight and wavy hair",
+    "Salon-inspired hair finish",
+    "Made in India",
+    "Amazon's Choice",
+    "7K+ bought in the past month"
+  ],
+  "productDetails": {
+    "brand": "Streax Professional",
+    "productType": "Hair Serum",
+    "variant": "Vitariche Gloss",
+    "netQuantity": "200ml",
+    "packSize": "Pack of 1",
+    "hairType": [
+      "Curly",
+      "Straight",
+      "Wavy"
+    ],
+    "hairConcern": [
+      "Dry Hair",
+      "Frizzy Hair"
+    ],
+    "keyIngredients": [
+      "Vitamin E",
+      "Macadamia Oil"
+    ],
+    "gender": "Women",
+    "countryOfOrigin": "India",
+    "expiryOrUseBy": "1 June 2027"
+  },
+  "recommendedUses": [
+    "Managing dry and frizzy hair",
+    "Enhancing hair shine",
+    "Smoothing hair strands",
+    "Improving everyday hair manageability",
+    "Styling curly, straight and wavy hair"
+  ],
+  "usageInstructions": [
+    "Apply a small amount of serum to the hair.",
+    "Distribute evenly through the hair strands.",
+    "Focus on dry or frizzy lengths as needed.",
+    "Use as required for a smoother, shinier appearance."
+  ],
+  "availableVariants": [
+    {
+      "size": "75ml",
+      "pack": "Pack of 1",
+      "price": 233,
+      "mrp": 235,
+      "discountRate": 1
+    },
+    {
+      "size": "125ml",
+      "pack": "Pack of 1",
+      "price": 356,
+      "mrp": 360,
+      "discountRate": 1
+    },
+    {
+      "size": "200ml",
+      "pack": "Pack of 1",
+      "price": 365,
+      "mrp": 475,
+      "discountRate": 23
+    }
+  ],
+  "offers": {
+    "amazonPayUpiCashback": "₹25 cashback offer available",
+    "otherOffers": "Additional UPI payment offers may be available; check Amazon for conditions."
+  },
+  "deliveryInfo": {
+    "delivery": "Free delivery",
+    "fulfilment": "Fulfilled by Amazon",
+    "amazonDelivered": true,
+    "payOnDelivery": true,
+    "returnPolicy": "Non-returnable"
+  },
+  "safetyInformation": {
+    "expiryDate": "1 June 2027",
+    "precautions": [
+      "For external use only.",
+      "Avoid contact with eyes.",
+      "Discontinue use if irritation occurs.",
+      "Keep out of reach of children."
+    ]
+  },
+  "tags": [
+    "Streax Professional",
+    "Vitariche Gloss",
+    "Hair Serum",
+    "200ml Hair Serum",
+    "Hair Care",
+    "Dry Hair",
+    "Frizzy Hair",
+    "Anti Frizz Serum",
+    "Vitamin E",
+    "Macadamia Oil",
+    "Shiny Hair",
+    "Smooth Hair",
+    "Curly Hair",
+    "Straight Hair",
+    "Wavy Hair",
+    "Women's Hair Care"
+  ]
 }
 
 
